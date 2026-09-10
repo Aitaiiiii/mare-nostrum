@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: en-US
-  baseUrl: CHANGE_ME.github.io/mare-nostrum
+  baseUrl: aitaiiiii.github.io/mare-nostrum
   ignorePatterns:
     - private
     - templates
