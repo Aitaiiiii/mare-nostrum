@@ -1,0 +1,88 @@
+---
+title: "Standing Orders (Map)"
+type: Map
+tags: [map]
+---
+
+# 🃏 Standing Orders — Map
+
+## Contents
+
+_Populated after the Standing Order export is migrated. Each order links to its disease monograph._
+
+## Contents
+
+- [[Abdominal Surgery (Pre-op/Post-op Default)]]
+- [[Acute Appendicitis]]
+- [[Acute Asthmatic Attack (Pediatric)]]
+- [[Acute Cholecystitis]]
+- [[Acute Gouty Arthritis]]
+- [[Admit DR (Active Labor)]]
+- [[Admit PPROM]]
+- [[Admit Preterm Labor (Tocolysis)]]
+- [[AFI / Dengue]]
+- [[AKI]]
+- [[Anaphylaxis]]
+- [[ANC Note (Antenatal Care)]]
+- [[AOC]]
+- [[ARDS]]
+- [[ARDS (Acute Respiratory Distress Syndrome)]]
+- [[Arrhythmia Order Set]]
+- [[Cholangitis]]
+- [[COPD AE (Acute Exacerbation)]]
+- [[CRBSI]]
+- [[DKA (Diabetic Ketoacidosis)]]
+- [[Ectopic Pregnancy (Admit + Emergency OR)]]
+- [[Electrolyte Imbalances — Master Correction Order Set]]
+- [[Febrile Seizure]]
+- [[Fracture / Bone / Tendon Injury]]
+- [[GDMA / DM in Pregnancy]]
+- [[GI Perforation]]
+- [[Head Injury / Mild TBI]]
+- [[Heart Failure]]
+- [[Heat Stroke]]
+- [[Hematotoxin Snake Bite]]
+- [[Hematuria]]
+- [[Hemorrhagic Stroke]]
+- [[HHS (Hyperosmolar Hyperglycemic State)]]
+- [[Hypertensive emergency]]
+- [[Hypoglycemia]]
+- [[Infected CAPD]]
+- [[Inotropes & Vasopressors — Infusion Reference (conc / rate / titration)]]
+- [[Insulin IPD]]
+- [[LGIB]]
+- [[MVA / Fractional Curettage / LEEP]]
+- [[Pain control]]
+- [[Pancreatitis]]
+- [[Paracetamol Overdose]]
+- [[Peri-op Glycemic Control (Insulin Infusion) Protocol]]
+- [[Pneumonia]]
+- [[Post-Normal Labor (SVD)]]
+- [[Post-op Default (Surgery)]]
+- [[Post-op Hysteroscopic Resection]]
+- [[Post-op Laparoscopic Cystectomy]]
+- [[Post-op Lower-Transverse C/S]]
+- [[Post-op Myomectomy / Cystectomy (Laparotomy)]]
+- [[Pre-eclampsia]]
+- [[Pre-op / Post-op Orthopaedics]]
+- [[Pre-op GYN Surgery]]
+- [[Seizure]]
+- [[Sepsis]]
+- [[Set OR — Cesarean Section (Pre-op)]]
+- [[Skin & Soft Tissue Infection (SSTI)]]
+- [[SLE]]
+- [[STEMI NSTEMI]]
+- [[Stroke]]
+- [[Syncope]]
+- [[Thyroid storm]]
+- [[TOPIC]]
+- [[Tubal Resection (TR) — Set OR + Post-op]]
+- [[Tumor lysis]]
+- [[UGIB]]
+- [[Unknown Animal Bite]]
+- [[Untitled]]
+- [[UTI]]
+- [[Viral Croup]]
+
+<small>71 notes · live filterable table available in Obsidian (Dataview).</small>
+

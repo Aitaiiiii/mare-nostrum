@@ -1,0 +1,17 @@
+filters:
+  and:
+    - 'note.type == "EKG"'
+views:
+  - type: cards
+    name: Gallery
+    image: note.image
+    order:
+      - note.dx
+      - file.name
+  - type: table
+    name: All tracings
+    order:
+      - file.name
+      - note.dx
+      - note.ekg_tags
+      - note.reviewed

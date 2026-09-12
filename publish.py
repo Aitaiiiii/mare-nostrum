@@ -8,6 +8,22 @@ Then:  npx quartz build   (or the dev server auto-rebuilds)
 import os, re, glob, shutil, subprocess, sys
 from pathlib import Path
 
+def downscale_images():
+    """Downscale published image copies to web size (vault keeps full-res)."""
+    exts={".jpg",".jpeg",".png"}
+    n=0
+    for p in glob.glob(str(CONTENT/"attachments"/"*")):
+        rp=Path(p)
+        if rp.suffix.lower() not in exts: continue
+        try:
+            if rp.stat().st_size < 400_000: continue  # already small
+            subprocess.run(["sips","-Z","1800","-s","formatOptions","80",str(rp)],
+                           check=True, capture_output=True)
+            n+=1
+        except Exception:
+            pass
+    print(f"downscaled {n} images for the web")
+
 VAULT = Path(os.path.expanduser("~/Obsidian/Mare-Nostrum"))
 CONTENT = Path(os.path.expanduser("~/Obsidian/quartz-mare-nostrum/content"))
 
@@ -68,5 +84,6 @@ def de_dataview(notes):
 
 if __name__=="__main__":
     mirror()
+    downscale_images()
     de_dataview(index_notes())
-    print("published: content/ mirrored from vault; Map dataview blocks -> static link lists")
+    print("published: content/ mirrored from vault; images downscaled; Map dataview blocks -> static link lists")

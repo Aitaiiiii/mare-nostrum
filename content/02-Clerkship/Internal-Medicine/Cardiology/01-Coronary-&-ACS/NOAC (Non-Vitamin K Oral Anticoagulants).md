@@ -83,12 +83,12 @@ source: notion-migration
 ⚠️ **ตาราง CrCl-based granular** (จากแหล่งเดิม/EHRA-style practical guide — ทิศทางถูกต้องตรงกับหลักการข้างบน แต่ตัวเลขราย-ชั่วโมงในแต่ละช่อง CrCl ยังไม่ได้ verify ทีละช่องจาก primary literature โดยตรง ควรตรวจ 2021 EHRA Practical Guide ฉบับเต็มก่อนใช้ทางคลินิกจริง):
 
 | CrCl (mL/min) | Dabigatran (low bleed risk) | Dabigatran (high bleed risk) | Xa-inhibitor (low bleed risk) | Xa-inhibitor (high bleed risk) |
-| --- | --- | --- | --- | --- |
-| ≥80 | ≥24h | ≥48h | ≥24h | ≥48h |
-| 50-79 | ≥36h | ≥72h | ≥24h | ≥48h |
-| 30-49 | ≥48h | ≥96h | ≥24h | ≥48h |
-| 15-29 | ห้ามใช้ NOAC | ห้ามใช้ NOAC | ≥36h | ≥48h |
-| <15 | ไม่มีข้อบ่งชี้ | ไม่มีข้อบ่งชี้ | ไม่มีข้อบ่งชี้ | ไม่มีข้อบ่งชี้ |
+| ------------- | --------------------------- | ---------------------------- | ----------------------------- | ------------------------------ |
+| ≥80           | ≥24h                        | ≥48h                         | ≥24h                          | ≥48h                           |
+| 50-79         | ≥36h                        | ≥72h                         | ≥24h                          | ≥48h                           |
+| 30-49         | ≥48h                        | ≥96h                         | ≥24h                          | ≥48h                           |
+| 15-29         | ห้ามใช้ NOAC                | ห้ามใช้ NOAC                 | ≥36h                          | ≥48h                           |
+| <15           | ไม่มีข้อบ่งชี้              | ไม่มีข้อบ่งชี้               | ไม่มีข้อบ่งชี้                | ไม่มีข้อบ่งชี้                 |
 
 **เชื่อมโยง:** ดู [[Preoperative Cardiac Risk Assessment (Non-Cardiac Surgery)]] สำหรับ workflow เต็มของการประเมิน bleeding-risk ของหัตถการ และการจัดการ warfarin/mechanical-valve bridging (ซึ่ง**ไม่ใช่ประเด็นของ NOAC** เพราะ mechanical valve = ข้อห้ามของ NOAC โดยตรง — ดูข้อ 6)
 
