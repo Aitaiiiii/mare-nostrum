@@ -21,7 +21,10 @@ source: notion-migration
 - **Vital signs + oxygenation** — SpO₂, RR, BP; SpO₂ <92% หรือ RR >30 = severe/ICU criteria
 - **ยา allergy + ประวัติ ATB ล่าสุด** — MDR risk, Pseudomonas risk (structural lung disease, bronchiectasis, recent ATB)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - **IV fluid** ตาม hydration; ระวัง overload ถ้า bilateral
 - **Antipyretic:** Paracetamol 500–1000 mg q6h prn
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -70,3 +74,4 @@ source: notion-migration
 - **Procalcitonin-guided ATB** — stop เมื่อ PCT ลด ≥80% จาก peak หรือ <0.25 ng/mL
 - **Pneumococcal vaccine + Influenza vaccine** ก่อน discharge — ถ้ายังไม่ได้รับ
 - **Smoking cessation counseling**
+

@@ -18,7 +18,10 @@ source: notion-migration
 - **ส่งชิ้นเนื้อ patho ทุกราย**
 - **Post-laparoscopy** — ปวดไหล่จาก CO2, ileus; encourage ambulate เร็ว
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -37,7 +40,8 @@ source: notion-migration
 - **MO 3 mg IV prn q6h**
 - **Plasil 10 mg IV prn q8h**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -51,3 +55,4 @@ source: notion-migration
 - **ตื่นดี กินได้ → off IV + off Foley, promote ambulation**
 - **Augmentin (1g) 1×2 PO pc #14**
 - **Paracetamol (500) 1 tab PO prn q6h #20**
+

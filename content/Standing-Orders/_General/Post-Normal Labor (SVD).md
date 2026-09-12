@@ -16,7 +16,10 @@ source: notion-migration
 - **Placenta complete?** — inspect for missing cotyledon; retained placenta = manual removal
 - **Neonatal assessment:** APGAR 1 min + 5 min; skin-to-skin + early breastfeeding initiation
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -39,7 +42,8 @@ source: notion-migration
 - **Neonatal care:** Vitamin K 1 mg IM, eye drops (Tetracycline/Erythromycin), footprint + ID band
 - **Breastfeeding initiation** within 1h of birth — skin-to-skin
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -66,3 +70,4 @@ source: notion-migration
 - **Continue:** regular diet · record V/S · Paracetamol (500) 1 tab PO prn q4h #20 · Triferdine 1×1 PO pc #60 · CaCO3 1×1 PO pc #60 · (± domperidone (10) 1×3 PO pc + MOM 30 mL PO hs)
 - **Discharge:** ครบ 48 ชม. + น้ำนม 3 ดาว → F/U PP Clinic 6 wk + FP; HM ยาเดิม
 </aside>
+

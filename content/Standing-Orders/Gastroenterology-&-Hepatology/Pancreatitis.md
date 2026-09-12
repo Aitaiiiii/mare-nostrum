@@ -23,7 +23,10 @@ source: notion-migration
 - **Fluid status** — dehydration มักรุนแรง จาก third spacing + vomiting; BUN เป็น surrogate marker
 - **Feeding tolerance** — ประเมิน nausea/vomiting, bowel sounds, abdominal tenderness trend
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - **[ATB — ไม่ต้องให้ routine]** ให้เฉพาะ: infected necrosis ยืนยัน (FNA + culture) หรือ cholangitis — Meropenem 1 g IV q8h หรือ Pip-Tazo (pancreas penetration)
 - **[Hypertriglyceridemia]** Insulin + heparin infusion ลด TG; plasmapheresis ถ้า TG >5000
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -70,3 +74,4 @@ source: notion-migration
 - **[Infected necrosis]** Step-up approach: Percutaneous drainage → endoscopic/surgical necrosectomy — ATB ต่อตาม culture
 - **Alcohol abstinence counseling** ถ้า alcohol etiology
 - **Fibrate/Omega-3** ถ้า hypertriglyceridemia — ลด future recurrence
+

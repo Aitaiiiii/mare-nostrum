@@ -19,7 +19,10 @@ source: notion-migration
 - **GCS + pupil** — GCS ≤8 = intubation; herniation signs (Cushing's triad: HTN + bradycardia + irregular respiration)
 - **SAH clues:** worst headache of life (thunderclap), CT showing blood in basal cisterns, xanthochromia CSF — นึกถึง aneurysm → CTA/angiogram urgent
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -48,7 +51,8 @@ source: notion-migration
 - **Seizure prophylaxis:** Levetiracetam 1000 mg IV ถ้า cortical ICH / SAH (AHA 2022 — ไม่ routine recommend แต่ lobar อาจให้)
 - **Neurosurgery consult:** ถ้า cerebellar hematoma >3 cm, hydrocephalus, lobar ICH + herniation signs, young + large hematoma
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -68,3 +72,4 @@ source: notion-migration
 - **Statin หยุด** ถ้าใช้ (AHA 2022) — อาจเพิ่ม hematoma; re-start ถ้ามี strong indication ภายใน 6 สัปดาห์
 - **Swallowing assessment** ก่อนให้ oral — aspiration risk; NG tube ถ้า dysphagia
 - **Physiotherapy + OT** — early mobilization (day 2–3 ถ้า stable)
+

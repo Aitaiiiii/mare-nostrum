@@ -8,6 +8,19 @@ Then:  npx quartz build   (or the dev server auto-rebuilds)
 import os, re, glob, shutil, subprocess, sys
 from pathlib import Path
 
+def flatten_multicolumn():
+    """Multi-Column-Markdown syntax only runs in Obsidian; on the site show sections stacked."""
+    n=0
+    for p in glob.glob(str(CONTENT/"**"/"*.md"), recursive=True):
+        rp=Path(p); t=rp.read_text(encoding="utf-8")
+        if "start-multi-column" not in t: continue
+        t=re.sub(r"^--- start-multi-column:.*$","",t,flags=re.M)
+        t=re.sub(r"^--- end-multi-column\s*$","",t,flags=re.M)
+        t=re.sub(r"^--- column-break ---\s*$","",t,flags=re.M)
+        t=re.sub(r"```column-settings\s*.*?```","",t,flags=re.S)
+        rp.write_text(t,encoding="utf-8"); n+=1
+    print(f"flattened multi-column in {n} files for the web")
+
 def downscale_images():
     """Downscale published image copies to web size (vault keeps full-res)."""
     exts={".jpg",".jpeg",".png"}
@@ -84,6 +97,7 @@ def de_dataview(notes):
 
 if __name__=="__main__":
     mirror()
+    flatten_multicolumn()
     downscale_images()
     de_dataview(index_notes())
     print("published: content/ mirrored from vault; images downscaled; Map dataview blocks -> static link lists")

@@ -18,7 +18,10 @@ source: notion-migration
 - **SROM (spontaneous rupture of membranes):** ถ้า >18h = PROM infection risk; Ferning + pooling + pH >6.5 confirm
 - **Maternal vital signs:** BP q30-60 min; fever = chorioamnionitis concern
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -41,7 +44,8 @@ source: notion-migration
     - Syntocinon (oxytocin) 5 IU in 5%DW 500 mL; start 2 mU/min, เพิ่ม q30 min
 - **Epidural analgesia** — per patient request + anesthesia consult
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -68,3 +72,4 @@ source: notion-migration
 - **ยา supportive / กลับบ้าน:** Paracetamol (500) 1 tab PO prn q4–6h #20 · Triferdine 1×1 PO pc #60 · CaCO3 1×1 PO pc #60 · AirX (80) 1×3 PO ac #20 · Ibuprofen (400) 1×3 PO pc #20
 - **Induction of labor:** Cytotec (misoprostol 200 mcg) 1 tab ละลายน้ำ 200 mL → 50 mL PO q3h (ถ้า interval < 5 min hold) · on EFM · observe progression · NPO · Acetar 1,000 mL IV rate 120 mL/hr
 </aside>
+

@@ -29,7 +29,10 @@ source: notion-migration
     - **Cardiac (16%):** arrhythmia (VT, SSS, AV block, SVT) หรือ structural (AS, HOCM, PE)
 - **ยา** — antihypertensive, diuretic, nitrate, α-blocker, QT-prolonging → orthostatic/arrhythmia
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -54,7 +57,8 @@ source: notion-migration
 - **[Vasovagal]:** reassurance + avoid triggers; physical counterpressure maneuvers (leg crossing, arm tensing)
 - **[Orthostatic]:** head-of-bed elevation 10–30°, compression stockings, adequate hydration
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -74,3 +78,4 @@ source: notion-migration
 - **[Cardiac arrhythmia]:** ตาม type — Pacemaker ถ้า sick sinus/AV block; ICD ถ้า VT/VF; ablation ถ้า SVT/AF
 - **[Carotid sinus hypersensitivity]:** Dual-chamber pacemaker ถ้า cardioinhibitory type recurrent
 - **Driving restriction** counseling — ตาม local law ถ้า suspected cardiac syncope
+

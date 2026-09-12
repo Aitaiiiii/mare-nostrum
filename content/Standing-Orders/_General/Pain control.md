@@ -23,7 +23,10 @@ source: notion-migration
 - **Renal/hepatic function** — morphine/tramadol ต้อง dose reduce; NSAIDs ห้ามถ้า CrCl <30
 - **ประวัติ opioid use/dependence** — ระวัง tolerance, dependence; ใช้ PCA หรือ equianalgesic conversion ถ้าเปลี่ยน route
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -55,7 +58,8 @@ source: notion-migration
     - **Amitriptyline 10–25 mg nocte** — effective ใน neuropathic/chronic pain (ระวัง anticholinergic, QT)
     - **Duloxetine 30–60 mg OD** — SNRI, DPNP, fibromyalgia
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -75,3 +79,4 @@ source: notion-migration
 - **Step-down plan:** ลด opioid dose 10–20%/วัน เมื่อ pain improving; switch IV→PO เมื่อ tolerating
 - **Non-pharmacological:** heat/cold therapy, positioning, TENS, physiotherapy, psychological support (CBT สำหรับ chronic pain)
 - **Pain team/Palliative consult** ถ้า cancer pain, chronic pain, complex opioid management
+

@@ -18,7 +18,10 @@ source: notion-migration
 - **ตรวจ liver damage** — AST/ALT เพิ่มสูง >1000 = significant hepatotoxicity; Fulminant hepatic failure: PT >100 s, Cr >3.4, Grade III/IV encephalopathy → King's College criteria → liver transplant
 - **NAC timing สำคัญมาก** — ประสิทธิภาพสูงสุดถ้าให้ภายใน 8 ชม.; ยังมีประโยชน์แม้ >24 ชม. โดยเฉพาะ established liver failure
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -46,7 +49,8 @@ source: notion-migration
 - **Activated charcoal 50 g PO** ถ้ามาภายใน 1–2 ชม.หลัง ingestion + ไม่มี contraindication (ไม่ใช้ routine ถ้า >2 ชม.)
 - **Suicidal precaution** ถ้า intentional: 1:1 observation, remove sharp objects, psychiatry consult
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -64,3 +68,4 @@ source: notion-migration
 - **Liver transplant referral** ถ้า King's College Criteria ครบ — urgent
 - **[Psychiatric follow-up]** ก่อน discharge ทุกราย intentional — ประเมิน safety, outpatient psychiatry plan
 - **Avoid hepatotoxins:** alcohol, NSAIDs, further paracetamol, herbal supplements x ≥6 เดือน
+

@@ -22,7 +22,10 @@ source: notion-migration
 - **Indications for urgent dialysis (AEIOU)** — Acidosis (pH <7.1), Electrolyte (K⁺ >6.5), Intoxication, Overload (pulmonary edema unresponsive), Uremia (encephalopathy/pericarditis)
 - **ประวัติ baseline Cr** — สำคัญในการ stage AKI และ assess chronicity
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -53,7 +56,8 @@ source: notion-migration
 - **Dose adjustment** ยา renal-cleared ทุกตัว (ATB, anticoagulant)
 - **Strict I&O + daily weight**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -74,3 +78,4 @@ source: notion-migration
 - **Renal diet:** restrict K⁺, PO₄, Na ถ้า oliguric/advanced
 - **[Recovery] Avoid nephrotoxins + ensure adequate hydration** หลัง discharge
 - **CKD monitoring** — f/u Cr 3 เดือนหลัง AKI เพราะ 30–50% พัฒนาเป็น CKD
+

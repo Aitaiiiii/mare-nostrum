@@ -20,7 +20,10 @@ source: notion-migration
 - **ตรวจหา precipitating cause** — ลืมกิน, เพิ่มยาเอง, เปลี่ยน renal function
 - **Recurrent hypoglycemia** — สงสัย insulinoma (fasting hypoglycemia + high insulin + low C-peptide ถ้า exogenous)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -43,7 +46,8 @@ source: notion-migration
 - **[Sulfonylurea-induced]:** Admit ≥24 ชม. — ต้อง **10%DW continuous infusion** รักษา glucose 100–180 mg/dL เพราะ duration of action ยาว (glibenclamide 24–48 ชม.)
 - **Monitor DTX** ทุก 1–2 ชม. ใน 24 ชม.แรก ถ้า sulfonylurea
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -61,3 +65,4 @@ source: notion-migration
 - **Adjust DM regimen:** ลด insulin/sulfonylurea ถ้า recurrent hypo หรือ HbA1c ต่ำกว่าเป้า (esp. ผู้สูงอายุ — เป้า HbA1c <8% ตาม ADA 2024 older adults)
 - **Octreotide 50–100 mcg SC q8h** — ถ้า sulfonylurea-induced refractory hypo (ลด insulin secretion; ACE inhibitor ช่วย sensitize)
 - **F/U endocrinology** ถ้าสงสัย insulinoma — 72-hour fast test, imaging (CT/MRI pancreas)
+

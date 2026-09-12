@@ -22,7 +22,10 @@ source: notion-migration
 - **Steroid use** — steroid-induced hyperglycemia: peak ช่วงบ่ายหลังกิน prednisolone → NPH สอดรับ; dexamethasone ทำ hyperglycemia ยาวกว่า
 - **ความสามารถในการทานอาหาร** — NPO: basal ± correction เท่านั้น; ทานได้: basal+bolus+correction (BBR regimen)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -47,7 +50,8 @@ source: notion-migration
 - **[Steroid-induced hyperglycemia]:** NPH insulin เช้า (prednisolone peak ตรงกับ NPH ออกฤทธิ์บ่าย) หรือ Glargine เพิ่ม 10–20% ต่อ prednisolone 10 mg/day
 - **[T1DM on pump — CSII]:** ปรึกษา endo; อาจต่อ pump + monitoring DTX ชั่วคราว + subcutaneous fallback ถ้าปัญหา
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -65,3 +69,4 @@ source: notion-migration
 - **[Hypoglycemia protocol]:** DTX <70 → treat ด้วย 50%DW 25 mL IV หรือ glucose tablet ถ้าทานได้ → DTX ซ้ำ 15 นาที
 - **Diabetes education + self-monitoring ก่อน discharge** — injection technique, หน้าตา hypo, sick-day rules
 - **[ก่อน discharge]** กลับไป regimen เดิมหรือปรับตาม HbA1c/ค่า glucose ระหว่าง admit; f/u endo/DM clinic 1–2 เดือน
+

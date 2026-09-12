@@ -16,7 +16,10 @@ source: notion-migration
 - **Blood pressure:** วัดทุกครั้ง; ผิดปกติ = SBP >140 หรือ DBP >90 ใน 2 ครั้ง h/a 4 ชม.
 - **Fetal movement:** ลูกดิ้น ≥ 10 ครั้ง/2h (Cardiff kick count) — ถ้าไม่ถึง → NST
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -40,7 +43,8 @@ source: notion-migration
 - **Calcium 1000-1500 mg OD** (divided) — เริ่ม 20 wk; ลด pre-eclampsia risk (WHO)
 - **Aspirin 81-150 mg OD** ถ้า high risk pre-eclampsia: เริ่ม <16 wk → ต่อ 36 wk (USPSTF)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -57,3 +61,4 @@ source: notion-migration
 - **[GDM]:** dietary modification first; ถ้าควบคุมไม่ได้ → Insulin (metformin debatable in pregnancy)
 - **[GBS positive]:** Penicillin G 5 MU IV เมื่อ onset labor → 2.5 MU IV q4h จนคลอด
 - **Breastfeeding + แผนการคลอดสนทนา** ก่อน delivery (36+ wk)
+

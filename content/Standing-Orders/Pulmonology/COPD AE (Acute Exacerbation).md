@@ -21,7 +21,10 @@ source: notion-migration
 - **Differential:** cardiac asthma (HF), PE, pneumothorax, pneumonia — CXR + ECG ช่วย
 - **NIV indications (GOLD 2024):** pH <7.35, PaCO₂ >45, RR >25, moderate-severe dyspnea with accessory muscle; ห้ามถ้าไม่ tolerate mask/copious secretion/hemodynamically unstable
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -49,7 +52,8 @@ source: notion-migration
     - Severe/ICU/Pseudomonas risk: **Pip-Tazo 4.5 g IV q6h** หรือ Ciprofloxacin IV
 - **NIV (BiPAP):** IPAP 10–15 cmH₂O / EPAP 4–5 cmH₂O — ถ้า pH <7.35 + PaCO₂ >45
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -69,3 +73,4 @@ source: notion-migration
 - **Pulmonary rehabilitation referral**
 - **Smoking cessation** — เน้นทุกมื้อ (most effective intervention)
 - **Vaccination:** Influenza annual + Pneumococcal q5y — prevent future AECOPD
+

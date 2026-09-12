@@ -15,7 +15,10 @@ source: notion-migration
 - **Rh status** — anti-D ถ้า Rh-negative
 - **Bleeding + cramping หลังทำ; ส่งชิ้นเนื้อ patho**
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -33,7 +36,8 @@ source: notion-migration
     - *↳ MVA เจ็บ ต้องให้ยาระงับปวด/สงบประสาทก่อน และ monitor RR กับ O2 sat ระหว่างและหลังให้เพราะกด respiratory ได้*
 - **ตื่นดี กินได้ → off IV; observe bleeding per vagina**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -46,3 +50,4 @@ source: notion-migration
 - **Regular diet**
 - **Paracetamol (500) 1 tab PO prn q4–6h #20**
 - **Doxycycline (100) 1×2 PO pc #10** — post-procedure prophylaxis
+

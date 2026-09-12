@@ -18,7 +18,10 @@ source: notion-migration
 - **Bleeding per vagina** หลังทำหัตถการ
 - **แผนป้องกัน adhesion หรือ hormonal therapy** ถ้าเป็น septum หรือ adhesiolysis
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -33,7 +36,8 @@ source: notion-migration
 - **ตื่นดี กินได้ → off IV**
     - *↳ hysteroscopic resection เป็นหัตถการผ่านปากมดลูก ไม่มีแผลหน้าท้อง ผู้ป่วยฟื้นเร็วและถอด IV ได้ภายในวันเดียวถ้ากินได้ดี*
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -48,3 +52,4 @@ source: notion-migration
 - **Metronidazole (400) 1×3 PO pc #21**
 - **Cycloprogynova 1 tab PO OD × 1 แผง** — ถ้าประจำเดือนมาให้หยุดยา
     - *↳ estradiol valerate สลับกับ estradiol ผสม norgestrel ช่วย regenerate endometrium และลดการเกิด adhesion ซ้ำหลัง resect septum หรือ adhesiolysis จึงให้ต่อจนหมดแผง*
+

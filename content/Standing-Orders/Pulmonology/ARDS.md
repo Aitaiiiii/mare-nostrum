@@ -25,7 +25,10 @@ source: notion-migration
 - **Ventilator settings review** — current FiO₂, PEEP, tidal volume (ต้องเป็น lung-protective ≤6 mL/kg IBW)
 - **Underlying cause treatment** — ถ้าแก้ cause ได้ (ATB for sepsis, drainage for empyema) ARDS จะดีขึ้นตาม
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -52,7 +55,8 @@ source: notion-migration
 - **Conservative fluid strategy:** หลีก fluid overload — ไม่ให้ excess fluid เพราะเพิ่ม pulmonary edema; ใช้ vasopressor รักษา MAP ≥65 แทน fluid bolus ถ้า adequate volume
 - **Treat underlying cause** — ATB ตาม culture/suspected source
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -72,3 +76,4 @@ source: notion-migration
 - **Nutritional support:** Enteral nutrition ภายใน 24–48 ชม. ผ่าน OGT/NGT — goal 25–30 kcal/kg/day
 - **DVT prophylaxis** ทุกราย (LMWH ≥24 ชม.หลัง ไม่มี active bleeding)
 - **GI prophylaxis:** PPI ถ้า mechanically ventilated
+

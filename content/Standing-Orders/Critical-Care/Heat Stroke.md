@@ -20,7 +20,10 @@ source: notion-migration
 - **Cooling rate คือ target** — ต้องลด core temp เป็น <38.9°C ภายใน 30–60 นาที (ถ้าทำได้) — ยิ่งเร็วยิ่งดี
 - **Avoid:** antipyretics (Paracetamol/Aspirin — ไม่ได้ผลใน heat stroke), shivering (เพิ่ม heat production) — benzodiazepine if shivering
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -50,7 +53,8 @@ source: notion-migration
 - **Benzodiazepine** (Diazepam 5–10 mg IV) ถ้ามี shivering/seizure
 - **Avoid antipyretics** — ไม่ช่วย
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -68,3 +72,4 @@ source: notion-migration
 - **[DIC]:** FFP + platelet concentrate (goal PLT >50,000 + bleeding; >20,000 ถ้าไม่มี bleeding)
 - **Maintain normoglycemia** — target 140–180 mg/dL
 - **ICU monitoring** 24–48 ชม.หลัง cooling; ยังเสี่ยง rebound hyperthermia ใน 24–48 ชม.
+

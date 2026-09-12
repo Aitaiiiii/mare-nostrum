@@ -20,7 +20,10 @@ source: notion-migration
 - **VTE risk:** C/S has higher VTE risk than SVD → LMWH หลังออก 6h
 - **Breastfeeding + skin-to-skin** — encourage หลัง recovery room ถ้า mother stable
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -40,7 +43,8 @@ source: notion-migration
 - **Plasil 10 mg IV prn q8h**
 - **จิบน้ำเย็น → soft diet เช้าวันถัดไป; IV หมด off พร้อม off Foley**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -68,3 +72,4 @@ source: notion-migration
 - **พ.สาโรช / อ.ฐิติชญา:** Dicloxacillin (250) PO + tramol; บางรายเพิ่ม Motilium/domperidone 1×3
 - **PE / Overt DM:** post-op ใช้หน้า Pre-eclampsia (MgSO4 + DM protocol)
 </aside>
+

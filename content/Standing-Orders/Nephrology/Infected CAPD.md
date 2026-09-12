@@ -18,7 +18,10 @@ source: notion-migration
 - **Remaining renal function** — กระทบ ATB dosing (IP dosing)
 - **ยา allergy** — กำหนด ATB choice สำหรับ IP therapy
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -41,7 +44,8 @@ source: notion-migration
 - **Heparin 500 units/L** ใน CAPD bag ถ้า fibrin clot/cloudy มาก — ป้องกัน catheter obstruction
 - **ยาแก้ปวด** Paracetamol 500–1000 mg q6h prn; Morphine ถ้า severe
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -61,3 +65,4 @@ source: notion-migration
 - **ระยะเวลา IP ATB:** Gram-positive = 14 วัน; Gram-negative = 21 วัน; S. aureus = 21 วัน; Pseudomonas/fungal = ≥21 วัน
 - **Catheter removal indications:** fungal, Pseudomonas (refractory), recurrent same-organism peritonitis, refractory peritonitis (ไม่ดีขึ้นใน 5 วัน), exit-site + tunnel infection ร่วม, fecal peritonitis
 - **Temporary HD** ถ้า catheter removed จนกว่าจะพร้อม re-insertion (6 สัปดาห์)
+

@@ -18,7 +18,10 @@ source: notion-migration
 - **ส่งชิ้นเนื้อ patho**
 - **POD progression** — ambulation, bowel function, แผล
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -36,7 +39,8 @@ source: notion-migration
 - **MO 3 mg IV prn q6h**
 - **Plasil 10 mg IV prn q8h**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -54,3 +58,4 @@ source: notion-migration
 - **Ibuprofen (400) 1×3 PO pc #20**
 - **Simethicone 1×3 PO pc #20**
 - **Amlodipine (5) 1×2 PO pc** (ยาเดิม)
+

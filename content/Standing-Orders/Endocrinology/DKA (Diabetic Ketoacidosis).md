@@ -25,7 +25,10 @@ source: notion-migration
 - **ผู้สูงอายุ heart failure และ ESRD** — ให้สารน้ำทีละ 250 mL แล้วประเมินซ้ำ
 - ⚠️ ระวัง **euglycemic DKA** (SGLT2i / ตั้งครรภ์ / อดอาหาร / liver failure) — glucose ต่ำกว่า 200 mg/dL ก็เป็น DKA เต็มรูปได้
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -70,7 +73,8 @@ source: notion-migration
 - **Enoxaparin 40 mg SC OD** เมื่อไม่มีข้อห้าม ปรับขนาดตาม CrCl
     - *↳ DKA เป็น prothrombotic state จาก dehydration ร่วมกับ inflammation จึงควรประเมิน VTE risk ทุกราย ตามโปรโตคอลของโรงพยาบาล*
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -101,3 +105,4 @@ source: notion-migration
 - **Sick day education ก่อน discharge** — ตรวจน้ำตาลและ ketone q 2–4 ชม. เมื่อป่วย · ห้ามหยุด basal insulin · จิบน้ำตาล 15 กรัมทุกชั่วโมงเมื่อกินไม่ได้ · red flag ที่ต้องกลับมาโรงพยาบาล
     - *↳ ผู้ป่วยมักเข้าใจว่ากินข้าวไม่ได้ก็หยุดฉีด insulin ได้ ขณะที่ช่วงป่วย counter-regulatory hormone จะสูงขึ้นจนความต้องการ insulin เพิ่มขึ้นทั้งที่กินได้น้อยลง*
 - **ทบทวน SGLT2 inhibitor ก่อนเริ่มซ้ำ** · นัด follow-up กับอายุรแพทย์ และหา root cause ที่ทำให้กลับมาซ้ำ
+

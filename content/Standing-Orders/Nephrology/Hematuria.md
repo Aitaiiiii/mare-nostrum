@@ -22,7 +22,10 @@ source: notion-migration
 - **ประวัติ sore throat 1–3 สัปดาห์ก่อน** (post-streptococcal GN) หรือ URTI (IgA nephropathy — concurrent)
 - **ตรวจร่างกาย:** BP (HTN = GN), abdominal mass (renal/bladder ca), costovertebral angle tenderness (pyelonephritis/stone)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -49,7 +52,8 @@ source: notion-migration
 - **Analgesia** ถ้า painful (stone): Ketorolac 30 mg IV, Tramadol 50 mg IV
 - **ห้าม stop anticoagulant** ทันทีถ้าจำเป็น — anticoagulant มักเป็น unmask factor ไม่ใช่ cause
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -68,3 +72,4 @@ source: notion-migration
 - **[Post-streptococcal GN]:** Penicillin eradication; steroid ไม่ need ส่วนใหญ่ self-limited
 - **[Malignancy-related]:** ส่ง urology สำหรับ definitive management (TUR-BT, nephrectomy ตาม stage)
 - **Lifestyle:** stop smoking (ลด bladder cancer risk), hydration, avoid nephrotoxins
+

@@ -24,7 +24,10 @@ source: notion-migration
 - **Vital signs + hemodynamic status** — hypotension + tachycardia = cardiogenic shock; bradycardia + hypotension = inferior STEMI RV involvement
 - **Renal function** — เพื่อ contrast dosing และ anticoagulant dosing
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - **Monitor:** continuous ECG, BP ทุก 15–30 นาที; เตรียม defibrillator
 - **[STEMI]** ส่ง cath lab โดยเร็ว → door-to-balloon ≤90 นาที (ESC/AHA 2022)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -73,3 +77,4 @@ source: notion-migration
 - **Anticoagulation** ต่อถ้า AF, LV thrombus, หรือตาม cardiologist
 - **Proton pump inhibitor** — ถ้า high GI bleeding risk + DAPT
 - **Cardiac rehab referral + lifestyle counseling**
+

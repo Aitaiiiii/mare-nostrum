@@ -16,7 +16,10 @@ source: notion-migration
 - **Expected blood loss:** hysterectomy 200-500 mL; myomectomy (fibroid size-dependent); crossmatch ถ้า Hb <10 + major surgery
 - **VTE risk:** GYN surgery (especially pelvic) has moderate-high VTE risk — LMWH mandatory
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -42,7 +45,8 @@ source: notion-migration
 - **TED stocking + pneumatic compression** pre-op
 - **Hold OCP/HRT ≈4 weeks pre-op** — VTE risk
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -75,3 +79,4 @@ source: notion-migration
 - **เตรียมเลือด G/M PRC 4 U, FFP 4 U, SDP 1 U**
 - **Electrolyte 20.00 น. วันก่อนผ่า + 05.00 น. เช้าวันผ่า (ขอผลด่วน):** K < 3.5 → 5%DN/2 1,000 mL + KCl 40 mEq rate 100 mL/hr · Na < 135 → เปลี่ยนเป็น 0.9% NSS 1,000 mL rate เดิม (ถ้า K ต่ำร่วม add KCl 40 mEq/L) · lab ผิดปกติ notify แพทย์เวร
 </aside>
+

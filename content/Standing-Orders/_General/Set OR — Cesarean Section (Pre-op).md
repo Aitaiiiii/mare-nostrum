@@ -15,7 +15,10 @@ source: notion-migration
 - **NPO time + aspiration prophylaxis**
 - **เตรียมเลือด** ตามความเสี่ยง PPH (placenta previa, prolonged labor)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -36,7 +39,8 @@ source: notion-migration
 - **Duratocin (carbetocin) 1 amp** นำไป OR — uterotonic กัน PPH
 - **Unison enema 1 ขวด** (กรณี emergency)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -47,3 +51,4 @@ source: notion-migration
 ### Medication
 
 - **หลังผ่าตัด → ใช้** [Post-op Lower-Transverse C/S](Post-op%20Lower-Transverse%20C%20S%20389224abad8181f188abe548f272888e.md)
+

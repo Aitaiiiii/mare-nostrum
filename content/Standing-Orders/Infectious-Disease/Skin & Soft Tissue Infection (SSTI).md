@@ -22,7 +22,10 @@ source: notion-migration
 - **Risk factors for MRSA:** previous MRSA, recent hospitalization, contact sports, incarceration, IV drug use
 - **Diabetes** — poor wound healing + risk polymicrobial + Gram-negative; foot ulcer = special consideration
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -48,7 +51,8 @@ source: notion-migration
 - **[Purulent abscess]:** ผ่า-ระบาย (Incision & Drainage) — adequate drainage = definitive สำหรับ uncomplicated abscess (ATB may not be needed if <2 cm, immunocompetent)
 - **[Necrotizing Fasciitis]:** ผ่าตัด debridement อย่างเร็ว (surgical emergency!) + **Piperacillin-Tazobactam 4.5 g IV q6h** + **Clindamycin 900 mg IV q8h** (anti-toxin effect on Strep) + **Vancomycin** ถ้า MRSA risk
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -64,3 +68,4 @@ source: notion-migration
 - **IV→PO switch ถ้า improving:** Cloxacillin → Cefalexin; Vancomycin → TMP-SMX หรือ Doxycycline (MRSA CA)
 - **ระยะเวลา ATB:** non-purulent cellulitis 5 วัน; moderate cellulitis 5–7 วัน; ถ้า NF = หลัง adequate debridement + clinical improvement 10–14 วัน
 - **[DM wound care]:** daily dressing, debridement, ควบคุม glucose, wound care specialist referral
+

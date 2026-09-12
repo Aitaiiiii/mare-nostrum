@@ -18,7 +18,10 @@ source: notion-migration
 - **Organisms ที่น่าสงสัย** — CoNS (most common PICC), MRSA (skin), Gram-negative (femoral line, GI manipulation), Candida (TPN, broad ATB, abdominal surgery)
 - **CLABSI prevention** — bundle compliance ก่อนหน้า (hand hygiene, maximal barrier, chlorhexidine prep, optimal site, daily review)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -40,7 +43,8 @@ source: notion-migration
     - **+ Echinocandin (Micafungin 100 mg IV OD)** ถ้า Candida risk (TPN, prolonged ATB, abdominal surgery, hemodynamic instability)
 - **IV fluid resuscitation** 30 mL/kg ถ้า septic shock
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -63,3 +67,4 @@ source: notion-migration
     - Gram-negative = 7–14 วัน
     - Candida = **14 วันหลัง last positive culture** + funduscopy คัด endophthalmitis
 - **ATB lock therapy** (ถ้า salvage line): Vancomycin 5 mg/mL lock ใน lumen 12–24 ชม./วัน
+

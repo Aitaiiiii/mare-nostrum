@@ -15,7 +15,10 @@ source: notion-migration
 - **ข้อห้าม tocolysis** — chorioamnionitis, severe pre-eclampsia/eclampsia, fetal demise, abruption
 - **GBS / cervical swab; steroid สำหรับ lung maturity**
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -34,7 +37,8 @@ source: notion-migration
     - *↳ β-agonist เป็นทางเลือกเมื่อ nifedipine ไม่ได้ผล เสี่ยง tachycardia และ pulmonary edema จึงต้องเฝ้า HR แม่และ fluid balance*
 - **Dexamethasone 6 mg IM q12h ×4 doses** — fetal lung maturity
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -46,3 +50,4 @@ source: notion-migration
 ### Medication
 
 - **Continue tocolysis ตาม response; UC สงบ → wean ยา**
+

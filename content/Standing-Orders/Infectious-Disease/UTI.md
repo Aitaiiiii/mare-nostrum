@@ -21,7 +21,10 @@ source: notion-migration
 - **Pregnancy** — ห้าม: TMP-SMX trimester 1/3, fluoroquinolone, nitrofurantoin trimester 3
 - **Renal function** — dose adjustment: nitrofurantoin ห้ามถ้า CrCl <30; fosfomycin ปรับ dose
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - **IV fluid resuscitation** ถ้า urosepsis: 30 mL/kg ตาม SSC; Foley catheter monitor UO
 - **Antipyretic:** Paracetamol 500–1000 mg q6h prn
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -70,3 +74,4 @@ source: notion-migration
 - **[Recurrent UTI ≥3 ครั้ง/ปี]:** long-term prophylaxis: Nitrofurantoin 50–100 mg hs หรือ TMP-SMX 40/200 mg hs; post-coital prophylaxis ถ้า related
 - **[Catheter-associated UTI]:** ถอด/เปลี่ยน catheter ก่อน ATB ถ้าเป็นไปได้; ATB 7 วัน
 - **Lifestyle:** hydration เพียงพอ, void หลัง intercourse, personal hygiene
+

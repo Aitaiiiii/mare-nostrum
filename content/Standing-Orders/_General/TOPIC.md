@@ -11,19 +11,10 @@ source: notion-migration
 
 # What needs to be reviewed?
 
-## Order for One Day
 
-### Investigation
 
-- 
 
----
-
-### Medication
-
-- 
-
-## Order for Continue
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -34,3 +25,17 @@ source: notion-migration
 ### Medication
 
 -
+
+
+## 🔁 Continuous Orders
+
+### Investigation
+
+- 
+
+---
+
+### Medication
+
+-
+

@@ -16,7 +16,10 @@ source: notion-migration
 - **ประจำเดือนครั้งสุดท้ายและ last oral intake** ก่อนตั้ง OR
 - **Medical (MTX) vs surgical** — MTX ใช้เฉพาะรายที่ unruptured, stable, β-hCG ไม่สูง และไม่มี fetal cardiac activity หน้านี้เป็น surgical/admit pathway
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -38,7 +41,8 @@ source: notion-migration
 - **Cefazolin 2 g IV** นำไป OR — surgical prophylaxis
 - **Observe abdominal signs + vital signs อย่างใกล้ชิด**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -54,3 +58,4 @@ source: notion-migration
 - **Record vital signs, I/O**
 - **Anti-D immunoglobulin** ถ้ามารดา Rh-negative
     - *↳ ป้องกัน Rh isoimmunization ในครรภ์ถัดไป ให้ภายใน 72 ชม.หลังเหตุการณ์ที่มี fetomaternal hemorrhage*
+

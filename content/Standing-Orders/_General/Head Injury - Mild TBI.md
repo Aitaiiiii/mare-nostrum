@@ -18,7 +18,10 @@ source: notion-migration
 - **Cervical spine injury** — ไม่เขย็น C-spine จนกว่าจะ cleared ใน significant MOI
 - **Anticoagulation status** — warfarin, DOAC → reverse + CT regardless
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -41,7 +44,8 @@ source: notion-migration
 - **Neurosurgery consult:** epidural/subdural hematoma, depressed skull fracture, GCS drop
 - **[Seizure]:** Levetiracetam 500-1000 mg IV/PO BID x 7 วัน (post-traumatic seizure prophylaxis — severe TBI; ไม่ routine ใน mild)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -58,3 +62,4 @@ source: notion-migration
     - Intubate GCS ≤8
 - **Discharge criteria (mild TBI, CT normal):** GCS 15 after 4-6h, ไม่มี focal deficit, ไม่มี seizure, reliable caregiver, head injury discharge card
 - **Post-concussion advice:** rest 24-48h, หลีกเลี่ยง aspirin/NSAIDs, return precautions
+

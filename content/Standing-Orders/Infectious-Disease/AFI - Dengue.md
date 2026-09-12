@@ -19,7 +19,10 @@ source: notion-migration
 - **Dehydration status** — urine output, skin turgor, vital signs; Hct และ vital signs เป็น guide IV fluid
 - **Caution:** avoid NSAIDs/aspirin (platelet inhibition + GI bleeding); avoid IM injection (bleeding risk)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -42,7 +45,8 @@ source: notion-migration
 - **เพิ่ม IV rate ถ้า Hct สูงขึ้น; ลด rate ถ้า Hct ลดลง** (ระวัง reabsorption)
 - **Platelet transfusion: ห้าม prophylactic** ยกเว้น platelet <10,000 + stable; ให้ ถ้ามี active significant bleeding + platelet <20,000
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -61,3 +65,4 @@ source: notion-migration
 - **[Recovery phase — day 6+]:** หยุด IV fluid เมื่อ UO ดี + oral tolerable + Hct ลดลงสู่ปกติ; ระวัง bradycardia, pulmonary edema
 - **Discharge criteria:** ไม่มี fever ≈2 วัน, appetite ดี, ไม่มี warning signs, Platelet trending up (>50,000 + สถาเสนย์คงที่), Hct stable
 - **F/U CBC ภายนอก** ⁈2–3 วันหลัง discharge
+

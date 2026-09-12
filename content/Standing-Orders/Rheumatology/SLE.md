@@ -23,7 +23,10 @@ source: notion-migration
 - **ACR/EULAR 2019 Classification Criteria** — score ≥10 + ANA positive = SLE (sensitivity 96%, specificity 93%)
 - **Comorbidities** — antiphospholipid syndrome (aPL: APLA, anti-β2GPI, lupus anticoagulant), atherosclerosis risk, osteoporosis (chronic steroid)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - **[NPSLE]:** pulse steroid + Cyclophosphamide ถ้า myelopathy/psychosis/severe NP
 - **Infection prophylaxis:** TMP-SMX DS 1 tab 3x/week ถ้า Cyclophosphamide/high dose steroid (PCP prophylaxis)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -72,3 +76,4 @@ source: notion-migration
 - **[APS] Anticoagulation:** Warfarin (INR 2–3) ถ้ามี thrombosis; Aspirin 81 mg ถ้า aPL positive ไม่มี thrombosis
 - **Bone protection:** Calcium 1000–1500 mg/day + Vitamin D 800 IU/day; Bisphosphonate ถ้า osteoporosis
 - **Cardiovascular risk management:** statin, BP control, smoking cessation
+

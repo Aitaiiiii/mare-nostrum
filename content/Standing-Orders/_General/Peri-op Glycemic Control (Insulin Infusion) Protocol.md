@@ -14,7 +14,10 @@ source: notion-migration
 - **จัดผ่าตัดเป็นรายแรกของเช้า** เพื่อลดเวลา NPO
 - **เป้า DTX ระหว่างผ่าตัด 100–200 mg%**
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -29,7 +32,8 @@ source: notion-migration
 - **5%D/N/2 (หรือ 5%D/W) 1,000 mL IV rate 100 mL/hr** เริ่ม 06.00 น.
 - **Regular insulin (Actrapid) 10 U + 0.9% NaCl 100 mL IV drip** เริ่ม 5 mL/hr ปรับตาม DTX
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -53,3 +57,4 @@ source: notion-migration
 - **181–220:** 20 mL/hr *(IV bolus 5 U เมื่อเพิ่ม rate)*
 - **> 220:** 25 mL/hr *(IV bolus 5 U เมื่อเพิ่ม rate)*
 </aside>
+

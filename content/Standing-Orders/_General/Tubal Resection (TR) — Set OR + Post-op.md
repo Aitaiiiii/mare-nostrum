@@ -14,7 +14,10 @@ source: notion-migration
 - **Interval vs postpartum TR**
 - **NPO / void ก่อนผ่าตัด**
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -28,7 +31,8 @@ source: notion-migration
 - **Acetar 1,000 mL IV rate 120 mL/hr**
 - **Routine post-op care; ตื่นดี กินได้ → off IV**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -41,3 +45,4 @@ source: notion-migration
 - **Regular diet**
 - **Paracetamol (500) 1 tab PO prn q4–6h #20**
 - **HM ยาเดิม**
+

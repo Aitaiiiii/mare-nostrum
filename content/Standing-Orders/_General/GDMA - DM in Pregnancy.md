@@ -15,7 +15,10 @@ source: notion-migration
 - **Fetal surveillance + timing of delivery**
 - **Postpartum 75 g OGTT ที่ 6 สัปดาห์**
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -31,7 +34,8 @@ source: notion-migration
 - **Triferdine 1×1 PO pc #60**
 - **CaCO3 1×1 PO pc #60**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -52,3 +56,4 @@ source: notion-migration
 - **DTX hourly**
 - **0.9% NaCl 100 mL + RI 10 U IV** start rate 10 mL/hr, ปรับตาม DTX: < 80 off · 80–100 5 · 101–140 10 · 141–180 15 · 181–220 20 · > 220 25 mL/hr *(bolus 2 U ที่* , 5 U ที่ )*
 </aside>
+

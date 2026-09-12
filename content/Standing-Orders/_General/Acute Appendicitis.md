@@ -18,7 +18,10 @@ source: notion-migration
 - **Perforation signs:** fever >38.5, WBC >18,000, peritonitis, CT phlegmon/abscess/free air
 - **Complicated vs Uncomplicated:** uncomplicated = surgery within 24h; complicated = IV ATB ± interval appendectomy
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -43,7 +46,8 @@ source: notion-migration
     - **Cefazolin 2 g IV** (uncomplicated) — single dose
     - Complicated (perforation): Pip-Tazo 4.5 g IV q6h หรือ Meropenem ถ้า severe
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -61,3 +65,4 @@ source: notion-migration
     - Total ATB 5-7 วัน (ตาม IDSA)
 - **Pain control:** Paracetamol ± NSAIDs (ถ้า renal OK); Tramadol PRN
 - **Early mobilization** day 1
+

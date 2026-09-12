@@ -20,7 +20,10 @@ source: notion-migration
 - **BP management** — ก่อน tPA: ต้อง <185/110; ไม่ให้ tPA: ปล่อย permissive hypertension ≤220/120 ใน 24 ชม.แรก (auto-regulation)
 - **Hemorrhagic stroke vs ischemic** — CT ก่อนให้ยาทุกราย (ดำเนินการต่างกันโดยสิ้นเชิง)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -47,7 +50,8 @@ source: notion-migration
 - **Glucose control:** รักษา 140–180 mg/dL; ถ้า <60 → 50% glucose 25–50 mL IV stat
 - **Foley catheter** ถ้า incontinence/retention; HOB 0° (flat) ถ้าไม่มี ICP concern
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -69,3 +73,4 @@ source: notion-migration
 - **DVT prophylaxis:** early mobilization + LMWH เมื่อ hemorrhagic transformation excluded
 - **Stroke unit care + Early neurorehab** (PT, OT, speech therapy) — เริ่มภายใน 24–48 ชม.
 - **Swallowing assessment** ก่อน oral medications
+

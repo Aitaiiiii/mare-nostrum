@@ -18,7 +18,10 @@ source: notion-migration
 - **Antivenom timing:** ยิ่งเร็วยิ่งดี; ยังได้ผลถึง 24–48 ชม.หลังถูกกัด; ไม่มี wound necrosis antidote
 - **Do NOT:** ห้ามบีบสถานที่ถูกกัด, ห้ามตัดสลากหรือกรีดแผล, ห้าม tourniquet (ทำให้ necrosis แย่ลง)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -44,7 +47,8 @@ source: notion-migration
 - **Tetanus prophylaxis** ถ้าไม่ได้ booster ใน 5 ปี
 - **ATB:** Amoxicillin-clavulanate 625 mg q8h ถ้าเห็น local infection/cellulitis (snake เน้อในปากมี anaerobic)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -61,3 +65,4 @@ source: notion-migration
 - **[Compartment syndrome]:** fasciotomy ถ้า compartment pressure >30 mmHg — surgery consult
 - **[AKI]:** fluid resuscitation; HD ถ้า oliguric/anuric (Russell's viper นิยมเกิด tubular necrosis)
 - **Discharge criteria:** 20WBCT แข็ง >24 ชม., ไม่มี systemic bleeding, wound ไม่ผิดปกติ
+

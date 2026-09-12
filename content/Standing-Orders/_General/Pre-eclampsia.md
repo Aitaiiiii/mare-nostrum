@@ -16,7 +16,10 @@ source: notion-migration
 - **Eclampsia:** seizure ในผู้ป่วย pre-eclampsia — MgSO4 treatment + delivery
 - **Delivery timing:** without severe features: 37 wk; with severe features: 34 wk หรือทันทีถ้า uncontrolled/HELLP/eclampsia
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -42,7 +45,8 @@ source: notion-migration
     - Maintenance: **1-2 g/hr IV infusion** x 24h post-delivery
     - Monitor: UO >25 mL/hr, RR >12, DTRs present — ถ้ามี toxicity → Calcium gluconate 1 g IV
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -89,3 +93,4 @@ source: notion-migration
 - **Post NL PE:** Acetar 1,000 mL + Synto 40 U IV rate 60 mL/hr · 50%MgSO4 40 g + NSS 1,000 mL IV rate 37.5 mL/hr · Cytotec 4 tabs rectal · retain Foley · keep UOP > 30 · off DM protocol
 - **Post C/S PE / Overt DM:** Acetar 1,000 + Synto 40 U rate 60 · 50%MgSO4 40 g + 5%DW 1,000 mL rate 37.5–50 mL/hr (drip คู่ synto 24 ชม.) · Transamine 1 g IV stat → 500 mg IV q8h · Duratocin 1 amp IV intra-op · Ceftriaxone 2 g IV OD + Metronidazole 500 mg IV q8h ×3 วัน · on DM protocol (keep DTX 80–200) · keep BP < 160/110
 </aside>
+

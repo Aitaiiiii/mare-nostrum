@@ -35,7 +35,10 @@ source: notion-migration
 
 ---
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -161,7 +164,8 @@ source: notion-migration
 
 ---
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -204,3 +208,4 @@ source: notion-migration
 ---
 
 **หมายเหตุความปลอดภัย** — เซ็ตนี้เป็นกรอบอ้างอิงเพื่อการเรียนและการเตรียมข้างเตียง ต้องปรับตามโปรโตคอลของหน่วยและตามอาจารย์เจ้าของไข้เสมอ จุดที่ต้องให้ attending ตัดสินโดยตรงคือการเริ่ม NMBA, การเริ่ม steroid ในรายที่ยังไม่เคลียร์ TB และการส่งต่อ ECMO
+

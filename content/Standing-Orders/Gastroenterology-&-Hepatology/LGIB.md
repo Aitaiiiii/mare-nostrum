@@ -21,7 +21,10 @@ source: notion-migration
 - **ประวัติ abdominal surgery, aortic surgery** — aortoenteric fistula
 - **อายุ + ความเสี่ยง colonoscopy** — กำหนด timing และ approach
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -46,7 +49,8 @@ source: notion-migration
 - **NPO** จนหลัง procedure; Foley catheter monitor UO
 - **PPI** ไม่ได้ประโยชน์ใน LGIB แต่ให้ถ้ายังไม่แยก UGIB ออก
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -65,3 +69,4 @@ source: notion-migration
 - **IBD:** ปรึกษา GI → Mesalazine/Steroid/Biologic ตาม disease activity
 - **Hemorrhoid:** conservative (sitz bath, fiber, stool softener) + rubber band ligation/sclerotherapy ถ้าไม่ตอบสนอง
 - **Hold NSAIDs** ระยะยาว ถ้าเป็น risk factor; เปลี่ยน PPI ถ้าต้องใช้ antiplatelet
+

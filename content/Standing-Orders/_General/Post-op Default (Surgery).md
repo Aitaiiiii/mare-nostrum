@@ -19,7 +19,10 @@ source: notion-migration
 - **Bowel function** — first flatus (day 2-3 open; day 1-2 lap), first stool; ileus vs obstruction
 - **Pain control adequacy** — VAS score; under-controlled pain → ไม่ยอม deep breath + cough → atelectasis
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -42,7 +45,8 @@ source: notion-migration
 - **Omeprazole 40 mg IV/PO OD** — stress ulcer prophylaxis
 - **Wound care:** dry, clean dressing day 1
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -60,3 +64,4 @@ source: notion-migration
 - **Remove NGT/foley** เมื่อ no longer needed (ERAS)
 - **Early mobilization day 1** — 30 min OOB; prevent VTE + pneumonia + ileus
 - **Stitch removal:** 7-10 วัน (abdominal wall), 14 วัน (leg), เร็วกว่าถ้า staples
+

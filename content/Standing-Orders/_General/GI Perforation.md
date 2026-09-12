@@ -17,7 +17,10 @@ source: notion-migration
 - **Hinchey classification (colonic):** I=paracolic abscess, II=pelvic abscess, III=purulent peritonitis, IV=fecal peritonitis
 - **CXR free air (pneumoperitoneum):** subdiaphragmatic lucency — sensitivity ~70% in erect CXR; CT more sensitive
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -44,7 +47,8 @@ source: notion-migration
 - **Foley catheter** — monitor UO
 - **Emergency surgical referral** — exploratory laparotomy (กรณี generalized peritonitis = surgical emergency)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -60,3 +64,4 @@ source: notion-migration
 - **[Anastomotic leak/persistent sepsis]:** CT-guided drainage หรือ re-operation
 - **TPN/EN:** early enteral feeding day 1-2 ถ้า bowel function returning; TPN ถ้า GI ใช้ไม่ได้
 - **DVT prophylaxis:** LMWH เริ่มหลัง hemostasis ยืนยัน + pneumatic compression
+

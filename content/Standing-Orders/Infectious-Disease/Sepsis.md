@@ -26,7 +26,10 @@ source: notion-migration
 - **ยา allergy** — โดยเฉพาะ penicillin/carbapenem (กระทบ ATB choice)
 - **ประวัติ recent ATB, hospitalization, MDR organisms** — MRSA risk, ESBL risk
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -56,7 +59,8 @@ source: notion-migration
 - **O₂** เพื่อให้ SpO₂ ≥94%; เตรียม intubation ถ้า respiratory failure
 - **Foley catheter** — monitor hourly urine output
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -77,3 +81,4 @@ source: notion-migration
 - **GI prophylaxis:** PPI ถ้า high-risk (mechanical ventilation, coagulopathy)
 - **Glycemic control:** ตาม glucose ≥180 mg/dL → เริ่ม insulin infusion; เป้า 140–180 mg/dL
 - **Source control** — drain abscess, remove infected lines, surgery ถ้าจำเป็น (ทำภายใน 6–12 ชม.)
+

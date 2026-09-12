@@ -22,7 +22,10 @@ source: notion-migration
 - ค้นหาสาเหตุ: ขาดยา, ปวด, renal artery stenosis, pheochromocytoma, cocaine/amphetamine, pre-eclampsia
 - อาการนำ: ปวดศีรษะรุนแรง, ตามัว, chest pain, dyspnea, neurological deficit → ชี้ target organ
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - Foley catheter: strict I&O monitoring
 - NPO ถ้า consciousness ลดลง/อาเจียน
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -74,3 +78,4 @@ source: notion-migration
 - ลด IV antihypertensive ทีละน้อย เมื่อ oral ออกฤทธิ์แล้ว (overlap ≥2h)
 - แก้ไขสาเหตุ: restart/adjust ยาเดิม, แก้ pain, secondary HTN workup
 - Consult: Nephrology ถ้า renal involvement; Cardiology ถ้า ACS/dissection; Neurology ถ้า stroke/ICH
+

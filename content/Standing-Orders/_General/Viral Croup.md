@@ -21,7 +21,10 @@ source: notion-migration
 - **Red flags (epiglottitis):** drooling, tripod position, muffled hot-potato voice, ไม่ให้แลุชมโดยเด็ดขาดแต่ controlled environment
 - **Croup เกิด mainly ปั่น** — worse at night, cry = worse (agitation increases obstruction)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -44,7 +47,8 @@ source: notion-migration
 - **คา calm เด็ก + ให้อยู่กับผู้ปกครอง** — agitation เพิ่ม obstruction; หลีกเลี่ยงอุปกรณ์ที่ทำให้เด็กเครียด
 - **Heliox (70:30 He:O₂)** ถ้า severe + intubation not yet decided
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -60,3 +64,4 @@ source: notion-migration
     - ไม่มี stridor at rest, SpO₂ ≥94% room air, tolerating oral, ไม่ distress (หลัง observe 2–4 ชม. post-epinephrine)
 - **Admit indications:** moderate–severe (Westley ≦6), stridor at rest, SpO₂ <94%, age <6 months, poor social situation
 - **Parental education:** viral, self-limiting 3–5 days, ให้ cool mist/humidifier (evidence weak but accepted), return precautions
+

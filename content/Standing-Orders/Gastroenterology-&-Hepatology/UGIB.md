@@ -27,7 +27,10 @@ source: notion-migration
 - **ประวัติ liver disease, alcohol** — variceal vs non-variceal → แนวทาง ATB + vasoactive drugs ต่างกัน
 - **ยา allergy + ประวัติ PPI / H. pylori treatment**
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -52,7 +55,8 @@ source: notion-migration
 - **Reverse coagulopathy:** Vitamin K 10 mg IV slow ถ้า INR >1.5; FFP ถ้า active bleeding + INR >2; platelet ถ้า <50,000
 - **Foley catheter** — monitor UO
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -72,3 +76,4 @@ source: notion-migration
 - **[Variceal] Octreotide** ต่อ 5 วัน → หยุดหลัง EGD banding successful
 - **Diet:** เริ่ม clear liquid 4–6 ชม.หลัง EGD ถ้า hemostasis adequate; soft diet 24 ชม.
 - **Discharge:** PPI ต่อ, H. pylori treatment completion, f/u 4–6 สัปดาห์
+

@@ -23,7 +23,10 @@ source: notion-migration
 - **ประวัติ AED + compliance** — ผู้ที่มี epilepsy เคยได้ AED ไหม? ลืมกินหรือไม่? ระดับยา
 - **Vital signs + oxygenation** — hypoxia, hypoglycemia → correctable causes ก่อน AED
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -49,7 +52,8 @@ source: notion-migration
 - **O₂** เพื่อรักษา SpO₂ ≥94%; lateral position ป้องกัน aspiration
 - **Seizure precautions:** padded bedrails, suction ready, NPO ช่วง post-ictal
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -70,3 +74,4 @@ source: notion-migration
 - **[Status epilepticus recovery]:** ต่อ AED ทาง IV จนเป็น PO; ICU monitoring ≥24 ชม.
 - **Driving restriction** counseling — ห้ามขับรถจนกว่าจะ seizure-free ตาม local law (ปกติ 6 เดือน–1 ปี)
 - **Neurology/Epileptology referral** สำหรับ long-term management
+

@@ -25,7 +25,10 @@ source: notion-migration
 - **Medications at home** — ICS ใช้อยู่ใช่ไหม? SABA frequency? ถ้าใช้ >2 ครั้ง/สัปดาห์ = poor control
 - **Absolute indications for ICU:** ไม่ตอบสนองต่อ acute therapy, PaO₂ <60 / PaCO₂ >45, GCS ลดลง, silent chest
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -50,7 +53,8 @@ source: notion-migration
 - **[Severe/Refractory]:** IV Magnesium Sulfate 40–50 mg/kg (max 2 g) in NSS 50–100 mL over 20 min
 - **[Life-threatening]:** IV Salbutamol 5–10 mcg/kg bolus → 0.1–0.2 mcg/kg/min drip; consider Heliox; PICU consult
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -67,3 +71,4 @@ source: notion-migration
 - **Discharge criteria:** SpO₂ ≥94% room air, wheeze minimal/absent, ไม่มี respiratory distress, ใช้ salbutamol ได้ q4–6h โดยไม่ distress
 - **Asthma action plan** + MDI technique education ผู้ปกครองก่อน discharge
 - **Pediatric OPD f/u** 1–2 สัปดาห์ + consider ICS/LABA step-up
+

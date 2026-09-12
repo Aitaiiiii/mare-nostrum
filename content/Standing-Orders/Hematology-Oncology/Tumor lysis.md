@@ -21,7 +21,10 @@ source: notion-migration
 - **ยาที่ cause TLS** — cytotoxic chemo, targeted therapy (venetoclax, rituximab, ibrutinib), corticosteroids (lymphoma)
 - **Timing** — TLS มักเกิด 12–72 ชม.หลัง chemotherapy; risk window สูงสุด 24–48 ชม.
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -45,7 +48,8 @@ source: notion-migration
 - **[Symptomatic hypocalcemia]:** Calcium gluconate 10% 10 mL IV slow (เฉพาะ symptomatic — cramps, tetany, arrhythmia; ห้ามให้ routine ถ้าไม่มี symptom เพราะ exacerbate CaPO₄ deposition)
 - **ห้าม Furosemide routine** — อาจ worsen hyperuricemia; ใช้เฉพาะ fluid overload
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -63,3 +67,4 @@ source: notion-migration
 - **Hemodialysis (HD) หรือ CRRT** ถ้า: AKI รุนแรง (Cr >10x baseline หรือ anuria), refractory hyperkalemia/hyperphosphatemia/fluid overload, uric acid nephropathy
 - **Oncology co-management** — timing of next chemo cycle, dose reduction, G-CSF support
 - **ปรับ Allopurinol dose** ถ้า azathioprine/6-MP ใช้ร่วม (DDI รุนแรง — เพิ่ม bone marrow toxicity 4x)
+

@@ -22,7 +22,10 @@ source: notion-migration
 - **ยา + สาร** — ประวัติ overdose (opioid: miosis/bradypnea → naloxone); alcohol (fetor hepaticus); ผู้ที่กิน psychiatric drugs; TCAs (wide QRS + ECG changes)
 - **Vital signs ละเอียด** — hyperthermia (infection/NMS/serotonin); hypothermia (hypothyroidism/sepsis); bradycardia + hypertension (Cushing's reflex = herniation)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - **[Meningitis (สงสัย)]:** เริ่ม ATB + Dexamethasone 0.15 mg/kg IV q6h x 4 วัน ทันทีก่อน LP ถ้า delay → Ceftriaxone 2 g IV q12h + Ampicillin 2 g IV q4h (Listeria coverage >50 ปี/immunocompromised) + Acyclovir 10 mg/kg IV q8h (HSV encephalitis)
 - **[Elevated ICP/herniation signs]:** HOB 30°, hyperventilate ชั่วคราว (PCO₂ 35–40), Mannitol 0.25–1 g/kg IV (osmotic), Neurosurgery consult
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -71,3 +75,4 @@ source: notion-migration
 - **[Wernicke/alcohol]:** Thiamine ต่อ; Alcohol dependence counseling + rehab referral
 - **Seizure prophylaxis/treatment** ตาม EEG ถ้า NCSE → Levetiracetam/Valproate IV
 - **Nutrition support** ทาง enteral ถ้า GCS ยังต่ำ; ป้องกัน pressure ulcer + DVT
+

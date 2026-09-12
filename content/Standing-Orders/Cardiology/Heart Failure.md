@@ -22,7 +22,10 @@ source: notion-migration
 - **NT-proBNP / BNP** — ยืนยัน diagnosis + prognostic; NT-proBNP >125 pg/mL = HF likely; >900 = high risk
 - **Renal function** — cardiorenal syndrome: diuretic resistance ถ้า eGFR ลด
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -48,7 +51,8 @@ source: notion-migration
 - **Restrict fluid** <1–1.5 L/day + salt <2 g/day
 - **Bed rest** + semi-recumbent position (30–45°)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -70,3 +74,4 @@ source: notion-migration
 - **IV→PO diuretic switch** เมื่อ euvolemic + tolerating oral; discharge เมื่อ stable ≥24 ชม.
 - **HF education + sodium/fluid restriction + daily weight monitoring** ก่อน discharge
 - **Cardiology f/u** ภายใน 1–2 สัปดาห์หลัง discharge
+

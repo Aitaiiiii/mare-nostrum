@@ -15,6 +15,7 @@ tags: [map]
 - [[Common Toxidromes]]
 - [[Congenital Heart Surgery (Common Operations — Palliative, Single-Ventricle Staged & Biventricular Repairs)]]
 - [[Congenital LVOT Obstruction (Valvar, Subvalvar & Supravalvar AS) — SNC-Ped C2]]
+- [[Critical Care]]
 - [[Diuretic Therapy in Critically Ill]]
 - [[ETT Weaning (Liberation from Mechanical Ventilation)]]
 - [[Fluid Responsiveness (Preload Responsiveness Assessment)]]
@@ -31,6 +32,6 @@ tags: [map]
 - [[VT / Wide-Complex Tachycardia (Ventricular Tachycardia, WCT Differentiation & Management)]]
 - [[VV-ECMO (Veno-Venous Extracorporeal Membrane Oxygenation)]]
 
-<small>22 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>23 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

@@ -12,8 +12,9 @@ tags: [map]
 - [[Approach: Vertigo & Dizziness (Timing-and-Triggers — AVS · s-EVS · t-EVS)]]
 - [[Congenital LVOT Obstruction (Valvar, Subvalvar & Supravalvar AS) — SNC-Ped C2]]
 - [[Headache]]
+- [[Neurology]]
 - [[Seizure & Epilepsy]]
 
-<small>5 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>6 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

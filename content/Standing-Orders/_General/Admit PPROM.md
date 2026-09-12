@@ -15,7 +15,10 @@ source: notion-migration
 - **GBS / cervical swab; latency ATB**
 - **Steroid + timing of delivery ตาม GA**
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -35,7 +38,8 @@ source: notion-migration
 - **Erythromycin (250) 2×4 PO pc #56**
 - **(± Nifedipine (Adalat 10) 2 tab PO q30 min ×3 → q4h ถ้ามีข้อบ่งชี้ tocolysis; keep BP > 90/60)**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -55,3 +59,4 @@ source: notion-migration
 **Observe sign of chorioamnionitis** — BT ≥ 38°C, uterine tenderness, maternal PR > 120 bpm, FHR > 160 bpm, foul-smell amniotic fluid: ถ้ามีข้อใดข้อหนึ่ง ให้ notify แพทย์และพิจารณา delivery ทันที
 
 </aside>
+

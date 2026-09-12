@@ -21,7 +21,10 @@ source: notion-migration
 - **GI symptoms** — คลื่นไส้, อาเจียน, ปวดท้อง — อาจเป็น systemic manifestation ส่วนหนึ่ง
 - **ยาปัจจุบัน** — beta-blocker ทำให้ anaphylaxis รุนแรง + ตอบสนองต่อ epinephrine น้อยลง
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -43,7 +46,8 @@ source: notion-migration
 - **Glucagon 1–2 mg IV/IM** ถ้าผู้ป่วยกิน beta-blocker และไม่ตอบสนองต่อ epinephrine (bypass β-receptor)
 - Monitoring: continuous BP, HR, SpO₂ ทุก 5 นาทีใน 30 นาทีแรก จากนั้นทุก 15–30 นาที
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -61,3 +65,4 @@ source: notion-migration
 - **Epinephrine autoinjector (EpiPen 0.3 mg)** — prescribe + สอนวิธีใช้ก่อน discharge ทุก severe anaphylaxis case
 - **Allergy/immunology referral** — ตรวจหา specific trigger, พิจารณา venom immunotherapy ถ้า insect sting
 - **Discharge counseling:** หลีก trigger ที่รู้จัก, wear medical alert bracelet, มีแผน emergency action plan
+

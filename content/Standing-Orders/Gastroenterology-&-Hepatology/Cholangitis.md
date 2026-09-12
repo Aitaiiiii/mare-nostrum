@@ -20,7 +20,10 @@ source: notion-migration
 - **Blood culture ก่อนให้ ATB เสมอ** — ผล cholangitis มักเป็น gram-negative (E.coli, Klebsiella) + anaerobes
 - **ตรวจ U/S RUQ**: CBD dilation (>7mm), duct stone, biloma — CT ถ้า U/S inconclusive หรือสงสัย complication
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -48,7 +51,8 @@ source: notion-migration
 - Hyoscine (Buscopan) 20 mg IV/IM prn biliary colic
 - Foley catheter: monitor strict I&O
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -69,3 +73,4 @@ source: notion-migration
 - PPI: Pantoprazole 40 mg IV OD ขณะ NPO → switch เป็น oral เมื่อกินได้
 - Ursodeoxycholic acid: พิจารณาหลังจำหน่าย ถ้าสาเหตุเป็น choledocholithiasis
 - Consult: GI/Surgery สำหรับ ERCP timing; hepatobiliary surgery ถ้า failed ERCP
+

@@ -20,7 +20,10 @@ source: notion-migration
 - **Contraindications:** นึกถึง NSAIDs (peptic ulcer, CKD, CVD, elderly), Colchicine (CKD, drug interactions), Steroids (เบาหวานเคนขึ้น)
 - **Urate-lowering therapy (ULT)** — ห้ามเริ่ม ULT (allopurinol/febuxostat) ระหว่าง acute attack (worsens/prolongs); ถ้าใช้อยู่แล้ว อย่าหยุด
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -44,7 +47,8 @@ source: notion-migration
 - **[Systemic Corticosteroid — ถ้า CI ทั้ง NSAIDs + Colchicine]:**
     - Prednisolone 30–40 mg PO OD x 3–5 วัน → taper 5 mg/day; หรือ Triamcinolone IA injection ถ้า 1–2 joint
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -60,3 +64,4 @@ source: notion-migration
     - หรือ **Febuxostat 40–80 mg OD** (non-purine XO inhibitor — ดีกว่าถ้า allopurinol intolerant; ระวัง CVD risk จาก CARES trial)
     - **+ Colchicine prophylaxis 0.5 mg OD** ในช่วง 3–6 เดือนแรกของ ULT — ป้องกัน flare
 - **Diet counseling:** ลดอาหาร purine สูง, โซดาหวาน, เหล้า; ดื่มน้ำพอเพียง; ลดน้ำหนัก
+

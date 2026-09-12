@@ -16,7 +16,10 @@ source: notion-migration
 - **Blood conservation:** preoperative Hb target >10 g/dL สำหรับ major ortho; TXA ลด blood loss (ถ้า surgeon ให้ใช้)
 - **Periprosthetic joint infection (PJI) prevention:** ATB prophylaxis + sterile technique; DM control HbA1c <7% pre-elective
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -39,7 +42,8 @@ source: notion-migration
 - **TXA (Tranexamic Acid)** ถ้า surgeon order: 15 mg/kg IV pre-incision + 3h post (THA/TKR protocol)
 - **TED stocking + pneumatic compression** pre-op
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -60,3 +64,4 @@ source: notion-migration
     - Tramadol/Opioid PRN
 - **Calcium 1000 mg + Vit D 800 IU OD** — bone health
 - **Early physiotherapy day 1** — ROM exercises + partial weight-bearing (per surgeon)
+

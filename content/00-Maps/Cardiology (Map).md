@@ -44,6 +44,7 @@ tags: [map]
 - [[Cardiac Sarcoidosis]]
 - [[Cardiac Transplantation — Candidacy, DCD, Immunosuppression, Rejection & CAV]]
 - [[Cardioembolism (Cardiac Sources of Embolism)]]
+- [[Cardiology]]
 - [[Cardiovascular Physical Examination Eponyms (Signs, Murmurs, Pulses & Grading Scales)]]
 - [[CCS (Chronic Coronary Syndromes / Chronic Coronary Disease)]]
 - [[Coarctation of the Aorta]]
@@ -129,6 +130,6 @@ tags: [map]
 - [[VTE (DVT & Pulmonary Embolism)]]
 - [[WPW (Wolff-Parkinson-White) Syndrome — Mechanism, Risk Stratification & Management]]
 
-<small>120 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>121 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

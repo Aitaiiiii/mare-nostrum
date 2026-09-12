@@ -19,7 +19,10 @@ source: notion-migration
 - **Gangrenous/emphysematous cholecystitis:** DM risk, gas in gallbladder wall (CT/US), urgent surgery
 - **Cholangitis signs (Charcot's triad):** fever + jaundice + RUQ pain → ERCP emergency
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -43,7 +46,8 @@ source: notion-migration
 - **Analgesia:** Paracetamol 1 g IV q6h; Tramadol 50-100 mg IV q6h PRN; **Buscopan 20 mg IV PRN** (antispasmodic)
 - **Surgical consult** — laparoscopic cholecystectomy (early preferred, TG18)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -61,3 +65,4 @@ source: notion-migration
 - **[Grade II — early ถ้า surgeon skilled; delayed acceptable]**
 - **[Grade III — stabilize first: ATB + drainage (percutaneous cholecystostomy); elective surgery later]**
 - **ถ้า cholangitis:** ERCP biliary drainage ก่อน → cholecystectomy ภายหลัง
+

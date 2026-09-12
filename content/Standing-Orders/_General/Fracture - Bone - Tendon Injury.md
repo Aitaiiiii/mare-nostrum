@@ -16,7 +16,10 @@ source: notion-migration
 - **Open fracture (Gustilo-Anderson):** ATB + debridement ภายใน 6-8h; เพิ่มความเสี่ยง osteomyelitis
 - **Femur/pelvis fracture:** blood loss สูง (femur 1-2L, pelvis 2-4L) → hemorrhagic shock risk
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -43,7 +46,8 @@ source: notion-migration
 - **Tetanus prophylaxis** ถ้า open fracture + ไม่ได้ booster 5 ปี
 - **Orthopedic surgery consult** — surgical fixation vs conservative
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -59,3 +63,4 @@ source: notion-migration
 - **Calcium 1000 mg + Vitamin D 800 IU OD** — bone healing; สำคัญในผู้สูงอายุ
 - **[Open fracture ATB]:** Cefazolin x 24-72h (Gustilo I/II); up to 72h (Grade III) — AAOS guideline
 - **Physiotherapy referral** — early post-op mobilization
+

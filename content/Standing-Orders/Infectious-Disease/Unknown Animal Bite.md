@@ -20,7 +20,10 @@ source: notion-migration
 - **Immunocompromised:** steroids, HIV, transplant → Cat. II ก็ให้ RIG
 - **Pre-exposure vaccination (PrEP):** ถ้าได้ PrEP (3 doses) = post-exp ให้แค่ D0+3 อิก 2 doses เท่านั้น (ไม่ต้อง RIG)
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -46,7 +49,8 @@ source: notion-migration
 - **Tetanus toxoid (TT):** ถ้าไม่ได้ booster ใน 5 ปี; + TIG ถ้า unvaccinated + dirty wound
 - **ATB (animal bite):** Amoxicillin-Clavulanate 625 mg q8h x 5–7 วัน — ถ้าบาดแผลลึก, ดุสยูกเสี่ยง (cat bite นิยมติด Pasteurella), hand/face bite, immunocompromised
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -59,3 +63,4 @@ source: notion-migration
 
 - **PEP follow-up schedule** — นัด OPD D3, D7, D14 (+D28 Essen)
 - **[wound infection เกิดขึ้น]:** ATB ปรับตาม culture หรือ escalate เป็น IV ถ้า severe cellulitis
+

@@ -16,7 +16,10 @@ source: notion-migration
 - **VTE risk:** Caprini score — determines LMWH prophylaxis timing + duration; เริ่ม LMWH 12h post-op ถ้า risk > benefit
 - **ERAS (Enhanced Recovery After Surgery) protocol** — early oral, mobilization, multimodal analgesia
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -39,7 +42,8 @@ source: notion-migration
 - **DVT prophylaxis pre-op (ERAS):** TED stocking + pneumatic compression
 - **Premedication per anesthesia order** (if needed)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -60,3 +64,4 @@ source: notion-migration
 - **LMWH (Enoxaparin 40 mg SC OD)** — เริ่ม 12h post-op ถ้า hemostasis stable; ต่อตลอดเข้าใน hospital
 - **Omeprazole 20 mg OD** — GI ulcer prophylaxis (major surgery)
 - **Early mobilization day 1** — reduce VTE + ileus
+

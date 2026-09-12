@@ -16,6 +16,7 @@ tags: [map]
 - [[Diffuse Large B-cell Lymphoma (DLBCL)]]
 - [[Follicular Lymphoma]]
 - [[Hairy Cell Leukemia (HCL)]]
+- [[Hematology Oncology]]
 - [[Hodgkin Lymphoma (Classical HL & NLPHL)]]
 - [[LPL / Waldenström Macroglobulinemia (WM)]]
 - [[Lymphoma — Approach, Staging & Classification Overview]]
@@ -28,6 +29,6 @@ tags: [map]
 - [[POEMS Syndrome & AL Amyloidosis]]
 - [[Thrombocytopenia & Bleeding Disorders]]
 
-<small>19 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>20 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

@@ -23,7 +23,10 @@ source: notion-migration
 - **GI-hepatic** — คลื่นไส้, อาเจียน, ปวดท้อง, diarrhea, jaundice (severe)
 - **ประวัติ thyroid disease + ยา** — เคยวินิจฉัย hyperthyroidism? ใช้ ATD อยู่หรือไม่? exposure to iodine?
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -51,7 +54,8 @@ source: notion-migration
 - **Treat precipitant:** empirical ATB ตาม clinical ถ้าสงสัย sepsis
 - **IV fluid** ตาม hydration status (มักมี deficit จาก diaphoresis + tachycardia)
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -70,3 +74,4 @@ source: notion-migration
 - **Propranolol** taper เมื่อ HR controlled; เปลี่ยนเป็น atenolol/metoprolol ถ้า long-term beta-blocker จำเป็น
 - **Endocrinology consult** — วางแผน definitive treatment: radioactive iodine (RAI) หรือ thyroidectomy หลัง storm resolved
 - ถ้า PTU-induced hepatotoxicity → เปลี่ยนเป็น MMI (methimazole) แทน หรือ refer surgery
+

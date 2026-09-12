@@ -20,7 +20,10 @@ source: notion-migration
 - **Risk of epilepsy** — simple FS: 1–2% (similar to general pop); complex FS: 4–10%
 - **Do NOT:** ให้ ATB routine เพราะชัก; long-term AED สำหรับ simple FS ไม่มีประโยชน์
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -43,7 +46,8 @@ source: notion-migration
 - **Antipyretics:** Paracetamol 15 mg/kg q4–6h — ขั้นตอน symptom (ไม่ prevent recurrence)
 - **Treat underlying fever source**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -58,3 +62,4 @@ source: notion-migration
 - **Long-term AED: ไม่ indicate** สำหรับ simple FS — risk/benefit ไม่คุ้ม
 - **Parental counseling:** ชักจากไข้ไม่เป็น epilepsy, ไม่เป็น brain damage, recurrence risk 1 ใน 3 เด็ก; สาธิตคือให้ Diazepam suppository ติดบ้าน
 - **Pediatric Neurology referral** ถ้า complex FS, ชักซ้ำบ่อย
+

@@ -21,7 +21,10 @@ source: notion-migration
 - **คำนวณ effective osmolality** = 2(Na) + glucose/18 — ค่า ≥300 mOsm/kg สนับสนุน HHS
 - ⚠️ ระวัง **mixed DKA+HHS** (~1/3 ของผู้ป่วย) และความเสี่ยง **thrombosis** ที่สูงจาก hyperosmolarity
 
-## Order for One Day
+
+
+
+## 🕐 One-Day Orders
 
 ### Investigation
 
@@ -48,7 +51,8 @@ source: notion-migration
     - *↳ ภาวะเลือดข้นจาก hyperosmolarity เพิ่มความเสี่ยงต่อ DVT และ PE จึงควรให้ยาป้องกันแต่เนิ่น ๆ*
 - **รักษา precipitating cause**
 
-## Order for Continue
+
+## 🔁 Continuous Orders
 
 ### Investigation
 
@@ -64,3 +68,4 @@ source: notion-migration
 - **Transition → SC insulin** โดย overlap ก่อนหยุด IV **1–2 ชม.**
 - **DVT prophylaxis** ต่อจน mobilize ได้
 - **Diabetic education** หา root cause กัน recurrence
+
