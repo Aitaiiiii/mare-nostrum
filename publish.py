@@ -21,6 +21,39 @@ def flatten_multicolumn():
         rp.write_text(t,encoding="utf-8"); n+=1
     print(f"flattened multi-column in {n} files for the web")
 
+def generate_ekg_web_gallery():
+    """Quartz's Bases renderer shows no card covers, so build a real image gallery page for the web."""
+    from collections import defaultdict
+    ekgdir=CONTENT/"02-Clerkship"/"Internal-Medicine"/"Cardiology"/"EKG"
+    if not ekgdir.exists(): return
+    def gv(t,key):
+        m=re.search(r'^'+key+r':\s*"?(.*?)"?\s*$',t,re.M); return m.group(1).strip() if m else ""
+    g=defaultdict(list); total=0
+    for p in glob.glob(str(ekgdir/"*.md")):
+        rp=Path(p)
+        if rp.name=="EKG.md": continue
+        t=rp.read_text(encoding="utf-8")
+        title=gv(t,"title") or rp.stem
+        dx=gv(t,"dx"); img=gv(t,"image").replace("[[","").replace("]]","").strip()
+        cats=re.findall(r'ekg/([\w-]+)',t); cat=cats[0] if cats else "uncategorized"
+        g[cat].append((dx,img,title)); total+=1
+    lines=["---",'title: "EKG Gallery"',"tags: [ekg]","---","","# 🫀 EKG Gallery","",
+           f"{total} tracings, grouped by category. Click a heading in the table of contents to jump; click a title to open the case.",""]
+    for cat in sorted(g):
+        lines.append(f"## {cat.replace('-',' ').title()} ({len(g[cat])})"); lines.append("")
+        for dx,img,title in sorted(g[cat], key=lambda x:(x[0] or 'zzz').lower()):
+            lines.append(f"**{dx}** — [[{title}]]" if dx else f"[[{title}]]")
+            if img: lines.append(f"![[{img}|420]]")
+            lines.append("")
+    (CONTENT/"EKG Gallery.md").write_text("\n".join(lines),encoding="utf-8")
+    hub=ekgdir/"EKG.md"
+    if hub.exists():
+        h=hub.read_text(encoding="utf-8")
+        h=h.replace("![[EKG Gallery.base]]",
+                    "👉 **[[EKG Gallery]]** — visual gallery with tracing thumbnails.\n\nOr filter the full table below:\n\n![[EKG Gallery.base]]")
+        hub.write_text(h,encoding="utf-8")
+    print(f"generated web EKG gallery ({total} tracings)")
+
 def downscale_images():
     """Downscale published image copies to web size (vault keeps full-res)."""
     exts={".jpg",".jpeg",".png"}
@@ -99,5 +132,6 @@ if __name__=="__main__":
     mirror()
     flatten_multicolumn()
     downscale_images()
+    generate_ekg_web_gallery()
     de_dataview(index_notes())
     print("published: content/ mirrored from vault; images downscaled; Map dataview blocks -> static link lists")

@@ -39,6 +39,7 @@ _Populated after the EKG export is migrated. A card/gallery view of every tracin
 - [[Case #9]]
 - [[E34A468C-3115-4383-BC00-12E8393282E5]]
 - [[EKG]]
+- [[EKG Gallery]]
 - [[EKG — Systematic Interpretation]]
 - [[F4CEDCAB-F067-4938-ADE6-01AAEB669046]]
 - [[IMG_0099]]
@@ -353,6 +354,6 @@ _Populated after the EKG export is migrated. A card/gallery view of every tracin
 - [[IMG_9985]]
 - [[IMG_9986]]
 
-<small>340 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>341 notes · live filterable table available in Obsidian (Dataview).</small>
 
 > [!info] Gallery/card view available in Obsidian via Dataview or Bases.
