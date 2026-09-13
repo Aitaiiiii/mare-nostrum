@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Gastroenterology & Hepatology"
 type: "Disease"
 review_status: "New"
-tags: [gastroenterology-hepatology, disease]
+tags: []
 created: 2026-08-18
 notion_id: 3c0224ab-ad81-81e8-9707-f1c93c28eb9b
 source: notion-migration

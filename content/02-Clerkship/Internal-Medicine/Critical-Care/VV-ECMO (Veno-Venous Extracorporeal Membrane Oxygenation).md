@@ -7,7 +7,7 @@ specialty: "Critical Care"
 type: "Discrete entity"
 guidelines: ["ATS/ERS", "SSC/SCCM"]
 review_status: "New"
-tags: [critical-care, discrete-entity, ats-ers, ssc-sccm]
+tags: [critical-care]
 created: 2026-08-05
 notion_id: 3b3224ab-ad81-8149-8451-c524edcea2d9
 source: notion-migration

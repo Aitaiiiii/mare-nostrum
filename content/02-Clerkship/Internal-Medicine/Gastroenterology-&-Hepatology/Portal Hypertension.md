@@ -7,7 +7,7 @@ specialty: "Gastroenterology & Hepatology"
 type: "Disease"
 guidelines: ["RCPT/Thai"]
 review_status: "New"
-tags: [gastroenterology-hepatology, disease, rcpt-thai]
+tags: []
 created: 2026-06-24
 notion_id: 389224ab-ad81-8108-b81c-f9f6d67d6f11
 source: notion-migration

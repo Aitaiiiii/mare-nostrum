@@ -13,12 +13,11 @@ tags: [map]
 - [[Approach: RUQ Pain in Adults]]
 - [[Cirrhosis]]
 - [[Congenital LVOT Obstruction (Valvar, Subvalvar & Supravalvar AS) — SNC-Ped C2]]
-- [[Gastroenterology & Hepatology]]
 - [[H. pylori Infection & Eradication]]
 - [[Portal Hypertension]]
 - [[UGIB (Upper Gastrointestinal Bleeding)]]
 - [[Viral Hepatitis]]
 
-<small>10 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>9 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

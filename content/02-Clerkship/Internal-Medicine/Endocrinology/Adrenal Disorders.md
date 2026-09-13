@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Endocrinology"
 type: "Workflow"
 review_status: "New"
-tags: [endocrinology, workflow]
+tags: [workflow]
 created: 2026-06-28
 notion_id: 38d224ab-ad81-81b2-bbb8-ec45d577bc24
 source: notion-migration

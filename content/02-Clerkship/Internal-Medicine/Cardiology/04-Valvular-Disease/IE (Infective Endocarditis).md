@@ -8,7 +8,7 @@ subspecialty: "Valvular Disease"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC", "IDSA"]
 review_status: "New"
-tags: [cardiology, valvular-disease, disease, acc-aha, esc, idsa]
+tags: []
 created: 2026-07-18
 notion_id: 3a0224ab-ad81-81c2-93c2-d6992833c9ff
 source: notion-migration

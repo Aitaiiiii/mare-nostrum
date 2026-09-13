@@ -7,7 +7,7 @@ specialty: "Pulmonology"
 type: "Disease"
 guidelines: ["ATS/ERS"]
 review_status: "New"
-tags: [pulmonology, disease, ats-ers]
+tags: []
 created: 2026-07-17
 notion_id: 3a0224ab-ad81-816a-9635-fb234fc9c033
 source: notion-migration

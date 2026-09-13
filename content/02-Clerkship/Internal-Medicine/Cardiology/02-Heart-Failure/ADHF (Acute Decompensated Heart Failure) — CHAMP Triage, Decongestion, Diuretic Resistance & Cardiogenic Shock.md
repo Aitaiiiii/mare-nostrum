@@ -8,7 +8,7 @@ subspecialty: "Heart Failure"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "Reviewing"
-tags: [cardiology, heart-failure, disease, acc-aha, esc]
+tags: [emergency]
 created: 2026-07-15
 notion_id: 39d224ab-ad81-8164-9f3b-c609531f61be
 source: notion-migration

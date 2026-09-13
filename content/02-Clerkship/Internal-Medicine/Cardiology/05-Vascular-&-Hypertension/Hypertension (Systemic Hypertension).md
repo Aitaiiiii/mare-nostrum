@@ -8,7 +8,7 @@ subspecialty: "Vascular & Hypertension"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC", "RCPT/Thai"]
 review_status: "New"
-tags: [cardiology, vascular-hypertension, disease, acc-aha, esc, rcpt-thai]
+tags: [emergency]
 created: 2026-06-28
 notion_id: 38d224ab-ad81-818d-8998-c01ff0d9d4ca
 source: notion-migration

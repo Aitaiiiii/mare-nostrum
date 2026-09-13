@@ -8,7 +8,7 @@ subspecialty: "Pericardium & Myocardium"
 type: "Disease"
 guidelines: ["ESC"]
 review_status: "Reviewing"
-tags: [cardiology, pericardium-myocardium, disease, esc]
+tags: []
 created: 2026-07-16
 notion_id: 39f224ab-ad81-81c5-936d-d36b22cec491
 source: notion-migration

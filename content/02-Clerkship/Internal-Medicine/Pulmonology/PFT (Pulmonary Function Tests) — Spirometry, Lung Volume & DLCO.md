@@ -7,7 +7,7 @@ specialty: "Pulmonology"
 type: "Discrete entity"
 guidelines: ["ATS/ERS"]
 review_status: "New"
-tags: [pulmonology, discrete-entity, ats-ers]
+tags: []
 created: 2026-06-29
 notion_id: 38e224ab-ad81-8183-bed9-e6aa786620d1
 source: notion-migration

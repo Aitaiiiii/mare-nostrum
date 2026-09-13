@@ -6,7 +6,7 @@ rotation: "Surgery"
 specialty: "Cardiothoracic Surgery"
 type: "Disease"
 review_status: "New"
-tags: [cardiothoracic-surgery, disease]
+tags: []
 created: 2026-08-05
 notion_id: 3b3224ab-ad81-8152-86bd-dd8f3fe6d47e
 source: notion-migration

@@ -8,7 +8,7 @@ subspecialty: "Vascular & Hypertension"
 type: "Disease"
 guidelines: ["ATS/ERS", "ESC"]
 review_status: "New"
-tags: [cardiology, vascular-hypertension, disease, ats-ers, esc]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8122-8cbe-e033f9e8aa1d
 source: notion-migration

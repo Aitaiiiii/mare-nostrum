@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Rheumatology"
 type: "Workflow"
 review_status: "New"
-tags: [rheumatology, workflow]
+tags: [emergency, workflow]
 created: 2026-06-29
 notion_id: 38d224ab-ad81-8106-a966-e9b0445b3e1e
 source: notion-migration

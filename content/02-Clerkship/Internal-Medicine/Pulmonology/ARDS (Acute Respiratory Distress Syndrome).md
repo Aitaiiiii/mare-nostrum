@@ -8,7 +8,7 @@ also_relevant: ["Critical Care medicine", "Chest Medicine"]
 type: "Disease"
 guidelines: ["ATS/ERS", "SSC/SCCM"]
 review_status: "New"
-tags: [pulmonology, disease, ats-ers, ssc-sccm, critical-care]
+tags: []
 created: 2026-06-24
 notion_id: 389224ab-ad81-813a-bbb7-e76cd2cccbe5
 source: notion-migration

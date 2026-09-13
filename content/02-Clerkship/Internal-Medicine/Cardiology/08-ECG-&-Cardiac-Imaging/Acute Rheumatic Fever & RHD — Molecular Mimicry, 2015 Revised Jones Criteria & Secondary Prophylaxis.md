@@ -8,7 +8,7 @@ subspecialty: "ECG & Cardiac Imaging"
 type: "Disease"
 guidelines: ["ACC/AHA", "RCPT/Thai"]
 review_status: "New"
-tags: [cardiology, ecg-cardiac-imaging, disease, acc-aha, rcpt-thai]
+tags: []
 created: 2026-07-18
 notion_id: 3a0224ab-ad81-812e-b7ea-fbefc8c397a2
 source: notion-migration

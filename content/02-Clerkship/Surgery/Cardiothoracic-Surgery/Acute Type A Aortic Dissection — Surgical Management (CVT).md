@@ -7,7 +7,7 @@ specialty: "Cardiothoracic Surgery"
 type: "Disease"
 guidelines: ["ACC/AHA", "EACTS", "STS"]
 review_status: "New"
-tags: [cardiothoracic-surgery, disease, acc-aha, eacts, sts]
+tags: [emergency]
 created: 2026-08-03
 notion_id: 3b1224ab-ad81-8175-be31-d2235b4d43b0
 source: notion-migration

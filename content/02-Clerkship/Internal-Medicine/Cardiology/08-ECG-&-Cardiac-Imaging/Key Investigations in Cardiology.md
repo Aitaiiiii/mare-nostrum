@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "ECG & Cardiac Imaging"
 type: "Workflow"
 review_status: "New"
-tags: [cardiology, ecg-cardiac-imaging, workflow]
+tags: [workflow]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8115-a3b3-d3b8c65eb411
 source: notion-migration

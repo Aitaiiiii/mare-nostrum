@@ -7,7 +7,7 @@ specialty: "Pediatric Cardiology"
 related: ["Pediatric Cardiology (Map)", "Adult Congenital (Map)"]
 type: "Workflow"
 review_status: "New"
-tags: [pediatric-cardiology, workflow, adult-congenital, congenital]
+tags: [congenital, emergency, pediatric, workflow]
 created: 2026-08-24
 notion_id: 3c6224ab-ad81-8152-b94f-cfa8a1b1f915
 source: notion-migration

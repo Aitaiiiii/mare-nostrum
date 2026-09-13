@@ -7,7 +7,7 @@ specialty: "Critical Care"
 type: "Disease"
 guidelines: ["SSC/SCCM"]
 review_status: "New"
-tags: [critical-care, disease, ssc-sccm]
+tags: [critical-care, emergency]
 created: 2026-07-14
 notion_id: 39d224ab-ad81-8123-b28b-e6433357042f
 source: notion-migration

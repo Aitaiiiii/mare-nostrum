@@ -7,7 +7,7 @@ specialty: "Neurology"
 type: "Workflow"
 guidelines: ["ACC/AHA"]
 review_status: "New"
-tags: [neurology, workflow, acc-aha]
+tags: [emergency, workflow]
 created: 2026-06-29
 notion_id: 38e224ab-ad81-81ee-b920-ee2706f10c9a
 source: notion-migration

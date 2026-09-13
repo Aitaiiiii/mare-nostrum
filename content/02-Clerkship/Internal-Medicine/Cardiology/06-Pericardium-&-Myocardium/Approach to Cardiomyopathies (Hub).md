@@ -8,7 +8,7 @@ subspecialty: "Pericardium & Myocardium"
 type: "Workflow"
 guidelines: ["ESC"]
 review_status: "Reviewing"
-tags: [cardiology, pericardium-myocardium, workflow, esc]
+tags: [workflow]
 created: 2026-07-16
 notion_id: 39f224ab-ad81-81b3-abaf-d80cd7ee70ea
 source: notion-migration

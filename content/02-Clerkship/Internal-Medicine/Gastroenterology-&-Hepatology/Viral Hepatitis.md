@@ -7,7 +7,7 @@ specialty: "Gastroenterology & Hepatology"
 also_relevant: ["Gastroenterology", "Infectious Disease"]
 type: "Disease"
 review_status: "New"
-tags: [gastroenterology-hepatology, disease]
+tags: []
 created: 2026-06-28
 notion_id: 38d224ab-ad81-8174-bda9-c155f55d24d4
 source: notion-migration

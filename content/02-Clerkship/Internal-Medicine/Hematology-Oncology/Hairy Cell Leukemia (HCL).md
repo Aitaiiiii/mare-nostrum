@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Hematology-Oncology"
 type: "Disease"
 review_status: "New"
-tags: [hematology-oncology, disease]
+tags: []
 created: 2026-06-28
 notion_id: 38d224ab-ad81-81e3-902b-ec0e20d9e81b
 source: notion-migration

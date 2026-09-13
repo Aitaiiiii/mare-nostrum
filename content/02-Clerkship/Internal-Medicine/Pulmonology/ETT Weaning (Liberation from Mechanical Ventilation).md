@@ -7,7 +7,7 @@ specialty: "Pulmonology"
 type: "Workflow"
 guidelines: ["ATS/ERS"]
 review_status: "New"
-tags: [pulmonology, workflow, ats-ers, critical-care]
+tags: [workflow]
 created: 2026-06-25
 notion_id: 38a224ab-ad81-81ec-ae71-dab7682b2710
 source: notion-migration

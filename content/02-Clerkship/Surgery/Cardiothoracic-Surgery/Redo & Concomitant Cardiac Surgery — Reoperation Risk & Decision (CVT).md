@@ -7,7 +7,7 @@ specialty: "Cardiothoracic Surgery"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiothoracic-surgery, workflow, acc-aha, esc]
+tags: [workflow]
 created: 2026-08-04
 notion_id: 3b2224ab-ad81-81bc-a90e-f0aa6e819f60
 source: notion-migration

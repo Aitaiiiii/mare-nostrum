@@ -4,7 +4,7 @@ type: "Standing Order"
 specialty: "General"
 ward: ["Surgery"]
 related: ["ADHF (Acute Decompensated Heart Failure) — CHAMP Triage, Decongestion, Diuretic Resistance & Cardiogenic Shock"]
-tags: [standing-order, general]
+tags: [workflow]
 notion_id: 389224ab-ad81-81b4-9ac0-c87b61d36de8
 source: notion-migration
 ---
@@ -23,46 +23,50 @@ source: notion-migration
 
 ## 🕐 One-Day Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **CBC + CRP** — leukocytosis + left shift; CRP elevated in perforation
+> - [ ] **BUN, Cr, electrolytes, LFT** — surgical baseline
+> - [ ] **UPT** — ผู้หญิงวัยเจริญพันธุ์ (ectopic pregnancy DDx)
+> - [ ] **UA** — UTI/stone DDx
+> - [ ] **US abdomen/pelvis** stat — non-compressible appendix >6 mm = appendicitis
+> - [ ] **CT abdomen-pelvis with contrast** ถ้า US inconclusive
+> - [ ] **Blood group + crossmatch** ก่อน surgery
+> - [ ] **PT/INR** — surgical baseline
+>
+> ---
+>
 
-- **CBC + CRP** — leukocytosis + left shift; CRP elevated in perforation
-- **BUN, Cr, electrolytes, LFT** — surgical baseline
-- **UPT** — ผู้หญิงวัยเจริญพันธุ์ (ectopic pregnancy DDx)
-- **UA** — UTI/stone DDx
-- **US abdomen/pelvis** stat — non-compressible appendix >6 mm = appendicitis
-- **CT abdomen-pelvis with contrast** ถ้า US inconclusive
-- **Blood group + crossmatch** ก่อน surgery
-- **PT/INR** — surgical baseline
-
----
-
-### Medication
-
-- **NPO stat** (surgical patient)
-- **IV NSS 1-2 L** (bowel rest + resuscitation)
-- **Paracetamol 1 g IV q6h** — analgesia (opioid PRN; ไม่ mask diagnosis ถ้าวินิจฉัยแล้ว)
-- **Surgical consult stat** — appendectomy (laparoscopic preferred)
-- **Pre-op prophylactic ATB (เริ่มก่อน incision 60 min):**
-    - **Cefazolin 2 g IV** (uncomplicated) — single dose
-    - Complicated (perforation): Pip-Tazo 4.5 g IV q6h หรือ Meropenem ถ้า severe
+> [!example]+ 💊 Medication
+>
+> - [ ] **NPO stat** (surgical patient)
+> - [ ] **IV NSS 1-2 L** (bowel rest + resuscitation)
+> - [ ] **Paracetamol 1 g IV q6h** — analgesia (opioid PRN; ไม่ mask diagnosis ถ้าวินิจฉัยแล้ว)
+> - [ ] **Surgical consult stat** — appendectomy (laparoscopic preferred)
+> - [ ] **Pre-op prophylactic ATB (เริ่มก่อน incision 60 min):**
+>     - **Cefazolin 2 g IV** (uncomplicated) — single dose
+>     - Complicated (perforation): Pip-Tazo 4.5 g IV q6h หรือ Meropenem ถ้า severe
+>
 
 
 ## 🔁 Continuous Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **Post-op CBC + CRP day 1** — confirm resolution
+> - [ ] **Pathology ชิ้นเนื้อ appendix** — ยืนยัน diagnosis
+>
+> ---
+>
 
-- **Post-op CBC + CRP day 1** — confirm resolution
-- **Pathology ชิ้นเนื้อ appendix** — ยืนยัน diagnosis
-
----
-
-### Medication
-
-- **[Uncomplicated — post appendectomy]:**
-    - หยุด ATB หลัง op; oral diet เมื่อ tolerating; discharge day 1-2
-- **[Complicated — perforation/abscess]:**
-    - IV ATB ต่อ Pip-Tazo 4.5 g IV q6h หรือ Metronidazole + Ceftriaxone x 3-5 วัน → PO ถ้า improving
-    - Total ATB 5-7 วัน (ตาม IDSA)
-- **Pain control:** Paracetamol ± NSAIDs (ถ้า renal OK); Tramadol PRN
-- **Early mobilization** day 1
+> [!example]+ 💊 Medication
+>
+> - [ ] **[Uncomplicated — post appendectomy]:**
+>     - หยุด ATB หลัง op; oral diet เมื่อ tolerating; discharge day 1-2
+> - [ ] **[Complicated — perforation/abscess]:**
+>     - IV ATB ต่อ Pip-Tazo 4.5 g IV q6h หรือ Metronidazole + Ceftriaxone x 3-5 วัน → PO ถ้า improving
+>     - Total ATB 5-7 วัน (ตาม IDSA)
+> - [ ] **Pain control:** Paracetamol ± NSAIDs (ถ้า renal OK); Tramadol PRN
+> - [ ] **Early mobilization** day 1
+>
 

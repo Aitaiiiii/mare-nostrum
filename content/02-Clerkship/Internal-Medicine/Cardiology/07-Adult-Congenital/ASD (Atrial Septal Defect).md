@@ -8,7 +8,7 @@ subspecialty: "Adult Congenital"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, adult-congenital, disease, acc-aha, esc]
+tags: [congenital]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81eb-9759-cd5c4a467b5e
 source: notion-migration

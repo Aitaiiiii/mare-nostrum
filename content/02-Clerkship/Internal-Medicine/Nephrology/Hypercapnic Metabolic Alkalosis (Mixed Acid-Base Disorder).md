@@ -7,7 +7,7 @@ specialty: "Nephrology"
 type: "Disease"
 guidelines: ["ATS/ERS"]
 review_status: "New"
-tags: [nephrology, disease, ats-ers]
+tags: []
 created: 2026-06-26
 notion_id: 38b224ab-ad81-81c3-8cce-f573ce2f5059
 source: notion-migration

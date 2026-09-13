@@ -4,7 +4,7 @@ type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
 related: ["Post-op Oliguria (Explore Laparotomy)"]
-tags: [standing-order, general]
+tags: [workflow]
 notion_id: 3d5224ab-ad81-816b-94c5-cc7ff01dd295
 source: notion-migration
 ---
@@ -23,36 +23,40 @@ source: notion-migration
 
 ## 🕐 One-Day Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **Observe bleeding per vagina**
+> - [ ] **Observe abdominal signs**
+> - [ ] **ส่งชิ้นเนื้อ patho**
+>
+> ---
+>
 
-- **Observe bleeding per vagina**
-- **Observe abdominal signs**
-- **ส่งชิ้นเนื้อ patho**
-
----
-
-### Medication
-
-- **Routine post-op care**
-- **Acetar 1,000 mL IV rate 120 mL/hr**
-- **Retain Foley's catheter**
-- **จิบน้ำ at ward → soft diet มื้อเย็น**
-- **MO 3 mg IV prn q6h**
-- **Plasil 10 mg IV prn q8h**
+> [!example]+ 💊 Medication
+>
+> - [ ] **Routine post-op care**
+> - [ ] **Acetar 1,000 mL IV rate 120 mL/hr**
+> - [ ] **Retain Foley's catheter**
+> - [ ] **จิบน้ำ at ward → soft diet มื้อเย็น**
+> - [ ] **MO 3 mg IV prn q6h**
+> - [ ] **Plasil 10 mg IV prn q8h**
+>
 
 
 ## 🔁 Continuous Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **Record vital signs, I/O**
+>
+> ---
+>
 
-- **Record vital signs, I/O**
-
----
-
-### Medication
-
-- **Diet as one-day order**
-- **ตื่นดี กินได้ → off IV + off Foley, promote ambulation**
-- **Augmentin (1g) 1×2 PO pc #14**
-- **Paracetamol (500) 1 tab PO prn q6h #20**
+> [!example]+ 💊 Medication
+>
+> - [ ] **Diet as one-day order**
+> - [ ] **ตื่นดี กินได้ → off IV + off Foley, promote ambulation**
+> - [ ] **Augmentin (1g) 1×2 PO pc #14**
+> - [ ] **Paracetamol (500) 1 tab PO prn q6h #20**
+>
 

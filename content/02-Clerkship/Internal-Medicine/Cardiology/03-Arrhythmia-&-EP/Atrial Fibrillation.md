@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Arrhythmia & EP"
 type: "Disease"
 review_status: "New"
-tags: [cardiology, arrhythmia-ep, disease]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-810a-b2a4-c2568e15e16c
 source: notion-migration

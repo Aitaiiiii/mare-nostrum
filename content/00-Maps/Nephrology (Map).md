@@ -17,8 +17,7 @@ tags: [map]
 - [[Hyponatremia]]
 - [[Hypophosphatemia]]
 - [[Metabolic Acidosis]]
-- [[Nephrology]]
 
-<small>10 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>9 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

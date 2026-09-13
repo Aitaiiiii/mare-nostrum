@@ -22,8 +22,7 @@ tags: [map]
 - [[Oxygenation Monitoring — Indices (P/F · S/F · OI · ROX), Pulse Oximetry & Dyshemoglobinemia]]
 - [[PFT (Pulmonary Function Tests) — Spirometry, Lung Volume & DLCO]]
 - [[PPF (Progressive Pulmonary Fibrosis)]]
-- [[Pulmonology]]
 
-<small>15 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>14 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

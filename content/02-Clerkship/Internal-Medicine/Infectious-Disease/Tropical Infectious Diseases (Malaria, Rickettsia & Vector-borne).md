@@ -7,7 +7,7 @@ specialty: "Infectious Disease"
 type: "Disease"
 guidelines: ["IDSA", "RCPT/Thai"]
 review_status: "New"
-tags: [infectious-disease, disease, idsa, rcpt-thai]
+tags: []
 created: 2026-06-29
 notion_id: 38e224ab-ad81-8113-8611-f84cbd50c709
 source: notion-migration

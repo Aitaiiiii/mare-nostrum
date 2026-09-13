@@ -8,7 +8,7 @@ subspecialty: "Valvular Disease"
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, valvular-disease, discrete-entity, acc-aha, esc]
+tags: []
 created: 2026-07-18
 notion_id: 3a0224ab-ad81-8134-a2c8-cc2f1c7a011a
 source: notion-migration

@@ -8,7 +8,7 @@ subspecialty: "Coronary & ACS"
 type: "Discrete entity"
 guidelines: ["ACC/AHA"]
 review_status: "New"
-tags: [cardiology, coronary-acs, discrete-entity, acc-aha]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-813c-812d-e3765bb742bd
 source: notion-migration

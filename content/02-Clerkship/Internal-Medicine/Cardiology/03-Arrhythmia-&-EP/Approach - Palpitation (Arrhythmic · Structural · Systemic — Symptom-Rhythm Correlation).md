@@ -8,7 +8,7 @@ subspecialty: "Arrhythmia & EP"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, arrhythmia-ep, workflow, acc-aha, esc]
+tags: [emergency, workflow]
 created: 2026-07-23
 notion_id: 3a6224ab-ad81-816b-887f-cba63e8b6d6a
 source: notion-migration

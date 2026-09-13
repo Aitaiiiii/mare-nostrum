@@ -8,7 +8,7 @@ also_relevant: ["Chest Medicine", "Critical Care medicine"]
 type: "Disease"
 guidelines: ["ATS/ERS"]
 review_status: "New"
-tags: [pulmonology, disease, ats-ers, critical-care]
+tags: []
 created: 2026-06-26
 notion_id: 38b224ab-ad81-816d-88f8-f13f24e44e21
 source: notion-migration

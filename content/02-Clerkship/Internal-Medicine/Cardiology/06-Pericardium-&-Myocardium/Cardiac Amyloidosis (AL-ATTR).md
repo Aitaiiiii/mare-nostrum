@@ -8,7 +8,7 @@ subspecialty: "Pericardium & Myocardium"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "Reviewing"
-tags: [cardiology, pericardium-myocardium, disease, acc-aha, esc]
+tags: []
 created: 2026-07-15
 notion_id: 39e224ab-ad81-819a-a4b7-cd1f9c517eac
 source: notion-migration

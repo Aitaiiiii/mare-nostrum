@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Coronary & ACS"
 type: "Discrete entity"
 review_status: "New"
-tags: [cardiology, coronary-acs, discrete-entity]
+tags: [pharmacology]
 created: 2026-07-22
 notion_id: 3a5224ab-ad81-81e2-a9e0-e9a77d0da1f6
 source: notion-migration

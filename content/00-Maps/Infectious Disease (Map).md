@@ -12,10 +12,9 @@ tags: [map]
 - [[Drug Allergy & Hypersensitivity]]
 - [[Herpes Zoster & Zoster Vaccination]]
 - [[HIV — Diagnosis, ART & Opportunistic Infections]]
-- [[Infectious Disease]]
 - [[Statin for CVD Prevention in PLWH (Beyond Viral Suppression)]]
 - [[Tropical Infectious Diseases (Malaria, Rickettsia & Vector-borne)]]
 
-<small>7 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>6 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

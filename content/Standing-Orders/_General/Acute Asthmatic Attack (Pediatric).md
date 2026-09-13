@@ -4,7 +4,7 @@ type: "Standing Order"
 specialty: "General"
 ward: ["Pediatrics"]
 related: ["ADHF (Acute Decompensated Heart Failure) — CHAMP Triage, Decongestion, Diuretic Resistance & Cardiogenic Shock"]
-tags: [standing-order, general]
+tags: [pediatric, workflow]
 notion_id: 389224ab-ad81-8111-b162-cb6cf536542c
 source: notion-migration
 ---
@@ -30,45 +30,49 @@ source: notion-migration
 
 ## 🕐 One-Day Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **SpO₂ continuous monitoring**
+> - [ ] **ABG** ถ้า severe/life-threatening — hypercapnia (PaCO₂ >45 = impending failure)
+> - [ ] **CXR** ถ้าครั้งแรก / สงสัย pneumonia/pneumothorax
+> - [ ] **CBC** ถ้าสงสัย infection trigger
+> - [ ] **Electrolytes (K⁺)** — hypokalemia จาก repeated salbutamol + อาจเพิ่ม arrhythmia risk
+>
+> ---
+>
 
-- **SpO₂ continuous monitoring**
-- **ABG** ถ้า severe/life-threatening — hypercapnia (PaCO₂ >45 = impending failure)
-- **CXR** ถ้าครั้งแรก / สงสัย pneumonia/pneumothorax
-- **CBC** ถ้าสงสัย infection trigger
-- **Electrolytes (K⁺)** — hypokalemia จาก repeated salbutamol + อาจเพิ่ม arrhythmia risk
-
----
-
-### Medication
-
-- **O₂** เพื่อ SpO₂ ≥94%; titrate FiO₂
-- **Salbutamol (Ventolin) nebulizer:**
-    - <20 kg: 2.5 mg; ≥20 kg: 5 mg — q20–30 min x3 doses (first hour)
-    - Severe: continuous nebulization 0.3 mg/kg/hr (max 10 mg/hr)
-    - MDI + spacer: 4–8 puffs q20 min x3 ถ้า mild-moderate
-- **Ipratropium bromide nebulizer (Atrovent):**
-    - <12 kg: 0.125 mg; 12–40 kg: 0.25 mg; >40 kg: 0.5 mg — q20–30 min x3 doses ใน first hour (severe case)
-- **Prednisolone PO 1–2 mg/kg/day (max 40 mg) x 3–5 วัน** หรือ **Hydrocortisone IV 4–5 mg/kg q6h** ถ้าไม่สามารถ oral
-- **[Severe/Refractory]:** IV Magnesium Sulfate 40–50 mg/kg (max 2 g) in NSS 50–100 mL over 20 min
-- **[Life-threatening]:** IV Salbutamol 5–10 mcg/kg bolus → 0.1–0.2 mcg/kg/min drip; consider Heliox; PICU consult
+> [!example]+ 💊 Medication
+>
+> - [ ] **O₂** เพื่อ SpO₂ ≥94%; titrate FiO₂
+> - [ ] **Salbutamol (Ventolin) nebulizer:**
+>     - <20 kg: 2.5 mg; ≥20 kg: 5 mg — q20–30 min x3 doses (first hour)
+>     - Severe: continuous nebulization 0.3 mg/kg/hr (max 10 mg/hr)
+>     - MDI + spacer: 4–8 puffs q20 min x3 ถ้า mild-moderate
+> - [ ] **Ipratropium bromide nebulizer (Atrovent):**
+>     - <12 kg: 0.125 mg; 12–40 kg: 0.25 mg; >40 kg: 0.5 mg — q20–30 min x3 doses ใน first hour (severe case)
+> - [ ] **Prednisolone PO 1–2 mg/kg/day (max 40 mg) x 3–5 วัน** หรือ **Hydrocortisone IV 4–5 mg/kg q6h** ถ้าไม่สามารถ oral
+> - [ ] **[Severe/Refractory]:** IV Magnesium Sulfate 40–50 mg/kg (max 2 g) in NSS 50–100 mL over 20 min
+> - [ ] **[Life-threatening]:** IV Salbutamol 5–10 mcg/kg bolus → 0.1–0.2 mcg/kg/min drip; consider Heliox; PICU consult
+>
 
 
 ## 🔁 Continuous Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **SpO₂ และ clinical reassessment** q1–2 ชม. — wheeze, retractions, HR, RR
+> - [ ] **Electrolytes (K⁺)** ถ้าใช้ salbutamol บ่อย/ต่อเนื่อง
+>
+> ---
+>
 
-- **SpO₂ และ clinical reassessment** q1–2 ชม. — wheeze, retractions, HR, RR
-- **Electrolytes (K⁺)** ถ้าใช้ salbutamol บ่อย/ต่อเนื่อง
-
----
-
-### Medication
-
-- **Salbutamol nebulizer q4–6h** เมื่อ improving → q6–8h → q8h แล้ว switch to MDI
-- **Prednisolone PO** ต่อจนครบ 3–5 วัน (taper ไม่จำเป็น ถ้าชอร์ต course)
-- **ICS (ต่อยา controller เดิม หรือเริ่มใหม่):** Budesonide MDI 200–400 mcg/day BID หรือ Fluticasone — เริ่มหรือเพิ่มถ้ายังไม่ได้ ICS
-- **Discharge criteria:** SpO₂ ≥94% room air, wheeze minimal/absent, ไม่มี respiratory distress, ใช้ salbutamol ได้ q4–6h โดยไม่ distress
-- **Asthma action plan** + MDI technique education ผู้ปกครองก่อน discharge
-- **Pediatric OPD f/u** 1–2 สัปดาห์ + consider ICS/LABA step-up
+> [!example]+ 💊 Medication
+>
+> - [ ] **Salbutamol nebulizer q4–6h** เมื่อ improving → q6–8h → q8h แล้ว switch to MDI
+> - [ ] **Prednisolone PO** ต่อจนครบ 3–5 วัน (taper ไม่จำเป็น ถ้าชอร์ต course)
+> - [ ] **ICS (ต่อยา controller เดิม หรือเริ่มใหม่):** Budesonide MDI 200–400 mcg/day BID หรือ Fluticasone — เริ่มหรือเพิ่มถ้ายังไม่ได้ ICS
+> - [ ] **Discharge criteria:** SpO₂ ≥94% room air, wheeze minimal/absent, ไม่มี respiratory distress, ใช้ salbutamol ได้ q4–6h โดยไม่ distress
+> - [ ] **Asthma action plan** + MDI technique education ผู้ปกครองก่อน discharge
+> - [ ] **Pediatric OPD f/u** 1–2 สัปดาห์ + consider ICS/LABA step-up
+>
 

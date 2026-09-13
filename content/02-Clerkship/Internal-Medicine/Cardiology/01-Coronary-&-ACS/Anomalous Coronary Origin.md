@@ -8,7 +8,7 @@ subspecialty: "Coronary & ACS"
 type: "Disease"
 guidelines: ["ACC/AHA"]
 review_status: "New"
-tags: [cardiology, coronary-acs, disease, acc-aha]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8172-b1e6-e9a39a060a5e
 source: notion-migration

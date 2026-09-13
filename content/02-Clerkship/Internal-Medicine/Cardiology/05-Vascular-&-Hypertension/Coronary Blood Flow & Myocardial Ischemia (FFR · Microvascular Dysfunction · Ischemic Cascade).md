@@ -8,7 +8,7 @@ subspecialty: "Vascular & Hypertension"
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, vascular-hypertension, discrete-entity, acc-aha, esc]
+tags: []
 created: 2026-07-20
 notion_id: 3a3224ab-ad81-81e4-a7c2-e394c1947b31
 source: notion-migration

@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Neurology"
 type: "Disease"
 review_status: "New"
-tags: [neurology, disease]
+tags: []
 created: 2026-06-29
 notion_id: 38d224ab-ad81-81d5-82b1-fc611bb7c3e9
 source: notion-migration

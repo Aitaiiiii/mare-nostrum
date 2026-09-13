@@ -8,7 +8,7 @@ related: ["Pediatric Cardiology (Map)", "Adult Congenital (Map)"]
 type: "Disease"
 guidelines: ["ACC/AHA"]
 review_status: "New"
-tags: [pediatric-cardiology, disease, acc-aha, adult-congenital, congenital]
+tags: [congenital, pediatric]
 created: 2026-08-29
 notion_id: 3cb224ab-ad81-8174-8dd0-d0c376a9fa72
 source: notion-migration

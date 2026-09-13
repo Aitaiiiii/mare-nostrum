@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Neurology"
 type: "Workflow"
 review_status: "New"
-tags: [neurology, workflow]
+tags: [workflow]
 created: 2026-08-19
 notion_id: 3c1224ab-ad81-81a7-9f1f-d34b94e30d7d
 source: notion-migration

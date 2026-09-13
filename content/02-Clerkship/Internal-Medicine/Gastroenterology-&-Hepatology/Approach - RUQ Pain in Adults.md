@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Gastroenterology & Hepatology"
 type: "Workflow"
 review_status: "New"
-tags: [gastroenterology-hepatology, workflow]
+tags: [workflow]
 created: 2026-08-18
 notion_id: 3c0224ab-ad81-8163-ad93-cecebff08a4c
 source: notion-migration

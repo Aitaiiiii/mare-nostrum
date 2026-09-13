@@ -7,7 +7,7 @@ specialty: "Critical Care"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [critical-care, workflow, acc-aha, esc]
+tags: [critical-care, emergency, workflow]
 created: 2026-07-05
 notion_id: 394224ab-ad81-813a-bc0b-f54e9f9129e3
 source: notion-migration

@@ -6,7 +6,7 @@ rotation: "Surgery"
 specialty: "Cardiothoracic Surgery"
 type: "Discrete entity"
 review_status: "New"
-tags: [cardiothoracic-surgery, discrete-entity]
+tags: []
 created: 2026-08-05
 notion_id: 3b3224ab-ad81-81f0-b142-e0d910f7afa0
 source: notion-migration

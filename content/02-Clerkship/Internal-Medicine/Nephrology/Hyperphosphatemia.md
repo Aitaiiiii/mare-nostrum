@@ -7,7 +7,7 @@ specialty: "Nephrology"
 type: "Disease"
 guidelines: ["KDIGO"]
 review_status: "New"
-tags: [nephrology, disease, kdigo]
+tags: []
 created: 2026-06-29
 notion_id: 38e224ab-ad81-81c7-b924-f91cfcdc494d
 source: notion-migration

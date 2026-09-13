@@ -6,7 +6,7 @@ specialty: "Physiology"
 related: ["Physiology (Map)", "Cardiology (Map)"]
 type: "Discrete entity"
 review_status: "Reviewing"
-tags: [physiology, discrete-entity, cardiology]
+tags: []
 created: 2026-07-15
 notion_id: 39e224ab-ad81-8178-9572-fbb40d21492b
 source: notion-migration

@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Arrhythmia & EP"
 type: "Discrete entity"
 review_status: "New"
-tags: [cardiology, arrhythmia-ep, discrete-entity]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81c1-b02f-cf7897d537b0
 source: notion-migration

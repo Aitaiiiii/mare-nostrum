@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Pericardium & Myocardium"
 type: "Disease"
 review_status: "New"
-tags: [cardiology, pericardium-myocardium, disease]
+tags: []
 created: 2026-07-26
 notion_id: 3a9224ab-ad81-81ea-b75b-db8dd62ba31f
 source: notion-migration

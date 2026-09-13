@@ -3,7 +3,7 @@ title: "MVA / Fractional Curettage / LEEP"
 type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
-tags: [standing-order, general]
+tags: [workflow]
 notion_id: 3d5224ab-ad81-8134-afaf-ed0cb1b2d350
 source: notion-migration
 ---
@@ -20,34 +20,38 @@ source: notion-migration
 
 ## 🕐 One-Day Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **CBC, UA; Hct stat**
+> - [ ] **ส่งชิ้นเนื้อ patho**
+>
+> ---
+>
 
-- **CBC, UA; Hct stat**
-- **ส่งชิ้นเนื้อ patho**
-
----
-
-### Medication
-
-- **Admit หอผู้ป่วยสูติ-นรีเวช; NPO, void ก่อนทำหัตถการ**
-- **Acetar 1,000 mL IV rate 120 mL/hr**
-- **Set MVA at ward**
-- **Pethidine 50 mg IV + Diazepam (Valium) 10 mg IV** — conscious sedation ก่อนทำหัตถการ
-    - *↳ MVA เจ็บ ต้องให้ยาระงับปวด/สงบประสาทก่อน และ monitor RR กับ O2 sat ระหว่างและหลังให้เพราะกด respiratory ได้*
-- **ตื่นดี กินได้ → off IV; observe bleeding per vagina**
+> [!example]+ 💊 Medication
+>
+> - [ ] **Admit หอผู้ป่วยสูติ-นรีเวช; NPO, void ก่อนทำหัตถการ**
+> - [ ] **Acetar 1,000 mL IV rate 120 mL/hr**
+> - [ ] **Set MVA at ward**
+> - [ ] **Pethidine 50 mg IV + Diazepam (Valium) 10 mg IV** — conscious sedation ก่อนทำหัตถการ
+>     - *↳ MVA เจ็บ ต้องให้ยาระงับปวด/สงบประสาทก่อน และ monitor RR กับ O2 sat ระหว่างและหลังให้เพราะกด respiratory ได้*
+> - [ ] **ตื่นดี กินได้ → off IV; observe bleeding per vagina**
+>
 
 
 ## 🔁 Continuous Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **Record vital signs; observe bleeding per vagina**
+>
+> ---
+>
 
-- **Record vital signs; observe bleeding per vagina**
-
----
-
-### Medication
-
-- **Regular diet**
-- **Paracetamol (500) 1 tab PO prn q4–6h #20**
-- **Doxycycline (100) 1×2 PO pc #10** — post-procedure prophylaxis
+> [!example]+ 💊 Medication
+>
+> - [ ] **Regular diet**
+> - [ ] **Paracetamol (500) 1 tab PO prn q4–6h #20**
+> - [ ] **Doxycycline (100) 1×2 PO pc #10** — post-procedure prophylaxis
+>
 

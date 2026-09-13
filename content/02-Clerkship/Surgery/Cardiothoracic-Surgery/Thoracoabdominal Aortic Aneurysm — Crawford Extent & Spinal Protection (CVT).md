@@ -7,7 +7,7 @@ specialty: "Cardiothoracic Surgery"
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "EACTS"]
 review_status: "New"
-tags: [cardiothoracic-surgery, discrete-entity, acc-aha, eacts]
+tags: []
 created: 2026-08-04
 notion_id: 3b2224ab-ad81-81a5-87ac-ca70270bfc8a
 source: notion-migration

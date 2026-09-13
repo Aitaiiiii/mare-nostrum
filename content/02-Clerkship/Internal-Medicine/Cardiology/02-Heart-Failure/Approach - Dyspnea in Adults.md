@@ -8,7 +8,7 @@ subspecialty: "Heart Failure"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ATS/ERS"]
 review_status: "New"
-tags: [cardiology, heart-failure, workflow, acc-aha, ats-ers]
+tags: [workflow]
 created: 2026-06-29
 notion_id: 38e224ab-ad81-81fc-9f4a-dda185d333e5
 source: notion-migration

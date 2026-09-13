@@ -7,7 +7,7 @@ specialty: "Gastroenterology & Hepatology"
 type: "Disease"
 guidelines: ["ACG"]
 review_status: "New"
-tags: [gastroenterology-hepatology, disease, acg]
+tags: []
 created: 2026-06-24
 notion_id: 389224ab-ad81-81d9-94b5-e0a3236fb184
 source: notion-migration

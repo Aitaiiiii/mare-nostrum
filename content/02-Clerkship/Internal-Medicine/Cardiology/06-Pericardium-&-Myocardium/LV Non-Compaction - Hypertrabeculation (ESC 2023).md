@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Pericardium & Myocardium"
 type: "Discrete entity"
 review_status: "New"
-tags: [cardiology, pericardium-myocardium, discrete-entity]
+tags: []
 created: 2026-07-26
 notion_id: 3a9224ab-ad81-8137-ae44-c0cb6d7fa223
 source: notion-migration

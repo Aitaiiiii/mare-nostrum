@@ -8,7 +8,7 @@ subspecialty: "Heart Failure"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC", "RCPT/Thai"]
 review_status: "Reviewing"
-tags: [cardiology, heart-failure, disease, acc-aha, esc, rcpt-thai]
+tags: []
 created: 2026-06-23
 notion_id: 387224ab-ad81-81e4-b79c-e5d452a2c835
 source: notion-migration

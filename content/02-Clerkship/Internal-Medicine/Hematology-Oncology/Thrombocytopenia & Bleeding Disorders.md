@@ -7,7 +7,7 @@ specialty: "Hematology-Oncology"
 type: "Workflow"
 guidelines: ["RCPT/Thai"]
 review_status: "New"
-tags: [hematology-oncology, workflow, rcpt-thai]
+tags: [workflow]
 created: 2026-06-29
 notion_id: 38e224ab-ad81-8162-96c9-ec2c8b3b6adf
 source: notion-migration

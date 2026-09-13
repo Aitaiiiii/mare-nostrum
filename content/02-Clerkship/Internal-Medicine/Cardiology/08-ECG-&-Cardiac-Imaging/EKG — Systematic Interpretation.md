@@ -8,7 +8,7 @@ subspecialty: "ECG & Cardiac Imaging"
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, ecg-cardiac-imaging, discrete-entity, acc-aha, esc]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81bf-88ce-dd8870be94f5
 source: notion-migration

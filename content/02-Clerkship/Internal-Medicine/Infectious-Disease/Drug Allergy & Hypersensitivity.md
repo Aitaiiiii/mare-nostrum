@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Infectious Disease"
 type: "Workflow"
 review_status: "New"
-tags: [infectious-disease, workflow]
+tags: [workflow]
 created: 2026-06-29
 notion_id: 38e224ab-ad81-8151-bcca-c39447d3c5ed
 source: notion-migration

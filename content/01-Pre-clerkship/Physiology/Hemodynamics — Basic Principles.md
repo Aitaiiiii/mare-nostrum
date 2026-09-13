@@ -7,7 +7,7 @@ related: ["Physiology (Map)", "Cardiology (Map)"]
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [physiology, discrete-entity, acc-aha, esc, cardiology]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81b9-a251-ff4305d7320d
 source: notion-migration

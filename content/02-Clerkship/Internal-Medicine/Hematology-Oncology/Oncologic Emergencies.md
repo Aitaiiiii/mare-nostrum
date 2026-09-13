@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Hematology-Oncology"
 type: "Workflow"
 review_status: "New"
-tags: [hematology-oncology, workflow]
+tags: [workflow]
 created: 2026-06-29
 notion_id: 38d224ab-ad81-8105-aec4-c75303983eea
 source: notion-migration

@@ -4,7 +4,7 @@ type: "Standing Order"
 specialty: "Cardiology"
 ward: ["Medicine"]
 also_relevant: ["Cardiology", "Critical Care medicine"]
-tags: [standing-order, cardiology, critical-care]
+tags: [workflow]
 notion_id: 3b2224ab-ad81-8191-8c21-f957ff8c3bca
 source: notion-migration
 ---

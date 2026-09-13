@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "ECG & Cardiac Imaging"
 type: "Discrete entity"
 review_status: "New"
-tags: [cardiology, ecg-cardiac-imaging, discrete-entity]
+tags: []
 created: 2026-07-27
 notion_id: 3aa224ab-ad81-819a-95f0-e3fb290d7062
 source: notion-migration

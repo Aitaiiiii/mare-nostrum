@@ -8,7 +8,7 @@ subspecialty: "Vascular & Hypertension"
 type: "Workflow"
 guidelines: ["ACC/AHA"]
 review_status: "New"
-tags: [cardiology, vascular-hypertension, workflow, acc-aha]
+tags: [workflow]
 created: 2026-07-28
 notion_id: 3ab224ab-ad81-81dd-8cbd-fb950643cfd0
 source: notion-migration

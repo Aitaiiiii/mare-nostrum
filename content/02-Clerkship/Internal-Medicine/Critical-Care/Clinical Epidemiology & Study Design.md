@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Critical Care"
 type: "Discrete entity"
 review_status: "New"
-tags: [critical-care, discrete-entity]
+tags: [critical-care]
 created: 2026-06-28
 notion_id: 38d224ab-ad81-8135-91e7-cffaabec6a11
 source: notion-migration

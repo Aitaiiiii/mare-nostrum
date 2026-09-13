@@ -16,7 +16,6 @@ tags: [map]
 - [[Cardiac Surgery & Intervention Procedures (CVT / Cardiac Surgery / Structural — Eponymous & Common Names)]]
 - [[Cardiac Trauma — Blunt & Penetrating (CVT)]]
 - [[Cardiopulmonary Bypass (CPB) — Circuit & Physiology (CVT)]]
-- [[Cardiothoracic Surgery]]
 - [[Congenital LVOT Obstruction (Valvar, Subvalvar & Supravalvar AS) — SNC-Ped C2]]
 - [[Connective Tissue Aortopathy — Surgical Thresholds (Marfan/LDS/vEDS) (CVT)]]
 - [[DHCA & Cerebral Protection (Circulatory Arrest, ACP/RCP, Temperature) (CVT)]]
@@ -36,6 +35,6 @@ tags: [map]
 - [[Type B Aortic Dissection — TEVAR vs Open vs Medical (CVT)]]
 - [[Vasoplegia & Post-CPB Coagulopathy (CVT)]]
 
-<small>27 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>26 notes · live filterable table available in Obsidian (Dataview).</small>
 
 

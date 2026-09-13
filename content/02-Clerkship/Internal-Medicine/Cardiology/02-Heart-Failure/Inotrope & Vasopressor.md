@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Heart Failure"
 type: "Discrete entity"
 review_status: "Reviewing"
-tags: [cardiology, heart-failure, discrete-entity]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8134-8fb1-fb991549c417
 source: notion-migration

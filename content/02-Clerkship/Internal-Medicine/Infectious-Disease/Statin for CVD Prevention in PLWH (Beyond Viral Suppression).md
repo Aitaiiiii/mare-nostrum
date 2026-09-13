@@ -7,7 +7,7 @@ specialty: "Infectious Disease"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [infectious-disease, workflow, acc-aha, esc]
+tags: [workflow]
 created: 2026-06-29
 notion_id: 38e224ab-ad81-8100-8be0-ee06dde34933
 source: notion-migration

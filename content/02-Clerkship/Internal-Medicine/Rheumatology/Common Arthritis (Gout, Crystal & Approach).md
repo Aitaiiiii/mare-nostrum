@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Rheumatology"
 type: "Disease"
 review_status: "New"
-tags: [rheumatology, disease]
+tags: []
 created: 2026-06-29
 notion_id: 38d224ab-ad81-817d-8eb4-e53328b37f76
 source: notion-migration

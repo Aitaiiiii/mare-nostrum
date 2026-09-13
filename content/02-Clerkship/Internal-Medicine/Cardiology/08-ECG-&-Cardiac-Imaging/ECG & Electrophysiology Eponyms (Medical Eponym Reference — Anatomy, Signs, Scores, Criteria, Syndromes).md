@@ -8,7 +8,7 @@ subspecialty: "ECG & Cardiac Imaging"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, ecg-cardiac-imaging, workflow, acc-aha, esc]
+tags: [workflow]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81f1-ba1e-c23df0d2a1c8
 source: notion-migration

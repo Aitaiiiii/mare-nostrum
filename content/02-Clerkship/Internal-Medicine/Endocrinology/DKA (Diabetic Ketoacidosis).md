@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Endocrinology"
 type: "Disease"
 review_status: "New"
-tags: [endocrinology, disease]
+tags: [emergency]
 created: 2026-08-20
 notion_id: 3c2224ab-ad81-81d2-939b-d810c0675169
 source: notion-migration

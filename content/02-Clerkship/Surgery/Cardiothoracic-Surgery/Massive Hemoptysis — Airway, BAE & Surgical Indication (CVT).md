@@ -6,7 +6,7 @@ rotation: "Surgery"
 specialty: "Cardiothoracic Surgery"
 type: "Workflow"
 review_status: "New"
-tags: [cardiothoracic-surgery, workflow]
+tags: [workflow]
 created: 2026-08-05
 notion_id: 3b3224ab-ad81-81af-ab29-ed60b58e959e
 source: notion-migration

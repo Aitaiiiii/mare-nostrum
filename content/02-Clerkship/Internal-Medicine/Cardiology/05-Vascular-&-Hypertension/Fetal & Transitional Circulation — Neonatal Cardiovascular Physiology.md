@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Vascular & Hypertension"
 type: "Discrete entity"
 review_status: "New"
-tags: [cardiology, vascular-hypertension, discrete-entity]
+tags: []
 created: 2026-08-24
 notion_id: 3c6224ab-ad81-814d-a16a-f00bf83a20bb
 source: notion-migration

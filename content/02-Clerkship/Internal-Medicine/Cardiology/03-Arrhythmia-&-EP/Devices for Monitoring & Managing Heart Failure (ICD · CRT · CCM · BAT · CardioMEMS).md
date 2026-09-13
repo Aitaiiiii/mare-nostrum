@@ -8,7 +8,7 @@ subspecialty: "Arrhythmia & EP"
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "Reviewing"
-tags: [cardiology, arrhythmia-ep, discrete-entity, acc-aha, esc]
+tags: []
 created: 2026-07-15
 notion_id: 39e224ab-ad81-8178-b091-e882a171896d
 source: notion-migration

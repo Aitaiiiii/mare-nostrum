@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Pericardium & Myocardium"
 type: "Workflow"
 review_status: "New"
-tags: [cardiology, pericardium-myocardium, workflow]
+tags: [workflow]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8105-8b8d-cf62194704db
 source: notion-migration

@@ -7,7 +7,7 @@ specialty: "Cardiology"
 type: "Workflow"
 guidelines: ["ESC"]
 review_status: "New"
-tags: [cardiology, workflow, esc, special-population]
+tags: [pregnancy, workflow]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8183-9870-ff326210b492
 source: notion-migration

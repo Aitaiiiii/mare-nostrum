@@ -7,7 +7,7 @@ specialty: "Cardiology"
 subspecialty: "Arrhythmia & EP"
 type: "Workflow"
 review_status: "New"
-tags: [cardiology, arrhythmia-ep, workflow]
+tags: [workflow]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8187-8188-db03c0dd5078
 source: notion-migration

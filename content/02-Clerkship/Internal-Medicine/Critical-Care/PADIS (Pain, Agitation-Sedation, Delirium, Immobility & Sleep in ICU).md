@@ -7,7 +7,7 @@ specialty: "Critical Care"
 type: "Workflow"
 guidelines: ["SSC/SCCM"]
 review_status: "New"
-tags: [critical-care, workflow, ssc-sccm]
+tags: [critical-care, workflow]
 created: 2026-06-26
 notion_id: 38b224ab-ad81-8151-a0b4-fbbd85cb565c
 source: notion-migration

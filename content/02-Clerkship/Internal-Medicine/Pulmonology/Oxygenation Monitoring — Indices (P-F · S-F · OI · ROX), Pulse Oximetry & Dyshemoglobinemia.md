@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Pulmonology"
 type: "Discrete entity"
 review_status: "New"
-tags: [pulmonology, discrete-entity]
+tags: []
 created: 2026-08-19
 notion_id: 3c1224ab-ad81-812c-89cc-f8ddd020a882
 source: notion-migration

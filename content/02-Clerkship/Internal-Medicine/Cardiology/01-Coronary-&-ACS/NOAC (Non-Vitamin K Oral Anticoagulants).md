@@ -8,7 +8,7 @@ subspecialty: "Coronary & ACS"
 type: "Discrete entity"
 guidelines: ["ESC"]
 review_status: "New"
-tags: [cardiology, coronary-acs, discrete-entity, esc]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8180-beb4-c51f7b46b7e9
 source: notion-migration

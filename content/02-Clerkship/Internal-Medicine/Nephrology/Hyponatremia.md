@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Nephrology"
 type: "Disease"
 review_status: "New"
-tags: [nephrology, disease]
+tags: []
 created: 2026-08-21
 notion_id: 3c3224ab-ad81-81a6-8d63-f81a118e9a35
 source: notion-migration

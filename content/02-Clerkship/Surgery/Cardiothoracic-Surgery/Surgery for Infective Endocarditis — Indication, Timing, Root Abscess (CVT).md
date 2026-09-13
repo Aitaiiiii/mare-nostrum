@@ -7,7 +7,7 @@ specialty: "Cardiothoracic Surgery"
 type: "Discrete entity"
 guidelines: ["ESC", "IDSA"]
 review_status: "New"
-tags: [cardiothoracic-surgery, discrete-entity, esc, idsa]
+tags: []
 created: 2026-08-04
 notion_id: 3b2224ab-ad81-8187-a281-e10e774cebbb
 source: notion-migration

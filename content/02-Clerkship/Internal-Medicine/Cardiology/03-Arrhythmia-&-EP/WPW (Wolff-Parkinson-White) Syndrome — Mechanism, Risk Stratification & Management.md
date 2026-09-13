@@ -8,7 +8,7 @@ subspecialty: "Arrhythmia & EP"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, arrhythmia-ep, disease, acc-aha, esc]
+tags: []
 created: 2026-07-18
 notion_id: 3a1224ab-ad81-815e-b48a-d46edd3e8587
 source: notion-migration

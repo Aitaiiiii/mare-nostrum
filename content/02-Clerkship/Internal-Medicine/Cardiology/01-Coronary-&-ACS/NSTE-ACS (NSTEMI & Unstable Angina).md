@@ -8,7 +8,7 @@ subspecialty: "Coronary & ACS"
 type: "Disease"
 guidelines: ["ESC"]
 review_status: "New"
-tags: [cardiology, coronary-acs, disease, esc]
+tags: [emergency]
 created: 2026-06-29
 notion_id: 38e224ab-ad81-81f1-9066-c45dd7bd76c0
 source: notion-migration

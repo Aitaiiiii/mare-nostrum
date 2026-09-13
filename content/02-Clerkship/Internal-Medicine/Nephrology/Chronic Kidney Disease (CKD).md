@@ -7,7 +7,7 @@ specialty: "Nephrology"
 type: "Disease"
 guidelines: ["KDIGO", "RCPT/Thai"]
 review_status: "New"
-tags: [nephrology, disease, kdigo, rcpt-thai]
+tags: []
 created: 2026-06-28
 notion_id: 38d224ab-ad81-8117-bd96-c26aec48faf4
 source: notion-migration

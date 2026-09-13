@@ -8,7 +8,7 @@ subspecialty: "Coronary & ACS"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, coronary-acs, workflow, acc-aha, esc]
+tags: [workflow]
 created: 2026-07-20
 notion_id: 3a3224ab-ad81-81c4-9991-fa45faf2ed30
 source: notion-migration

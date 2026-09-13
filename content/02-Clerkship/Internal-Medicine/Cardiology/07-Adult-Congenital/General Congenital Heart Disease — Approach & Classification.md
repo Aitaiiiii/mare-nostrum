@@ -8,7 +8,7 @@ subspecialty: "Adult Congenital"
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [cardiology, adult-congenital, workflow, acc-aha, esc]
+tags: [congenital, workflow]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-813b-b714-e36339833656
 source: notion-migration

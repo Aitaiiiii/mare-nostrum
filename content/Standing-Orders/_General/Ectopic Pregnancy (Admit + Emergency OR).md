@@ -3,7 +3,7 @@ title: "Ectopic Pregnancy (Admit + Emergency OR)"
 type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
-tags: [standing-order, general]
+tags: [pregnancy, workflow]
 notion_id: 3d5224ab-ad81-81d8-84df-e3b88b0fa530
 source: notion-migration
 ---
@@ -21,41 +21,45 @@ source: notion-migration
 
 ## 🕐 One-Day Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **CBC, BUN/Cr, electrolyte, LFT** — baseline ก่อนผ่าตัด
+> - [ ] **Serum β-hCG (quantitative)** — baseline
+> - [ ] **UA**
+> - [ ] **Blood group + G/M PRC 2 units**
+>     - *↳ ruptured ectopic เสียเลือดในช่องท้องได้เร็ว การจอง PRC ไว้ล่วงหน้าทำให้พร้อม transfuse ทันทีเมื่อ hemodynamic ทรุด*
+> - [ ] **CXR** — pre-op clearance
+>
+> ---
+>
 
-- **CBC, BUN/Cr, electrolyte, LFT** — baseline ก่อนผ่าตัด
-- **Serum β-hCG (quantitative)** — baseline
-- **UA**
-- **Blood group + G/M PRC 2 units**
-    - *↳ ruptured ectopic เสียเลือดในช่องท้องได้เร็ว การจอง PRC ไว้ล่วงหน้าทำให้พร้อม transfuse ทันทีเมื่อ hemodynamic ทรุด*
-- **CXR** — pre-op clearance
-
----
-
-### Medication
-
-- **Admit หอผู้ป่วยสูติ-นรีเวช, NPO**
-    - *↳ งดน้ำงดอาหารเพราะอาจต้อง general anesthesia สำหรับ laparotomy หรือ laparoscopy ฉุกเฉินได้ทุกเมื่อ*
-- **Acetar 1,000 mL IV rate 120 mL/hr**
-- **Prep skin and perineum + retained Foley's catheter**
-- **Cefazolin 2 g IV** นำไป OR — surgical prophylaxis
-- **Observe abdominal signs + vital signs อย่างใกล้ชิด**
+> [!example]+ 💊 Medication
+>
+> - [ ] **Admit หอผู้ป่วยสูติ-นรีเวช, NPO**
+>     - *↳ งดน้ำงดอาหารเพราะอาจต้อง general anesthesia สำหรับ laparotomy หรือ laparoscopy ฉุกเฉินได้ทุกเมื่อ*
+> - [ ] **Acetar 1,000 mL IV rate 120 mL/hr**
+> - [ ] **Prep skin and perineum + retained Foley's catheter**
+> - [ ] **Cefazolin 2 g IV** นำไป OR — surgical prophylaxis
+> - [ ] **Observe abdominal signs + vital signs อย่างใกล้ชิด**
+>
 
 
 ## 🔁 Continuous Orders
 
-### Investigation
+> [!example]+ 🔬 Investigation
+>
+> - [ ] **Serial vital signs + observe abdominal signs**
+>     - *↳ เฝ้าระวัง ongoing bleeding หรือ rupture ที่ยังไม่ได้ผ่าตัด สัญญาณคือ PR ขึ้น BP ตก ท้องอืดตึงมากขึ้น*
+> - [ ] **Repeat Hct** ตามอาการทางคลินิก
+>
+> ---
+>
 
-- **Serial vital signs + observe abdominal signs**
-    - *↳ เฝ้าระวัง ongoing bleeding หรือ rupture ที่ยังไม่ได้ผ่าตัด สัญญาณคือ PR ขึ้น BP ตก ท้องอืดตึงมากขึ้น*
-- **Repeat Hct** ตามอาการทางคลินิก
-
----
-
-### Medication
-
-- **NPO ต่อจนกว่าจะมี post-op order**
-- **Record vital signs, I/O**
-- **Anti-D immunoglobulin** ถ้ามารดา Rh-negative
-    - *↳ ป้องกัน Rh isoimmunization ในครรภ์ถัดไป ให้ภายใน 72 ชม.หลังเหตุการณ์ที่มี fetomaternal hemorrhage*
+> [!example]+ 💊 Medication
+>
+> - [ ] **NPO ต่อจนกว่าจะมี post-op order**
+> - [ ] **Record vital signs, I/O**
+> - [ ] **Anti-D immunoglobulin** ถ้ามารดา Rh-negative
+>     - *↳ ป้องกัน Rh isoimmunization ในครรภ์ถัดไป ให้ภายใน 72 ชม.หลังเหตุการณ์ที่มี fetomaternal hemorrhage*
+>
 
