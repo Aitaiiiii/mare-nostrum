@@ -4,7 +4,7 @@ type: "EKG"
 dx: "Sinus rhythm c wenckebach 6:5 and 5:4"
 ekg_tags: ["Brady", "Ischemia"]
 reviewed: "Yes"
-image: "case-1530e42d-3854-4c19-851c-47d4893daaea-1-105-c.jpeg"
+image: "[[case-1530e42d-3854-4c19-851c-47d4893daaea-1-105-c.jpeg]]"
 tags: [ekg, ekg/brady, ekg/ischemia]
 notion_id: 3a0224ab-ad81-8077-8bec-e3b7cbe1f7d4
 source: notion-migration

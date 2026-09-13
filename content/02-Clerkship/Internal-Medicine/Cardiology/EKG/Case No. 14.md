@@ -4,7 +4,7 @@ type: "EKG"
 dx: "WPW"
 ekg_tags: ["Conduction"]
 reviewed: "Yes"
-image: "case-14-img-0651.jpeg"
+image: "[[case-14-img-0651.jpeg]]"
 tags: [ekg, ekg/conduction]
 notion_id: 2a1224ab-ad81-80c5-8583-cda93d7d41f1
 source: notion-migration

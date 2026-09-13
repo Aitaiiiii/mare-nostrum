@@ -4,7 +4,7 @@ type: "EKG"
 dx: "LBBB STE"
 ekg_tags: ["Conduction"]
 reviewed: "Yes"
-image: "case-13-img-3808.jpeg"
+image: "[[case-13-img-3808.jpeg]]"
 tags: [ekg, ekg/conduction]
 notion_id: 27f224ab-ad81-800a-b274-cfac94bea937
 source: notion-migration

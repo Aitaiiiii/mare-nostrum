@@ -4,7 +4,7 @@ type: "Standing Order"
 specialty: "General"
 ward: ["Pediatrics"]
 related: ["ADHF (Acute Decompensated Heart Failure) — CHAMP Triage, Decongestion, Diuretic Resistance & Cardiogenic Shock"]
-tags: [pediatric, workflow]
+tags: [workflow]
 notion_id: 389224ab-ad81-8111-b162-cb6cf536542c
 source: notion-migration
 ---

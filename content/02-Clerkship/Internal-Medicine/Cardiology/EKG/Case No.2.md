@@ -4,7 +4,7 @@ type: "EKG"
 dx: "Pacemaker Mediated Tachycardia"
 ekg_tags: ["Pacemaker", "WCT"]
 reviewed: "Yes"
-image: "case-2-img-0477.jpeg"
+image: "[[case-2-img-0477.jpeg]]"
 tags: [ekg, ekg/pacemaker, ekg/wct]
 notion_id: 27f224ab-ad81-8055-ac1c-d8bd6264330e
 source: notion-migration

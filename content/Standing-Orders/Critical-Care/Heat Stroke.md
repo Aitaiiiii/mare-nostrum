@@ -3,7 +3,7 @@ title: "Heat Stroke"
 type: "Standing Order"
 specialty: "Critical Care"
 ward: ["Medicine"]
-tags: [critical-care, emergency, workflow]
+tags: [emergency, workflow]
 notion_id: 389224ab-ad81-81ef-bce6-c1bad19d23ca
 source: notion-migration
 ---

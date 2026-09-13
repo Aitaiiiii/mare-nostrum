@@ -4,7 +4,7 @@ type: "EKG"
 dx: "3 AVB, brady induce VT"
 ekg_tags: ["Brady", "WCT"]
 reviewed: "Yes"
-image: "case-9-img-0489.jpeg"
+image: "[[case-9-img-0489.jpeg]]"
 tags: [ekg, ekg/brady, ekg/wct]
 notion_id: 27f224ab-ad81-8004-8091-eff01754abd4
 source: notion-migration

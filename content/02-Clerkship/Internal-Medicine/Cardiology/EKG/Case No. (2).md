@@ -4,7 +4,7 @@ type: "EKG"
 dx: "AFL 2:1 c LBBB, rate dependent BBB, flecainide"
 ekg_tags: ["Conduction", "Drug/Elyte/Toxico", "WCT", "structure"]
 reviewed: "Yes"
-image: "case-image.png"
+image: "[[case-image.png]]"
 tags: [ekg, ekg/conduction, ekg/drug-elyte-toxico, ekg/structure, ekg/wct]
 notion_id: 39e224ab-ad81-8088-a1ae-c9654091d07f
 source: notion-migration

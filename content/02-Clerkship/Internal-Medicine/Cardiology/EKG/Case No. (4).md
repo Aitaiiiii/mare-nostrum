@@ -1,7 +1,7 @@
 ---
 title: "Case #"
 type: "EKG"
-image: "case-image.png"
+image: "[[case-image.png]]"
 tags: [ekg]
 notion_id: 3ae224ab-ad81-8080-815e-e4607c6600ab
 source: notion-migration

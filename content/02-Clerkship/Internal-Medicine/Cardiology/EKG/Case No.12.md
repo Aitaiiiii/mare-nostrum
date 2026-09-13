@@ -4,7 +4,7 @@ type: "EKG"
 dx: "Pericarditis"
 ekg_tags: ["structure"]
 reviewed: "Yes"
-image: "case-12-img-3748.jpeg"
+image: "[[case-12-img-3748.jpeg]]"
 tags: [ekg, ekg/structure]
 notion_id: 27f224ab-ad81-809f-9e95-e87fa25dc4a3
 source: notion-migration

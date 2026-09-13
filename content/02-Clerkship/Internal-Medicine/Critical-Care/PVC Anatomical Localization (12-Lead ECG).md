@@ -7,7 +7,7 @@ specialty: "Critical Care"
 type: "Discrete entity"
 guidelines: ["ACC/AHA"]
 review_status: "New"
-tags: [critical-care]
+tags: []
 created: 2026-06-26
 notion_id: 38b224ab-ad81-818a-a87d-c80bf026e31c
 source: notion-migration

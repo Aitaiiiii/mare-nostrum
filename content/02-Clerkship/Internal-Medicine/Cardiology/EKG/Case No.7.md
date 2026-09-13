@@ -4,7 +4,7 @@ type: "EKG"
 dx: "Prox RAD occlusion"
 ekg_tags: ["Ischemia"]
 reviewed: "Yes"
-image: "case-7-img-0485.jpeg"
+image: "[[case-7-img-0485.jpeg]]"
 tags: [ekg, ekg/ischemia]
 notion_id: 27f224ab-ad81-8047-8cd8-cc6b0bc740d7
 source: notion-migration

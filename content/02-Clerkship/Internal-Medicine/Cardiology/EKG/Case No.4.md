@@ -4,7 +4,7 @@ type: "EKG"
 dx: "2:1 AT"
 ekg_tags: ["NCT"]
 reviewed: "Yes"
-image: "case-4-img-0465.jpeg"
+image: "[[case-4-img-0465.jpeg]]"
 tags: [ekg, ekg/nct]
 notion_id: 27f224ab-ad81-8061-84f2-dd100269bb51
 source: notion-migration

@@ -4,7 +4,7 @@ type: "EKG"
 dx: "Normal healthy ECG"
 ekg_tags: ["Normal ?"]
 reviewed: "Yes"
-image: "case-11-img-1463.jpeg"
+image: "[[case-11-img-1463.jpeg]]"
 tags: [ekg, ekg/normal]
 notion_id: 27f224ab-ad81-804d-8e0b-fce38900bebb
 source: notion-migration

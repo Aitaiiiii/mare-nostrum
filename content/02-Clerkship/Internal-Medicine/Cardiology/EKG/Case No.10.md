@@ -4,7 +4,7 @@ type: "EKG"
 dx: "LA myxoma, PHT"
 ekg_tags: ["structure"]
 reviewed: "Yes"
-image: "case-10-img-0492.jpeg"
+image: "[[case-10-img-0492.jpeg]]"
 tags: [ekg, ekg/structure]
 notion_id: 27f224ab-ad81-8053-9568-fcdf8586f04f
 source: notion-migration

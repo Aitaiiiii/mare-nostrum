@@ -8,7 +8,7 @@ related: ["Pediatric Cardiology (Map)", "Adult Congenital (Map)"]
 type: "Disease"
 guidelines: ["ATS/ERS", "ESC"]
 review_status: "New"
-tags: [congenital, pediatric]
+tags: []
 created: 2026-08-29
 notion_id: 3cb224ab-ad81-815b-a2f1-f3da2ab880d1
 source: notion-migration

@@ -8,7 +8,7 @@ also_relevant: ["Critical Care medicine", "Chest Medicine"]
 type: "Workflow"
 guidelines: ["ATS/ERS"]
 review_status: "New"
-tags: [critical-care, workflow]
+tags: [workflow]
 created: 2026-06-26
 notion_id: 38b224ab-ad81-813e-994e-e12097c571d3
 source: notion-migration

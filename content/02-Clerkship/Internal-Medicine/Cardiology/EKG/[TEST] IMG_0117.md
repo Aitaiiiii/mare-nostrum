@@ -4,7 +4,7 @@ type: "EKG"
 dx: "AFL with variable block"
 ekg_tags: ["NCT"]
 reviewed: "Yes"
-image: "test-img-0117-img-0117.jpg"
+image: "[[test-img-0117-img-0117.jpg]]"
 tags: [ekg, ekg/nct]
 notion_id: 38a224ab-ad81-8199-b745-c6dd11c9558b
 source: notion-migration

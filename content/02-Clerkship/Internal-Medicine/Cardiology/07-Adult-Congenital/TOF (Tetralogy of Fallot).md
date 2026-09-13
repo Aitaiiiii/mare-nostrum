@@ -8,7 +8,7 @@ subspecialty: "Adult Congenital"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [congenital]
+tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8176-bdb8-fae0b66e8e38
 source: notion-migration

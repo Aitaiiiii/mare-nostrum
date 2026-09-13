@@ -4,7 +4,7 @@ type: "EKG"
 dx: "Left main pattern"
 ekg_tags: ["Ischemia"]
 reviewed: "Yes"
-image: "case-6-img-0483.jpeg"
+image: "[[case-6-img-0483.jpeg]]"
 tags: [ekg, ekg/ischemia]
 notion_id: 27f224ab-ad81-8067-bfd3-fe992cbd9d51
 source: notion-migration

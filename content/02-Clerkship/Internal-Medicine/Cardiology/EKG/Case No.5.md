@@ -4,7 +4,7 @@ type: "EKG"
 dx: "Junctional bigeminy"
 ekg_tags: ["Brady"]
 reviewed: "Yes"
-image: "case-5-img-0481.jpeg"
+image: "[[case-5-img-0481.jpeg]]"
 tags: [ekg, ekg/brady]
 notion_id: 27f224ab-ad81-8054-a542-c6d6c496cefd
 source: notion-migration

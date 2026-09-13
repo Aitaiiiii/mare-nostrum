@@ -4,7 +4,7 @@ type: "EKG"
 dx: "VT ddx hyperK, SVT c BBB"
 ekg_tags: ["WCT"]
 reviewed: "Yes"
-image: "case-3-img-0479.jpeg"
+image: "[[case-3-img-0479.jpeg]]"
 tags: [ekg, ekg/wct]
 notion_id: 27f224ab-ad81-8096-9b85-d5eaa7dd3119
 source: notion-migration

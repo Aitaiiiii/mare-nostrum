@@ -8,7 +8,7 @@ related: ["Pediatric Cardiology (Map)", "Adult Congenital (Map)"]
 type: "Workflow"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [congenital, pediatric, workflow]
+tags: [workflow]
 created: 2026-08-25
 notion_id: 3c7224ab-ad81-8111-9cf0-ef484b7a32e4
 source: notion-migration

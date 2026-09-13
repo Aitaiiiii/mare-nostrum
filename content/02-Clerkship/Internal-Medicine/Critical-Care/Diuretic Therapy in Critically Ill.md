@@ -8,7 +8,7 @@ also_relevant: ["Cardiology", "Nephrology"]
 type: "Workflow"
 guidelines: ["ESC", "KDIGO"]
 review_status: "New"
-tags: [critical-care, workflow]
+tags: [workflow]
 created: 2026-06-26
 notion_id: 38b224ab-ad81-8127-9809-ed58151ed607
 source: notion-migration

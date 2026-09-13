@@ -9,7 +9,7 @@ related: ["Cardiac Pharmacology (Map)", "Pharmacology (Map)"]
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC", "KDIGO"]
 review_status: "New"
-tags: [pharmacology]
+tags: []
 created: 2026-07-24
 notion_id: 3a7224ab-ad81-81b2-8981-ca29d64e1f7b
 source: notion-migration

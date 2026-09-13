@@ -6,7 +6,7 @@ rotation: "Internal Medicine"
 specialty: "Critical Care"
 type: "Workflow"
 review_status: "New"
-tags: [critical-care, workflow]
+tags: [workflow]
 created: 2026-07-07
 notion_id: 396224ab-ad81-81e4-abb5-ffb90d579e75
 source: notion-migration

@@ -8,7 +8,7 @@ subspecialty: "Cardiac Pharmacology"
 related: ["Cardiac Pharmacology (Map)", "Pharmacology (Map)"]
 type: "Discrete entity"
 review_status: "New"
-tags: [pharmacology]
+tags: []
 created: 2026-07-22
 notion_id: 3a5224ab-ad81-819a-90c0-f96781c4aa4c
 source: notion-migration

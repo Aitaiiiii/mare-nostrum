@@ -4,7 +4,7 @@ type: "EKG"
 dx: "PVC, retrograde P"
 ekg_tags: ["Ectopic beat"]
 reviewed: "Yes"
-image: "case-1-img-0275.jpeg"
+image: "[[case-1-img-0275.jpeg]]"
 tags: [ekg, ekg/ectopic-beat]
 notion_id: 26e224ab-ad81-80da-a32b-cc76234e9213
 source: notion-migration

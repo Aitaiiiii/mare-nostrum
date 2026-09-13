@@ -7,7 +7,7 @@ specialty: "Critical Care"
 type: "Disease"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
-tags: [critical-care]
+tags: []
 created: 2026-07-05
 notion_id: 394224ab-ad81-81f2-9f55-ed68759484c1
 source: notion-migration

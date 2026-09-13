@@ -7,7 +7,7 @@ specialty: "Critical Care"
 type: "Disease"
 guidelines: ["ESC"]
 review_status: "New"
-tags: [critical-care, emergency]
+tags: [emergency]
 created: 2026-06-25
 notion_id: 38a224ab-ad81-81c8-8c29-ef4c4d355967
 source: notion-migration

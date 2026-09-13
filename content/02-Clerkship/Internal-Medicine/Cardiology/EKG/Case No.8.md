@@ -4,7 +4,7 @@ type: "EKG"
 dx: "De winter"
 ekg_tags: ["Ischemia"]
 reviewed: "Yes"
-image: "case-8-img-0488.jpeg"
+image: "[[case-8-img-0488.jpeg]]"
 tags: [ekg, ekg/ischemia]
 notion_id: 27f224ab-ad81-80dd-96c7-ff899f13c5fb
 source: notion-migration
