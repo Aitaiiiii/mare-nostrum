@@ -1,6 +1,6 @@
 ---
 title: "Hypertension (Systemic Hypertension)"
-aliases: ["Hypertension (Systemic Hypertension)"]
+aliases: ["Hypertension (Systemic Hypertension)", "Hypertension"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -143,7 +143,7 @@ source: notion-migration
 | **Aortic stenosis (รุนแรง)** | Target เท่าคนทั่วไป (IIa C) — แต่ **ลดช้าๆ** เพราะลดเร็ว→ low-flow state จาก LVOT obstruction | **RAS blocker** (อาจลด myocardial fibrosis) + **beta-blocker** คุม HR เมื่อจำเป็น |
 | **Aortic regurgitation (เรื้อรัง รุนแรง)** | Wide pulse pressure → SBP สูง | **ACEI/ARB** (IIa C) — ลด SBP โดยไม่ลด DBP มากและไม่กด HR |
 
-> จุดที่ต้องจำ: **ischemic stroke ลด <185/110 ก่อน thrombolysis** · **sICH ลดถึง SBP 140 ได้** · **CAD คุม HR 60–80 แต่ระวัง J-curve** · **AS ห้ามลดเร็ว** · ดูเพจแยก [[Hypertensive Crises]] สำหรับยา IV เต็มตารางและ [[Secondary Hypertension]] สำหรับ workup
+> จุดที่ต้องจำ: **ischemic stroke ลด <185/110 ก่อน thrombolysis** · **sICH ลดถึง SBP 140 ได้** · **CAD คุม HR 60–80 แต่ระวัง J-curve** · **AS ห้ามลดเร็ว** · ดูเพจแยก [[Hypertensive Crises (Emergency & PSH)|Hypertensive Crises]] สำหรับยา IV เต็มตารางและ [[Secondary Hypertension]] สำหรับ workup
 > 
 
 # 4. 💊 Management & Pharmacodynamics

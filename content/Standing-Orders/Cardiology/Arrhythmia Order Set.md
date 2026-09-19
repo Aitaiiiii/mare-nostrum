@@ -6,9 +6,13 @@ ward: ["Medicine"]
 tags: [workflow]
 notion_id: 38a224ab-ad81-81e4-b3dc-e6106c676ff8
 source: notion-migration
+related: ["[[Tachyarrhythmia Overview]]", "[[Bradycardia & AV Block]]"]
+updated: 2026-09-14
 ---
 
 # Arrhythmia Order Set
+
+> 🃏 Order set for [[Tachyarrhythmia Overview]] · [[Bradycardia & AV Block]]
 
 > ⚠️ **SAFETY** | Reference สำหรับการศึกษาและ clinical reasoning เท่านั้น ปรับตาม local ACLS protocol, cardiac monitoring capability, และ attending physician ทุกครั้ง — cardioversion/defibrillation ต้องมี qualified personnel + resuscitation equipment พร้อม
 > 

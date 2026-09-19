@@ -12,11 +12,12 @@ tags: [emergency]
 created: 2026-07-20
 notion_id: 3a3224ab-ad81-8117-a02c-d0341b321322
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Acute Aortic Syndrome (AAS)
 
-*อ้าง 2022 ACC/AHA Aortic Disease Guideline (Circulation 2022;146:e334-e482) และ 2024 ESC Guidelines for peripheral arterial and aortic diseases (Eur Heart J 2024;45:3538-3700) · search 27 ส.ค. 2026 · เทคนิคผ่าตัด type A, arch และ root อยู่ที่ [Acute Type A Aortic Dissection — Surgical Management (CVT)](Acute%20Type%20A%20Aortic%20Dissection%20%E2%80%94%20Surgical%20Manageme%203b1224abad818175be31d2235b4d43b0.md) และ [Type B Aortic Dissection — TEVAR vs Open vs Medical (CVT)](Type%20B%20Aortic%20Dissection%20%E2%80%94%20TEVAR%20vs%20Open%20vs%20Medica%203b2224abad8181e982e7d21e65431204.md) · threshold ผ่าตัด aneurysm เชิงลึกอยู่ที่ [Aortic Root & Ascending Aneurysm (CVT)](Aortic%20Root%20&%20Ascending%20Aneurysm%20%E2%80%94%20Bentall%20vs%20Valv%203b2224abad818125b0e1ed2d1174a849.md) และ [Connective Tissue Aortopathy (CVT)](Connective%20Tissue%20Aortopathy%20%E2%80%94%20Surgical%20Thresholds%203b2224abad8181939f4cea34fbc0a9b6.md)*
+*อ้าง 2022 ACC/AHA Aortic Disease Guideline (Circulation 2022;146:e334-e482) และ 2024 ESC Guidelines for peripheral arterial and aortic diseases (Eur Heart J 2024;45:3538-3700) · search 27 ส.ค. 2026 · เทคนิคผ่าตัด type A, arch และ root อยู่ที่ [[Type A Aortic Dissection Surgery]] และ [[Type B Aortic Dissection]] · threshold ผ่าตัด aneurysm เชิงลึกอยู่ที่ [[Aortic Root & Ascending Aneurysm|Aortic Root & Ascending Aneurysm (CVT)]] และ [[Connective Tissue Aortopathy|Connective Tissue Aortopathy (CVT)]]*
 
 ## 1. 🧬 Etiology & Pathophysiology
 

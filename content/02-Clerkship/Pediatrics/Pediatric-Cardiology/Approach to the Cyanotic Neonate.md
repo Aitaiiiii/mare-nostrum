@@ -4,18 +4,19 @@ aliases: ["Approach to the Cyanotic Neonate"]
 stage: Clerkship
 rotation: "Pediatrics"
 specialty: "Pediatric Cardiology"
-related: ["Pediatric Cardiology (Map)", "Adult Congenital (Map)"]
+related: ["[[Pediatric Cardiology (Map)]]", "[[Adult Congenital (Map)]]"]
 type: "Workflow"
 review_status: "New"
 tags: [emergency, workflow]
 created: 2026-08-24
 notion_id: 3c6224ab-ad81-8152-b94f-cfa8a1b1f915
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Approach to the Cyanotic Neonate
 
-> **Source:** สร้างใหม่สำหรับ SNC-Ped section A2 (search 24 ส.ค. 2026) เพจนี้เป็น hub ที่ทำหน้าที่ route ทารกเขียวไปยัง lesion page รายโรค กลไกของแต่ละโรคอยู่ที่เพจนั้น · สรีรวิทยาการเปลี่ยนผ่านอยู่ที่ [Fetal & Transitional Circulation — Neonatal Cardiovascular Physiology](Fetal%20&%20Transitional%20Circulation%20%E2%80%94%20Neonatal%20Cardio%203c6224abad81814da16af00bf83a20bb.md) · index [🍼 SNC-Ped — Short Note in Pediatric Cardiology — Master Hub](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
+> **Source:** สร้างใหม่สำหรับ SNC-Ped section A2 (search 24 ส.ค. 2026) เพจนี้เป็น hub ที่ทำหน้าที่ route ทารกเขียวไปยัง lesion page รายโรค กลไกของแต่ละโรคอยู่ที่เพจนั้น · สรีรวิทยาการเปลี่ยนผ่านอยู่ที่ [[Fetal & Transitional Circulation]] · index [🍼 SNC-Ped — Short Note in Pediatric Cardiology — Master Hub](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
 > 
 
 ## 1. 🚨 Red flags — rule out first
@@ -114,7 +115,7 @@ PaO2 ที่ขึ้นเกิน **200 mmHg** ทำให้ congenital h
 
 ### PGE1 และ airway
 
-- **Alprostadil เริ่ม 0.05-0.1 mcg/kg/min IV** แล้วลดเป็น 0.01-0.025 mcg/kg/min ทันทีที่ duct เปิด (กลไก dose อยู่ที่ [Fetal & Transitional Circulation — Neonatal Cardiovascular Physiology](Fetal%20&%20Transitional%20Circulation%20%E2%80%94%20Neonatal%20Cardio%203c6224abad81814da16af00bf83a20bb.md))
+- **Alprostadil เริ่ม 0.05-0.1 mcg/kg/min IV** แล้วลดเป็น 0.01-0.025 mcg/kg/min ทันทีที่ duct เปิด (กลไก dose อยู่ที่ [[Fetal & Transitional Circulation]])
 - PaO2 มักขึ้นภายใน 10 ถึง 15 นาที ถ้าไม่ขึ้นให้เพิ่ม dose ก่อนทิ้งว่าไม่ตอบสนอง
 - เตรียมรับ apnea ทุกราย การ intubate ล่วงหน้าไม่จำเป็นเมื่อใช้ dose ต่ำ nasal cannula กระตุ้นก่อนได้ ส่วน methylxanthine ช่วยลด apnea ชัดเจนเฉพาะกับ aminophylline ที่ dose PGE1 10 ถึง 30 ng/kg/min
 

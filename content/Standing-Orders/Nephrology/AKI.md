@@ -3,9 +3,11 @@ title: "AKI"
 type: "Standing Order"
 specialty: "Nephrology"
 ward: ["Medicine"]
-tags: [workflow]
+related: ["[[Acute Kidney Injury]]"]
+tags: [workflow, emergency]
 notion_id: 321224ab-ad81-80ee-b1c3-d75ed7f230f9
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # AKI

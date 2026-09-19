@@ -3,7 +3,7 @@ title: "Sepsis"
 type: "Standing Order"
 specialty: "Infectious Disease"
 ward: ["Medicine"]
-related: ["Sepsis (Sepsis-3)"]
+related: ["[[Sepsis (Sepsis-3)]]"]
 tags: [emergency, workflow]
 notion_id: 321224ab-ad81-80d2-9ff5-d96277b9e26e
 source: notion-migration

@@ -10,11 +10,13 @@ tags: []
 created: 2026-08-18
 notion_id: 3c0224ab-ad81-8121-91d3-d92575cd6a84
 source: notion-migration
+related: ["[[Acute Cholecystitis Orders]]"]
+updated: 2026-09-14
 ---
 
 # Acute Cholecystitis
 
-*Spoke ของ [Approach: RUQ Pain in Adults](Approach%20RUQ%20Pain%20in%20Adults%203c0224abad818163ad93cecebff08a4c.md) · order set ข้างเตียงอยู่ที่ [Standing Order: Acute Cholecystitis](https://app.notion.com/p/Acute-Cholecystitis-389224abad8181d4b008c27da2df6565?pvs=21) · สร้าง 18 ส.ค. 2026 อ้าง TG18/TG13*
+*Spoke ของ [[Approach - RUQ Pain in Adults|Approach: RUQ Pain in Adults]] · order set ข้างเตียงอยู่ที่ [Standing Order: Acute Cholecystitis](https://app.notion.com/p/Acute-Cholecystitis-389224abad8181d4b008c27da2df6565?pvs=21) · สร้าง 18 ส.ค. 2026 อ้าง TG18/TG13*
 
 ## 1. 🧬 Etiology & Molecular Pathophysiology
 
@@ -93,7 +95,7 @@ lab พื้นฐานคือ CBC, CRP, LFT และ lipase เพื่�
 - **Grade II (moderate)** — เข้าเกณฑ์ข้อใดข้อหนึ่งจากสี่ข้อนี้ คือ WBC **>18,000/mm³** · palpable tender mass ที่ RUQ · อาการนานกว่า **72 ชั่วโมง** · marked local inflammation (gangrenous, pericholecystic abscess, hepatic abscess, biliary peritonitis, emphysematous cholecystitis)
 - **Grade III (severe)** — มี organ dysfunction ข้อใดข้อหนึ่ง คือ cardiovascular (ต้องใช้ dopamine **≥5 µg/kg/min** หรือ norepinephrine ทุก dose) · neurological (ระดับความรู้สึกตัวลด) · respiratory (PaO2/FiO2 **<300**) · renal (oliguria หรือ creatinine **>2.0 mg/dL**) · hepatic (PT-INR **>1.5**) · hematological (platelet **<100,000/mm³**)
 
-Grade II ต้องเข้าแค่ 1 ใน 4 ข้อ ต่างจาก Grade II ของ cholangitis ที่ต้องเข้า 2 ใน 5 ข้อ (ดู [Acute Cholangitis](Acute%20Cholangitis%203c0224abad8181e89707f1c93c28eb9b.md)) เป็นความไม่สมมาตรที่ต้องจำแยกกันเพราะสองระบบดูคนละโรค
+Grade II ต้องเข้าแค่ 1 ใน 4 ข้อ ต่างจาก Grade II ของ cholangitis ที่ต้องเข้า 2 ใน 5 ข้อ (ดู [[Acute Cholangitis]]) เป็นความไม่สมมาตรที่ต้องจำแยกกันเพราะสองระบบดูคนละโรค
 
 bile duct injury เพิ่มตามเกรดจริง จาก 0.96% ใน Grade I ไปเป็น 2.41% ใน Grade II และ 8.43% ใน Grade III ส่วน mortality สูงขึ้นชัดใน Grade III (ราว 5.4%) เทียบกับเกรดต่ำกว่า
 

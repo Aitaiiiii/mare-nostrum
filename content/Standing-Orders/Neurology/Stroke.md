@@ -6,9 +6,13 @@ ward: ["Medicine"]
 tags: [workflow]
 notion_id: 321224ab-ad81-80f2-be7d-e8cfea45281b
 source: notion-migration
+related: ["[[Acute Ischemic Stroke]]"]
+updated: 2026-09-14
 ---
 
 # Stroke
+
+> 🃏 Order set for [[Acute Ischemic Stroke]]
 
 > [!question]- What to review
 >

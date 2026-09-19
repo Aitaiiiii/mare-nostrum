@@ -5,13 +5,14 @@ stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
 subspecialty: "Cardiac Pharmacology"
-related: ["Cardiac Pharmacology (Map)", "Pharmacology (Map)"]
+related: ["[[Cardiac Pharmacology (Map)]]", "[[Pharmacology (Map)]]"]
 type: "Discrete entity"
 review_status: "New"
 tags: []
 created: 2026-07-22
 notion_id: 3a5224ab-ad81-819a-90c0-f96781c4aa4c
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Fibrinolytic Therapy
@@ -36,9 +37,9 @@ source: notion-migration
 
 | Indication | ยาที่เลือก | หมายเหตุ |
 | --- | --- | --- |
-| **STEMI (ไม่มี primary PCI ใน 120 นาที)** | **Tenecteplase** (pharmacoinvasive) | แล้วส่ง PCI ต่อ 2–24 ชม.; ดู [[STEMI (ST-Elevation Myocardial Infarction)]] |
-| **Acute ischemic stroke (≤ 4.5 ชม.)** | **Alteplase 0.9 หรือ Tenecteplase 0.25** | 2026 AHA/ASA: TNK 0.25 = strong alt; ดู [[Acute Ischemic Stroke (2026 AHA-ASA Update)|Acute Ischemic Stroke (2026 AHA/ASA Update)]] |
-| **Massive PE (high-risk, hemodynamic compromise)** | **Alteplase 100 mg / 2 ชม.** | submassive = case-by-case; ดู [[Approach - Chest Pain in Adults|Approach: Chest Pain in Adults]] |
+| **STEMI (ไม่มี primary PCI ใน 120 นาที)** | **Tenecteplase** (pharmacoinvasive) | แล้วส่ง PCI ต่อ 2–24 ชม.; ดู [[STEMI]] |
+| **Acute ischemic stroke (≤ 4.5 ชม.)** | **Alteplase 0.9 หรือ Tenecteplase 0.25** | 2026 AHA/ASA: TNK 0.25 = strong alt; ดู [[Acute Ischemic Stroke\|Acute Ischemic Stroke (2026 AHA/ASA Update)]] |
+| **Massive PE (high-risk, hemodynamic compromise)** | **Alteplase 100 mg / 2 ชม.** | submassive = case-by-case; ดู [[Approach - Chest Pain in Adults\|Approach: Chest Pain in Adults]] |
 | **การเปิด catheter/line อุดตัน** | alteplase catheter dose | local |
 
 ## 3. ⚖️ Dosing (โดยโรค)
@@ -66,7 +67,7 @@ source: notion-migration
 > - **Ischemic stroke ภายใน 3 เดือน** (ยกเว้น acute stroke ≤ 4.5 ชม. ที่กำลังรักษา)
 > 
 
-> - **สงสัย aortic dissection** — fibrinolytic ละลาย thrombus ที่อุดรอยฉีก → hemorrhagic shock (ดู [[Diseases of the Aorta (Acute Aortic Syndromes & Aortic Aneurysm)]])
+> - **สงสัย aortic dissection** — fibrinolytic ละลาย thrombus ที่อุดรอยฉีก → hemorrhagic shock (ดู [[Acute Aortic Syndrome (AAS)|Diseases of the Aorta (Acute Aortic Syndromes)]])
 > 
 
 > - **Structural cerebral vascular lesion (AVM) / malignant intracranial neoplasm**

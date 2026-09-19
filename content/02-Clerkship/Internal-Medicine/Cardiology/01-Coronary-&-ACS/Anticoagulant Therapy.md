@@ -11,6 +11,7 @@ tags: []
 created: 2026-07-22
 notion_id: 3a5224ab-ad81-81e2-a9e0-e9a77d0da1f6
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Anticoagulant Therapy
@@ -49,13 +50,13 @@ source: notion-migration
 | Indication | ยาที่เลือก | หมายเหตุ / Guideline |
 | --- | --- | --- |
 | **AF — stroke prevention** | **DOAC เหนือ warfarin** (ยกเว้นข้อห้าม) | Class 1 — 2023 ACC/AHA, 2024 ESC AF |
-| **Mechanical prosthetic valve** | **Warfarin เท่านั้น** (DOAC ห้าม — RE-ALIGN) | ดู [[Arrhythmia (AF Anticoagulation, VT, AV Block, PVC & Inherited Syndromes)]] |
+| **Mechanical prosthetic valve** | **Warfarin เท่านั้น** (DOAC ห้าม — RE-ALIGN) | ดู [[Prosthetic Heart Valves\|Prosthetic Heart Valves]] |
 | **Rheumatic MS + AF** | **Warfarin** (INVICTUS: VKA เหนือ rivaroxaban) | DOAC ห้าม |
 | **VTE (DVT/PE) treatment** | DOAC (apixaban/rivaroxaban เริ่มได้เลย ไม่ต้อง lead-in) | 2024 ASH; LMWH lead-in สำหรับ dabigatran/edoxaban |
 | **Cancer-associated VTE** | apixaban/edoxaban/rivaroxaban หรือ LMWH | ระวัง GI/GU bleeding กับ edoxaban/rivaroxaban |
 | **VTE ในหญิงตั้งครรภ์** | **LMWH** (DOAC/warfarin ห้าม — ผ่านรก/teratogen) | warfarin embryopathy |
 | **HIT** | **Argatroban / fondaparinux / DOAC** (ห้าม heparin ทุกชนิด) | ดู [[Thrombocytopenia & Bleeding Disorders]] |
-| **ACS ระหว่าง PCI** | UFH หรือ bivalirudin | ดู [[STEMI (ST-Elevation Myocardial Infarction)]] |
+| **ACS ระหว่าง PCI** | UFH หรือ bivalirudin | ดู [[STEMI]] |
 
 ### ACS-specific selection logic
 

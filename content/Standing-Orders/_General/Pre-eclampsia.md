@@ -3,9 +3,11 @@ title: "Pre-eclampsia"
 type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
-tags: [pregnancy, workflow]
+related: ["[[Pre-eclampsia & Eclampsia]]"]
+tags: [pregnancy, workflow, emergency]
 notion_id: 389224ab-ad81-81a8-a579-dda343781eea
 source: notion-migration
+updated: 2026-09-19
 ---
 
 # Pre-eclampsia

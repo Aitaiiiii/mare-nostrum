@@ -2,14 +2,25 @@
 title: "Cardiac Pharmacology (Map)"
 type: Map
 tags: [map]
+cssclasses:
+  - map
 ---
 
-# 💊 Cardiac Pharmacology (Map)
+# 💊 Cardiac Pharmacology
 
 ## Contents
 
-- [[Congenital LVOT Obstruction (Valvar, Subvalvar & Supravalvar AS) — SNC-Ped C2]]
+_No notes yet._
 
-<small>1 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>0 notes · live filterable table available in Obsidian (Dataview).</small>
 
 
+## Agents
+
+```dataview
+LIST rows.file.link
+FROM #cardiac-pharmacology
+WHERE type != "Map"
+GROUP BY default(subspecialty, "General")
+SORT file.name ASC
+```

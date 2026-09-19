@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8145-b815-e2af1244da75
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Stress Imaging
 
-Source: **Short Notes Cardiology (SNC5)** + live verify (27 ก.ค. 2026: TID ratio, vasodilator adequacy). **Stress imaging** = ประเมิน inducible ischemia / viability เมื่อ resting ECG อ่านไม่ได้ หรือ pretest probability กลาง: **stress echo (DSE)**, **SPECT/PET MPI**. Companion: [[EST & CPET (Exercise Stress Test & Cardiopulmonary Exercise Test)]] · [[Cardiac MRI (CMR)]] · [[Coronary Blood Flow & Myocardial Ischemia (FFR · Microvascular Dysfunction · Ischemic Cascade)]]
+Source: **Short Notes Cardiology (SNC5)** + live verify (27 ก.ค. 2026: TID ratio, vasodilator adequacy). **Stress imaging** = ประเมิน inducible ischemia / viability เมื่อ resting ECG อ่านไม่ได้ หรือ pretest probability กลาง: **stress echo (DSE)**, **SPECT/PET MPI**. Companion: [[EST & CPET]] · [[Cardiac MRI (CMR)]] · [[Coronary Blood Flow & Ischemia]]
 
 ## 🔬 Principles
 

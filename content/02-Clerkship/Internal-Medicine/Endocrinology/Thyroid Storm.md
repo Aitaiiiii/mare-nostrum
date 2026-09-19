@@ -10,11 +10,13 @@ tags: [emergency]
 created: 2026-09-03
 notion_id: 3d0224ab-ad81-8182-b357-ce5f6fcf63e6
 source: notion-migration
+related: ["[[Thyroid Storm Orders]]"]
+updated: 2026-09-14
 ---
 
 # Thyroid Storm
 
-> **เกี่ยวโยงกับ:** monograph หลัก [Thyroid Disorders (Thyrotoxicosis & Hypothyroidism)](Thyroid%20Disorders%20(Thyrotoxicosis%20&%20Hypothyroidism%2038d224abad818139bccfc27a07ee9f74.md) · order set เต็ม [Thyroid storm](https://app.notion.com/p/Thyroid-storm-321224abad8180d28f55e2d63f497419?pvs=21)
+> **เกี่ยวโยงกับ:** monograph หลัก [[Thyroid Disorders]] · order set เต็ม [Thyroid storm](https://app.notion.com/p/Thyroid-storm-321224abad8180d28f55e2d63f497419?pvs=21)
 > 
 
 ## 1. 🧬 Etiology & Precipitants

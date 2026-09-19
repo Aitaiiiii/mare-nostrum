@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-28
 notion_id: 3aa224ab-ad81-8157-bfe6-ff0af6ac66be
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Short QT Syndrome
 
-> Inherited channelopathy · companion: [[Long QT Syndrome]] · [[Brugada Syndrome]] · [[Sudden Cardiac Death — Approach & Risk Stratification]] · [[Antiarrhythmic Drugs]] — *created 28 ก.ค. 2026 จาก digest SNC4 + verification (2022 ESC VA/SCD)*
+> Inherited channelopathy · companion: [[Long QT Syndrome]] · [[Brugada Syndrome]] · [[SCD (Sudden Cardiac Death)]] · [[Antiarrhythmic Drugs]] — *created 28 ก.ค. 2026 จาก digest SNC4 + verification (2022 ESC VA/SCD)*
 > 
 
 # 🧬 Etiology & Pathophysiology

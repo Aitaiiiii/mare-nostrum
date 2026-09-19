@@ -53,6 +53,6 @@ source: notion-migration
 
 > [!example]+ 💊 Medication
 >
-> - [ ] **หลังผ่าตัด → ใช้** [Post-op Lower-Transverse C/S](Post-op%20Lower-Transverse%20C%20S%20389224abad8181f188abe548f272888e.md)
+> - [ ] **หลังผ่าตัด → ใช้** [[Post-op Lower-Transverse C-S|Post-op Lower-Transverse C/S]]
 >
 

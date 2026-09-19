@@ -3,15 +3,13 @@ title: "Post-op Lower-Transverse C/S"
 type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
-related: ["Post-op Oliguria (Explore Laparotomy)"]
 tags: [workflow]
 notion_id: 389224ab-ad81-81f1-88ab-e548f272888e
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Post-op Lower-Transverse C/S
-
-> 🃏 Order set for [[Post-op Oliguria (Explore Laparotomy)]]
 
 - **C/S indication:** elective vs emergency; failed IOL, fetal distress, malpresentation, prior C/S (VBAC vs repeat)
 - **Anesthesia type:** SAB (spinal) most common; GA ถ้า emergency/failed SAB — N/V, shivering common post-SAB

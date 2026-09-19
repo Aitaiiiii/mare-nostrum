@@ -3,15 +3,16 @@ title: "Acute Gouty Arthritis"
 type: "Standing Order"
 specialty: "Rheumatology"
 ward: ["Medicine"]
-related: ["ADHF (Acute Decompensated Heart Failure) — CHAMP Triage, Decongestion, Diuretic Resistance & Cardiogenic Shock"]
+related: ["[[Common Arthritis (Gout & Crystal)]]"]
 tags: [workflow]
 notion_id: 389224ab-ad81-816f-a03d-ebc4a2e79a6a
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Acute Gouty Arthritis
 
-> 🃏 Order set for [[ADHF (Acute Decompensated Heart Failure) — CHAMP Triage, Decongestion, Diuretic Resistance & Cardiogenic Shock]]
+> 🃏 Order set for [[Common Arthritis (Gout & Crystal)]]
 
 - **Joint involved:** first MTP (podagra = classic), ankle, knee, wrist — มักเป็น monoarticular; polyarticular = advanced gout or consider septic arthritis
 - **Acute gout triggers:** alcohol binge, high-purine food (organ meat, shellfish), dehydration, surgery, medications (diuretics, cyclosporine, aspirin low-dose), contrast media

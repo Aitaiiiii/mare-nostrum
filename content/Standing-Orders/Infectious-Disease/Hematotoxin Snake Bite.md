@@ -3,9 +3,11 @@ title: "Hematotoxin Snake Bite"
 type: "Standing Order"
 specialty: "Infectious Disease"
 ward: ["Medicine"]
+related: ["[[Neurotoxic Snakebite]]"]
 tags: [emergency, workflow]
 notion_id: 389224ab-ad81-816a-8dc5-dd06695babed
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # Hematotoxin Snake Bite

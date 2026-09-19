@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-26
 notion_id: 3a9224ab-ad81-81c2-9548-e55036cab25e
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Resistant & Refractory Hypertension
@@ -19,7 +20,7 @@ source: notion-migration
 > **Source:** 2024 Thai Guidelines on the Treatment of Hypertension (RCPT/Thai) บทที่ 12 — Resistant & refractory hypertension | สืบค้น/verify: 26 ก.ค. 2568 (เพิ่ม baxdrostat จาก NEJM 2025 + FDA approval 2026)
 > 
 
-เพจแม่: [[Hypertension (Systemic Hypertension)]] · เพจยา: [[MRA (Mineralocorticoid Receptor Antagonists — Spironolactone, Eplerenone, Finerenone)]]
+เพจแม่: [[Hypertension (Systemic Hypertension)]] · เพจยา: [[Mineralocorticoid Receptor Antagonists]]
 
 # 1. 🧬 นิยาม & Pathophysiology
 

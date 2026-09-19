@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8122-8cbe-e033f9e8aa1d
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Pulmonary Hypertension
 
-> **Source:** SNC9 (Vascular disease) digest — **re-verified & updated ต่อ 2022 ESC/ERS Pulmonary Hypertension Guideline** (นิยาม hemodynamic เปลี่ยนจากของเดิม). CTEPH (Group 4) เชื่อมโยง [[Pulmonary Embolism]]; Eisenmenger ดู [[Eisenmenger Syndrome]]; PH จาก left heart ดู [[Valvular Heart Disease (Murmur Approach, Severity & Timing of Intervention)]]
+> **Source:** SNC9 (Vascular disease) digest — **re-verified & updated ต่อ 2022 ESC/ERS Pulmonary Hypertension Guideline** (นิยาม hemodynamic เปลี่ยนจากของเดิม). CTEPH (Group 4) เชื่อมโยง [[VTE (DVT & Pulmonary Embolism)|Pulmonary Embolism]]; Eisenmenger ดู [[Eisenmenger Syndrome]]; PH จาก left heart ดู [[Valvular Heart Disease]]
 > 
 
 **Pulmonary Hypertension (PH)** = ภาวะความดันในหลอดเลือดแดงปอดสูง ประเมินยืนยันด้วย **right heart catheterization (RHC)** เท่านั้น. **Pulmonary Arterial Hypertension (PAH, Group 1)** เป็น subset ที่พยาธิสภาพอยู่ที่ pulmonary arteriole เอง (vasoconstriction + remodeling + in-situ thrombosis) → ตอบสนองต่อ PAH-specific therapy

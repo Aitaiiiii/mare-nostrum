@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81bf-88ce-dd8870be94f5
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # EKG — Systematic Interpretation
 
-> หน้านี้คือ **workflow เชิงระบบ** สำหรับอ่าน ECG ทีละขั้น (rate → rhythm → axis → intervals → chamber enlargement → Q wave → QRS → ST-T → QT → U wave/electrolyte) ส่วน**ชื่อเฉพาะ/eponym แต่ละตัว** (Sokolow-Lyon, Cornell, Sgarbossa, De Winter, Bazett/Fridericia, Wellens ฯลฯ) ให้ดูรายละเอียดเต็มที่ [[ECG & Electrophysiology Eponyms (Medical Eponym Reference — Anatomy, Signs, Scores, Criteria, Syndromes)]] — หน้านี้จะอ้างอิงสั้นๆ ไม่ duplicate เนื้อหา
+> หน้านี้คือ **workflow เชิงระบบ** สำหรับอ่าน ECG ทีละขั้น (rate → rhythm → axis → intervals → chamber enlargement → Q wave → QRS → ST-T → QT → U wave/electrolyte) ส่วน**ชื่อเฉพาะ/eponym แต่ละตัว** (Sokolow-Lyon, Cornell, Sgarbossa, De Winter, Bazett/Fridericia, Wellens ฯลฯ) ให้ดูรายละเอียดเต็มที่ [[ECG & EP Eponyms]] — หน้านี้จะอ้างอิงสั้นๆ ไม่ duplicate เนื้อหา
 > 
 
 > 🚨 **STRICT AVOIDANCE / RED FLAGS**
@@ -114,7 +115,7 @@ source: notion-migration
 - **Type B** (volume overload เช่น ASD): RBBB-like pattern + RAD
 - **Type C** (COPD/cor pulmonale): low voltage + poor R progression, ไม่มี tall R ใน V1, RAD+RAE, deep S V1-3 (ระวังเลียนแบบ anterior MI)
 
-**LVH:** ดู eponymous voltage criteria (Sokolow-Lyon, Cornell, Romhilt-Estes) ที่ [[ECG & Electrophysiology Eponyms (Medical Eponym Reference — Anatomy, Signs, Scores, Criteria, Syndromes)]] หมวด Scores; เพิ่มเติม — ถ้ามี LAFB ร่วมด้วย เกณฑ์เปลี่ยนเป็น S ใน III + max(R+S) ใน lead ใดๆ **≥30 mm (ชาย) / ≥28 mm (หญิง)**, R ใน aVL ≥11 mm; **Katz-Wachtel phenomenon** (biventricular hypertrophy) = QRS amplitude V2-5 รวม ≥50 mm
+**LVH:** ดู eponymous voltage criteria (Sokolow-Lyon, Cornell, Romhilt-Estes) ที่ [[ECG & EP Eponyms]] หมวด Scores; เพิ่มเติม — ถ้ามี LAFB ร่วมด้วย เกณฑ์เปลี่ยนเป็น S ใน III + max(R+S) ใน lead ใดๆ **≥30 mm (ชาย) / ≥28 mm (หญิง)**, R ใน aVL ≥11 mm; **Katz-Wachtel phenomenon** (biventricular hypertrophy) = QRS amplitude V2-5 รวม ≥50 mm
 
 - LV **dilatation**: Q wave V5-6 + ST ปกติ; LV **hypertrophy**: strain pattern V5-6 + inverted T
 - Pressure overload → LVH + strain pattern; volume overload → LVH + upright T wave
@@ -195,7 +196,7 @@ source: notion-migration
 
 **Posterior STEMI:** STE≥0.5 mm ที่ V7-9 + STD≥0.5 mm ที่ V1-3
 
-**LM occlusion:** STE aVR > STE V1 (ร่วมกับ diffuse STD) — ดู [[ECG & Electrophysiology Eponyms...]] หมวด De Winter/STEMI-equivalent
+**LM occlusion:** STE aVR > STE V1 (ร่วมกับ diffuse STD) — ดู [[ECG & EP Eponyms|ECG & Electrophysiology Eponyms]] หมวด De Winter/STEMI-equivalent
 
 **RV infarction:** STE V1, STE V1 ร่วมกับ STD V2, STE V3R-4R ≥0.5 mm (อายุ<30 ปี ต้อง ≥1 mm) — PPV~100%, NPV~80% (⚠️ ตัวเลข PPV/NPV จากแหล่งเดิม ยังไม่ re-verify)
 
@@ -219,7 +220,7 @@ source: notion-migration
 
 **Secondary ST/T changes** (เกิดจาก depolarization ผิดปกติ ไม่ใช่ ischemia): LBBB (lead V6), LVH (lead V6), RBBB (lead V1), pre-excitation (delta wave); RVH — large R + STD V1-3 (ถ้ามี chest pain ต้องแยกจาก posterolateral ischemia)
 
-**STEMI with LBBB:** ดู Cabrera sign, Chapman sign, Sgarbossa/Smith-modified Sgarbossa criteria ที่ [[ECG & Electrophysiology Eponyms...]] หมวด Criteria — Original Sgarbossa ≥3 คะแนน specificity ~90%; discordant STE>5mm จำเพาะต่อ RV pacing setting มากกว่า intrinsic LBBB
+**STEMI with LBBB:** ดู Cabrera sign, Chapman sign, Sgarbossa/Smith-modified Sgarbossa criteria ที่ [[ECG & EP Eponyms|ECG & Electrophysiology Eponyms]] หมวด Criteria — Original Sgarbossa ≥3 คะแนน specificity ~90%; discordant STE>5mm จำเพาะต่อ RV pacing setting มากกว่า intrinsic LBBB
 
 **ACS EKG pitfalls:**
 
@@ -239,7 +240,7 @@ source: notion-migration
 
 **ใน AF:** เฉลี่ย QTc (Fridericia) ของ RR ที่ยาวที่สุดและสั้นที่สุด
 
-**สูตร correction:** ดูรายละเอียด Bazett/Fridericia + ข้อจำกัดที่ [[ECG & Electrophysiology Eponyms...]] หมวด Formulas; eyeballing (HR 60-100): QT prolonged ถ้าเกินครึ่งของ RR; tachycardia ที่ QT<50% RR = short QT; เครื่อง auto-measure มักประเมินสูงเกินจริง (overestimate)
+**สูตร correction:** ดูรายละเอียด Bazett/Fridericia + ข้อจำกัดที่ [[ECG & EP Eponyms|ECG & Electrophysiology Eponyms]] หมวด Formulas; eyeballing (HR 60-100): QT prolonged ถ้าเกินครึ่งของ RR; tachycardia ที่ QT<50% RR = short QT; เครื่อง auto-measure มักประเมินสูงเกินจริง (overestimate)
 
 **QTc prolonged (✅ verified — 2009 AHA/ACCF/HRS):** **≥450 ms (ชาย), ≥460 ms (หญิง)**; QTc>500 ms → torsades risk สูง; QTc สั้นผิดปกติ **<390 ms**
 
@@ -264,7 +265,7 @@ Prominent U wave: >1-2 mm หรือ >25% ของความสูง T wav
 | **Hypermagnesemia** | AV block, IVCD, asystole (เฉพาะ severe, >15 mEq/L) |
 | **Hypomagnesemia** | มักพบร่วมกับ hypokalemia/hypocalcemia |
 | **Na-channel blocker toxicity** (TCA, flecainide) | RAD, positive aVR (R>3mm, R/S>0.7), sinus tachycardia, IVCD |
-| **DCM (Goldberger's triad)** | ดู [[ECG & Electrophysiology Eponyms...]] |
+| **DCM (Goldberger's triad)** | ดู [[ECG & EP Eponyms\|ECG & Electrophysiology Eponyms]] |
 
 ---
 

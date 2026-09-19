@@ -3,15 +3,13 @@ title: "Viral Croup"
 type: "Standing Order"
 specialty: "General"
 ward: ["Pediatrics"]
-related: ["Viral Hepatitis"]
 tags: [workflow]
 notion_id: 389224ab-ad81-8112-b49a-ed0e01156fe3
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Viral Croup
-
-> 🃏 Order set for [[Viral Hepatitis]]
 
 - **Croup (Laryngotracheobronchitis)** — viral (Parainfluenza virus type 1 most common), age 6 months–3 years; barking/seal-like cough, stridor, hoarse voice, low-grade fever
 - **Westley Croup Score (0–17):**

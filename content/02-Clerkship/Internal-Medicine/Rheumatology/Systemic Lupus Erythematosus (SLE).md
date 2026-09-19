@@ -10,6 +10,8 @@ tags: [emergency]
 created: 2026-06-29
 notion_id: 38d224ab-ad81-813d-b3cd-fdc344bcf9b3
 source: notion-migration
+related: ["[[SLE]]"]
+updated: 2026-09-14
 ---
 
 # Systemic Lupus Erythematosus (SLE)

@@ -3,7 +3,7 @@ title: "Seizure"
 type: "Standing Order"
 specialty: "Neurology"
 ward: ["Medicine"]
-related: ["Seizure & Epilepsy"]
+related: ["[[Seizure & Epilepsy]]"]
 tags: [workflow]
 notion_id: 322224ab-ad81-80e2-9838-f782087dcf18
 source: notion-migration

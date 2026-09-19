@@ -1,6 +1,6 @@
 ---
 title: "DCM (Dilated Cardiomyopathy)"
-aliases: ["DCM (Dilated Cardiomyopathy)"]
+aliases: ["DCM (Dilated Cardiomyopathy)", "DCM"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-16
 notion_id: 39f224ab-ad81-81c5-936d-d36b22cec491
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # DCM (Dilated Cardiomyopathy)
@@ -22,7 +23,7 @@ source: notion-migration
 > 
 > 
 
-> **Companion pages:** [Approach to Cardiomyopathies (Hub)](Approach%20to%20Cardiomyopathies%20(Hub)%2039f224abad8181b3abafd80cd7ee70ea.md) · [Cardiac Amyloidosis (AL/ATTR)](Cardiac%20Amyloidosis%20(AL%20ATTR)%2039e224abad81819aa4b7cd1f9c517eac.md) · [HFrEF](HFrEF%20(Heart%20Failure%20with%20Reduced%20Ejection%20Fractio%2038e224abad81816e9ff3eb7ecff73205.md) · [Heart Failure — Pathophysiology & Approach](Heart%20Failure%20%E2%80%94%20Pathophysiology%20&%20Approach%20to%20the%20%2039d224abad818193ab49f84c47433617.md) · [Cardiac Contraction & Relaxation](Cardiac%20Contraction%20&%20Relaxation%20(Excitation-Contr%2039e224abad8181789572fbb40d21492b.md)
+> **Companion pages:** [[Approach to Cardiomyopathies (Hub)]] · [[Cardiac Amyloidosis (AL-ATTR)|Cardiac Amyloidosis (AL/ATTR)]] · [[HFrEF|HFrEF]] · [[Heart Failure|Heart Failure — Pathophysiology & Approach]] · [[Cardiac Contraction & Relaxation|Cardiac Contraction & Relaxation]]
 > 
 
 # 🧬 Etiology & Molecular Pathophysiology
@@ -86,7 +87,7 @@ source: notion-migration
 > - **LMNA/FLNC + LVEF ปกติ ≠ ปลอดภัย** — arrhythmia มาก่อน systolic dysfunction เสมอ ต้องพิจารณา ICD ตามเกณฑ์ genotype ไม่ใช่รอ LVEF ตก
 > 
 
-> - **อย่าสับสนกับ Cardiac Amyloidosis** — แม้ทั้งคู่ทำให้เกิด HF แต่ pathophysiology สวนทางกัน (DCM = eccentric/dilated/systolic; ต้องการ beta-blocker) — ดูเพจ [Cardiac Amyloidosis](Cardiac%20Amyloidosis%20(AL%20ATTR)%2039e224abad81819aa4b7cd1f9c517eac.md) และ [Approach to Cardiomyopathies (Hub)](Approach%20to%20Cardiomyopathies%20(Hub)%2039f224abad8181b3abafd80cd7ee70ea.md) สำหรับการแยกโรค
+> - **อย่าสับสนกับ Cardiac Amyloidosis** — แม้ทั้งคู่ทำให้เกิด HF แต่ pathophysiology สวนทางกัน (DCM = eccentric/dilated/systolic; ต้องการ beta-blocker) — ดูเพจ [[Cardiac Amyloidosis (AL-ATTR)|Cardiac Amyloidosis]] และ [[Approach to Cardiomyopathies (Hub)]] สำหรับการแยกโรค
 > 
 
 # 🔬 Secondary & Acquired DCM Phenotypes + Other Genetic Causes
@@ -97,7 +98,7 @@ source: notion-migration
 
 - **SCN5A** (cardiac Na⁺ channel) — ⚠️ extraction เขียนว่า **"HCN5A (common in Thai)"** ซึ่งเป็น **typo ของ SCN5A** — ก่อ **arrhythmic DCM** ที่เด่นด้วย **conduction disease + supraventricular/ventricular arrhythmia** (พบ ~0.5–0.9% ของ DCM; mutation ส่วนใหญ่อยู่ที่ S3/S4 voltage-sensing segment) 🔴 หมายเหตุ: SCN5A ที่ "พบบ่อยในคนไทย" จริงๆ สัมพันธ์กับ **Brugada / SUNDS (ไหลตาย)** มากกว่า DCM — extraction น่าจะสับสนสอง phenotype นี้ (ยังไม่พบหลักฐานว่า SCN5A-DCM พบบ่อยเป็นพิเศษในคนไทย)
 - **Barth syndrome** (TAZ/tafazzin, X-linked) — DCM+LVNC ในเด็กชาย: neutropenia, skeletal myopathy, ↑ urinary 3-methylglutaconic acid
-- **Duchenne muscular dystrophy** (dystrophin) — tall R ใน V1, เริ่มที่ basal-inferoposterior wall — ดู [[LV Non-Compaction - Hypertrabeculation (ESC 2023)|LV Non-Compaction / Hypertrabeculation (ESC 2023)]] สำหรับ Barth เพิ่มเติม
+- **Duchenne muscular dystrophy** (dystrophin) — tall R ใน V1, เริ่มที่ basal-inferoposterior wall — ดู [[LV Non-Compaction|LV Non-Compaction / Hypertrabeculation (ESC 2023)]] สำหรับ Barth เพิ่มเติม
 
 ## Alcoholic cardiomyopathy
 

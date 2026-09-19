@@ -1,6 +1,6 @@
 ---
 title: "IE (Infective Endocarditis)"
-aliases: ["IE (Infective Endocarditis)"]
+aliases: ["IE (Infective Endocarditis)", "IE"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-18
 notion_id: 3a0224ab-ad81-81c2-93c2-d6992833c9ff
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # IE (Infective Endocarditis)
 
-*อ้าง 2023 ESC Guidelines for the management of endocarditis (Eur Heart J 2023;44:3948-4042 พร้อม corrigendum 2025) และ 2023 Duke-ISCVID criteria (Clin Infect Dis 2023;77:518-526) · search ซ้ำ 27 ส.ค. 2026 · เทคนิคการผ่าตัดและ root abscess อยู่ที่ [Surgery for Infective Endocarditis (CVT)](Surgery%20for%20Infective%20Endocarditis%20%E2%80%94%20Indication,%20T%203b2224abad818187a281e10e774cebbb.md) · ยังไม่มี order set ใน Standing Order*
+*อ้าง 2023 ESC Guidelines for the management of endocarditis (Eur Heart J 2023;44:3948-4042 พร้อม corrigendum 2025) และ 2023 Duke-ISCVID criteria (Clin Infect Dis 2023;77:518-526) · search ซ้ำ 27 ส.ค. 2026 · เทคนิคการผ่าตัดและ root abscess อยู่ที่ [[Surgery for Infective Endocarditis|Surgery for Infective Endocarditis (CVT)]] · ยังไม่มี order set ใน Standing Order*
 
 ## 1. 🧬 Etiology & Pathogenesis
 

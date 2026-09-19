@@ -1,220 +1,134 @@
 ---
 title: "Multiple Myeloma (MM)"
-aliases: ["Multiple Myeloma (MM)"]
+aliases: ["Multiple Myeloma (MM)", "MM", "Plasma Cell Myeloma"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Hematology-Oncology"
+subspecialty: "Plasma Cell Disorders"
 type: "Disease"
+lang: en
 review_status: "New"
+summary: "Malignant clonal plasma cells making an M-protein; diagnosed by ≥10% clonal marrow plasma cells (or plasmacytoma) plus a myeloma-defining event (CRAB or SLiM); staged by R2-ISS; frontline 2026 is an anti-CD38 quadruplet (D-VRd / Isa-VRd) ± autologous transplant then lenalidomide-based maintenance, aiming at sustained MRD-negativity."
+related: ["[[Paraproteinemia & the Kidney]]", "[[MGUS, Smoldering MM & MGRS]]", "[[POEMS Syndrome & AL Amyloidosis]]"]
 tags: []
 created: 2026-06-28
 notion_id: 38d224ab-ad81-8189-a158-d17bbea1fd89
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # Multiple Myeloma (MM)
 
-> 📚 อ้างอิง: NCCN Multiple Myeloma v5.2026, IMWG Diagnostic Criteria 2014 (updated 2016), IMS-IMWG Genomic Staging 2025, PMK Board Review 2026 (อ.กานดิษฐ์). Search date: 28 มิ.ย. 2026
-> 
+Multiple myeloma is a malignancy of clonal bone-marrow plasma cells that secrete a monoclonal immunoglobulin (M-protein) and injure bone, kidney, marrow, and immunity. It is the malignant end of a single biological continuum — [[MGUS, Smoldering MM & MGRS|MGUS → smouldering MM]] precede it, and a small nephrotoxic clone that never reaches myeloma criteria is [[Paraproteinemia & the Kidney|MGRS]]. The disease is defined operationally by the IMWG criteria, and everything about the workup exists to answer three questions in order: **is there a clone, is it causing organ damage (or a high-risk biomarker), and how aggressive is it?**
 
----
+## 🧬 Pathogenesis
 
-## 🧬 Etiology & Molecular Pathophysiology
+A single plasma-cell clone expands in the marrow and secretes a monoclonal protein; damage then comes from three separable routes, which is why the presentation is multi-organ.
+- **The protein** — filtered free light chain injures the kidney; misfolded light chain becomes AL amyloid; very high Ig raises viscosity; and the normal polyclonal antibodies are suppressed (hypogammaglobulinaemia → infection, the leading cause of early death).
+- **The marrow burden** — displacement of normal haematopoiesis gives anaemia (and later pancytopenia).
+- **The bone microenvironment** — myeloma cells and stroma release RANKL, MIP-1α, and DKK-1, which **activate osteoclasts and suppress osteoblasts**, producing purely lytic bone lesions with no reactive bone formation. Two clinically load-bearing consequences follow: **ALP stays normal** (unlike osteoblastic solid-tumour bone metastases) and a **radionuclide bone scan is insensitive** (it images osteoblast activity), so skeletal disease is staged with whole-body low-dose CT, MRI, or PET-CT.
 
-**Multiple Myeloma (MM)** คือ malignancy ของ **clonal plasma cell** ที่สะสมใน bone marrow → สร้าง **M protein (monoclonal immunoglobulin)** → ทำ end-organ damage ผ่านกลไกหลายทาง
+**Genetics** frame prognosis. Initiating events are hyperdiploidy (favourable) or an IgH (14q32) translocation — t(11;14), t(4;14), t(14;16), t(14;20); secondary events (MYC rearrangement, RAS/TP53 mutations, 1q gain) drive progression. **High-risk** disease now means del(17p), TP53 mutation, biallelic del(1p), or combinations involving gain/amp(1q), t(4;14), t(14;16), or t(14;20) — and their prognostic weight is additive, which the current staging system reflects.
 
-**Genomics:**
+## 🩺 Clinical presentation
 
-- **Primary events:** Hyperdiploidy (ชวยพยากรณ์ดี) หรือ Translocation ใน IgH locus (14q32) — t(11;14), t(4;14), t(14;16), t(14;20)
-- **High-risk cytogenetics (IMS-IMWG 2025):** del(17p), t(4;14), t(14;16), t(14;20), gain(1q21 ≥3 copies), del(1p32) — ทำให้ PFS/OS แย่ลงอย่างมีนัยสำคัญแม้ใน daratumumab-based quadruplet
-- **Secondary events:** MYC rearrangement, RAS mutation, TP53 mutation → disease progression/relapse
+The organ-damage tetrad is **CRAB**, and the mnemonic doubles as the diagnostic criteria:
+- **C — hyperCalcaemia**: constipation, nausea, polyuria, confusion.
+- **R — Renal impairment**: usually light-chain cast nephropathy (below).
+- **A — Anaemia**: normocytic, from marrow infiltration.
+- **B — Bone**: lytic lesions and pathologic fractures, especially vertebral → back pain, and cord compression as an emergency.
 
-**Bone disease pathophysiology:**
+Beyond CRAB, expect fatigue and weight loss, recurrent infection (hypogammaglobulinaemia), and, on the blood film, **rouleaux** with a very high ESR (M-protein bridging red cells). Neuropathy is usually treatment-related (bortezomib, thalidomide) or from amyloid. Hyperviscosity (blurred vision, mucosal bleeding, headache) is uncommon in IgG MM but occurs with very high IgA/IgG or points to Waldenström if IgM.
 
-- Myeloma cell ↔ Bone Marrow Stromal Cell → หลั่ง RANKL, MIP-1α, DKK-1 → **กระตุ้น Osteoclast + Inhibit Osteoblast** → **Pure lytic lesion** (ไม่มี osteoblastic activity)
-- ผล: **ALP ไม่สูง** (ต่างจาก bone met ของ solid cancer); **Bone scan ไม่ sensitive** (detect osteoblastic lesion) → ต้องใช้ **Skeletal survey / Low-dose whole body CT**
-- Bisphosphonate ยับยั้ง osteoclast → ลด bone events
+## 🫘 Renal involvement (detail on [[Paraproteinemia & the Kidney]])
 
-**M Protein types:**
+Renal impairment at diagnosis is common and, when caused by the clone, is a myeloma-defining event. The dominant lesion is **light-chain cast nephropathy** — filtered free light chain co-precipitates with uromodulin to obstruct the distal tubule, giving **AKI with only trivial albuminuria** (a wide gap between urine dipstick and 24-h protein is the tell). Management is to reduce the free light chain fast with a **bortezomib-based** regimen (bortezomib and daratumumab need no renal adjustment; **renal-dose melphalan and lenalidomide**), correct precipitants (hypercalcaemia, volume depletion, NSAIDs, contrast), and consider adjunctive extracorporeal light-chain removal — the lesion classification and the EuLITE/MYRE evidence live on [[Paraproteinemia & the Kidney]].
 
-- Intact Ig: **IgG** (most common ~50%), IgA (~20%), IgD, IgE; IgM แรร์ → ถ้า IgM ให้คิด Waldenström
-- Light chain only (Light Chain MM) — SPEP negative แต่ UPEP/sFLC positive
-- Non-secretory MM — produce ทั้งคู่น้อยมาก (rare)
+## 🩻 Diagnosis
 
-**M Protein → end-organ damage:**
+Diagnosis needs **(1) a clone AND (2) a myeloma-defining event**.
 
-- Light chain deposit ที่ tubule → **Renal tubular damage / Cast nephropathy**
-- Light chain misfolding → **AL Amyloidosis** (overlap)
-- IgM (Waldenström) > IgG สูง → **Hyperviscosity**
-- Suppress normal Ig production → **Hypogammaglobulinemia → Recurrent infection**
+**(1) Clone** — bone-marrow clonal plasma cells **≥10%** or a biopsy-proven plasmacytoma, with clonality shown by κ/λ light-chain restriction (CD38/CD138 identify plasma cells but do not prove clonality).
 
----
+**(2) Myeloma-defining event** — either CRAB organ damage or a SLiM biomarker:
 
-## 🩺 Clinical Phenotypes & Advanced Nuances
+| CRAB (attributable to the clone) | Threshold |
+|---|---|
+| Calcium | >0.25 mmol/L above ULN, or >2.75 mmol/L |
+| Renal | creatinine >177 µmol/L (2 mg/dL) or CrCl <40 mL/min |
+| Anaemia | Hb <100 g/L or >20 g/L below LLN |
+| Bone | ≥1 lytic lesion on skeletal CT / PET-CT / MRI |
 
-**Classic presentation — CRAB:**
+| SLiM (biomarker = MM even without CRAB) | Threshold |
+|---|---|
+| **S**ixty | marrow clonal plasma cells ≥60% |
+| **Li**ght chains | involved:uninvolved serum free-light-chain ratio ≥100 |
+| **M**RI | >1 focal lesion ≥5 mm |
 
-- **C** = Hypercalcemia (bone resorption → Ca²⁺ ออก); ปวดหัว, คลื่นไส้, polyuria, constipation, altered mentation
-- **R** = Renal insufficiency (cast nephropathy, hypercalcemia, amyloid, drug toxicity)
-- **A** = Anemia (marrow infiltration → erythropoiesis ลด + EPO ลด; normocytic normochromic)
-- **B** = Bone pain / Lytic lesion (vertebra เจอบ่อย → back pain, pathologic fracture, cord compression)
+**Paraprotein workup:** SPEP (M-spike; negative in light-chain-only MM), 24-h UPEP (Bence-Jones), serum free light chains (quantitative — screening, the SLiM ratio, and response), and serum/urine immunofixation (confirms and types the protein, e.g. IgG-κ). Quantitative immunoglobulins follow levels but do not show clonality. Complete the picture with CBC, calcium, creatinine, albumin, β2-microglobulin, LDH, and whole-body low-dose CT (or PET/MRI).
 
-**อาการอื่น:**
+## 📊 Staging & risk
 
-- Fatigue, น้ำหนักลด
-- Recurrent infection (hypogammaglobulinemia)
-- Rouleaux formation บน PBS (RBC เรียงซ้อนกัน — M protein เคลือบ RBC)
-- ESR สูงมาก (M protein ↑ globulin)
-- Peripheral neuropathy (amyloid, drug — Thalidomide/Bortezomib)
-- **Hyperviscosity** (ไม่บ่อยเท่า WM — IgG ตัวเล็ก; แต่ถ้า IgG สูงมาก → blurry vision, epistaxis, headache)
+Prognosis is set by tumour burden and biology, captured by the **R2-ISS** (a four-tier, additive-weight model): the ISS variables **β2-microglobulin and albumin**, plus **LDH** and the adverse FISH lesions **del(17p), t(4;14), t(14;16), and gain/amp(1q)**. It refines the older R-ISS mainly by counting the additive risk of multiple hits and of 1q gain, and separates PFS/OS better across stages I–IV. Response is then tracked by depth: PR (M-protein ↓ ≥50%) → VGPR (↓ ≥90%) → CR (negative immunofixation + marrow plasma cells <5%) → stringent CR → **MRD-negativity** (≥10⁻⁵ by next-generation sequencing/flow); **sustained MRD-negativity** is the modern therapeutic goal and the strongest surrogate for prolonged PFS.
 
-**Plasmacytoma:** plasma cell tumor นอก marrow (bone หรือ soft tissue) — บอก criteria ข้อแรกได้ถ้า biopsy confirm
+## 💊 Management
 
----
+Treatment is stratified by transplant eligibility, and in 2026 both arms open with an **anti-CD38 quadruplet**.
 
-## 🩻 Advanced Diagnostics & Formal Criteria
+**Transplant-eligible** (fit, roughly <70 y):
+- **Induction ≈4 cycles: D-VRd** (daratumumab–bortezomib–lenalidomide–dexamethasone), the preferred quadruplet, or **Isa-VRd / Isa-KRd**. **No melphalan during induction** — it is stem-cell toxic and compromises the harvest.
+- **Autologous HSCT** with high-dose **melphalan (200 mg/m²)** conditioning.
+- **Consolidation then lenalidomide-based maintenance** (± daratumumab/isatuximab), continued to relapse/toxicity, which markedly extends PFS.
 
-### IMWG Diagnostic Criteria (2014, updated 2016)
+**Transplant-ineligible:**
+- **D-VRd** (fit) or **D-Rd** (MAIA regimen) as preferred; **Rd** for the frail. Presenting in renal failure → a **bortezomib-based** regimen for the fastest renal recovery.
 
-**ต้องมี (1) + (2):**
+**Relapsed/refractory** — choose by prior lines, refractoriness, and cytogenetics: proteasome-inhibitor/IMiD/anti-CD38 combinations (e.g. KRd, DPd), then **BCMA-directed therapy** — CAR-T (ide-cel, cilta-cel), bispecifics (teclistamab, elranatamab; BCMA×CD3), and the anti-BCMA ADC **belantamab mafodotin** (keratopathy — monitor the eyes).
 
-**(1) Clonal plasma cell:**
+**Drug classes & signature toxicities:** proteasome inhibitors — **bortezomib** (peripheral neuropathy — give subcutaneously; reactivates VZV → acyclovir prophylaxis), **carfilzomib** (cardiotoxicity, hypertension); IMiDs — **lenalidomide/thalidomide** (VTE → aspirin or LMWH prophylaxis; teratogenic); anti-CD38 mAbs — **daratumumab/isatuximab** (infusion reactions; interfere with blood-bank cross-match); antiresorptives — **zoledronic acid/denosumab** (osteonecrosis of the jaw → dental clearance first; denosumab if low eGFR).
 
-- Bone marrow clonal plasma cell **≥10%** หรือ biopsy-proven plasmacytoma
-- Prove clonality: ย้อม Light Chain Kappa/Lambda → κ/λ restriction
-- CD38/CD138+ บอกว่าเป็น plasma cell **ไม่บอก clonality**
+**Supportive care:** antiresorptive for all with bone disease; aggressive fluids ± loop diuretic + bisphosphonate for hypercalcaemia; VZV prophylaxis on a proteasome inhibitor and PCP prophylaxis on high-dose steroids; VTE prophylaxis on an IMiD; vaccinate and treat infection early.
 
-**(2) End-organ damage หรือ Myeloma Defining Events:**
+## 📚 Landmark Trials
 
-**CRAB (End-organ damage):**
+- **PERSEUS (NEJM 2024)** — D-VRd vs VRd, transplant-eligible: MRD-negativity 66.4% vs 41.7%, stringent CR 87.9% vs 70.1%, PFS HR 0.42 → the quadruplet standard.
+- **MAIA (NEJM 2019)** — D-Rd vs Rd, transplant-ineligible: PFS HR ~0.53–0.56 and OS benefit → preferred non-transplant regimen.
+- **CEPHEUS (2024–25)** — D-VRd vs VRd in transplant-ineligible/deferred patients: deeper MRD-negativity and PFS benefit, extending the quadruplet to this group.
+- **IFM 2009 (NEJM 2017)** — VRd ± early ASCT: early transplant prolongs PFS (OS equal with later salvage transplant) → confirms ASCT in the novel-agent era.
+- **GRIFFIN / IsKia** — phase-2 and Isa-KRd data supporting quadruplet induction.
 
-|  | Threshold |
-| --- | --- |
-| **C** Hypercalcemia | >0.25 mmol/L เหนือ ULN หรือ >2.75 mmol/L |
-| **R** Renal | CrCl <40 mL/min หรือ Cr >177 μmol/L |
-| **A** Anemia | Hb <100 g/L หรือ >20 g/L ต่ำกว่า LLN |
-| **B** Bone | ≥1 lytic lesion บน X-ray / CT / PET-CT |
+> [!danger] 🚨 Red flags / strict avoidance
+> - **Cord compression** (new severe back pain, leg weakness, sphincter change) → emergency MRI + dexamethasone; do not wait.
+> - **Never give melphalan (or prolonged lenalidomide) before stem-cell harvest** in a transplant candidate.
+> - **Hypercalcaemic crisis + AKI** → isotonic fluids first, avoid nephrotoxins, renal-dose cytotoxics.
+> - **Bortezomib without VZV prophylaxis** invites zoster; **IMiD without thromboprophylaxis** invites VTE.
+> - **An IgM paraprotein is not myeloma** → think Waldenström.
 
-**Myeloma Defining Events (SLiM — ไม่ใช่ CRAB แต่ = MM):**
+> [!tip] 🎯 High-Yield Recall
+> - MM = **≥10% clonal plasma cells (or plasmacytoma) + CRAB or SLiM** (≥60% plasma cells, FLC ratio ≥100, >1 MRI focal lesion ≥5 mm).
+> - Bone disease is **pure lytic**: normal ALP, bone scan insensitive → CT/PET/MRI.
+> - Stage with **R2-ISS** (β2M, albumin, LDH, high-risk FISH incl. 1q).
+> - Frontline 2026 = **anti-CD38 quadruplet (D-VRd)** ± ASCT then lenalidomide-based maintenance; goal = **sustained MRD-negativity**.
+> - Renal = AKI with minimal albuminuria (cast nephropathy) → bortezomib-based, renal-dose melphalan/lenalidomide.
 
-|  | Threshold |
-| --- | --- |
-| **S**ixty (Sixty%) | BM plasma cell ≥60% |
-| **Li**ght chain ratio | sFLC involved/uninvolved ≥100 |
-| **M**RI focal lesion | >1 focal lesion ≥5 mm บน MRI |
+> 🇹🇭 **Thailand availability** — bortezomib, thalidomide, lenalidomide, cyclophosphamide, melphalan, and dexamethasone are available and form most Thai regimens; **daratumumab/isatuximab, carfilzomib, pomalidomide, CAR-T, and bispecifics are high-cost with limited/scheme-dependent access** (largely self-pay), so a bortezomib-based triplet ± ASCT is the practical standard for many — confirm current NHSO/insurance coverage before quoting a quadruplet as first-line.
 
-### M Protein Laboratory Tests
-
-| Test | ใช้ทำอะไร |
-| --- | --- |
-| **SPEP** | Screen M protein (peak ฐานแคบในบริเวณ Gamma) — ไม่เจอใน Light Chain MM |
-| **UPEP (24-hr)** | จำเป็นใน Light Chain MM; detect Bence-Jones protein |
-| **Serum Free Light Chain (sFLC)** | Kappa/Lambda ratio; quantitative; ใช้ monitor + criteria SLiM |
-| **Immunofixation (serum/urine)** | Confirm + type M protein (IgG κ, IgA λ, etc.); qualitative; sensitive |
-| **Quantitative Ig (IgG/IgA/IgM)** | Follow-up level; ไม่บอก clonality |
-
-**Polyclonal vs Monoclonal:** Polyclonal = ภูเขา slope กว้าง; Monoclonal = peak ฐานแคบ band เข้มชัดบน immunofixation
-
-### Response Assessment (IMWG)
-
-| Response | คำนิยาม |
-| --- | --- |
-| **PR** | M protein ลด ≥50% |
-| **VGPR** | M protein ลด ≥90% |
-| **CR** | Negative immunofixation + BM plasma cell <5% |
-| **Stringent CR (sCR)** | CR + Normal sFLC ratio + ไม่พบ clonal plasma cell (IHC/flow) |
-| **MRD negativity** | ไม่พบ clonal cell ที่ sensitivity ≥10⁻⁵ (NGS/NGF) |
-
-→ ยิ่ง deep response → PFS ยาวนานขึ้น; เป้าหมายใหม่คือ **Sustained MRD negativity**
-
-**Relapse — indication รักษาใหม่:**
-
-- Clinical relapse: new CRAB, new bone lesion/plasmacytoma, hypercalcemia ใหม่
-- Significant paraprotein relapse: M protein doubling ภายใน 2 เดือน
-
----
-
-## 💊 Management & Pharmacodynamics
-
-### แบ่งตาม Transplant Eligibility
-
-**Transplant Eligible** (อายุ <65–70 ปี, ไม่มี significant comorbidity — individualized):
-
-**Induction (3–4 cycles ก่อน ASCT):**
-
-- **D-VRd** (Daratumumab + Bortezomib + Lenalidomide + Dexamethasone) — **NCCN Category 1 Preferred** (PERSEUS trial): sCR 87.9% vs 70.1% VRd; MRD negativity 66.4% vs 41.7%; PFS HR 0.42
-- Isa-KRd (Isatuximab + Carfilzomib + Rd) — IsKia trial: MRD neg 77% vs 67%; Category 1
-- VRd (Bortezomib + Lenalidomide + Dexa) — Category 1 (ถ้าไม่ได้ quadruplet)
-- **★ ห้ามใช้ Melphalan ใน induction ของ transplant candidate** — Melphalan ทำ marrow toxicity → เก็บ stem cell ไม่ได้
-
-**Auto-HSCT:**
-
-- Conditioning: **Melphalan 200 mg/m²** (standard ของ MM) → eradicate residual myeloma
-
-**Consolidation + Maintenance:**
-
-- D-VRd consolidation × 2 cycles (PERSEUS) → Daratumumab + Lenalidomide maintenance ต่อ
-- **Lenalidomide maintenance** — ลด risk relapse อย่างมีนัยสำคัญ (standard post-ASCT)
-
-**Transplant Ineligible** (สูงอายุ / frail / significant comorbidity):
-
-- **D-VRd** — สำหรับ fit (<80 ปี, ไม่ frail) — NCCN preferred
-- **Isa-VRd** — Category 1 สำหรับ non-transplant
-- **Rd (Lenalidomide + low-dose Dexa)** — สำหรับ frail/elderly ที่ tolerance ต่ำ
-- VMP (Bortezomib + Melphalan + Pred) / MPT — เก่ากว่า ยังใช้ได้
-- **★ ถ้ามาด้วยไตวาย → Bortezomib-based regimen** (improve renal outcome เร็วที่สุด)
-
-**Relapsed/Refractory MM (RRMM):**
-
-- พิจารณา prior therapy, number of lines, cytogenetics
-- Options: Carfilzomib-Rd (KRd), Daratumumab ± Rd, Pomalidomide-Bortezomib-Dexa
-- **CAR-T cell therapy** (Idecabtagene vicleucel, Ciltacabtagene autoleucel) — FDA approved ≥4 prior lines; target BCMA
-- **Bispecific antibody** (Teclistamab, Elranatamab) — BCMA×CD3; ≥4 prior lines; off-the-shelf
-- **Belantamab mafodotin** — Anti-BCMA ADC; SE สำคัญ = Keratopathy (ตรวจตาก่อน + ระหว่างรักษา)
-
-### MOA ยาหลัก
-
-**Bortezomib (Proteasome Inhibitor):** ยับยั้ง 26S proteasome → misfolded protein คั่ง → ER stress → apoptosis; ยับยั้ง NF-κB (survival pathway ของ MM); SE: **peripheral neuropathy** (ลด dose หรือ switch เป็น subcutaneous), thrombocytopenia
-
-**Carfilzomib:** Irreversible proteasome inhibitor (ต่างจาก Bortezomib ที่ reversible); SE: cardiac toxicity (monitor EF), hypertension, pulmonary toxicity
-
-**Lenalidomide (IMiD):** Cereblon (CRBN) binding → degrade Ikaros (IKZF1) + Aiolos (IKZF3) transcription factors → T-cell/NK-cell activation, myeloma cell apoptosis; ยับยั้ง angiogenesis + inflammation; SE: **VTE** (ให้ aspirin/LMWH prophylaxis), cytopenias, teratogenic
-
-**Thalidomide (IMiD):** เช่นเดียวกับ Lenalidomide แต่ SE worse — neuropathy รุนแรงกว่า, sedation, constipation; ยังใช้บ้างในทรัพยากรจำกัด
-
-**Daratumumab:** Anti-CD38 monoclonal antibody → CDC, ADCC, ADCP, apoptosis ต่อ myeloma cell; CD38+ ใน myeloma cell สูง; SE: infusion reaction (premedicate antihistamine + steroid + paracetamol)
-
-**Bisphosphonate (Zoledronic acid / Pamidronate):** ยับยั้ง farnesyl pyrophosphate synthase ใน osteoclast → อ้อย apoptosis osteoclast → ลด bone resorption; ให้ทุกรายที่มี bone disease; SE: **Osteonecrosis of Jaw (ONJ)** — ตรวจฟัน + จัดการ dental procedures ก่อนเริ่มยา; avoid invasive dental procedure ระหว่าง on bisphosphonate
-
-### Supportive Care
-
-- **Bone disease:** Zoledronic acid q4wk (หรือ Denosumab สำหรับ renal insufficiency)
-- **Hypercalcemia:** Aggressive IV fluid, loop diuretic, bisphosphonate
-- **Infection prophylaxis:** Acyclovir (ป้องกัน VZV reactivation จาก Bortezomib); PCP prophylaxis (TMP-SMX) ถ้า steroids สูง
-- **Anemia:** EPO ± transfusion
-- **VTE:** Aspirin หรือ LMWH ถ้า on IMiD + Dexa
-- **Neuropathy:** ปรับขนาด / เปลี่ยน route Bortezomib (SC < IV neuropathy)
-
----
-
-## 📚 Landmark Trials & Literature
-
-**PERSEUS** (NEJM 2024) — D-VRd vs VRd ใน transplant-eligible NDMM (n=709). MRD negativity 66.4% vs 41.7%; sCR 87.9% vs 70.1%; PFS HR 0.42 → D-VRd เป็น Category 1 preferred induction + maintenance
-
-**GRIFFIN** (Blood 2021) — D-VRd vs VRd ใน transplant-eligible NDMM (phase 2, n=207). sCR 42.4% vs 32.0% (สนับสนุน PERSEUS)
-
-**IsKia** (JCO 2024) — Isa-KRd vs KRd ใน transplant-eligible NDMM. MRD negativity 77% vs 67% → Isa-KRd อีก option quadruplet
-
-**MAIA** (NEJM 2019) — D-Rd vs Rd ใน transplant-ineligible NDMM. PFS HR 0.56; OS HR 0.68 → D-Rd เป็น preferred non-transplant option
-
-**IFM 2009** (NEJM 2017) — VRd induction → early ASCT vs VRd ×8 cycles (no immediate ASCT). Early ASCT → PFS ยาวกว่า; OS ไม่ต่างกัน (crossover); ยืนยัน role ของ ASCT ในยุค novel agents
-
-**FORTE** (Lancet Oncol 2021) — KRd ×12 vs KRd + ASCT vs KCd + ASCT. KRd + ASCT → PFS ดีที่สุด; consolidation ด้วย KRd ก็มีประโยชน์
-
----
-
-🖼️ **Visual Reference**
-
-- [MM bone disease — lytic lesions skull X-ray (Radiopaedia)](https://radiopaedia.org/articles/multiple-myeloma)
-- [SPEP M-spike diagram (Wikimedia)](https://commons.wikimedia.org/wiki/File:Serum_protein_electrophoresis.png)
-- [MM plasma cells BM biopsy — PathologyOutlines](https://www.pathologyoutlines.com/topic/bonemarrowmyeloma.html)
+> [!info]- 🔍 Verification status
+>
+> ✅ **Searched & verified — 18 Sep 2026**
+> - IMWG diagnostic criteria (≥10% clonal plasma cells + CRAB or SLiM; SLiM = 60% / FLC ratio ≥100 / >1 MRI focal lesion ≥5 mm)
+> - R2-ISS components (β2-microglobulin, albumin, LDH, FISH: del17p, t(4;14), t(14;16), gain/amp1q) and its four-tier additive design (EMN/HARMONY, JCO 2022)
+> - 2026 frontline standard = anti-CD38 quadruplet (D-VRd / Isa-VRd) ± ASCT then lenalidomide-based maintenance; CEPHEUS extends dara-VRd to transplant-ineligible/deferred; high-risk cytogenetics definition (2026 Rajkumar update / NCCN v5.2026)
+> - PERSEUS (MRD 66.4% vs 41.7%, sCR 87.9% vs 70.1%, PFS HR 0.42); renal principles per IMWG 2023
+>
+> ⚠️ **Directionally established, exact figure not re-pinned this turn**
+> - MAIA PFS HR (~0.53–0.56) and OS benefit — established from NEJM 2019; cross-check the exact value before quoting
+> - Melphalan 200 mg/m² conditioning dose (standard; confirm against protocol)
+>
+> Textbook cross-reference available in the library: **MKSAP 19 Hematology** (`reflib.py find "MKSAP Hematology"`).
+
+## See also
+
+- **Plasma-cell spectrum:** [[MGUS, Smoldering MM & MGRS]] · [[POEMS Syndrome & AL Amyloidosis]] · [[LPL - Waldenström Macroglobulinemia (WM)|Waldenström Macroglobulinemia]]
+- **Organ involvement:** [[Paraproteinemia & the Kidney]] · [[Cardiac Amyloidosis (AL-ATTR)]] · [[Hypercalcemia & Hypocalcemia|Hypercalcemia]]
+- **Basis:** [[Immunoglobulin Structure & Function]] · [[Bone Metabolism & Osteoclast Biology]]

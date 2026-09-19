@@ -1,6 +1,6 @@
 ---
 title: "UGIB (Upper Gastrointestinal Bleeding)"
-aliases: ["UGIB (Upper Gastrointestinal Bleeding)"]
+aliases: ["UGIB (Upper Gastrointestinal Bleeding)", "UGIB"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Gastroenterology & Hepatology"
@@ -11,6 +11,8 @@ tags: [emergency]
 created: 2026-07-14
 notion_id: 39d224ab-ad81-8165-a1c6-feb11707bcda
 source: notion-migration
+related: ["[[UGIB]]"]
+updated: 2026-09-14
 ---
 
 # UGIB (Upper Gastrointestinal Bleeding)

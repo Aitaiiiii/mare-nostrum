@@ -1,6 +1,6 @@
 ---
 title: "CPVT (Catecholaminergic Polymorphic VT)"
-aliases: ["CPVT (Catecholaminergic Polymorphic VT)"]
+aliases: ["CPVT (Catecholaminergic Polymorphic VT)", "CPVT"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81ee-8c33-dfe761047db9
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # CPVT (Catecholaminergic Polymorphic VT)
 
-> Inherited channelopathy · companion: [[Sudden Cardiac Death — Approach & Risk Stratification]] · [[Long QT Syndrome]] — *populated 26 ก.ค. 2026 จาก digest SNC4 + verification (2022 ESC VA/SCD)*
+> Inherited channelopathy · companion: [[SCD (Sudden Cardiac Death)]] · [[Long QT Syndrome]] — *populated 26 ก.ค. 2026 จาก digest SNC4 + verification (2022 ESC VA/SCD)*
 > 
 
 # 🧬 Etiology & Pathophysiology

@@ -3,15 +3,14 @@ title: "Skin & Soft Tissue Infection (SSTI)"
 type: "Standing Order"
 specialty: "Infectious Disease"
 ward: ["Medicine"]
-related: ["Skin Signs in Systemic Disease"]
-tags: [workflow]
+related: ["[[Cellulitis & Skin-Soft-Tissue Infection]]"]
+tags: [workflow, emergency]
 notion_id: 389224ab-ad81-81b9-a9f5-e5523cd1ed64
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # Skin & Soft Tissue Infection (SSTI)
-
-> 🃏 Order set for [[Skin Signs in Systemic Disease]]
 
 - **SSTI classification:**
     - Non-purulent: Erysipelas (superficial dermis, well-demarcated), Cellulitis (deeper dermis, indistinct border), Necrotizing fasciitis

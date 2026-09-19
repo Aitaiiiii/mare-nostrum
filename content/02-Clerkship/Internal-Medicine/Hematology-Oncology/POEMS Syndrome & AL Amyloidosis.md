@@ -1,194 +1,115 @@
 ---
 title: "POEMS Syndrome & AL Amyloidosis"
-aliases: ["POEMS Syndrome & AL Amyloidosis"]
+aliases: ["POEMS Syndrome", "POEMS", "AL Amyloidosis", "Light Chain Amyloidosis", "Primary Amyloidosis"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Hematology-Oncology"
+subspecialty: "Plasma Cell Disorders"
 type: "Disease"
+lang: en
 review_status: "New"
+summary: "Two paraprotein-driven multisystem disorders from a small λ clone: POEMS (VEGF → polyneuropathy + organomegaly/endocrinopathy/skin, sclerotic bone lesions; radiate a solitary lesion, else MM-like therapy ± ASCT) and AL amyloidosis (misfolded λ light chain → Congo-red-positive fibrils in heart/kidney/nerve; stage by cardiac biomarkers; first-line Dara-CyBorD)."
+related: ["[[Multiple Myeloma (MM)]]", "[[MGUS, Smoldering MM & MGRS]]", "[[Paraproteinemia & the Kidney]]", "[[Cardiac Amyloidosis (AL-ATTR)]]"]
 tags: []
 created: 2026-06-28
 notion_id: 38d224ab-ad81-81ce-b8ea-ffba90dcb9da
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # POEMS Syndrome & AL Amyloidosis
 
-> 📚 อ้างอิง: IMWG AL Amyloidosis Consensus 2021, Mayo Clinic POEMS Criteria, PMK Board Review 2026 (อ.กานดิษฐ์). Search date: 28 มิ.ย. 2026
-> 
+Two multisystem disorders in which a **small, λ-restricted plasma-cell clone** does its harm through a secreted product rather than tumour bulk — **VEGF** in POEMS, **misfolded light-chain amyloid** in AL. Both belong to the plasma-cell family alongside [[Multiple Myeloma (MM)]] and [[MGUS, Smoldering MM & MGRS]]; AL's renal deposits are worked up on [[Paraproteinemia & the Kidney]] and its cardiac disease on [[Cardiac Amyloidosis (AL-ATTR)]]. The clinical trap they share is that the clone is small — the diagnosis is made from the **syndrome**, then confirmed by finding the paraprotein and the tissue lesion.
 
 ---
 
-# POEMS Syndrome
+# POEMS syndrome
 
-## 🧬 Etiology & Molecular Pathophysiology
+## 🧬 Pathophysiology
+A clonal plasma cell (usually **IgA-λ or IgG-λ**) drives massive **VEGF** secretion, and VEGF explains most of the syndrome: pathological vascular permeability (oedema, effusions, ascites) and disordered vasa nervorum (a demyelinating polyneuropathy). Castleman disease (HHV-8-negative) coexists in a subset. λ restriction is near-universal (~95%), and serum **VEGF** rises with disease activity — useful for diagnosis and monitoring.
 
-**POEMS** (อ่านว่า “โพม”) คือ rare plasma cell dyscrasia ที่ clonal plasma cell สร้างสารที่ทำ multi-system damage
+## 🩺 Features & diagnosis (the acronym, then the criteria)
+- **P — Polyneuropathy** (~100%): distal symmetric sensorimotor, demyelinating on NCS; usually the presenting problem.
+- **O — Organomegaly**: hepato-/splenomegaly, lymphadenopathy.
+- **E — Endocrinopathy**: hypogonadism (commonest), thyroid, adrenal, glucose, prolactin.
+- **M — Monoclonal protein** (~100%): IgA-λ or IgG-λ (IgM ⇒ Waldenström, not POEMS).
+- **S — Skin**: hyperpigmentation, hypertrichosis, leukonychia, haemangiomata, acrocyanosis.
 
-**Pathophysiology:** Clonal plasma cell (mostly **IgA λ หรือ IgG λ**) → หลั่ง **VEGF (Vascular Endothelial Growth Factor)** ในปริมาณสูงมาก → VEGF เป็น main mediator ส่วนใหญ่ของอาการ:
+**Mayo diagnostic criteria:** both **mandatory major criteria** (polyneuropathy + a monoclonal, usually λ, protein) + **≥1 other major** (Castleman disease, sclerotic bone lesion, or elevated VEGF) + **≥1 minor** (organomegaly, extravascular volume overload, endocrinopathy, skin changes, papilloedema, or — counter-intuitively for a clonal disease — **thrombocytosis/polycythaemia**).
 
-- **VEGF ↑↑** → vascular permeability สูง → edema, effusion, ascites
-- **VEGF ↑↑** → nerve vasa nervorum ผิดปกติ → demyelinating polyneuropathy
-- **Castleman disease** (HHV-8−) เป็น major feature ที่ตรวจพบใน POEMS subset
-- Serum VEGF level ≥200 pg/mL — เป็น diagnostic + monitor response
+**Workup:** NCS (demyelinating); CT/PET for **sclerotic** bone lesions (opposite of myeloma's lytic lesions); serum VEGF; marrow (usually <10% clonal plasma cells); fundoscopy for papilloedema.
 
-**Light chain restriction:** lambda (λ) เด่นชัดถึง ~95% (kappa แรร์มาก) — characteristic มากใน POEMS
-
-## 🩺 Clinical Phenotypes
-
-**POEMS Acronym:**
-
-- **P** = **Polyneuropathy** ★ (เจอ 100%) — distal symmetric sensorimotor, demyelinating (NCS เห็น demyelination + axonal loss); presenting symptom ส่วนใหญ่
-- **O** = **Organomegaly** — hepatomegaly, splenomegaly, lymphadenopathy
-- **E** = **Endocrinopathy** — hypogonadism (บ่อยที่สุด), hypothyroid, adrenal insufficiency, glucose intolerance, hyperprolactinemia
-- **M** = **M Protein** ★ (เจอ 100%) — มักเป็น IgA λ หรือ IgG λ (ไม่ใช่ IgM — IgM = Waldenström)
-- **S** = **Skin Changes** — hyperpigmentation, hypertrichosis, leukonychia (white nails), acrocyanosis, hemangiomata, facial lipoatrophy
-
-**Major Criteria (mandatory — ต้องมีทั้ง 2):**
-
-1. Polyneuropathy
-2. M Protein (มักเป็น λ)
-
-**Major Criteria เพิ่มเติม (ต้องมีอย่างน้อย 1 ข้อ):**
-
-1. Castleman disease (biopsy lymph node)
-2. Sclerotic bone lesion (CT/PET)
-3. VEGF สูง (≥3’ ULN)
-
-**Minor Criteria:**
-
-- Organomegaly, extravascular volume overload (edema/effusion/ascites)
-- Endocrinopathy, skin changes, papilledema
-- **Thrombocytosis / Polycythemia** ★ (แปลก — เซลล์เพิ่ม ต่างจาก heme malignancy ส่วนใหญ่)
-
-**วินิจฉัย:** Mandatory major (P + M) + อย่างน้อย 1 major เพิ่ม + อย่างน้อย 1 minor
-
-## 🩻 Advanced Diagnostics & Formal Criteria
-
-- **Nerve conduction study (NCS):** demyelinating features (slow velocity, prolonged latency)
-- **Bone lesion:** Sclerotic (CT/X-ray) — ต่างจาก MM ที่เป็น pure lytic
-- **VEGF level (serum):** elevated; correlate with disease activity + response
-- **PET-CT:** detect sclerotic bone lesion + metabolic activity + staging
-- **BM biopsy:** clonal plasma cell (usually <5–10%); ไม่มากเท่า MM
-- **Ophthalmology:** papilledema (ตรวจตาข้าง)
-
-## 💊 Management & Pharmacodynamics
-
-- **Localized (isolated sclerotic bone lesion):** **Radiation therapy** — curative intent; VEGF level หลังเพิ่ม → nerve improve ช้า เดือน → ปี
-- **Systemic:** สูตร MM-like 2 ตัว + ASCT ใน eligible: Melphalan + Dexa (MD) หรือ Bortezomib + Dexa (BD) → ASCT
-- **Monitor response:** VEGF level + neuropathy improvement (NCS)
+## 💊 Management
+- **Isolated sclerotic plasmacytoma** → **radiotherapy** with curative intent; VEGF falls and neuropathy recovers slowly over months–years.
+- **Disseminated disease** → an MM-like regimen (melphalan-dexamethasone or bortezomib-based) → **ASCT** if eligible.
+- Monitor by VEGF and neurophysiology. Prognosis is better than myeloma (low plasma-cell burden; median OS well over 5 years).
 
 ---
 
-# AL Amyloidosis
+# AL (light-chain) amyloidosis
 
-## 🧬 Etiology & Molecular Pathophysiology
+## 🧬 Pathophysiology
+A small plasma-cell clone over-produces a monoclonal **free light chain (λ > κ)** whose amino-acid sequence makes it amyloidogenic; it misfolds into **amyloid fibrils** deposited in the extracellular matrix, disabling organs. Marrow plasma-cell burden is usually low (median ~10%), and ~10–15% of AL coexists with overt myeloma. Distinguish it from the other systemic amyloids by precursor protein — **AA** (chronic inflammation), **Aβ2M** (long-term dialysis), and **ATTR** (transthyretin; wild-type in the elderly or hereditary) — because treatment is completely different.
 
-**Amyloidosis** = deposition ของ **misfolded protein (amyloid fibrils)** ใน organ อย่างถาวร → organ dysfunction
+## 🩺 Organ involvement
 
-**ประเภท amyloidosis ตามโปรตีน:**
+| Organ | Manifestation | Pearl |
+|---|---|---|
+| **Heart** | restrictive cardiomyopathy, HFpEF, arrhythmia | thick walls + sparkling myocardium on echo; troponin/NT-proBNP set the stage → [[Cardiac Amyloidosis (AL-ATTR)]] |
+| **Kidney** | nephrotic-range proteinuria, function often preserved | glomerular + vascular deposits → detail in [[Paraproteinemia & the Kidney]] |
+| **Nerve** | peripheral + prominent **autonomic** failure (orthostatic hypotension, ED, gastroparesis) | autonomic ≫ motor |
+| **Liver** | hepatomegaly | rare cause of a very high ALP |
+| **Tongue** | **macroglossia** with dental indentation | classic, not specific |
+| **Skin** | **periorbital purpura** ("raccoon eyes") | near-pathognomonic for AL |
+| **MSK** | **bilateral carpal tunnel**, shoulder-pad sign | bilateral CTS should prompt the thought |
+| **Coagulation** | **acquired factor X deficiency** | amyloid adsorbs factor X → prolonged PT/PTT + bleeding |
 
-| Protein | Entity | หมายเหตุ |
-| --- | --- | --- |
-| **Light chain (AL)** | **AL Amyloidosis** | เกี่ยวกับ Plasma Cell Dyscrasia |
-| Serum Amyloid A | AA Amyloidosis | Chronic inflammation (RA, IBD, osteomyelitis) |
-| β2-Microglobulin | Dialysis-related (Aβ2M) | คนที่ dialysis นาน |
-| **Transthyretin (ATTR)** | ATTR Amyloidosis | Wild-type (Senile) ในคนแก่ หรือ Hereditary (variant) |
-| Organ-specific | Alzheimer (สมอง), Lichen amyloidosis (ผิว) | ไม่ systemic |
+## 🩻 Diagnosis — three steps
+1. **Demonstrate amyloid** — biopsy the affected organ (or a less-invasive abdominal fat-pad aspirate, sensitivity ~70%): **Congo red → apple-green birefringence** under polarized light.
+2. **Type it** — IF/IHC (λ restriction common) and, as the gold standard, **mass-spectrometry proteomics** to separate AL from ATTR/AA.
+3. **Prove the clone** — marrow biopsy, SPEP/UPEP, serum free light chains, immunofixation.
 
-**AL Amyloidosis Pathophysiology:**
+**Cardiac workup:** echo (thick, sparkling myocardium; diastolic dysfunction), ECG (**low limb-lead voltage with pseudo-infarction Q waves** — the classic "thick heart, small voltage" mismatch), cardiac MRI (diffuse subendocardial late gadolinium enhancement), troponin + NT-proBNP.
 
-- Clonal plasma cell → สร้าง monoclonal free light chain (λ > κ) ในปริมาณมาก → misfolding → เกาะตัว → **amyloid fibril deposit ใน extracellular matrix** ของ organ
-- **λ > κ** เป็น amyloidogenic มากกว่า (amyloidogenic ขึ้นอยู่กับ sequence )
-- BM plasma cell ใน AL amyloid มักน้อย (median ~10%) — ต่างจาก MM
-- ~10–15% ของ AL amyloid มี underlying MM (BM plasma cell ≥10% + CRAB)
+## 📊 Staging (cardiac biomarkers)
+- **Mayo 2004** (revised): troponin T **≥0.035 µg/L** (or hs-TnT **≥40 ng/L**) and NT-proBNP **≥332 ng/L** — Stage I (both normal), II (one raised), III (both raised); Europe splits **IIIb** = NT-proBNP **>8500 ng/L** (worst prognosis).
+- **Mayo 2012**: three factors — hs-TnT ≥40 ng/L, NT-proBNP ≥1800 ng/L, dFLC (involved − uninvolved) ≥180 mg/L — giving stages I–IV.
+- A **2025 AL International Staging System** adds a **Stage IIIC** ultra-poor-risk group; use alongside the Mayo systems.
 
-## 🩺 Clinical Phenotypes & Advanced Nuances
+## 💊 Management
+- **First-line = Dara-CyBorD** (daratumumab + cyclophosphamide + bortezomib + dexamethasone) — **ANDROMEDA** gave a haematologic CR of **53.3% vs 18.1%** with CyBorD and better organ response. CyBorD alone where daratumumab is unavailable; bortezomib is favoured for speed and renal benefit.
+- **Autologous HSCT** only for tightly selected fit patients (roughly cardiac Stage I–II, good performance status, adequate BP/LVEF/renal function); advanced cardiac disease makes transplant mortality prohibitive.
+- **Monitor** the haematologic response first (dFLC), then the slow organ response (a cardiac response = NT-proBNP fall ≥30%).
+- **ATTR contrast** (not a plasma-cell disease, no M-protein): treat with the TTR stabiliser **tafamidis** (ATTR-ACT) or RNA silencers (**vutrisiran** — HELIOS-B; patisiran/inotersen) — full detail on [[Cardiac Amyloidosis (AL-ATTR)]].
 
-**Organ involvement — จำอะไรได้:**
+> [!danger] 🚨 Red flags / strict avoidance
+> - **Type the amyloid before treating** — AL needs clone-directed chemotherapy, ATTR a stabiliser/silencer; treating the wrong one is useless or harmful.
+> - **Acquired factor X deficiency** → check coagulation before any biopsy/procedure.
+> - **Cardiac AL is fragile** — avoid over-diuresis and hypotensives; advanced cardiac stage contraindicates ASCT.
+> - **POEMS bone lesions are sclerotic** — an M-protein + demyelinating neuropathy + a sclerotic lesion is POEMS, not lytic myeloma.
 
-| Organ | อาการ | Pearl |
-| --- | --- | --- |
-| **Heart** | Restrictive cardiomyopathy, HFpEF, arrhythmia | β-wall หนา, sparkling appearance (echo), Troponin/ProBNP ↑ = poor prognosis |
-| **Kidney** | Nephrotic syndrome, proteinuria | Amyloid deposit ใน mesangium + capillary wall |
-| **Nerve** | Peripheral neuropathy + **Autonomic dysfunction** (orthostatic hypotension, erectile dysfunction, gastroparesis) | Autonomic >>> motor/sensory |
-| **Liver** | Hepatomegaly | ALP ↑↑ (uncommon cause) |
-| **Tongue** | **Macroglossia**  • tooth indentation | Classic but not specific (DDx acromegaly, hypothyroid) |
-| **Skin** | **Periorbital purpura** (รอบตา — fragile vessel); soft tissue; raccoon eyes | Pathognomonic ใน AL |
-| **Musculoskeletal** | **Bilateral carpal tunnel syndrome** ★ | ฝักเตือน! 2 ข้างพร้อมกัน → สงสัย amyloidosis |
-| **Coagulation** | **Factor X deficiency** | amyloid absorb Factor X → PT/PTT prolong + bleeding; พบเป็น pair กับ AL |
+> [!tip] 🎯 High-Yield Recall
+> - POEMS = λ clone → **VEGF** → polyneuropathy (100%) + M-protein (100%) + organomegaly/endocrinopathy/skin, **sclerotic** bone; radiate a solitary lesion, else MM-like ± ASCT.
+> - AL = amyloidogenic **λ** light chain → Congo-red apple-green birefringence; **periorbital purpura, macroglossia, bilateral CTS, factor X deficiency, restrictive cardiomyopathy, nephrotic proteinuria**.
+> - **Type AL vs ATTR by mass spectrometry** — treatments diverge completely.
+> - Stage AL by **troponin + NT-proBNP** (Mayo 2004/2012; 2025 adds Stage IIIC); first-line **Dara-CyBorD** (ANDROMEDA CR 53% vs 18%).
 
-**Shoulder pad sign:** amyloid deposit ใน soft tissue periarticular → ไหล่คล้าย shoulder pad
+> 🇹🇭 **Thailand availability** — bortezomib, cyclophosphamide, melphalan, dexamethasone (POEMS and AL backbones) are available; **daratumumab** for AL and the ATTR agents (**tafamidis, vutrisiran/patisiran**) are high-cost with limited/scheme-dependent access — confirm coverage before quoting Dara-CyBorD or a TTR agent as standard. Radiotherapy for a solitary POEMS lesion is widely available.
 
-**Mayo Staging (cardiac biomarkers — Troponin T + ProBNP):**
+> [!info]- 🔍 Verification status
+>
+> ✅ **Searched & verified — 18 Sep 2026**
+> - AL Mayo 2004 staging (TnT ≥0.035 µg/L or hs-TnT ≥40 ng/L; NT-proBNP ≥332 ng/L; Europe IIIb NT-proBNP >8500), Mayo 2012 (hs-TnT 40 / NT-proBNP 1800 / dFLC 180), and the 2025 AL-ISS Stage IIIC ultra-poor-risk update
+> - AL first-line Dara-CyBorD (ANDROMEDA, NEJM 2021: heme-CR 53.3% vs 18.1%); AL vs ATTR typing by mass spectrometry
+> - ATTR-CM tafamidis (ATTR-ACT) and vutrisiran (HELIOS-B) — detail on [[Cardiac Amyloidosis (AL-ATTR)]]
+>
+> ⚠️ **Directionally established, exact figure not re-pinned this turn**
+> - POEMS VEGF threshold and ASCT eligibility cut-points; Mayo/AL-ISS median-survival numbers per stage
+>
+> Textbook cross-reference available: **MKSAP 19 Hematology** (`reflib.py find "MKSAP Hematology"`).
 
-| Stage | Troponin T | ProBNP | Median OS |
-| --- | --- | --- | --- |
-| I | ≤ 0.025 μg/L | ≤ 332 ng/L | >60 เดือน |
-| II | อย่างใดอย่างหนึ่งสูง |  | ~40 เดือน |
-| III | ทั้งคู่สูง |  | ~14 เดือน |
-| IIIb | Stage III + ProBNP ≥8500 ng/L |  | <6 เดือน |
+## See also
 
-## 🩻 Advanced Diagnostics & Formal Criteria
-
-**Step 1: Demonstrate amyloid deposit:**
-
-- Biopsy organ (หัวใจ, ไต, ตับ) → ย้อม **Congo Red** → ส่องกล้อง **Polarized light** → **Apple-green birefringence** ★
-- หรือ **Abdominal fat pad biopsy** (less invasive, sensitivity ~70%)
-
-**Step 2: Type amyloid = AL:**
-
-- IHC/IF: ย้อม kappa/lambda → **lambda restriction** บ่อย
-- Mass spectrometry-based proteomics (gold standard subtyping — แยก AL vs ATTR สำคัญ! เพราะ treatment ต่างกันสิ้นเชิง)
-
-**Step 3: Prove plasma cell clone:**
-
-- BM biopsy: clonal plasma cell + kappa/lambda restriction
-- SPEP/UPEP, sFLC, immunofixation
-
-**Cardiac workup:**
-
-- Echo: Sparkling myocardium, β-wall หนา, diastolic dysfunction, ลิ้นแหลโต, pericardial effusion
-- ECG: Low voltage (limb leads); Pseudoinfarction pattern (Q waves)
-- Cardiac MRI: Late gadolinium enhancement — diffuse subendocardial
-- Troponin + ProBNP: prognosis + monitoring
-
-## 💊 Management & Pharmacodynamics
-
-**Auto-HSCT (transplant-eligible):**
-
-- Criteria เข้ม: อายุ <70, **Stage I cardiac** (Troponin T ≤ 0.06 μg/L, ProBNP ≤ 5000 ng/L), BP >หรือ= 90/60, LVEF ≥50%, CrCl >30 mL/min
-- End-organ damage สูง (โดยเฉพาะ cardiac stage III) → ผ่า HSCT mortality สูง → ไม่ทำ
-
-**Non-transplant candidate:**
-
-- **CyBorD** (Cyclophosphamide + Bortezomib + Dexamethasone) — preferred (Bortezomib: เร็ว + รักษาไตได้)
-- **Daratumumab + CyBorD (Dara-CyBorD)** — ANDROMEDA trial: ครบจุด hematologic CR (53% vs 18%); ได้รับ FDA approval 2021; ปัจจุบันเป็น preferred ในผู้ eligible
-- BMDex (Bortezomib + Melphalan + Dexa) — สำหรับ elderly/frail
-
-**Monitor response:** Hematologic response (ขั้นต้น) → organ response (ช้า months–years); cardiac response = ProBNP ลด ≥30%
-
-**ATTR Amyloidosis** (เพิ่มเติม — ไม่ใช่ plasma cell):
-
-- Wild-type: elderly men, cardiac predominant (ไม่มี M protein); Hereditary: TTR mutation
-- Treatment: **Tafamidis** (ยึด TTR tetramer → ลด misfolding); **Patisiran/Inotersen** (RNA silencing — hereditary)
-
----
-
-## 📚 Landmark Trials & Literature
-
-**ANDROMEDA** (NEJM 2021) — Dara-CyBorD vs CyBorD ใน AL amyloidosis (n=388). Hematologic CR 53% vs 18%; อัตรา organ response ดีกว่า → Daratumumab-CyBorD เป็น preferred first-line
-
-**ATTR-ACT** (NEJM 2018) — Tafamidis vs placebo ใน ATTR-CM. ลด all-cause mortality + CV hospitalizations HR 0.70 → Tafamidis approved for ATTR cardiomyopathy
-
-**HELIOS-B** (NEJM 2024) — Vutrisiran (RNA silencing q3mo SC) vs placebo ใน ATTR-CM. CV mortality + recurrent CV events: HR 0.72 → Vutrisiran approved ATTR-CM
-
-**POEMS — Dispenzieri et al. (Blood 2003)** — Mayo Clinic case series: สรุป criteria และ VEGF เป็น key biomarker; OS median >5 ปี (ดีกว่า MM เพราะ plasma cell น้อย)
-
----
-
-🖼️ **Visual Reference**
-
-- [Congo Red Apple-green birefringence — Wikimedia](https://commons.wikimedia.org/wiki/File:Amyloid_in_kidney_with_Congo_red.jpg)
-- [Cardiac amyloid echo sparkling — Radiopaedia](https://radiopaedia.org/articles/cardiac-amyloidosis)
-- [Periorbital purpura in AL amyloidosis — NEJM Images](https://www.nejm.org/image-challenge)
+- **Plasma-cell spectrum:** [[Multiple Myeloma (MM)]] · [[MGUS, Smoldering MM & MGRS]] · [[LPL - Waldenström Macroglobulinemia (WM)|Waldenström Macroglobulinemia]]
+- **Organ involvement:** [[Cardiac Amyloidosis (AL-ATTR)]] · [[Paraproteinemia & the Kidney]] · [[Peripheral Neuropathy]]
+- **Basis:** [[Immunoglobulin Structure & Function]]

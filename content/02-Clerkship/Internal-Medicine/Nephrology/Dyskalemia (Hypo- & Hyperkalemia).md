@@ -1,6 +1,6 @@
 ---
 title: "Dyskalemia (Hypo- & Hyperkalemia)"
-aliases: ["Dyskalemia (Hypo- & Hyperkalemia)"]
+aliases: ["Dyskalemia (Hypo- & Hyperkalemia)", "Dyskalemia"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Nephrology"
@@ -11,6 +11,8 @@ tags: [emergency]
 created: 2026-06-28
 notion_id: 38d224ab-ad81-8105-a520-c1d7507a23fc
 source: notion-migration
+related: ["[[Electrolyte Correction Orders]]"]
+updated: 2026-09-14
 ---
 
 # Dyskalemia (Hypo- & Hyperkalemia)

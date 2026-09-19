@@ -11,6 +11,7 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81ec-a7f1-c38b54c2d9e0
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Antiplatelet Therapy
@@ -105,7 +106,7 @@ source: notion-migration
 > - **Vorapaxar ห้ามใช้ในประวัติ stroke/TIA/ICH** — เพิ่ม intracranial bleeding อย่างชัดเจน
 > 
 
-> - **อย่า de-escalate หรือหยุด DAPT ใน 30 วันแรกหลัง ACS/stent** — เสี่ยง stent thrombosis เฉียบพลัน (ดู [[Post-MI Management (Secondary Prevention & Chronic Phase Care after Myocardial Infarction)]])
+> - **อย่า de-escalate หรือหยุด DAPT ใน 30 วันแรกหลัง ACS/stent** — เสี่ยง stent thrombosis เฉียบพลัน (ดู [[Post-MI Management]])
 > 
 
 ## 4. ⚠️ Adverse Effects (with mechanism)

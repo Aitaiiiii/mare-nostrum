@@ -3,9 +3,11 @@ title: "AFI / Dengue"
 type: "Standing Order"
 specialty: "Infectious Disease"
 ward: ["Medicine"]
-tags: [workflow]
+tags: [workflow, emergency]
+related: ["[[Dengue]]"]
 notion_id: 389224ab-ad81-81d5-b204-ecee48a7b267
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # AFI / Dengue

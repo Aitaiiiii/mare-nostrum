@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-816a-ad09-f14d0668c52e
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Ebstein Anomaly
@@ -19,7 +20,7 @@ source: notion-migration
 > **Scope:** SNC-Ped section D · lesion page เขียนแบบ lifespan · rewrite ทั้งหน้า 26 ส.ค. 2026 (รูปเดิมถูกลบตามที่ผู้ใช้อนุมัติ)
 > 
 
-> รายละเอียดหัตถการอยู่ที่ [Congenital Heart Surgery (Common Operations)](Congenital%20Heart%20Surgery%20(Common%20Operations%20%E2%80%94%20Pall%20396224abad8181e4abb5ffb90d579e75.md) · physiology ทารกแรกเกิดอยู่ที่ [Fetal & Transitional Circulation](Fetal%20&%20Transitional%20Circulation%20%E2%80%94%20Neonatal%20Cardio%203c6224abad81814da16af00bf83a20bb.md) · TR ทั่วไปอยู่ที่ [TR (Tricuspid Regurgitation)](TR%20(Tricuspid%20Regurgitation)%20%E2%80%94%20The%20Forgotten%20Valve%203a0224abad8181938228d555b008509b.md) · hub อยู่ที่ [SNC-Ped](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
+> รายละเอียดหัตถการอยู่ที่ [[Congenital Heart Surgery|Congenital Heart Surgery (Common Operations)]] · physiology ทารกแรกเกิดอยู่ที่ [[Fetal & Transitional Circulation|Fetal & Transitional Circulation]] · TR ทั่วไปอยู่ที่ [[Tricuspid Regurgitation|TR (Tricuspid Regurgitation)]] · hub อยู่ที่ [SNC-Ped](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
 > 
 
 ## 1. 🧬 Anatomy & Pathophysiology

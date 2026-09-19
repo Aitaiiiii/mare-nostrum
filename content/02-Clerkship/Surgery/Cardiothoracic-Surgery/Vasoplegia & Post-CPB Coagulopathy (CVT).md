@@ -11,6 +11,7 @@ tags: []
 created: 2026-08-04
 notion_id: 3b2224ab-ad81-81a3-9ad8-ccef7e0ebee8
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Vasoplegia & Post-CPB Coagulopathy (CVT)
@@ -18,7 +19,7 @@ source: notion-migration
 <aside>
 🫀
 
-**Short Note in CVT — A4 · CPB & Perioperative core (SNC-CVT Template C: physiology + recognition/mgmt).** สองภาวะแทรกซ้อนหลัง wean off CPB — vasoplegia (distributive shock จาก CPB) และ post-CPB coagulopathy (microvascular bleeding). ต่อยอดจาก [Cardiopulmonary Bypass (CPB) — Circuit & Physiology (CVT)](Cardiopulmonary%20Bypass%20(CPB)%20%E2%80%94%20Circuit%20&%20Physiolog%203b2224abad81815fb29fd63dfdeec96e.md) (CPB/SIRS). Vasopressor dosing ทั่วไป → [Inotrope & Vasopressor](Inotrope%20&%20Vasopressor%203a4224abad8181348fb1fb991549c417.md).
+**Short Note in CVT — A4 · CPB & Perioperative core (SNC-CVT Template C: physiology + recognition/mgmt).** สองภาวะแทรกซ้อนหลัง wean off CPB — vasoplegia (distributive shock จาก CPB) และ post-CPB coagulopathy (microvascular bleeding). ต่อยอดจาก [[Cardiopulmonary Bypass (CPB)]] (CPB/SIRS). Vasopressor dosing ทั่วไป → [[Inotrope & Vasopressor]].
 
 </aside>
 

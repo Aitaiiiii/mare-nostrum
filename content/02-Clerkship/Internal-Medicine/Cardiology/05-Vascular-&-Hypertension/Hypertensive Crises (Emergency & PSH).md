@@ -12,6 +12,8 @@ tags: [emergency]
 created: 2026-07-26
 notion_id: 3a9224ab-ad81-81b9-97d6-f72f53a120be
 source: notion-migration
+related: ["[[Hypertensive emergency]]"]
+updated: 2026-09-14
 ---
 
 # Hypertensive Crises (Emergency & PSH)

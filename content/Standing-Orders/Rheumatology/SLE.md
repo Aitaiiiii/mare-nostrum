@@ -3,7 +3,7 @@ title: "SLE"
 type: "Standing Order"
 specialty: "Rheumatology"
 ward: ["Medicine"]
-related: ["Systemic Lupus Erythematosus (SLE)"]
+related: ["[[Systemic Lupus Erythematosus (SLE)]]"]
 tags: [workflow]
 notion_id: 321224ab-ad81-80b3-b195-dc9ee7030bba
 source: notion-migration

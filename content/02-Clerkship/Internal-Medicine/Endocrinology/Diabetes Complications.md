@@ -6,10 +6,12 @@ rotation: "Internal Medicine"
 specialty: "Endocrinology"
 type: "Disease"
 review_status: "New"
+related: ["[[Type 2 Diabetes Mellitus]]"]
 tags: []
 created: 2026-06-28
 notion_id: 38d224ab-ad81-8110-80fb-f26bb3091492
 source: notion-migration
+updated: 2026-09-16
 ---
 
 # Diabetes Complications
@@ -109,7 +111,7 @@ FIB-4 Index = (Age × AST) / (PLT × √ALT)
 
 **DKA/HHS Management — 3-Part:**
 
-> 🔗 **DKA เต็มรูปแบบ (pathophysiology, เกณฑ์ 2024, severity, management, complications):** [DKA (Diabetic Ketoacidosis)](DKA%20(Diabetic%20Ketoacidosis)%203c2224abad8181d2939bd810c0675169.md) — หน้านี้เก็บเฉพาะภาพรวมสั้น ๆ เพื่อให้อ่านต่อเนื่องกับ chronic complication
+> 🔗 **DKA เต็มรูปแบบ (pathophysiology, เกณฑ์ 2024, severity, management, complications):** [[DKA (Diabetic Ketoacidosis)|DKA (Diabetic Ketoacidosis)]] — หน้านี้เก็บเฉพาะภาพรวมสั้น ๆ เพื่อให้อ่านต่อเนื่องกับ chronic complication
 > 
 
 > 🔗 **Order sets เต็ม (actionable, หน้างาน):** [DKA Standing Order](https://app.notion.com/p/DKA-Diabetic-Ketoacidosis-39c224abad8181baa825e4ac2a8fa959?pvs=21) · [HHS Standing Order](https://app.notion.com/p/HHS-Hyperosmolar-Hyperglycemic-State-39c224abad81812688acefcf1b85cddf?pvs=21) — ดูรายละเอียด dose/route/freq + safety callout ที่เพจ order

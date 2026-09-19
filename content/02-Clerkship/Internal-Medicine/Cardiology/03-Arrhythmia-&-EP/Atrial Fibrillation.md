@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-810a-b2a4-c2568e15e16c
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Atrial Fibrillation
 
-> Companion: [[NOAC (Non-Vitamin K Oral Anticoagulants)]] · [[Anticoagulant Therapy]] · [[Tachyarrhythmia — Overview & Acute Management (Narrow & Wide-Complex, ACLS)]] · [[Stroke Cardiac Evaluation]] — *populated 26 ก.ค. 2026 จาก digest SNC4 + verification (2024 ESC AF-CARE, 2023 ACC/AHA)*
+> Companion: [[NOAC (Non-Vitamin K Oral Anticoagulants)]] · [[Anticoagulant Therapy]] · [[Tachyarrhythmia Overview]] · [[Cardioembolism|Stroke Cardiac Evaluation]] — *populated 26 ก.ค. 2026 จาก digest SNC4 + verification (2024 ESC AF-CARE, 2023 ACC/AHA)*
 > 
 
 # 🧬 Etiology & Pathophysiology

@@ -1,6 +1,6 @@
 ---
 title: "PDA (Patent Ductus Arteriosus)"
-aliases: ["PDA (Patent Ductus Arteriosus)"]
+aliases: ["PDA (Patent Ductus Arteriosus)", "PDA"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"

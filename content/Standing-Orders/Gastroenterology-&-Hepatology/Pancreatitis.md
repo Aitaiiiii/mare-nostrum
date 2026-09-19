@@ -1,82 +1,45 @@
 ---
-title: "Pancreatitis"
+title: "Acute Pancreatitis — Admission Orders"
+aliases: ["Pancreatitis", "Acute Pancreatitis Orders"]
 type: "Standing Order"
 specialty: "Gastroenterology & Hepatology"
+lang: en
 ward: ["Medicine"]
-tags: [workflow]
+related: ["[[Acute Pancreatitis]]", "[[Acute Cholangitis]]"]
+tags: [workflow, emergency]
+sources: []
 notion_id: 321224ab-ad81-80df-abe2-c2ed75485c08
-source: notion-migration
+created: 2026-07-09
+updated: 2026-09-18
 ---
 
-# Pancreatitis
+# Acute Pancreatitis — Admission Orders
 
-> [!question]- What to review
->
-> - **Etiology** — Gallstone (40–70%, most common), Alcohol (30%), Hypertriglyceridemia (TG >1000 mg/dL), Drug-induced, ERCP-induced, Autoimmune, Idiopathic
-> - **Severity assessment: Revised Atlanta Classification (2012)**
->     - Mild: no organ failure, no local complication
->     - Moderately severe: transient organ failure (<48 ชม.) หรือ local complication
->     - Severe: persistent organ failure (>48 ชม.) — mortality 30–50%
-> - **Bedside Index for Severity in AP (BISAP)** — BUN >25, Impaired mental status, SIRS ≥2, Age >60, Pleural effusion: ≥2 = severe
-> - **Organ failure screening** — Respiratory (SpO₂, PaO₂), Renal (Cr, UO), Cardiovascular (BP, HR) — Modified Marshall Score
-> - **Cholangitis signs** — Charcot's triad (RUQ pain, fever, jaundice) → ต้องการ urgent ERCP
-> - **Fluid status** — dehydration มักรุนแรง จาก third spacing + vomiting; BUN เป็น surrogate marker
-> - **Feeding tolerance** — ประเมิน nausea/vomiting, bowel sounds, abdominal tenderness trend
->
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Do NOT over-resuscitate** (WATERFALL: aggressive fluids cause overload/ARDS) — target euvolaemia with a falling BUN. **No prophylactic antibiotics.** Concurrent cholangitis/biliary obstruction → **urgent ERCP within 24 h**.
 
+## 🔴 One Day
+- [ ] Dx = 2 of 3: characteristic pain · **lipase (preferred) or amylase ≥ 3× ULN** · imaging
+- [ ] **US abdomen** (gallstones/biliary dilatation) for every patient
+- [ ] Labs: CBC, **BUN/Cr**, electrolytes, glucose, **LFT** (ALT > 3× ULN → gallstone), **calcium, triglycerides**, CRP, lipase
+- [ ] **Do NOT order early CT for diagnosis** — reserve contrast CT for uncertainty or at 72 h–>4 days if not improving (assess necrosis)
+- [ ] **Fluids: Lactated Ringer's (preferred), moderately aggressive ~1.5 mL/kg/hr**; bolus **10 mL/kg only if hypovolaemic/hypotensive**
+- [ ] Reassess volume within 6 h → target HR < 120, MAP 65–85, **UOP > 0.5 mL/kg/hr, falling BUN & Hct**; titrate DOWN once met
+- [ ] Analgesia: opioid (e.g. morphine/tramadol/pethidine per protocol) + antiemetic
+- [ ] **[Cholangitis / persistent obstruction] Urgent ERCP within 24 h** (see [[Acute Cholangitis]])
+- [ ] **[TG > 1000] insulin infusion ± apheresis**; **[hypercalcaemia] treat cause**
+- [ ] ICU referral if persistent organ failure (respiratory/renal/CV) — severe AP
 
+## 🔵 Continuous
+- [ ] Admit Medicine (ICU if severe) — Dx: Acute pancreatitis (aetiology ___, revised-Atlanta severity ___)
+- [ ] Vital signs + SpO₂ q4h; strict I/O; daily weight; monitor for SIRS/organ failure
+- [ ] **Early feeding — do NOT keep NPO:** oral **low-fat solids within 24–48 h as tolerated** (mild AP); if unable to eat (moderately severe/severe) → **early enteral NG/NJ feeding**; TPN only if enteral fails
+- [ ] Repeat BUN, Hct, electrolytes, calcium at intervals; **do NOT trend lipase for progress**
+- [ ] **No prophylactic antibiotics** — start only for suspected/proven **infected necrosis** (deterioration day 7–10, gas in collection) with a necrosis-penetrating agent (e.g. meropenem); delay drainage > 4 weeks (step-up approach)
+- [ ] **Mild gallstone AP → index-admission (same-stay) laparoscopic cholecystectomy**
+- [ ] VTE prophylaxis per risk; glycaemic control; treat complications (pseudocyst, walled-off necrosis, ACS)
 
+> [!info]- Why
+> WATERFALL/ACG 2024 reversed "early aggressive" fluids — moderate LR titrated to a falling BUN avoids the ARDS/overload of over-resuscitation. Early enteral feeding preserves gut barrier and cuts infection. Prophylactic antibiotics do not help necrotising AP and drive resistance. Same-admission cholecystectomy prevents recurrent gallstone AP. Verified vs ACG 2024 + revised Atlanta.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Serum amylase + lipase stat** — lipase: sensitivity ~94%, ยังสูงได้นานกว่า amylase; ≥3x ULN = diagnostic
-> - [ ] **CBC, electrolytes, BUN, Cr, glucose, LFT, bilirubin**
-> - [ ] **Triglycerides** — ถ้าสงสัย hypertriglyceridemia etiology
-> - [ ] **Serum calcium** — hypocalcemia (fat saponification) = severe
-> - [ ] **Serum albumin** — prognostic
-> - [ ] **CRP** — peak ใน 48–72 ชม.; >150 mg/L = severe
-> - [ ] **ABG/VBG** ถ้า SpO₂ <92% (ARDS complication)
-> - [ ] **US abdomen** — biliary stones, CBD dilation, ascites; มักทำ early เพราะ bowel gas อาจบัง pancreas
-> - [ ] **CT abdomen with contrast (CECT)** — ถ้า severe / ไม่ improve 48–72 ชม. / สงสัย necrotizing pancreatitis; CT Severity Index (Balthazar Score)
-> - [ ] **MRCP** ถ้าสงสัย choledocholithiasis/CBD stone ไม่ invasive
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Aggressive IV fluid resuscitation — สำคัญที่สุดใน 24–48 ชม.แรก:**
->     - **Lactated Ringer's (LR) 250–500 mL/hr** ใน 2–4 ชม.แรก (IAP/APA 2013: LR ดีกว่า NS — ลด SIRS)
->     - ปรับเป็น 150–250 mL/hr ตาม clinical response; เป้า UO ≥0.5 mL/kg/hr, BUN ลดลง
-> - [ ] **NPO** ใน severe/vomiting; **Nasogastric feeding** เริ่มเร็วถ้า tolerating (mild/moderate: oral diet ภายใน 24 ชม.ถ้าไม่ nausea)
-> - [ ] **Analgesia:** Morphine 2–5 mg IV q4–6h prn หรือ Tramadol 50–100 mg IV q6h — ไม่มีหลักฐานว่า morphine aggravate sphincter of Oddi อีกต่อไป (ACG 2024)
-> - [ ] **Antiemetic:** Ondansetron 4–8 mg IV q8h, Metoclopramide 10 mg IV q8h
-> - [ ] **[ATB — ไม่ต้องให้ routine]** ให้เฉพาะ: infected necrosis ยืนยัน (FNA + culture) หรือ cholangitis — Meropenem 1 g IV q8h หรือ Pip-Tazo (pancreas penetration)
-> - [ ] **[Hypertriglyceridemia]** Insulin + heparin infusion ลด TG; plasmapheresis ถ้า TG >5000
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Serial CBC, BUN, Cr, electrolytes, LFT** ทุก 24–48 ชม. ใน severe
-> - [ ] **CRP 48–72 ชม.** — ถ้า >150 ยังอยู่ = severe pancreatitis
-> - [ ] **Repeat CECT** ถ้า clinical deterioration / สงสัย infected necrosis (>72 ชม. จากแรก)
-> - [ ] **ERCP** ถ้า gallstone pancreatitis + cholangitis → ภายใน 24–48 ชม.
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Nutrition — เริ่มเร็ว:** Mild = oral diet ทันทีที่ tolerating; Severe = **nasogastric/nasojejunal enteral feeding** ภายใน 48–72 ชม. (ดีกว่า TPN — IAP/APA 2013)
-> - [ ] **TPN** เฉพาะกรณี enteral route ไม่ได้จริงๆ (ileus รุนแรง, fistula)
-> - [ ] **[Gallstone] Cholecystectomy** ก่อน discharge ใน mild gallstone pancreatitis — ป้องกัน recurrence (ในรายที่ fit for surgery); ERCP + sphincterotomy ถ้า high surgical risk
-> - [ ] **[Infected necrosis]** Step-up approach: Percutaneous drainage → endoscopic/surgical necrosectomy — ATB ต่อตาม culture
-> - [ ] **Alcohol abstinence counseling** ถ้า alcohol etiology
-> - [ ] **Fibrate/Omega-3** ถ้า hypertriglyceridemia — ลด future recurrence
->
-
+→ Deeper reasoning: [[Acute Pancreatitis]]

@@ -1,157 +1,96 @@
 ---
 title: "MGUS, Smoldering MM & MGRS"
-aliases: ["MGUS, Smoldering MM & MGRS"]
+aliases: ["MGUS", "Smoldering Multiple Myeloma", "SMM", "MGRS", "Monoclonal Gammopathy of Undetermined Significance", "Monoclonal Gammopathy of Renal Significance"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Hematology-Oncology"
+subspecialty: "Plasma Cell Disorders"
 type: "Disease"
+lang: en
 review_status: "New"
+summary: "The pre-myeloma continuum — MGUS (M-protein <3 g/dL, marrow plasma cells <10%, no CRAB/SLiM; ~1%/yr progression) → smouldering MM (≥3 g/dL and/or ≥10%, no CRAB/SLiM; ~10%/yr early, risk-stratified by 20/20/20) → myeloma. MGRS is the separate branch: a small clone whose M-protein is nephrotoxic, treated clone-directed despite not meeting tumour criteria."
+related: ["[[Multiple Myeloma (MM)]]", "[[Paraproteinemia & the Kidney]]", "[[LPL - Waldenström Macroglobulinemia (WM)]]", "[[POEMS Syndrome & AL Amyloidosis]]"]
 tags: []
 created: 2026-06-28
 notion_id: 38d224ab-ad81-8166-9443-d358b8eec9b1
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # MGUS, Smoldering MM & MGRS
 
-> 📚 อ้างอิง: IMWG Diagnostic Criteria 2014 (Kyle & Rajkumar), IMWG MGUS Risk Stratification, IMWG Smoldering MM 2020 Update, PMK Board Review 2026 (อ.กานดิษฐ์). Search date: 28 มิ.ย. 2026
-> 
+These are the plasma-cell disorders **short of overt [[Multiple Myeloma (MM)|myeloma]]**. Biologically it is one continuum — a clonal plasma cell making an M-protein — sliced by thresholds of clone size and M-protein and by whether organ damage has appeared: **MGUS → smouldering MM (SMM) → MM**. The clinical job at each step is a probability estimate: how likely is this to become myeloma, and does it already need treatment? **MGRS sits off to the side** — the clone is MGUS/SMM-sized and not a cancer by burden, but its protein is toxic to the kidney, so it is treated like a malignancy for the nephron's sake.
 
----
+## 🧬 Why it progresses
 
-## 🧬 Etiology & Molecular Pathophysiology
+The clone is present and stable for years; progression is the acquisition of further hits on top of it — secondary cytogenetic events (del(17p), MYC, RAS), a permissive marrow niche (IL-6, VEGF, APRIL/BAFF), and waning immune surveillance (fewer NK cells, more regulatory T cells). Because the precursor states are asymptomatic and only a fraction ever progress, they are **defined by thresholds and followed over time**, not treated — the entire management question is stratifying who will progress.
 
-**Plasma Cell Dyscrasia Spectrum:** MGUS → Smoldering MM → Multiple Myeloma (+ MGRS → แยกสายเมื่อมี renal involvement)
+## MGUS
+**Criteria (all three):** serum M-protein **<3 g/dL**, clonal marrow plasma cells **<10%**, and **no CRAB, no SLiM biomarker, no end-organ damage**.
 
-สาม entity ทั้งสามมี **clonal plasma cell** ใน bone marrow ที่สร้าง M protein — แตกต่างกันที่ปริมาณ clonal cell, M protein, และการมี/ไม่มี end-organ damage
+**Epidemiology & natural history:** present in ~3–4% of adults over 50, almost always an incidental electrophoresis finding, with an overall progression rate of **~1% per year** (Kyle, Mayo cohort) to myeloma, AL amyloidosis, or a lymphoproliferative disorder.
 
-Mechanism ผลักดัน progression จาก MGUS → MM:
+**Mayo risk model** — one point each for M-protein **≥1.5 g/dL**, **non-IgG** isotype (IgA/IgM/IgD), and an **abnormal free-light-chain ratio** (<0.26 or >1.65):
 
-- **Genomic instability:** Secondary cytogenetic events (เช่น del17p, MYC, RAS) สะสม → aggressive clone
-- **Bone marrow microenvironment:** IL-6, VEGF, APRIL, BAFF สนับสนุน plasma cell survival
-- **Immune evasion:** T regulatory cell เพิ่มขึ้น, NK cell ลดลง → clonal expansion
+| Risk factors | Group | ~20-yr progression |
+|---|---|---|
+| 0 | low | **5%** |
+| 1 | low-intermediate | **21%** |
+| 2 | high-intermediate | **37%** |
+| 3 | high | **58%** |
 
----
+**Management is monitoring, never treatment.** **Low-risk MGUS** (M-protein <1.5 g/dL + IgG + normal FLC ratio) can skip the marrow biopsy — recheck CBC/creatinine/calcium/SPEP at 6 months, then every ~2 years if stable. All other MGUS gets a baseline marrow biopsy and annual follow-up. The isotype predicts the destination: **IgM MGUS → smouldering Waldenström → [[LPL - Waldenström Macroglobulinemia (WM)|Waldenström macroglobulinaemia]]**; **non-IgM MGUS → SMM → [[Multiple Myeloma (MM)|myeloma]] / AL amyloidosis / lymphoma**.
 
-## 🩺 Clinical Phenotypes & Advanced Nuances
+## Smouldering multiple myeloma (SMM)
+**Criteria:** serum M-protein **≥3 g/dL** and/or clonal marrow plasma cells **≥10%**, with **no CRAB and no SLiM**.
 
-### MGUS (Monoclonal Gammopathy of Undetermined Significance)
+**Natural history:** ~**10% per year** for the first 5 years, then the rate declines.
 
-**Criteria:**
+**Risk — the "20/20/20" model** (one point each): marrow plasma cells **>20%**, free-light-chain ratio **>20**, serum M-protein **>2 g/dL**. Zero / one / ≥two factors → low / intermediate / high risk, with **5-year progression-free survival ≈ 78% / 62% / 29%** respectively. High-risk cytogenetics [t(4;14), del(17p), gain(1q)], an evolving (rising) M-protein, and focal PET activity add further risk.
 
-- M protein **<3 g/dL** (serum)
-- BM clonal plasma cell **<10%**
-- **ไม่มี** CRAB / Myeloma Defining Events / end-organ damage
+**Management:** standard-risk SMM is **watch-and-wait** (labs at 2–3 months, then 4–6-monthly if stable). **High-risk SMM** → consider early **lenalidomide** or a trial: **ECOG E3A06** (lenalidomide vs observation) gave a 1/2/3-year PFS of **98/93/91% vs 89/76/66%**, i.e. delayed progression, though observation with close monitoring remains an accepted standard. Use whole-body low-dose CT to catch a SLiM-defining bone lesion that would reclassify the patient as myeloma.
 
-**Epidemiology:** พบ ~3% ของประชากรอายุ >50 ปี; นิยมพบใน asymptomatic (detect จาก routine electrophoresis)
+## MGRS (Monoclonal Gammopathy of Renal Significance)
+A clone in the MGUS/SMM size range whose M-protein injures the kidney but that does **not** meet criteria for a malignancy requiring treatment. The point of the term is that "MGUS, just observe" would wrongly withhold therapy: MGRS behaves malignantly for the nephron even though the clone is benign by burden, and clone-directed treatment can rescue renal function. Diagnosis rests on a **kidney biopsy** (immunofluorescence for a monotypic light chain + electron microscopy); treatment is **clone-directed** (bortezomib-based for a plasma-cell clone, rituximab-based for a B-cell clone). **The lesion classification (cast nephropathy, AL amyloid, MIDD, PGNMID, LCPT…), diagnostic workup, and transplant-recurrence data are on [[Paraproteinemia & the Kidney]].**
 
-**Progression:** ~1% ต่อปี → Smoldering MM → MM → หรือ Amyloidosis → NHL
+## 🩻 The spectrum at a glance
 
-**Risk Stratification (Mayo Clinic):**
+| | MGUS | SMM | MM |
+|---|---|---|---|
+| Clonal marrow plasma cells | <10% | ≥10% | any (usually ≥10%) |
+| Serum M-protein | <3 g/dL | ≥3 g/dL or plasma cells ≥10% | any |
+| CRAB / SLiM | absent | absent | **present** (defines MM) |
+| Action | monitor | watch-and-wait (± trial if high-risk) | treat |
 
-| Risk Factor | คะแนน |  |
-| --- | --- | --- |
-| M protein ≥1.5 g/dL | 1 |  |
-| Non-IgG subtype (IgA, IgM, IgD) | 1 |  |
-| Abnormal sFLC ratio (<0.26 หรือ >1.65) | 1 |  |
-| Risk Group | Score | 20-yr progression |
-| ------------ | ------- | ------------------ |
-| Low | 0 | ~5% |
-| Low-Int | 1 | ~21% |
-| High-Int | 2 | ~37% |
-| High | 3 | ~58% |
+**Workup for a monoclonal gammopathy:** CBC, creatinine, calcium, LDH, β2-microglobulin; SPEP + serum/urine immunofixation; serum free light chains; marrow biopsy + aspirate (CD38/CD138 + κ/λ) — deferrable in low-risk MGUS; low-dose whole-body CT (skeletal survey if unavailable); spine MRI / PET-CT if SMM is high-risk.
 
-**Management per risk:**
+> [!danger] 🚨 Red flags / strict avoidance
+> - **A monoclonal-Ig kidney lesion in a "MGUS-sized" clone is MGRS, not benign MGUS** → biopsy and treat clone-directed (see [[Paraproteinemia & the Kidney]]).
+> - **Any CRAB feature or SLiM biomarker converts the precursor to MM** → treat as [[Multiple Myeloma (MM)|myeloma]]; stop observing.
+> - **An IgM monoclonal gammopathy** tracks to Waldenström, not myeloma — different workup and treatment.
+> - **Do not treat standard-risk SMM off-trial** — no proven benefit, real toxicity.
 
-- **Low-risk MGUS** (M protein <1.5 g/dL + normal sFLC ratio + IgG type): อาจ skip BM biopsy + ติดตาม CBC/Cr/Ca/SPEP ที่ 6 เดือน, ถ้า stable ทุก 2–3 ปี
-- **MGUS อื่น:** BM biopsy เพื่อ confirm + ติดตามทุกปี
-- **ไม่ต้องรักษา** — เพียงติดตามสัญญาณ progression
+> [!tip] 🎯 High-Yield Recall
+> - MGUS = M-protein **<3 g/dL** + plasma cells **<10%** + no CRAB/SLiM; **~1%/yr**; Mayo 3-factor risk (≥1.5 g/dL, non-IgG, abnormal FLC ratio) → 20-yr 5/21/37/58%.
+> - SMM = **≥3 g/dL and/or ≥10%** plasma cells, no CRAB/SLiM; **~10%/yr** early; **20/20/20** high-risk (>20% plasma cells, FLC ratio >20, M-protein >2 g/dL).
+> - MM = the above **plus** a myeloma-defining event (CRAB or SLiM).
+> - **MGRS** = small clone + nephrotoxic protein → treat the clone to save the kidney.
+> - IgM → Waldenström branch; non-IgM → MM/amyloid branch.
 
-**Progression patterns:**
+> 🇹🇭 **Thailand availability** — MGUS/SMM need only monitoring, universally available; the diagnostics (SPEP/IFE/FLC, marrow biopsy, low-dose whole-body CT) are available at tertiary centres. When SMM or MGRS is treated, the same access limits as [[Multiple Myeloma (MM)]] apply (bortezomib-based backbone affordable; anti-CD38 agents costly).
 
-- IgM MGUS → Smoldering Waldenström → [Waldenström Macroglobulinemia](LPL%20Waldenstr%C3%B6m%20Macroglobulinemia%20(WM)%2038d224abad818113a84bcbdbe8d9ed25.md)
-- Non-IgM MGUS → Smoldering MM → [Multiple Myeloma](Multiple%20Myeloma%20(MM)%2038d224abad818189a158d17bbea1fd89.md) / Amyloidosis / NHL
+> [!info]- 🔍 Verification status
+>
+> ✅ **Searched & verified — 18 Sep 2026**
+> - MGUS Mayo 3-factor risk model and 20-yr progression 5/21/37/58% (0–3 factors); MGUS overall ~1%/yr (Kyle 2002)
+> - SMM 20/20/20 model (plasma cells >20%, FLC ratio >20, M-protein >2 g/dL) with 5-yr PFS ≈78/62/29% (low/int/high)
+> - ECOG E3A06 lenalidomide vs observation: 1/2/3-yr PFS 98/93/91% vs 89/76/66% (corrected — these are 3-yr, not 5-yr, figures)
+> - IMWG thresholds for MGUS/SMM/MM and SLiM; MGRS as a clone-directed-treatment entity (IKMG) — see [[Paraproteinemia & the Kidney]] Verification status
+>
+> Textbook cross-reference available: **MKSAP 19 Hematology** (`reflib.py find "MKSAP Hematology"`).
 
-### Smoldering Multiple Myeloma (SMM)
+## See also
 
-**Criteria:**
-
-- M protein (serum) **≥3 g/dL** และ/หรือ BM clonal plasma cell **≥10%**
-- **ไม่มี** CRAB / Myeloma Defining Events (SLiM)
-
-**Progression:** ~10% ต่อปีใน  5 ปีแรก (หลังจากนั้น rate ลดลงเรื่อยๆ)
-
-**High-risk SMM** (progression เร็ว, ครึ่งหนึ่งเป็น MM ภายใน 2.5 ปี):
-
-- BM plasma cell ≥10% + M protein ≥3 g/dL (ทั้งคู่)
-- BM plasma cell 50–60%
-- High-risk cytogenetics: t(4;14), del(17p), gain(1q)
-- Abnormal sFLC ratio (involved/uninvolved ≥20)
-- Increasing M protein trend (evolving)
-- PET/CT: มี focal metabolic activity
-
-**Management:**
-
-- Standard SMM: **Watch and wait** + CBC/Cr/Ca/SPEP ที่ 2–3 เดือนแรก, ถ้า stable ทุก 4–6 เดือน
-- **High-risk SMM:** พิจารณา early treatment — ECOG E3A06 (Lenalidomide vs observation): reduce risk progression, OS benefit trend; ยังไม่ใช่ standard สากล แต่ close monitoring เป็น minimum
-- **Skeletal survey:** Low-dose whole-body CT ดีกว่า plain X-ray สำหรับ detect bone lesion (หา SLiM criteria)
-
-### MGRS (Monoclonal Gammopathy of Renal Significance)
-
-- M protein เล็ก (ในระดับ MGUS) แต่ทำ **end-organ damage ที่ไต** (nephropathy, proteinuria)
-- ไม่ถึง criteria MM; criteria รวม: Light chain deposit disease (LCDD), cast nephropathy, AL amyloidosis ของไต — สเป็กตรัมกว้าง
-- Prove ด้วย: **Kidney biopsy → ย้อม light chain** (IF) + สวม EM (electron microscopy)
-- รักษา: บาง entity ใช้ MM-like regimen เพื่อ eradicate clonal plasma cell → หวังให้ไตฟื้น
-
----
-
-## 🩻 Advanced Diagnostics & Formal Criteria
-
-**สรุป Spectrum:**
-
-|  | MGUS | SMM | MM |
-| --- | --- | --- | --- |
-| BM plasma cell | <10% | ≥10% | ≥10% |
-| M protein | <3 g/dL | ≥3 g/dL หรือ PC ≥10% | แนยใดก็ได้ |
-| CRAB | − | − |   • หรือ SLiM |
-| รักษา | ไม่ต้อง | Watch & wait | ต้องรักษา |
-
-**Workup MGUS/SMM:**
-
-- CBC, BUN/Cr, Ca, LFT, LDH, β2-microglobulin
-- SPEP + Immunofixation (serum + urine)
-- Serum Free Light Chain ratio
-- BM biopsy + aspirate (ย้อม CD38/138 + κ/λ)
-- Skeletal imaging: Low-dose whole-body CT หรือ Skeletal survey (plain X-ray)
-- PET-CT / MRI spine ถ้า high-risk SMM
-
----
-
-## 💊 Management & Pharmacodynamics
-
-**MGUS:** ไม่รักษา — ติดตามอย่างเดียว; สอนคนไข้ สัญญาณ CRAB (เจ็บหลัง, ซีด, ไตวาย
-
-**SMM:** Watch and wait (ส่วนใหญ่) — ติดตาม regular
-
-- **High-risk SMM:** ปัจจุบันยังไม่มี universal standard; ECOG E3A06 อ้าง Lenalidomide ช่วยได้ — ถ้าตัดสินใจรักษาต้องอยู่ใน clinical trial หรือ shared decision making
-
-**MGRS:** รักษา clone ด้วย MM-like regimen (Bortezomib-based) เพื่อรักษา kidney
-
----
-
-## 📚 Landmark Trials & Literature
-
-**Kyle et al. (NEJM 2002)** — Landmark MGUS cohort: 1,384 cases ติดตาม median 10 ปี. พบ progression เป็น MM ≈ 1%/yr; เกือบครึ่งแอบอยู่เฉยๆ โดยไม่เป็น MM → establish natural history
-
-**Rajkumar et al. (Lancet Oncol 2010)** — Mayo Clinic MGUS risk stratification: M protein <1.5 g/dL + IgG + normal sFLC ratio = low-risk (20-yr ~5%); เป็น basis ของการติดตามเฉพาะราย
-
-**ECOG E3A06** (NEJM 2024) — Lenalidomide vs observation ใน high-risk SMM (n=182). 5-yr PFS: 91% vs 66%; OS benefit trend → ผลสนับสนุน early intervention ใน high-risk SMM
-
-**IMWG Update (Blood 2014)** — เพิ่ม SLiM criteria (60-10-2): BMPC ≥60%, sFLC ratio ≥100, >1 MRI focal → หากมี SLiM แม้ไม่มี CRAB → = MM (indication รักษาทันที)
-
----
-
-🖼️ **Visual Reference**
-
-- [MGUS to MM spectrum diagram — Rajkumar (Blood 2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729564/)
-- [SPEP M-spike — Wikimedia](https://commons.wikimedia.org/wiki/File:Serum_protein_electrophoresis.png)
+- **Plasma-cell spectrum:** [[Multiple Myeloma (MM)]] · [[POEMS Syndrome & AL Amyloidosis]] · [[LPL - Waldenström Macroglobulinemia (WM)|Waldenström Macroglobulinemia]]
+- **Organ involvement:** [[Paraproteinemia & the Kidney]] · [[Cardiac Amyloidosis (AL-ATTR)]]
+- **Basis:** [[Immunoglobulin Structure & Function]]

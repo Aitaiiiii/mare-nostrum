@@ -3,15 +3,13 @@ title: "Acute Asthmatic Attack (Pediatric)"
 type: "Standing Order"
 specialty: "General"
 ward: ["Pediatrics"]
-related: ["ADHF (Acute Decompensated Heart Failure) — CHAMP Triage, Decongestion, Diuretic Resistance & Cardiogenic Shock"]
 tags: [workflow]
 notion_id: 389224ab-ad81-8111-b162-cb6cf536542c
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Acute Asthmatic Attack (Pediatric)
-
-> 🃏 Order set for [[ADHF (Acute Decompensated Heart Failure) — CHAMP Triage, Decongestion, Diuretic Resistance & Cardiogenic Shock]]
 
 - **Severity classification (GINA Pediatric):**
     - Mild: SpO₂ ≥94%, speaks in sentences, HR <100, RR <30, mild wheeze

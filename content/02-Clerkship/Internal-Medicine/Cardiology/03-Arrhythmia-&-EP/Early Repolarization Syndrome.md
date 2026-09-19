@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81e9-aba1-f030660b42b3
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Early Repolarization Syndrome
 
-> J-wave syndrome · companion: [[Brugada Syndrome]] · [[Sudden Cardiac Death — Approach & Risk Stratification]] — *populated 26 ก.ค. 2026 จาก digest SNC4*
+> J-wave syndrome · companion: [[Brugada Syndrome]] · [[SCD (Sudden Cardiac Death)]] — *populated 26 ก.ค. 2026 จาก digest SNC4*
 > 
 
 # 🧬 Etiology & Pathophysiology

@@ -11,13 +11,14 @@ tags: [workflow]
 created: 2026-09-03
 notion_id: 3d0224ab-ad81-81f5-a742-f025e327349b
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # ECG in Congenital Heart Disease
 
 ## 1. 🧭 Reading approach
 
-ECG ใน congenital heart disease อ่านได้สองแกน คือ chamber ไหนกำลังรับ pressure หรือ volume overload กับ conduction tissue ที่ถูก malformation ดันให้ผิดตำแหน่ง อ่านสองแกนนี้ก่อนแล้วค่อย narrow ไปที่ lesion จะเร็วกว่าไล่ทีละโรค ภาพรวมของกลุ่มโรคอยู่ที่ [General Congenital Heart Disease — Approach & Classification](General%20Congenital%20Heart%20Disease%20%E2%80%94%20Approach%20&%20Clas%203a4224abad81813bb714e36339833656.md)
+ECG ใน congenital heart disease อ่านได้สองแกน คือ chamber ไหนกำลังรับ pressure หรือ volume overload กับ conduction tissue ที่ถูก malformation ดันให้ผิดตำแหน่ง อ่านสองแกนนี้ก่อนแล้วค่อย narrow ไปที่ lesion จะเร็วกว่าไล่ทีละโรค ภาพรวมของกลุ่มโรคอยู่ที่ [[Congenital Heart Disease (Overview)]]
 
 QRS axis เป็นตัว narrow ที่ให้ผลมากที่สุด แยกกลุ่มใหญ่ได้ในการมองครั้งเดียว
 
@@ -53,7 +54,7 @@ QRS axis เป็นตัว narrow ที่ให้ผลมากที่
 | Eisenmenger | RVH with strain, RAD, P pulmonale | irreversible PHT |
 | Dextrocardia | lead I: P, QRS, T ลบทั้งหมด · reverse R progression จาก V1 ไป V6 | orientation ของหัวใจกลับด้าน |
 
-หน้า lesion ที่ลิงก์ต่อได้: [ASD (Atrial Septal Defect)](ASD%20(Atrial%20Septal%20Defect)%203a4224abad8181eb9759cd5c4a467b5e.md) · [VSD & AVSD (Ventricular & Atrioventricular Septal Defect)](VSD%20&%20AVSD%20(Ventricular%20&%20Atrioventricular%20Septal%20%203a4224abad81810a825ce4fcf05f1957.md) · [TOF (Tetralogy of Fallot)](TOF%20(Tetralogy%20of%20Fallot)%203a4224abad818176bdb8fae0b66e8e38.md) · [Ebstein Anomaly](Ebstein%20Anomaly%203a4224abad81816aad09f14d0668c52e.md) · [ccTGA (Congenitally Corrected Transposition) — SNC-Ped E3](ccTGA%20(Congenitally%20Corrected%20Transposition)%20%E2%80%94%20SNC%203ca224abad818153a65ece0fc9cdeec3.md) · [Congenital LVOT Obstruction (Valvar, Subvalvar & Supravalvar AS) — SNC-Ped C2](Congenital%20LVOT%20Obstruction%20(Valvar,%20Subvalvar%20&%20S%203cb224abad81817b9777d15e867ecf19.md) · eponym ที่ใช้ในตาราง (crochetage, Katz-Wachtel) อยู่ที่ [ECG & Electrophysiology Eponyms (Medical Eponym Reference — Anatomy, Signs, Scores, Criteria, Syndromes)](ECG%20&%20Electrophysiology%20Eponyms%20(Medical%20Eponym%20Re%203a4224abad8181f1ba1ec23df0d2a1c8.md)
+หน้า lesion ที่ลิงก์ต่อได้: [[ASD (Atrial Septal Defect)]] · [[VSD & AVSD]] · [[TOF (Tetralogy of Fallot)]] · [[Ebstein Anomaly]] · [[ccTGA]] · [[Congenital LVOT Obstruction]] · eponym ที่ใช้ในตาราง (crochetage, Katz-Wachtel) อยู่ที่ [[ECG & EP Eponyms]]
 
 ## 3. ⚡ Conduction & pre-excitation flags
 

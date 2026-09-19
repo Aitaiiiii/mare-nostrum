@@ -3,15 +3,16 @@ title: "STEMI NSTEMI"
 type: "Standing Order"
 specialty: "Cardiology"
 ward: ["Medicine"]
-related: ["STEMI (ST-Elevation Myocardial Infarction)"]
+related: ["[[STEMI]]", "[[NSTE-ACS (NSTEMI & Unstable Angina)]]"]
 tags: [emergency, workflow]
 notion_id: 321224ab-ad81-8058-9451-f6847309c653
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # STEMI NSTEMI
 
-> 🃏 Order set for [[STEMI (ST-Elevation Myocardial Infarction)]]
+> 🃏 Order set for [[STEMI]] · [[NSTE-ACS (NSTEMI & Unstable Angina)]]
 
 > [!question]- What to review
 >

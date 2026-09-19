@@ -1,6 +1,6 @@
 ---
 title: "ARDS (Acute Respiratory Distress Syndrome)"
-aliases: ["ARDS (Acute Respiratory Distress Syndrome)"]
+aliases: ["ARDS (Acute Respiratory Distress Syndrome)", "ARDS"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Pulmonology"
@@ -12,6 +12,8 @@ tags: []
 created: 2026-06-24
 notion_id: 389224ab-ad81-813a-bbb7-e76cd2cccbe5
 source: notion-migration
+related: ["[[ARDS Orders]]"]
+updated: 2026-09-14
 ---
 
 # ARDS (Acute Respiratory Distress Syndrome)
@@ -119,7 +121,7 @@ ARDS เป็น syndrome ของ **diffuse alveolar damage (DAD)** ที่
 
 ## 💊 Management & Pharmacodynamics
 
-🔗 Full actionable order set → [[Standing Order - ARDS|Standing Order: ARDS]]([ARDS](https://app.notion.com/p/ARDS-321224abad8180a09205ea0480bd89ca?pvs=21))
+🔗 Full actionable order set → [[ARDS Orders|Standing Order: ARDS]]([ARDS](https://app.notion.com/p/ARDS-321224abad8180a09205ea0480bd89ca?pvs=21))
 
 ### Tier 1 — Lung-Protective Ventilation (ทุก ARDS)
 

@@ -1,11 +1,11 @@
 ---
 title: "Digoxin (Cardiac Glycoside)"
-aliases: ["Digoxin (Cardiac Glycoside)"]
+aliases: ["Digoxin (Cardiac Glycoside)", "Digoxin"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
 subspecialty: "Cardiac Pharmacology"
-related: ["Cardiac Pharmacology (Map)", "Pharmacology (Map)"]
+related: ["[[Cardiac Pharmacology (Map)]]", "[[Pharmacology (Map)]]"]
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
@@ -13,6 +13,7 @@ tags: []
 created: 2026-07-22
 notion_id: 3a5224ab-ad81-8148-b928-f2e9594eb018
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Digoxin (Cardiac Glycoside)
@@ -38,7 +39,7 @@ Pharmacokinetics ที่กำหนดวิธีใช้: bioavailability 
 
 **DIG trial** แสดงว่า digoxin ลด HF hospitalization แต่ไม่ลด all-cause mortality ใน HFrEF; **RATE-AF (2020)** เทียบ digoxin กับ bisoprolol ใน permanent AF พบคุม rate ได้พอกันแต่ adverse effect น้อยกว่าและ QoL บางด้านดีกว่า จึงยังมีที่ใช้ในกลุ่มเลือกเฉพาะ
 
-การจัดวางในลำดับการรักษา → ดู [[HFrEF (Heart Failure with Reduced Ejection Fraction)]] และ [[Atrial Fibrillation]] สำหรับ context เต็ม
+การจัดวางในลำดับการรักษา → ดู [[HFrEF]] และ [[Atrial Fibrillation]] สำหรับ context เต็ม
 
 ## 3. ⚖️ Dosing & Digitalization
 

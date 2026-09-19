@@ -1,6 +1,6 @@
 ---
 title: "VTE (DVT & Pulmonary Embolism)"
-aliases: ["VTE (DVT & Pulmonary Embolism)"]
+aliases: ["VTE (DVT & Pulmonary Embolism)", "VTE"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -12,6 +12,8 @@ tags: [emergency]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81d2-914f-f860cbb1fba4
 source: notion-migration
+sources: ["2026-09/20260914-0245-web-8f3b6388"]
+updated: 2026-09-14
 ---
 
 # VTE (DVT & Pulmonary Embolism)
@@ -49,6 +51,21 @@ source: notion-migration
 - **YEARS-adapted** (ลด CTPA ได้จริง จาก PEGeD/YEARS): ประเมิน 3 ข้อ — clinical signs of DVT, hemoptysis, PE เป็น most likely dx; **ไม่มีข้อใดเลย → ใช้ D-dimer cutoff 1000 ng/mL**, มี ≥1 ข้อ → ใช้ **500 ng/mL** ทำให้ตัด PE ออกได้โดยไม่ต้อง CTPA ในสัดส่วนที่มากขึ้น
 - ⚠️ ข้อ "PE most likely" เป็น subjective (ให้คะแนน 3.0) inter-observer reliability ต่ำ ทำให้ 2019 ESC เริ่มเอนไปทาง revised Geneva ที่ objective กว่า
 
+**PERC rule — ใช้ก่อน D-dimer เมื่อ gestalt pretest probability ต่ำ (≤15%)**
+
+PERC มีเกณฑ์ 8 ข้อ ต้องผ่านครบทุกข้อจึงตัด PE ออกได้โดยไม่ต้องส่ง D-dimer ถ้าไม่ผ่านแม้ข้อเดียวต้องเดินต่อไปที่ D-dimer
+
+- อายุ **<50 ปี**
+- HR **<100/min**
+- SaO₂ ขณะหายใจ room air **≥95%**
+- ไม่มีขาบวมข้างเดียว
+- ไม่มี hemoptysis
+- ไม่มี surgery หรือ trauma ที่ต้องดมยาสลบภายใน **4 สัปดาห์**
+- ไม่เคยเป็น DVT หรือ PE
+- ไม่ได้ใช้ estrogen (oral contraceptive, hormone replacement)
+
+PERC ใช้ได้เฉพาะในกลุ่ม gestalt ต่ำ ถ้าเอาไปใช้กับผู้ป่วย intermediate หรือ high probability จะตัด PE ทิ้งผิดคน
+
 **Wells score (DVT) — สำหรับ workup DVT ขาใน VTE spectrum เดียวกัน**
 
 | Criterion | Points |
@@ -68,6 +85,22 @@ source: notion-migration
 - ข้อ "alternative diagnosis" (**−2**) เป็นข้อลบข้อเดียว มีน้ำหนักต่อการจัดกลุ่มมาก
 - **High-risk/unstable** → **bedside echo** (RV dilation/dysfunction, McConnell sign) เป็น surrogate; ยืนยันด้วย CTPA เมื่อ stabilize พอ
 - Massive PE: ECG **S1Q3T3**, RBBB, precordial T inversion; ↑troponin/BNP = RV strain
+
+**Imaging findings**
+
+CXR ใช้หา diagnosis อื่นที่อธิบายอาการได้ (pneumothorax, pneumonia, pulmonary edema) sign ของ PE บน CXR ยืนยันหรือตัด PE ไม่ได้ ใน cohort ของ PIOPED Westermark sign (oligemia ส่วนปลายต่อ embolus) มี sensitivity 14% และ specificity 92% ส่วน Hampton hump (pleural-based opacity จาก infarction) Fleischner sign (central pulmonary artery โต) และ pleural effusion ก็แยก PE ได้ไม่ดีเช่นกัน
+
+CTPA เห็น embolus เป็น filling defect และลักษณะของ defect บอกอายุของ thrombus ได้
+
+| | Acute embolus | Chronic thromboembolic disease |
+| --- | --- | --- |
+| ตำแหน่งใน lumen | อยู่กลาง lumen มี contrast ล้อมรอบ เป็น polo-mint sign เมื่อตัดขวาง และ railway track sign เมื่อตัดตามยาว | ติดผนัง (eccentric mural) |
+| มุมกับผนังหลอดเลือด | มุมแหลม (acute angle) | มุมป้าน (obtuse angle) |
+| ลักษณะอื่น | หลอดเลือดส่วนที่อุดอาจโตขึ้น | web หรือ band ใน lumen · หลอดเลือดตีบเล็กลง · อาจมี calcification |
+
+แยก acute ออกจาก chronic ได้แล้วจึงเลือกแนวทางถูก ถ้าเป็น chronic ต้องคิดถึง CTEPH และส่ง V/Q ต่อ (ดู [[Pulmonary Hypertension]])
+
+Multiorgan POCUS (หัวใจ ปอด และ compression US ของขา) รวมกันได้ sensitivity 90% และ specificity 86.2% ดีกว่าตรวจอวัยวะเดียว (ตัวเลขมาจากผู้ป่วย ER ที่สงสัย PE) จึงช่วยปรับ pretest probability ได้ แต่ยังใช้แทน CTPA ไม่ได้
 
 ## 3. 📊 Risk Stratification (2019 ESC — 4 ระดับ)
 
@@ -148,7 +181,7 @@ source: notion-migration
 > - **IVC filter ไม่ใช่ทางเลือกแทน anticoagulation** — ใส่เฉพาะเมื่อห้ามให้ยา หรือ recurrent ทั้งที่ยาเต็มขนาด; ถอดเมื่อทำได้
 > 
 
-> - **สงสัย aortic dissection → ห้าม thrombolysis** (ดู [[Diseases of the Aorta (Acute Aortic Syndromes & Aortic Aneurysm)]])
+> - **สงสัย aortic dissection → ห้าม thrombolysis** (ดู [[Acute Aortic Syndrome (AAS)|Diseases of the Aorta (Acute Aortic Syndromes)]])
 > 
 
 > - **Phlegmasia cerulea dolens = limb emergency** — ขาบวมเขียวคล้ำจาก massive iliofemoral DVT อย่ารักษาแค่ anticoagulation ต้อง UFH + พิจารณา early thrombus removal ด่วน
@@ -196,5 +229,15 @@ source: notion-migration
     - IVC filter: CHEST recommend against routine + anticoag; ใส่เมื่อ proximal DVT/PE + contraindication AC — ✅ (CHEST 2021 statement 7.0/7.1)
     - Phlegmasia: UFH + leg elevation + fluid → early thrombus removal (CDT/PMT/surgical), fasciotomy ถ้า compartment — ✅ (case series, ไม่มี RCT)
     - PTS: proximal ~50% vs distal ~23% ที่ 1 ปี (Meissner cohort); Villalta score; SOX trial compression neutral — ✅
+    
+    ✅ **Searched & verified (14 ก.ย. 2026) — PERC + imaging (ingest จาก Radiopaedia `2026-09/20260914-0245-web-8f3b6388`):**
+    
+    - PERC 8 ข้อ (อายุ <50 · HR <100 · SaO₂ ≥95% · ขาบวมข้างเดียว · hemoptysis · surgery/trauma ที่ต้องดมยาสลบ ≤4 สัปดาห์ · เคย DVT/PE · estrogen) + ใช้เมื่อ gestalt ≤15% — ✅ (MDCalc; Kline 2008 prospective multicenter)
+    - Westermark sign sensitivity 14% · specificity 92% — ✅ (Worsley 1993, PIOPED cohort n = 1,063)
+    - Multiorgan POCUS sensitivity 90% · specificity 86.2% — ✅ (Nazerian 2014, Chest, n = 357) · 🔴 แหล่ง Radiopaedia เขียนว่า sensitivity >95% ซึ่งไม่ตรงกับ Nazerian จึงใช้ตัวเลขของ Nazerian
+    
+    ⚠️ **จากแหล่ง ไม่ได้ตรวจซ้ำ:** ลักษณะ CTPA ของ acute เทียบ chronic embolus (polo-mint, railway track, มุมแหลม/ป้าน, web/band, calcification) เป็นคำบรรยาย radiology มาตรฐาน · sensitivity/specificity ของ Hampton hump, Fleischner sign, pleural effusion ตัดออกจากเนื้อความเพราะไม่ได้ตรวจซ้ำ
+    
+    🔴 **Guideline ใหม่ยังไม่ได้ retrofit:** 2026 AHA/ACC multisociety acute PE guideline (ตีพิมพ์ 19 ก.พ. 2026) แทนการแบ่ง risk แบบเดิมด้วย Clinical Categories A–E หน้านี้ยังอิง 2019 ESC ทั้งหมด รวมถึง class ของ PERC/D-dimer strategy ตาม 2026 ยังไม่ได้ตรวจ (อยู่ใน Review Queue)
     
     🔴 **แก้/ปรับจาก SNC9:** SNC9 จัด PE risk ตาม hemodynamics เฉยๆ — เพิ่มโครง 4-tier 2019 ESC ให้ครบ; เน้นว่า DOAC = first-line (SNC9 วาง standard of care = LMWH+warfarin เป็นแถวแรก ซึ่งล้าสมัย)

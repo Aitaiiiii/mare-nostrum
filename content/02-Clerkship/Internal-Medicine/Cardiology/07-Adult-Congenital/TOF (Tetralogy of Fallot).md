@@ -1,6 +1,6 @@
 ---
 title: "TOF (Tetralogy of Fallot)"
-aliases: ["TOF (Tetralogy of Fallot)"]
+aliases: ["TOF (Tetralogy of Fallot)", "TOF"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8176-bdb8-fae0b66e8e38
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # TOF (Tetralogy of Fallot)
@@ -19,7 +20,7 @@ source: notion-migration
 > **Scope:** lesion page ของ SNC-Ped section D (cyanotic) เขียนแบบ lifespan ตั้งแต่ fetal ถึง adult repaired
 > 
 
-> รายละเอียด post-TOF pulmonary regurgitation และตัวเลือกลิ้นแต่ละแบบอยู่ที่ [Pulmonary Valve Disease — Pulmonic Stenosis & Post-TOF Pulmonary Regurgitation](Pulmonary%20Valve%20Disease%20%E2%80%94%20Pulmonic%20Stenosis%20&%20Post%203a0224abad818150984ff5aa71c93f8d.md) · รูปแบบหัตถการอยู่ที่ [Congenital Heart Surgery (Common Operations)](Congenital%20Heart%20Surgery%20(Common%20Operations%20%E2%80%94%20Pall%20396224abad8181e4abb5ffb90d579e75.md) · ปลาย spectrum เดียวกันอยู่ที่ [PA/VSD](PA%20VSD%20(Pulmonary%20Atresia%20with%20VSD%20%E2%80%94%20Extreme%20Tetra%203b8224abad81812aa2c2e0f7382ee150.md) · hub อยู่ที่ [SNC-Ped](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
+> รายละเอียด post-TOF pulmonary regurgitation และตัวเลือกลิ้นแต่ละแบบอยู่ที่ [[Pulmonary Valve Disease]] · รูปแบบหัตถการอยู่ที่ [[Congenital Heart Surgery|Congenital Heart Surgery (Common Operations)]] · ปลาย spectrum เดียวกันอยู่ที่ [[PA-VSD|PA/VSD]] · hub อยู่ที่ [SNC-Ped](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
 > 
 
 ## 1. 🧬 Anatomy & Pathophysiology
@@ -178,7 +179,7 @@ SCD เกิดราว **2% ต่อ 10 ปี** ในผู้ป่วย
 ปัจจัยเสี่ยงที่ guideline ใช้มีห้าตัว คือ LV systolic หรือ diastolic dysfunction · non-sustained VT · QRS **≥180 ms** · RV scarring กว้างบน CMR · และ inducible sustained VT ที่ EPS
 
 - **ICD secondary prevention** — aborted SCD หรือ sustained VT ที่ทน hemodynamic ไม่ได้ (Class 1)
-- **ICD primary prevention** — พิจารณาเมื่อมีปัจจัยเสี่ยงหลายตัวร่วมกัน (Class IIa) รายละเอียดอยู่ที่ [Device Indications — Pacemaker, ICD & CRT](Device%20Indications%20%E2%80%94%20Pacemaker,%20ICD%20&%20CRT%203a4224abad818144a28de9340f0c0287.md)
+- **ICD primary prevention** — พิจารณาเมื่อมีปัจจัยเสี่ยงหลายตัวร่วมกัน (Class IIa) รายละเอียดอยู่ที่ [[Device Indications (PPM, ICD, CRT)]]
 - **VT ablation** — ฉบับ 2025 ให้น้ำหนักกับการ ablate มากขึ้น การจี้ตัด isthmus แบบ SCAI-based ให้ VT-free survival ดีเมื่อได้ complete bidirectional block · จุดที่กำลังเปลี่ยนคือการทำ electroanatomic mapping เชิงรุกก่อนใส่ transcatheter pulmonary valve เพราะหลังใส่ลิ้นแล้วจะเข้าถึง isthmus หลักทาง endocardium ไม่ได้อีก
 
 **สิ่งที่ตกค้างอื่นที่ต้องตามหา** ได้แก่ residual RVOT obstruction, branch pulmonary artery stenosis, residual VSD, aortic root dilatation กับ aortic regurgitation และ atrial arrhythmia ที่พบมากขึ้นตามอายุ

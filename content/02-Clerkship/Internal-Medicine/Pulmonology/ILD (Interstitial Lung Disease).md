@@ -1,6 +1,6 @@
 ---
 title: "ILD (Interstitial Lung Disease)"
-aliases: ["ILD (Interstitial Lung Disease)"]
+aliases: ["ILD (Interstitial Lung Disease)", "ILD"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Pulmonology"
@@ -11,11 +11,12 @@ tags: []
 created: 2026-06-23
 notion_id: 388224ab-ad81-81f1-b6b5-cf306a7d7cf0
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # ILD (Interstitial Lung Disease)
 
-> Overview-level umbrella monograph (~200 entities). Deep-dives created: [[IPF (Idiopathic Pulmonary Fibrosis)]], [[PPF (Progressive Pulmonary Fibrosis)]], [[CTD-ILD (Connective Tissue Disease–Associated Interstitial Lung Disease)]], [[HP-BIP (Hypersensitivity Pneumonitis - Bronchiolocentric Interstitial Pneumonia)|HP/BIP (Hypersensitivity Pneumonitis / Bronchiolocentric Interstitial Pneumonia)]]. All planned subtype deep-dives complete.
+> Overview-level umbrella monograph (~200 entities). Deep-dives created: [[IPF (Idiopathic Pulmonary Fibrosis)]], [[PPF (Progressive Pulmonary Fibrosis)]], [[CTD-ILD]], [[Hypersensitivity Pneumonitis - BIP|HP/BIP (Hypersensitivity Pneumonitis / Bronchiolocentric Interstitial Pneumonia)]]. All planned subtype deep-dives complete.
 > 
 
 # 1. 🧬 Etiology & Molecular Pathophysiology

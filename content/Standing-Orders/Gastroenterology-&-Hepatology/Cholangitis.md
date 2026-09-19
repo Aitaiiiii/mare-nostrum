@@ -6,9 +6,13 @@ ward: ["Medicine"]
 tags: [workflow]
 notion_id: 321224ab-ad81-804a-b61d-e8864c6ff9f7
 source: notion-migration
+related: ["[[Acute Cholangitis]]"]
+updated: 2026-09-14
 ---
 
 # Cholangitis
+
+> 🃏 Order set for [[Acute Cholangitis]]
 
 > [!question]- What to review
 >

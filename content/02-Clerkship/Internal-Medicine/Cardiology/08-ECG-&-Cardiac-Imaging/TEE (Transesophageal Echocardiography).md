@@ -1,6 +1,6 @@
 ---
 title: "TEE (Transesophageal Echocardiography)"
-aliases: ["TEE (Transesophageal Echocardiography)"]
+aliases: ["TEE (Transesophageal Echocardiography)", "TEE"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8154-9219-c9850a1d1a57
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # TEE (Transesophageal Echocardiography)
 
-Source: **Short Notes Cardiology (SNC5)**. **TEE (transesophageal echocardiography)** = semi-invasive echo ผ่านหลอดอาหาร ให้ภาพ posterior structures (LA/LAA, atrial septum, MV, aorta, prosthetic valves) ดีกว่า TTE. Companion: [[Basic Echocardiogram — Technique & Systematic Approach]] · [[Atrial Fibrillation]] (R/O LAA thrombus ก่อน cardioversion) · [[ASD (Atrial Septal Defect)]]
+Source: **Short Notes Cardiology (SNC5)**. **TEE (transesophageal echocardiography)** = semi-invasive echo ผ่านหลอดอาหาร ให้ภาพ posterior structures (LA/LAA, atrial septum, MV, aorta, prosthetic valves) ดีกว่า TTE. Companion: [[Basic Echocardiogram]] · [[Atrial Fibrillation]] (R/O LAA thrombus ก่อน cardioversion) · [[ASD (Atrial Septal Defect)]]
 
 ## 🚫 Absolute Contraindications
 

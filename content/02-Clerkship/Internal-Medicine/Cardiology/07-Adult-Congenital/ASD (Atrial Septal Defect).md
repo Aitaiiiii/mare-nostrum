@@ -1,6 +1,6 @@
 ---
 title: "ASD (Atrial Septal Defect)"
-aliases: ["ASD (Atrial Septal Defect)"]
+aliases: ["ASD (Atrial Septal Defect)", "ASD"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"

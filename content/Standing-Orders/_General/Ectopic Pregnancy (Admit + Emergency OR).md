@@ -3,9 +3,11 @@ title: "Ectopic Pregnancy (Admit + Emergency OR)"
 type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
-tags: [pregnancy, workflow]
+related: ["[[Ectopic Pregnancy]]"]
+tags: [pregnancy, workflow, emergency]
 notion_id: 3d5224ab-ad81-81d8-84df-e3b88b0fa530
 source: notion-migration
+updated: 2026-09-19
 ---
 
 # Ectopic Pregnancy (Admit + Emergency OR)

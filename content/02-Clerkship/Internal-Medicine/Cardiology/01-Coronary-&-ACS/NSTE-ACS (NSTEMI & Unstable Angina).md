@@ -1,6 +1,6 @@
 ---
 title: "NSTE-ACS (NSTEMI & Unstable Angina)"
-aliases: ["NSTE-ACS (NSTEMI & Unstable Angina)"]
+aliases: ["NSTE-ACS (NSTEMI & Unstable Angina)", "NSTE-ACS"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -12,6 +12,8 @@ tags: [emergency]
 created: 2026-06-29
 notion_id: 38e224ab-ad81-81f1-9066-c45dd7bd76c0
 source: notion-migration
+related: ["[[STEMI NSTEMI]]"]
+updated: 2026-09-14
 ---
 
 # NSTE-ACS (NSTEMI & Unstable Angina)
@@ -135,7 +137,7 @@ Risk stratification ใช้ **GRACE 2.0 score** (age, HR, SBP, creatinine, Kil
 
 Mechanism prasugrel: irreversible thienopyridine ที่ active metabolite เร็วและสม่ำเสมอกว่า clopidogrel contraindicate ถ้ามีประวัติ stroke/TIA
 
-📎 **Chronic-phase secondary prevention (DAPT duration, lipid target, beta-blocker EF-stratified approach, MRA, colchicine, cardiac rehab, ICD timing)** → ดูรายละเอียดเต็มที่ [[Post-MI Management (Secondary Prevention & Chronic Phase Care after Myocardial Infarction)]]
+📎 **Chronic-phase secondary prevention (DAPT duration, lipid target, beta-blocker EF-stratified approach, MRA, colchicine, cardiac rehab, ICD timing)** → ดูรายละเอียดเต็มที่ [[Post-MI Management]]
 
 ## 📚 Landmark Trials & Literature
 

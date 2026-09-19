@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8197-87ee-db33f1038c6f
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Dyslipidemia
@@ -22,7 +23,7 @@ source: notion-migration
 
 กลไกระดับเซลล์เริ่มจากอนุภาค **LDL** ที่เข้าไปติดใน subintima แล้วถูก **oxidative modification** กลายเป็น **oxidized LDL (oxLDL)** ซึ่งเป็นตัวจุดชนวนการอักเสบ เนื่องจาก **oxLDL** กระตุ้น endothelium ให้แสดง adhesion molecule ดึง **monocyte** เข้ามาแล้วเปลี่ยนเป็น **macrophage** ที่กลืน oxLDL ผ่าน **scavenger receptor** จนบวมกลายเป็น **foam cell** การสะสมของ foam cell รวมกับ smooth muscle proliferation และ collagen cap จึงก่อเป็น **atheromatous plaque** ที่ค่อยๆ โตขึ้น และเมื่อ cap บางลงจนแตก (**plaque rupture**) ก็นำไปสู่ thrombosis และ acute coronary syndrome ในที่สุด
 
-ในเชิงสรีรวิทยาของการควบคุมระดับ LDL จุดที่เป็นเป้าของยาเกือบทั้งหมดคือ **LDL receptor (LDL-R)** บนผิวเซลล์ตับ ซึ่งทำหน้าที่ดึง LDL ออกจากกระแสเลือด โปรตีน **PCSK9** ทำหน้าที่เสมือนตัวทำลาย LDL-R โดยจับ receptor แล้วพา receptor ไปย่อยใน lysosome ทำให้ตับดึง LDL ได้น้อยลง กลไกนี้อธิบายว่าทำไมทั้ง **statin** (เพิ่มการสร้าง LDL-R) และ **PCSK9 inhibitor** (กันไม่ให้ LDL-R ถูกทำลาย) จึงลด LDL-C ได้ผ่านการเพิ่มจำนวน LDL-R บนผิวตับเหมือนกัน กลไก atherosclerosis ระดับเซลล์อย่างละเอียดดูที่ [[Coronary Blood Flow & Myocardial Ischemia (FFR · Microvascular Dysfunction · Ischemic Cascade)]]
+ในเชิงสรีรวิทยาของการควบคุมระดับ LDL จุดที่เป็นเป้าของยาเกือบทั้งหมดคือ **LDL receptor (LDL-R)** บนผิวเซลล์ตับ ซึ่งทำหน้าที่ดึง LDL ออกจากกระแสเลือด โปรตีน **PCSK9** ทำหน้าที่เสมือนตัวทำลาย LDL-R โดยจับ receptor แล้วพา receptor ไปย่อยใน lysosome ทำให้ตับดึง LDL ได้น้อยลง กลไกนี้อธิบายว่าทำไมทั้ง **statin** (เพิ่มการสร้าง LDL-R) และ **PCSK9 inhibitor** (กันไม่ให้ LDL-R ถูกทำลาย) จึงลด LDL-C ได้ผ่านการเพิ่มจำนวน LDL-R บนผิวตับเหมือนกัน กลไก atherosclerosis ระดับเซลล์อย่างละเอียดดูที่ [[Coronary Blood Flow & Ischemia]]
 
 **สาเหตุ** แบ่งเป็น **primary (genetic)** เช่น **familial hypercholesterolemia (FH)** ที่มี LDL-R defect ทำให้ LDL สูงตั้งแต่เด็ก และ **secondary** จาก hypothyroidism, nephrotic syndrome, cholestasis, เบาหวาน, alcohol, และยา (เช่น thiazide, corticosteroid, protease inhibitor) ซึ่งต้องมองหาและแก้ก่อนเสมอ
 

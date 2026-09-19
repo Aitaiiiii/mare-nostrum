@@ -77,12 +77,15 @@ CONTENT = Path(os.path.expanduser("~/Obsidian/quartz-mare-nostrum/content"))
 def mirror():
     if CONTENT.exists(): shutil.rmtree(CONTENT)
     CONTENT.mkdir(parents=True)
-    excludes = {".obsidian","_templates",".git",".trash"}
+    excludes = {".obsidian","_templates",".git",".trash",".claude","_raw","_system"}   # private LLM-wiki layers
+    private_files = {"CLAUDE.md","Inbox.md","Review Queue.md","Wiki Log.md"}
     for root, dirs, files in os.walk(VAULT):
         dirs[:] = [d for d in dirs if d not in excludes]
         rel = Path(root).relative_to(VAULT)
         for f in files:
             if f == ".DS_Store" or f == ".gitignore": continue
+            if rel == Path(".") and f in private_files: continue
+            if f.startswith(".env"): continue
             dst = CONTENT/rel/f
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(Path(root)/f, dst)

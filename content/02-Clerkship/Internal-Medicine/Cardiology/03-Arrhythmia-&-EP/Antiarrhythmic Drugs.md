@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8177-8f49-f464d847e0ff
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Antiarrhythmic Drugs
 
-> Discrete entity · companion: [[Atrial Fibrillation]] · [[VT - Wide-Complex Tachycardia (Ventricular Tachycardia, WCT Differentiation & Management)|VT / Wide-Complex Tachycardia (Ventricular Tachycardia, WCT Differentiation & Management)]] · [[Digoxin (Cardiac Glycoside)]] — *populated 26 ก.ค. 2026 จาก digest SNC4. ⚠️ ตัวเลข dose = standard reference; ยึด local protocol เสมอ*
+> Discrete entity · companion: [[Atrial Fibrillation]] · [[VT & Wide-Complex Tachycardia|VT / Wide-Complex Tachycardia (Ventricular Tachycardia, WCT Differentiation & Management)]] · [[Digoxin (Cardiac Glycoside)]] — *populated 26 ก.ค. 2026 จาก digest SNC4. ⚠️ ตัวเลข dose = standard reference; ยึด local protocol เสมอ*
 > 
 
 # ⚙️ Vaughan-Williams Classification

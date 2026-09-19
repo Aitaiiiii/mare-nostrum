@@ -3,9 +3,11 @@ title: "Hemorrhagic Stroke"
 type: "Standing Order"
 specialty: "Neurology"
 ward: ["Medicine"]
+related: ["[[Intracerebral Hemorrhage (ICH)]]"]
 tags: [emergency, workflow]
 notion_id: 389224ab-ad81-81ba-8d43-ef8cd1215245
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # Hemorrhagic Stroke

@@ -3,15 +3,13 @@ title: "Post-op Laparoscopic Cystectomy"
 type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
-related: ["Post-op Oliguria (Explore Laparotomy)"]
 tags: [workflow]
 notion_id: 3d5224ab-ad81-816b-94c5-cc7ff01dd295
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Post-op Laparoscopic Cystectomy
-
-> 🃏 Order set for [[Post-op Oliguria (Explore Laparotomy)]]
 
 - **ชนิด/ขนาด cyst + ผล intra-op** — dermoid, endometrioma, simple cyst; มี spillage หรือไม่
 - **Ovarian tissue ที่เหลือ** — ประเมิน ovarian reserve ถ้าคนไข้อายุน้อย

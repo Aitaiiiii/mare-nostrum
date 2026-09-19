@@ -7,9 +7,13 @@ also_relevant: ["Symptomatology", "Cardiology"]
 tags: [workflow]
 notion_id: 321224ab-ad81-8048-a484-c895603ef233
 source: notion-migration
+related: ["[[Approach - Syncope]]"]
+updated: 2026-09-14
 ---
 
 # Syncope
+
+> 🃏 Order set for [[Approach - Syncope]]
 
 > [!question]- What to review
 >

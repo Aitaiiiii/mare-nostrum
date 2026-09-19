@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8129-b61c-e6eafd27548e
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Brugada Syndrome
@@ -30,7 +31,7 @@ source: notion-migration
 > 
 > 
 
-> **Companion pages:** [Sudden Cardiac Death — Approach & Risk Stratification](Sudden%20Cardiac%20Death%20%E2%80%94%20Approach%20&%20Risk%20Stratificat%203a4224abad8181c1ad4fc0dd99226cbc.md) · [Device Indications — Pacemaker, ICD & CRT](Device%20Indications%20%E2%80%94%20Pacemaker,%20ICD%20&%20CRT%203a4224abad818144a28de9340f0c0287.md) · [Early Repolarization Syndrome](Early%20Repolarization%20Syndrome%203a4224abad8181e9aba1f030660b42b3.md) · [Short QT Syndrome](Short%20QT%20Syndrome%203aa224abad818157bfe6ff0af6ac66be.md) · [ECG & Electrophysiology Eponyms (Medical Eponym Reference — Anatomy, Signs, Scores, Criteria, Syndromes)](ECG%20&%20Electrophysiology%20Eponyms%20(Medical%20Eponym%20Re%203a4224abad8181f1ba1ec23df0d2a1c8.md)
+> **Companion pages:** [[SCD (Sudden Cardiac Death)]] · [[Device Indications (PPM, ICD, CRT)]] · [[Early Repolarization Syndrome]] · [[Short QT Syndrome]] · [[ECG & EP Eponyms]]
 > 
 
 ## 1. 🧬 Etiology & Molecular Pathophysiology

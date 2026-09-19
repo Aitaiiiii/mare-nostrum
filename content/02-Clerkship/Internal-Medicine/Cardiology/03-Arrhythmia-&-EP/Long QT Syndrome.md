@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81cf-8a84-d6e709e6d7f9
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Long QT Syndrome
 
-> Inherited channelopathy · companion: [[Short QT Syndrome]] (opposite mechanism: gain-of-function K⁺ channel) · [[Sudden Cardiac Death — Approach & Risk Stratification]] · [[Antiarrhythmic Drugs]] · 📈 ECG atlas twin: [ECG Book — Long QT Syndrome](https://app.notion.com/p/Long-QT-Syndrome-3a2224abad8181138de9c4a90c68bc9c?pvs=21) — *populated 26 ก.ค. 2026 จาก digest SNC4 + verification (2022 ESC VA/SCD)*
+> Inherited channelopathy · companion: [[Short QT Syndrome]] (opposite mechanism: gain-of-function K⁺ channel) · [[SCD (Sudden Cardiac Death)]] · [[Antiarrhythmic Drugs]] · 📈 ECG atlas twin: [ECG Book — Long QT Syndrome](https://app.notion.com/p/Long-QT-Syndrome-3a2224abad8181138de9c4a90c68bc9c?pvs=21) — *populated 26 ก.ค. 2026 จาก digest SNC4 + verification (2022 ESC VA/SCD)*
 > 
 
 # 🧬 Etiology & Pathophysiology

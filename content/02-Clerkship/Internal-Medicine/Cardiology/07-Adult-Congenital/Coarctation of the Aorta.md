@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81da-a3fe-e3d138bc857d
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Coarctation of the Aorta
@@ -19,7 +20,7 @@ source: notion-migration
 > **Scope:** SNC-Ped section C · lesion page เขียนแบบ lifespan ตั้งแต่ neonate จน adult หลังซ่อม · rewrite ทั้งหน้า 26 ส.ค. 2026
 > 
 
-> รายละเอียดหัตถการอยู่ที่ [Congenital Heart Surgery (Common Operations)](Congenital%20Heart%20Surgery%20(Common%20Operations%20%E2%80%94%20Pall%20396224abad8181e4abb5ffb90d579e75.md) · physiology ทารกแรกเกิดอยู่ที่ [Fetal & Transitional Circulation](Fetal%20&%20Transitional%20Circulation%20%E2%80%94%20Neonatal%20Cardio%203c6224abad81814da16af00bf83a20bb.md) · การแยกสาเหตุ shock ในทารกอยู่ที่ [Approach to the Cyanotic Neonate](Approach%20to%20the%20Cyanotic%20Neonate%203c6224abad818152b94fcfa8a1b1f915.md) · hub อยู่ที่ [SNC-Ped](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
+> รายละเอียดหัตถการอยู่ที่ [[Congenital Heart Surgery|Congenital Heart Surgery (Common Operations)]] · physiology ทารกแรกเกิดอยู่ที่ [[Fetal & Transitional Circulation|Fetal & Transitional Circulation]] · การแยกสาเหตุ shock ในทารกอยู่ที่ [[Approach to the Cyanotic Neonate]] · hub อยู่ที่ [SNC-Ped](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
 > 
 
 ## 1. 🧬 Anatomy & Pathophysiology

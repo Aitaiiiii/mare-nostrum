@@ -1,6 +1,6 @@
 ---
 title: "Sepsis (Sepsis-3)"
-aliases: ["Sepsis (Sepsis-3)"]
+aliases: ["Sepsis (Sepsis-3)", "Sepsis"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Critical Care"
@@ -11,6 +11,8 @@ tags: [emergency]
 created: 2026-07-14
 notion_id: 39d224ab-ad81-8123-b28b-e6433357042f
 source: notion-migration
+related: ["[[Sepsis]]"]
+updated: 2026-09-14
 ---
 
 # Sepsis (Sepsis-3)

@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-816a-9415-ed172d684d18
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Basic Electrophysiology
 
-> Foundational cellular/cardiac EP · companion: [[Tachyarrhythmia — Overview & Acute Management (Narrow & Wide-Complex, ACLS)]] · [[VT - Wide-Complex Tachycardia (Ventricular Tachycardia, WCT Differentiation & Management)|VT / Wide-Complex Tachycardia (Ventricular Tachycardia, WCT Differentiation & Management)]] · [[SVT — AVNRT - AVRT - Focal AT|SVT — AVNRT / AVRT / Focal AT]] · [[Antiarrhythmic Drugs]] — *populated 28 ก.ค. 2026 จาก digest SNC4 + verification*
+> Foundational cellular/cardiac EP · companion: [[Tachyarrhythmia Overview]] · [[VT & Wide-Complex Tachycardia|VT / Wide-Complex Tachycardia (Ventricular Tachycardia, WCT Differentiation & Management)]] · [[SVT (AVNRT, AVRT, Focal AT)|SVT — AVNRT / AVRT / Focal AT]] · [[Antiarrhythmic Drugs]] — *populated 28 ก.ค. 2026 จาก digest SNC4 + verification*
 > 
 
 # 🧬 Cellular Electrophysiology & Ion Channels

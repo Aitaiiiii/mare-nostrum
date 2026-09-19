@@ -4,9 +4,11 @@ type: "Standing Order"
 specialty: "Infectious Disease"
 ward: ["Medicine"]
 also_relevant: ["Infectious Disease", "Nephrology"]
-tags: [workflow]
+related: ["[[Urinary Tract Infection & Pyelonephritis]]"]
+tags: [workflow, emergency]
 notion_id: 320224ab-ad81-8062-bae5-d36814563f1e
 source: notion-migration
+updated: 2026-09-18
 ---
 
 # UTI

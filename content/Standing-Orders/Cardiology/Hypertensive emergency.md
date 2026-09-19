@@ -3,7 +3,7 @@ title: "Hypertensive emergency"
 type: "Standing Order"
 specialty: "Cardiology"
 ward: ["Medicine"]
-related: ["Hypertensive Crises (Emergency & PSH)"]
+related: ["[[Hypertensive Crises (Emergency & PSH)]]"]
 tags: [emergency, workflow]
 notion_id: 321224ab-ad81-8095-958f-cc6dfe21312d
 source: notion-migration

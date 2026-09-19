@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-27
 notion_id: 3aa224ab-ad81-8101-bffd-dd8b938534fd
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Eisenmenger Syndrome
 
-> **Source:** SNC2 + SNC-Ped digest — verified กับ **2022 ESC/ERS Pulmonary Hypertension**, **2020 ESC** และ **2018 AHA/ACC** ACHD guidelines และ **2019 EPPVDN** pediatric PH consensus และ **2025 ACC/AHA/HRS/ISACHD/SCAI ACHD guideline** ที่เผยแพร่ 18 ธันวาคม 2025 (search 24 ส.ค. และ 28 ส.ค. 2026) เขียนแบบ **lifespan** เพราะฝั่งเด็กของโรคนี้คือการซ่อม defect ให้ทันก่อนหน้าต่างปิด ส่วนฝั่งผู้ใหญ่คือการดูแลคนที่พ้นหน้าต่างนั้นไปแล้ว · เพจแม่ [General Congenital Heart Disease — Approach & Classification](General%20Congenital%20Heart%20Disease%20%E2%80%94%20Approach%20&%20Clas%203a4224abad81813bb714e36339833656.md) · index [🍼 SNC-Ped — Short Note in Pediatric Cardiology — Master Hub](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
+> **Source:** SNC2 + SNC-Ped digest — verified กับ **2022 ESC/ERS Pulmonary Hypertension**, **2020 ESC** และ **2018 AHA/ACC** ACHD guidelines และ **2019 EPPVDN** pediatric PH consensus และ **2025 ACC/AHA/HRS/ISACHD/SCAI ACHD guideline** ที่เผยแพร่ 18 ธันวาคม 2025 (search 24 ส.ค. และ 28 ส.ค. 2026) เขียนแบบ **lifespan** เพราะฝั่งเด็กของโรคนี้คือการซ่อม defect ให้ทันก่อนหน้าต่างปิด ส่วนฝั่งผู้ใหญ่คือการดูแลคนที่พ้นหน้าต่างนั้นไปแล้ว · เพจแม่ [[Congenital Heart Disease (Overview)]] · index [🍼 SNC-Ped — Short Note in Pediatric Cardiology — Master Hub](https://app.notion.com/p/SNC-Ped-Short-Note-in-Pediatric-Cardiology-Master-Hub-3b4224abad8181e4941efc0449324162?pvs=21)
 > 
 
 ## 1. 🧬 Anatomy & Pathophysiology
@@ -101,9 +102,9 @@ cath คือขั้นที่ตัดสินว่าปิดได้
 
 งานทั้งหมดของฝั่งเด็กคือซ่อม defect ให้ทันก่อน PVD จะย้อนกลับไม่ได้
 
-- large VSD กับ complete AVSD ที่ flow ไม่ถูก restrict ต้องซ่อมใน early infancy สำหรับ complete AVSD โดยเฉพาะรายที่มี Down syndrome ให้ตั้งเป้าภายในอายุ **4 เดือน** (ดู [VSD & AVSD (Ventricular & Atrioventricular Septal Defect)](VSD%20&%20AVSD%20(Ventricular%20&%20Atrioventricular%20Septal%20%203a4224abad81810a825ce4fcf05f1957.md))
-- PDA ใหญ่ปิดทันทีที่วินิจฉัยได้ (ดู [PDA (Patent Ductus Arteriosus)](PDA%20(Patent%20Ductus%20Arteriosus)%203a4224abad8181c995acd4a56e24a6d6.md))
-- ASD ที่มี RV volume overload ปิดในวัยเรียนได้ เพราะ PVD ของ pre-tricuspid shunt มาช้ากว่ามาก (ดู [ASD (Atrial Septal Defect)](ASD%20(Atrial%20Septal%20Defect)%203a4224abad8181eb9759cd5c4a467b5e.md))
+- large VSD กับ complete AVSD ที่ flow ไม่ถูก restrict ต้องซ่อมใน early infancy สำหรับ complete AVSD โดยเฉพาะรายที่มี Down syndrome ให้ตั้งเป้าภายในอายุ **4 เดือน** (ดู [[VSD & AVSD]])
+- PDA ใหญ่ปิดทันทีที่วินิจฉัยได้ (ดู [[PDA (Patent Ductus Arteriosus)]])
+- ASD ที่มี RV volume overload ปิดในวัยเรียนได้ เพราะ PVD ของ pre-tricuspid shunt มาช้ากว่ามาก (ดู [[ASD (Atrial Septal Defect)]])
 
 ### Operability thresholds — pediatric versus adult
 

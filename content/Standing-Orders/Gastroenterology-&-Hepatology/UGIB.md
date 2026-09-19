@@ -3,7 +3,7 @@ title: "UGIB"
 type: "Standing Order"
 specialty: "Gastroenterology & Hepatology"
 ward: ["Medicine"]
-related: ["UGIB (Upper Gastrointestinal Bleeding)"]
+related: ["[[UGIB (Upper Gastrointestinal Bleeding)]]"]
 tags: [emergency, workflow]
 notion_id: 321224ab-ad81-805b-8496-df854dea4e76
 source: notion-migration

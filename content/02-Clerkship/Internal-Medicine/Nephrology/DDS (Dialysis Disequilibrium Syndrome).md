@@ -1,6 +1,6 @@
 ---
 title: "DDS (Dialysis Disequilibrium Syndrome)"
-aliases: ["DDS (Dialysis Disequilibrium Syndrome)"]
+aliases: ["DDS (Dialysis Disequilibrium Syndrome)", "DDS"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Nephrology"

@@ -12,6 +12,7 @@ tags: [workflow]
 created: 2026-07-16
 notion_id: 39f224ab-ad81-81b3-abaf-d80cd7ee70ea
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Approach to Cardiomyopathies (Hub)
@@ -28,13 +29,13 @@ source: notion-migration
 > 
 > 
 
-> **Spokes (primary phenotypes)**: [DCM (Dilated Cardiomyopathy)](DCM%20(Dilated%20Cardiomyopathy)%2039f224abad8181c5936dd36b22cec491.md) · [Cardiac Amyloidosis (AL/ATTR)](Cardiac%20Amyloidosis%20(AL%20ATTR)%2039e224abad81819aa4b7cd1f9c517eac.md) · [Hypertrophic Cardiomyopathy (HCM)](HCM%20(Hypertrophic%20Cardiomyopathy)%20%E2%80%94%20LVOT%20Obstructi%2039e224abad818152b76ed5fe0cc01a1a.md)
+> **Spokes (primary phenotypes)**: [[DCM (Dilated Cardiomyopathy)]] · [[Cardiac Amyloidosis (AL-ATTR)|Cardiac Amyloidosis (AL/ATTR)]] · [[HCM|Hypertrophic Cardiomyopathy (HCM)]]
 > 
 
 > 
 > 
 
-> **Spokes (acquired & other — เพิ่ม 26 ก.ค. 2026 จาก digest SNC3)**: [Takotsubo Syndrome (Stress CM)](Takotsubo%20Syndrome%20(Stress%20Cardiomyopathy)%203a9224abad8181359de7fc4350f1e23c.md) · [Peripartum Cardiomyopathy (PPCM)](Peripartum%20Cardiomyopathy%20(PPCM)%203a9224abad818122a03bdbb1daa55dbd.md) · [Cardiac Sarcoidosis](Cardiac%20Sarcoidosis%203a9224abad8181eab75bdb8dd62ba31f.md) · [LV Non-Compaction / Hypertrabeculation (ESC 2023)](LV%20Non-Compaction%20Hypertrabeculation%20(ESC%202023)%203a9224abad818137ae44c0cb6d7fa223.md) — *chemo-induced CM, Chagas, radiation heart disease weave อยู่ใน [DCM](DCM%20(Dilated%20Cardiomyopathy)%2039f224abad8181c5936dd36b22cec491.md)*
+> **Spokes (acquired & other — เพิ่ม 26 ก.ค. 2026 จาก digest SNC3)**: [[Takotsubo Syndrome|Takotsubo Syndrome (Stress CM)]] · [[Peripartum Cardiomyopathy (PPCM)]] · [[Cardiac Sarcoidosis]] · [[LV Non-Compaction|LV Non-Compaction / Hypertrabeculation (ESC 2023)]] — *chemo-induced CM, Chagas, radiation heart disease weave อยู่ใน [[DCM (Dilated Cardiomyopathy)|DCM]]*
 > 
 
 # 🚨 Red Flags — ต้องคัดกรองก่อนเสมอ

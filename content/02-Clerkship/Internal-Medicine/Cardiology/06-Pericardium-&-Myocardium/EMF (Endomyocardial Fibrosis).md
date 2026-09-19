@@ -1,6 +1,6 @@
 ---
 title: "EMF (Endomyocardial Fibrosis)"
-aliases: ["EMF (Endomyocardial Fibrosis)"]
+aliases: ["EMF (Endomyocardial Fibrosis)", "EMF"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"

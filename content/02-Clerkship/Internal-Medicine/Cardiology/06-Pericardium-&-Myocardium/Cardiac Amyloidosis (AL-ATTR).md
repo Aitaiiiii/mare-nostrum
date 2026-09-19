@@ -12,6 +12,7 @@ tags: []
 created: 2026-07-15
 notion_id: 39e224ab-ad81-819a-a4b7-cd1f9c517eac
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Cardiac Amyloidosis (AL/ATTR)
@@ -28,7 +29,7 @@ source: notion-migration
 > 
 > 
 
-> **Companion pages:** [Approach to Cardiomyopathies (Hub)](Approach%20to%20Cardiomyopathies%20(Hub)%2039f224abad8181b3abafd80cd7ee70ea.md) · [DCM (Dilated Cardiomyopathy)](DCM%20(Dilated%20Cardiomyopathy)%2039f224abad8181c5936dd36b22cec491.md) · [Heart Failure — Pathophysiology & Approach](Heart%20Failure%20%E2%80%94%20Pathophysiology%20&%20Approach%20to%20the%20%2039d224abad818193ab49f84c47433617.md) · [HFpEF](HFpEF%20(Heart%20Failure%20with%20Preserved%20Ejection%20Fract%20387224abad8181e4b79ce5d452a2c835.md) · [Hypertrophic Cardiomyopathy](HCM%20(Hypertrophic%20Cardiomyopathy)%20%E2%80%94%20LVOT%20Obstructi%2039e224abad818152b76ed5fe0cc01a1a.md) · [Cardiac Contraction & Relaxation](Cardiac%20Contraction%20&%20Relaxation%20(Excitation-Contr%2039e224abad8181789572fbb40d21492b.md)
+> **Companion pages:** [[Approach to Cardiomyopathies (Hub)]] · [[DCM (Dilated Cardiomyopathy)]] · [[Heart Failure|Heart Failure — Pathophysiology & Approach]] · [[HFpEF|HFpEF]] · [[HCM|Hypertrophic Cardiomyopathy]] · [[Cardiac Contraction & Relaxation|Cardiac Contraction & Relaxation]]
 > 
 
 # 🧬 Etiology & Molecular Pathophysiology
@@ -192,7 +193,7 @@ Median survival ตาม NAC staging ใน derivation cohort อยู่ท�
 > 
 > 
 
-> **Beta-blockers** และ **non-dihydropyridine CCBs** — เนื่องจากผู้ป่วยมี **fixed stroke volume** จาก restrictive physiology ร่างกายจึงต้องอาศัย **heart rate เป็นกลไกเดียว**ในการรักษา cardiac output — หากยากด HR จะทำให้ CO ลดลงอย่างฉับพลัน เกิด **severe hypoperfusion และช็อกได้ทันที** — *ตรงข้ามกับ DCM ที่ beta-blocker เป็นเสาหลักของการรักษา (ดู* [Approach to Cardiomyopathies (Hub)](Approach%20to%20Cardiomyopathies%20(Hub)%2039f224abad8181b3abafd80cd7ee70ea.md) *สำหรับตารางเทียบ)*
+> **Beta-blockers** และ **non-dihydropyridine CCBs** — เนื่องจากผู้ป่วยมี **fixed stroke volume** จาก restrictive physiology ร่างกายจึงต้องอาศัย **heart rate เป็นกลไกเดียว**ในการรักษา cardiac output — หากยากด HR จะทำให้ CO ลดลงอย่างฉับพลัน เกิด **severe hypoperfusion และช็อกได้ทันที** — *ตรงข้ามกับ DCM ที่ beta-blocker เป็นเสาหลักของการรักษา (ดู* [[Approach to Cardiomyopathies (Hub)]] *สำหรับตารางเทียบ)*
 > 
 
 > 
@@ -238,7 +239,7 @@ Median survival ตาม NAC staging ใน derivation cohort อยู่ท�
 - **AL = ฉุกเฉินโลหิตวิทยา** — light chain เป็นพิษโดยตรง → เคมีบำบัดด่วน; **ATTR แยก wt vs v ด้วย TTR gene sequencing** (มีผลต่อ cascade screening)
 - **ATTR-CM มี 3 ยา FDA-approved (อัปเดต 2026)**: **tafamidis (2019)** + **acoramidis (พ.ย. 2024)** = stabilizer · **vutrisiran (2025)** = **gene silencer ตัวแรก** — combination therapy **ยังไม่มีหลักฐาน**
 - **Pitfall ที่อันตรายถึงชีวิต**: ATTR-CM **ห้าม beta-blocker / non-DHP CCB** — fixed SV → พึ่ง HR อย่างเดียว (ตรงข้าม DCM ที่ต้องใช้ BB); **digoxin ระวัง toxicity** (fibril จับยา)
-- **แยกจาก DCM เสมอ**: ทั้งคู่ทำให้เกิด HF แต่ pathophysiology สวนทางกัน — ดูตารางเทียบใน [Approach to Cardiomyopathies (Hub)](Approach%20to%20Cardiomyopathies%20(Hub)%2039f224abad8181b3abafd80cd7ee70ea.md)
+- **แยกจาก DCM เสมอ**: ทั้งคู่ทำให้เกิด HF แต่ pathophysiology สวนทางกัน — ดูตารางเทียบใน [[Approach to Cardiomyopathies (Hub)]]
 - 🔍 Verification status
     
     **✅ Searched & verified (16 ก.ค. 2026)**

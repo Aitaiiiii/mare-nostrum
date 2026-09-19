@@ -10,6 +10,8 @@ tags: [workflow]
 created: 2026-06-24
 notion_id: 389224ab-ad81-812c-8c85-e5eb0c9dd65f
 source: notion-migration
+related: ["[[Post-op Default (Surgery)]]"]
+updated: 2026-09-14
 ---
 
 # Post-op Oliguria (Explore Laparotomy)

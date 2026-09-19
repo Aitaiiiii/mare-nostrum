@@ -1,6 +1,6 @@
 ---
 title: "NOAC (Non-Vitamin K Oral Anticoagulants)"
-aliases: ["NOAC (Non-Vitamin K Oral Anticoagulants)"]
+aliases: ["NOAC (Non-Vitamin K Oral Anticoagulants)", "NOAC"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"
@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8180-beb4-c51f7b46b7e9
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # NOAC (Non-Vitamin K Oral Anticoagulants)
 
-**Discrete-entity page — NOAC/DOAC deep-dive** — เสริมจาก [[Anticoagulant Therapy]] (ซึ่งมี AF/VTE dosing + reversal ครบแล้ว) หน้านี้เจาะกลไกที่ทำให้ NOAC ต่างจาก warfarin, การปรับยาใน hepatic/renal impairment, **perioperative interruption/bridging** (เชื่อมกับ [[Preoperative Cardiac Risk Assessment (Non-Cardiac Surgery)]]), และ **NOAC ในผู้ป่วย AF+PCI** (triple/dual therapy). อ้างอิงหลัก **2022 ESC Non-Cardiac Surgery Guideline**, **2021 EHRA Practical Guide on NOAC**, **2023 ACC/AHA/ACCP/HRS AF Guideline**, **2024 ESC AF Guideline**.
+**Discrete-entity page — NOAC/DOAC deep-dive** — เสริมจาก [[Anticoagulant Therapy]] (ซึ่งมี AF/VTE dosing + reversal ครบแล้ว) หน้านี้เจาะกลไกที่ทำให้ NOAC ต่างจาก warfarin, การปรับยาใน hepatic/renal impairment, **perioperative interruption/bridging** (เชื่อมกับ [[Preoperative Cardiac Risk Assessment]]), และ **NOAC ในผู้ป่วย AF+PCI** (triple/dual therapy). อ้างอิงหลัก **2022 ESC Non-Cardiac Surgery Guideline**, **2021 EHRA Practical Guide on NOAC**, **2023 ACC/AHA/ACCP/HRS AF Guideline**, **2024 ESC AF Guideline**.
 
 ## 1. 🧬 ทำไม NOAC ต่างจาก Warfarin (Pharmacology)
 
@@ -90,7 +91,7 @@ source: notion-migration
 | 15-29         | ห้ามใช้ NOAC                | ห้ามใช้ NOAC                 | ≥36h                          | ≥48h                           |
 | <15           | ไม่มีข้อบ่งชี้              | ไม่มีข้อบ่งชี้               | ไม่มีข้อบ่งชี้                | ไม่มีข้อบ่งชี้                 |
 
-**เชื่อมโยง:** ดู [[Preoperative Cardiac Risk Assessment (Non-Cardiac Surgery)]] สำหรับ workflow เต็มของการประเมิน bleeding-risk ของหัตถการ และการจัดการ warfarin/mechanical-valve bridging (ซึ่ง**ไม่ใช่ประเด็นของ NOAC** เพราะ mechanical valve = ข้อห้ามของ NOAC โดยตรง — ดูข้อ 6)
+**เชื่อมโยง:** ดู [[Preoperative Cardiac Risk Assessment]] สำหรับ workflow เต็มของการประเมิน bleeding-risk ของหัตถการ และการจัดการ warfarin/mechanical-valve bridging (ซึ่ง**ไม่ใช่ประเด็นของ NOAC** เพราะ mechanical valve = ข้อห้ามของ NOAC โดยตรง — ดูข้อ 6)
 
 ## 4. 🩹 NOAC ใน AF + PCI (Triple/Dual Antithrombotic Therapy)
 

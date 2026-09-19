@@ -3,15 +3,16 @@ title: "COPD AE (Acute Exacerbation)"
 type: "Standing Order"
 specialty: "Pulmonology"
 ward: ["Medicine"]
-related: ["COPD Exacerbation (AECOPD — Acute Exacerbation of Chronic Obstructive Pulmonary Disease)"]
+related: ["[[COPD Exacerbation]]"]
 tags: [workflow]
 notion_id: 389224ab-ad81-8107-9a97-e213a9af45b3
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # COPD AE (Acute Exacerbation)
 
-> 🃏 Order set for [[COPD Exacerbation (AECOPD — Acute Exacerbation of Chronic Obstructive Pulmonary Disease)]]
+> 🃏 Order set for [[COPD Exacerbation]]
 
 - **COPD AE definition:** acute worsening of respiratory symptoms (dyspnea, cough, sputum increase/purulence) beyond day-to-day variation → ต้องการ medication change
 - **Severity (GOLD 2024):** Mild (SABA only), Moderate (SABA + systemic steroid/ATB), Severe (ER/hospital admission)

@@ -3,15 +3,13 @@ title: "Post-op Hysteroscopic Resection"
 type: "Standing Order"
 specialty: "General"
 ward: ["OB-GYN"]
-related: ["Post-op Oliguria (Explore Laparotomy)"]
 tags: [workflow]
 notion_id: 3d5224ab-ad81-81d3-a595-c117efe2254c
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Post-op Hysteroscopic Resection
-
-> 🃏 Order set for [[Post-op Oliguria (Explore Laparotomy)]]
 
 - **ชนิดของการ resect** — polyp, submucous myoma, uterine septum, หรือ intrauterine adhesion (Asherman) กำหนดยาและ follow-up
 - **Distension media + fluid deficit** — ถ้าใช้ hypotonic media ปริมาณมากเสี่ยง hyponatremia และ fluid overload (TUR-like syndrome)

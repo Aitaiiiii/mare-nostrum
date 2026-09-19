@@ -1,6 +1,6 @@
 ---
 title: "RCM (Restrictive Cardiomyopathy)"
-aliases: ["RCM (Restrictive Cardiomyopathy)"]
+aliases: ["RCM (Restrictive Cardiomyopathy)", "RCM"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Cardiology"

@@ -2,13 +2,11 @@
 title: "EKG Gallery (Map)"
 type: Map
 tags: [map]
+cssclasses:
+  - map
 ---
 
-# 🫀 EKG Gallery — Map
-
-## Contents
-
-_Populated after the EKG export is migrated. A card/gallery view of every tracing._
+# 📈 EKG Gallery
 
 ## Contents
 
@@ -18,7 +16,6 @@ _Populated after the EKG export is migrated. A card/gallery view of every tracin
 - [[[TEST] IMG_0117]]
 - [[[TEST] IMG_0245]]
 - [[[TEST] IMG_9560]]
-- [[Approach: Palpitation (Arrhythmic · Structural · Systemic — Symptom-Rhythm Correlation)]]
 - [[BC8B2BDC-8576-420B-86EB-845ED92B64D1]]
 - [[C032DC23-8FB0-40BA-936B-786B1469EEDB]]
 - [[C21A21E5-D0C2-487A-92D4-BBDDBC416C28]]
@@ -354,6 +351,14 @@ _Populated after the EKG export is migrated. A card/gallery view of every tracin
 - [[IMG_9985]]
 - [[IMG_9986]]
 
-<small>341 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>340 notes · live filterable table available in Obsidian (Dataview).</small>
 
-> [!info] Gallery/card view available in Obsidian via Dataview or Bases.
+
+## By pattern
+
+```dataview
+LIST rows.file.link
+WHERE type = "EKG"
+GROUP BY default(ekg_tags, "Unsorted")
+SORT file.name ASC
+```

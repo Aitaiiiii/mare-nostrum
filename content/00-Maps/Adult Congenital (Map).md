@@ -2,14 +2,25 @@
 title: "Adult Congenital (Map)"
 type: Map
 tags: [map]
+cssclasses:
+  - map
 ---
 
-# 👶 Adult Congenital (Map)
+# 👶 Adult Congenital
 
 ## Contents
 
-- [[Congenital LVOT Obstruction (Valvar, Subvalvar & Supravalvar AS) — SNC-Ped C2]]
+_No notes yet._
 
-<small>1 notes · live filterable table available in Obsidian (Dataview).</small>
+<small>0 notes · live filterable table available in Obsidian (Dataview).</small>
 
 
+## Lesions
+
+```dataview
+LIST rows.file.link
+FROM #adult-congenital
+WHERE type != "Map"
+GROUP BY default(specialty, "General")
+SORT file.name ASC
+```

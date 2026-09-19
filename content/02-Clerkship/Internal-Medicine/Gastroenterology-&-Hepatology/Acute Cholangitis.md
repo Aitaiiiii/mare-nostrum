@@ -10,11 +10,13 @@ tags: []
 created: 2026-08-18
 notion_id: 3c0224ab-ad81-81e8-9707-f1c93c28eb9b
 source: notion-migration
+related: ["[[Cholangitis|Cholangitis order set]]"]
+updated: 2026-09-14
 ---
 
 # Acute Cholangitis
 
-*Spoke ของ [Approach: RUQ Pain in Adults](Approach%20RUQ%20Pain%20in%20Adults%203c0224abad818163ad93cecebff08a4c.md) · order set ข้างเตียงอยู่ที่ [Standing Order: Cholangitis](https://app.notion.com/p/Cholangitis-321224abad81804ab61de8864c6ff9f7?pvs=21) · สร้าง 18 ส.ค. 2026 อ้าง TG18/TG13 และ ASGE 2019*
+*Spoke ของ [[Approach - RUQ Pain in Adults|Approach: RUQ Pain in Adults]] · order set ข้างเตียงอยู่ที่ [Standing Order: Cholangitis](https://app.notion.com/p/Cholangitis-321224abad81804ab61de8864c6ff9f7?pvs=21) · สร้าง 18 ส.ค. 2026 อ้าง TG18/TG13 และ ASGE 2019*
 
 ## 1. 🧬 Etiology & Molecular Pathophysiology
 
@@ -96,7 +98,7 @@ lab พื้นฐานคือ CBC, LFT (ALP, GGT, AST, ALT), total bilirubi
 - **Grade II (moderate)** — เข้าเกณฑ์ 2 ใน 5 ข้อนี้ คือ WBC **>12,000 หรือ <4,000/µL** · ไข้สูง **≥39°C** · อายุ **≥75 ปี** · total bilirubin **≥5 mg/dL** · albumin **<70% ของ lower limit ปกติ**
 - **Grade III (severe)** — มี organ dysfunction ข้อใดข้อหนึ่ง เกณฑ์เดียวกับ cholecystitis Grade III (cardiovascular, neurological, respiratory, renal, hepatic, hematological)
 
-Grade II ของ cholangitis ต้องเข้า 2 ใน 5 ข้อ ต่างจาก cholecystitis ที่ต้องเข้าแค่ 1 ใน 4 ข้อ (ดู [Acute Cholecystitis](Acute%20Cholecystitis%203c0224abad81812191d3d92575cd6a84.md)) ความไม่สมมาตรนี้เจตนา เพราะสองระบบให้คะแนนน้ำหนักโรคคนละแบบ
+Grade II ของ cholangitis ต้องเข้า 2 ใน 5 ข้อ ต่างจาก cholecystitis ที่ต้องเข้าแค่ 1 ใน 4 ข้อ (ดู [[Acute Cholecystitis|Acute Cholecystitis]]) ความไม่สมมาตรนี้เจตนา เพราะสองระบบให้คะแนนน้ำหนักโรคคนละแบบ
 
 ## 7. 💊 Management & Pharmacodynamics
 

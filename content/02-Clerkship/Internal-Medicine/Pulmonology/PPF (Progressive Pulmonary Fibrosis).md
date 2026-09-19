@@ -1,6 +1,6 @@
 ---
 title: "PPF (Progressive Pulmonary Fibrosis)"
-aliases: ["PPF (Progressive Pulmonary Fibrosis)"]
+aliases: ["PPF (Progressive Pulmonary Fibrosis)", "PPF"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Pulmonology"
@@ -80,7 +80,7 @@ source: notion-migration
 
 # 4. 💊 Management & Pharmacodynamics
 
-กรอบการรักษามี 2 แกนคู่ขนาน: **(1)** รักษา/ปรับ underlying ILD ตาม phenotype ที่ยังมี inflammatory component (immunosuppression หากเป็น CTD-ILD/inflammatory phenotype, antigen avoidance หากเป็น HP — รายละเอียด tier การกดภูมิดูใน [[ILD Overview]]) และ **(2)** เพิ่ม **antifibrotic** เมื่อผู้ป่วยเข้าเกณฑ์ progressive fibrosing behavior แล้ว
+กรอบการรักษามี 2 แกนคู่ขนาน: **(1)** รักษา/ปรับ underlying ILD ตาม phenotype ที่ยังมี inflammatory component (immunosuppression หากเป็น CTD-ILD/inflammatory phenotype, antigen avoidance หากเป็น HP — รายละเอียด tier การกดภูมิดูใน [[ILD (Interstitial Lung Disease)|ILD Overview]]) และ **(2)** เพิ่ม **antifibrotic** เมื่อผู้ป่วยเข้าเกณฑ์ progressive fibrosing behavior แล้ว
 
 **ATS/ERS/JRS/ALAT 2022** ให้ **conditional recommendation (คุณภาพหลักฐานต่ำ)** สำหรับการใช้ **nintedanib** ในผู้ป่วยที่เข้าเกณฑ์ PPF **และล้มเหลวจาก standard management** ของโรคต้นเหตุแล้ว ส่วน **pirfenidone** guideline **ยังไม่ให้คำแนะนำเชิงบวก** เพียงระบุว่าควรมีการวิจัยเพิ่มเติม — นี่คือความต่างสำคัญที่ต้องจำ
 

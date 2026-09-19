@@ -7,9 +7,13 @@ also_relevant: ["Hematology", "Oncology"]
 tags: [emergency, workflow]
 notion_id: 321224ab-ad81-8040-8a52-c6d29d2c85fc
 source: notion-migration
+related: ["[[Oncologic Emergencies]]"]
+updated: 2026-09-14
 ---
 
 # Tumor lysis
+
+> 🃏 Order set for [[Oncologic Emergencies]]
 
 > [!question]- What to review
 >

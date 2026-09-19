@@ -1,6 +1,6 @@
 ---
 title: "DKA (Diabetic Ketoacidosis)"
-aliases: ["DKA (Diabetic Ketoacidosis)"]
+aliases: ["DKA (Diabetic Ketoacidosis)", "DKA"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Endocrinology"
@@ -10,6 +10,8 @@ tags: [emergency]
 created: 2026-08-20
 notion_id: 3c2224ab-ad81-81d2-939b-d810c0675169
 source: notion-migration
+related: ["[[DKA Orders]]", "[[HHS (Hyperosmolar Hyperglycemic State)]]", "[[Type 2 Diabetes Mellitus]]"]
+updated: 2026-09-16
 ---
 
 # DKA (Diabetic Ketoacidosis)
@@ -24,7 +26,7 @@ source: notion-migration
 
 counter-regulatory hormone ทั้งสี่ตัว (glucagon, catecholamine, cortisol, growth hormone) เร่งทั้ง gluconeogenesis และ glycogenolysis พร้อมกันกับกด peripheral glucose uptake พอ glucose เกิน renal threshold ก็เกิด osmotic diuresis จนขาดน้ำรุนแรงและสูญเสีย electrolyte ตามมา ตรงนี้ที่อธิบายว่าทำไม total body potassium พร่องทั้งที่ serum K มักสูงตอนมาถึง
 
-เหตุที่ K สูงตอนแรกมาจากสองทาง คือ acidosis ที่ดัน K ออกนอกเซลล์ และการขาด insulin ที่ทำให้ Na⁺/K⁺-ATPase ทำงานน้อยลง พอเริ่ม insulin ทั้งสองกลไกก็กลับทิศพร้อมกัน K จึงดิ่งได้เร็วมาก (ดู [Dyskalemia (Hypo- & Hyperkalemia)](Dyskalemia%20(Hypo-%20&%20Hyperkalemia)%2038d224abad818105a520c1d7507a23fc.md))
+เหตุที่ K สูงตอนแรกมาจากสองทาง คือ acidosis ที่ดัน K ออกนอกเซลล์ และการขาด insulin ที่ทำให้ Na⁺/K⁺-ATPase ทำงานน้อยลง พอเริ่ม insulin ทั้งสองกลไกก็กลับทิศพร้อมกัน K จึงดิ่งได้เร็วมาก (ดู [[Dyskalemia (Hypo- & Hyperkalemia)]])
 
 **Precipitating factor** ที่เจอบ่อยคือ infection · การหยุดหรือขาด insulin · เป็นครั้งแรกของ type 1 diabetes · acute coronary syndrome · stroke · pancreatitis · ยา (SGLT2 inhibitor, glucocorticoid, atypical antipsychotic, immune checkpoint inhibitor) ในคนไทยงานวิจัยของรามาธิบดีพบว่า infection เป็นตัวกระตุ้นหลักใน type 2 (43.4%) ส่วนใน type 1 คือ non-compliance (43.5%)
 
@@ -96,7 +98,7 @@ counter-regulatory hormone ทั้งสี่ตัว (glucagon, catecholami
 | Toxic alcohol (methanol, ethylene glycol) | osmolar gap กว้างโดยไม่มี ketone |
 | Uremic acidosis | creatinine สูงมาก · AG กว้างปานกลาง · ไม่มี ketone |
 
-ดูกรอบการแยก high anion gap acidosis เต็มที่ [Metabolic Acidosis](Metabolic%20Acidosis%2038d224abad8181b0a5aed46d59ba8883.md)
+ดูกรอบการแยก high anion gap acidosis เต็มที่ [[Metabolic Acidosis]]
 
 ## 4. 💊 Management & Pharmacodynamics
 
@@ -153,7 +155,7 @@ consensus 2024 ตัด escalation protocol ออกไป เจตนาค�
 **สิ่งที่ใช้เฉพาะเมื่อมีข้อบ่งชี้**
 
 - Sodium bicarbonate — พิจารณาเมื่อ pH **<7.0** เท่านั้น ที่ pH เหนือ 7.0 insulin กด lipolysis ได้เองโดยไม่ต้องพึ่ง bicarbonate ขนาดที่ใช้คือ NaHCO₃ **100 mmol** ผสม sterile water 400 mL ร่วมกับ KCl 20 mmol ให้ในเวลา 2 ชั่วโมง ให้ซ้ำได้จน pH เกิน 7.0 · ในไทย 7.5% NaHCO₃ หนึ่ง amp 50 mL ให้ HCO₃ 44.6 mmol จึงเท่ากับใช้สอง amp ต่อครั้ง
-- Phosphate — พิจารณาเมื่อ phosphate ต่ำกว่า **1.0 mmol/L** ร่วมกับ muscle weakness หรือ cardiac หรือ respiratory impairment consensus 2024 ไม่แนะนำให้ทุกราย ดูต่อที่ [Hypophosphatemia](Hypophosphatemia%2038e224abad8181edbf4bd889aa2debe9.md)
+- Phosphate — พิจารณาเมื่อ phosphate ต่ำกว่า **1.0 mmol/L** ร่วมกับ muscle weakness หรือ cardiac หรือ respiratory impairment consensus 2024 ไม่แนะนำให้ทุกราย ดูต่อที่ [[Hypophosphatemia]]
 
 **Monitoring**
 

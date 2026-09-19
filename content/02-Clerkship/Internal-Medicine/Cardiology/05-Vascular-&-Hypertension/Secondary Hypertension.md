@@ -12,6 +12,7 @@ tags: [workflow]
 created: 2026-07-26
 notion_id: 3a9224ab-ad81-81b7-bd7e-fc5ae52bc276
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Secondary Hypertension
@@ -22,7 +23,7 @@ source: notion-migration
 > **นี่คือ Hub** — route ไปหา workup เฉพาะทาง; endocrine detail (Cushing dx, PPGL genetics, adrenal incidentaloma) อยู่ที่ [[Adrenal Disorders]] — ไม่ทำซ้ำ
 > 
 
-เพจแม่: [[Hypertension (Systemic Hypertension)]] · เพจเกี่ยวข้อง: [[Resistant & Refractory Hypertension]] · [[Adrenal Disorders]] · [[Dyskalemia (Hypo- & Hyperkalemia)]] · [[MRA (Mineralocorticoid Receptor Antagonists — Spironolactone, Eplerenone, Finerenone)]]
+เพจแม่: [[Hypertension (Systemic Hypertension)]] · เพจเกี่ยวข้อง: [[Resistant & Refractory Hypertension]] · [[Adrenal Disorders]] · [[Dyskalemia (Hypo- & Hyperkalemia)]] · [[Mineralocorticoid Receptor Antagonists]]
 
 # 🚨 เมื่อไหร่ต้องสงสัย Secondary HT (คัดกรองก่อนเสมอ)
 
@@ -54,7 +55,7 @@ Secondary HT พบไม่บ่อย (~5–10%) แต่สำคัญเ�
 - **วิธี**: ตรวจ **plasma aldosterone + plasma renin (ARR)** — ต้อง **แก้ hypokalemia ก่อน** (ไม่งั้น aldosterone ต่ำลวง) และเปลี่ยนยาที่รบกวน aldosterone/renin เป็น verapamil SR, hydralazine หรือ alpha-blocker
 - **แปลผล**: aldosterone **>20 ng/dL + renin ต่ำมาก + hypokalemia ที่ไม่มีสาเหตุอื่น** → วินิจฉัย PA ได้เลย; ทุกรายต้อง **CT adrenal protocol** (I A)
 - **แยกข้างเดียว vs สองข้าง**: **adrenal venous sampling (AVS)** เป็น gold standard — ยกเว้นอายุ <35 ปี + hypokalemia เอง + aldosterone สูงมาก + CT เห็น adenoma ข้างเดียวชัด → ผ่าตัดได้เลย
-- **รักษา**: unilateral → **adrenalectomy** (I A); bilateral / ผ่าไม่ได้ → **spironolactone** (I B), ตั้งเป้า renin >1 ng/mL/min ลด complication (IIb B) — ดู [[MRA (Mineralocorticoid Receptor Antagonists — Spironolactone, Eplerenone, Finerenone)]]
+- **รักษา**: unilateral → **adrenalectomy** (I A); bilateral / ผ่าไม่ได้ → **spironolactone** (I B), ตั้งเป้า renin >1 ng/mL/min ลด complication (IIb B) — ดู [[Mineralocorticoid Receptor Antagonists]]
 
 **2) Pheochromocytoma / paraganglioma (PPGL) (ตารางที่ 37)**
 

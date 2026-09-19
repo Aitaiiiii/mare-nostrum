@@ -1,6 +1,6 @@
 ---
 title: "IPF (Idiopathic Pulmonary Fibrosis)"
-aliases: ["IPF (Idiopathic Pulmonary Fibrosis)"]
+aliases: ["IPF (Idiopathic Pulmonary Fibrosis)", "IPF"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Pulmonology"

@@ -11,11 +11,12 @@ tags: [workflow]
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-8115-a3b3-d3b8c65eb411
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Key Investigations in Cardiology
 
-> หน้านี้เป็น **workflow/reference hub** สำหรับการเลือกและตีความ investigation เฉพาะทางที่ไม่ได้ผูกกับโรคใดโรคหนึ่งโดยตรง — ครอบคลุม **contrast media** (คุณสมบัติ/ปฏิกิริยาแพ้/premedication), **intravascular imaging** (IVUS/OCT — ความละเอียดและจุดตัดทางคลินิก), และ **MINOCA diagnostic workup**. สำหรับ FFR/iFR/coronary physiology ดู [[Coronary Blood Flow & Myocardial Ischemia (FFR · Microvascular Dysfunction · Ischemic Cascade)]]; สำหรับ Swan-Ganz/invasive hemodynamics ดู [[Hemodynamics — Basic Principles]]; สำหรับ catheter selection/CINE view/PCI-technique ดู [[CAG & PCI (Coronary Angiography & Percutaneous Intervention)]] (ไม่ซ้ำเนื้อหาที่นี่)
+> หน้านี้เป็น **workflow/reference hub** สำหรับการเลือกและตีความ investigation เฉพาะทางที่ไม่ได้ผูกกับโรคใดโรคหนึ่งโดยตรง — ครอบคลุม **contrast media** (คุณสมบัติ/ปฏิกิริยาแพ้/premedication), **intravascular imaging** (IVUS/OCT — ความละเอียดและจุดตัดทางคลินิก), และ **MINOCA diagnostic workup**. สำหรับ FFR/iFR/coronary physiology ดู [[Coronary Blood Flow & Ischemia]]; สำหรับ Swan-Ganz/invasive hemodynamics ดู [[Hemodynamics — Basic Principles]]; สำหรับ catheter selection/CINE view/PCI-technique ดู [[CAG & PCI]] (ไม่ซ้ำเนื้อหาที่นี่)
 > 
 
 ## 1. 💉 Contrast Media — Classification & Nephropathy Risk

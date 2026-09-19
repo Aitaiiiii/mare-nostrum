@@ -3,7 +3,7 @@ title: "Hemodynamics — Basic Principles"
 aliases: ["Hemodynamics — Basic Principles", "Hemodynamics"]
 stage: Pre-clerkship
 specialty: "Physiology"
-related: ["Physiology (Map)", "Cardiology (Map)"]
+related: ["[[Physiology (Map)]]", "[[Cardiology (Map)]]"]
 type: "Discrete entity"
 guidelines: ["ACC/AHA", "ESC"]
 review_status: "New"
@@ -11,11 +11,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81b9-a251-ff4305d7320d
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Hemodynamics — Basic Principles
 
-หน้านี้เป็น **hub ของ invasive hemodynamics ในห้องสวนหัวใจ** ครอบคลุม Swan-Ganz, การวัด cardiac output (Fick / thermodilution), การคำนวณ resistance, shunt (Qp:Qs), valve area (Gorlin), pressure waveforms และ PV loops. สำหรับ mechanical circulatory support ดูรายละเอียดที่ [[MCS (Mechanical Circulatory Support) — Durable LVAD & Temporary MCS (IABP · Impella · VA-ECMO)]]; สำหรับ coronary physiology (FFR/iFR) ดู [[Coronary Blood Flow & Myocardial Ischemia (FFR · Microvascular Dysfunction · Ischemic Cascade)]]
+หน้านี้เป็น **hub ของ invasive hemodynamics ในห้องสวนหัวใจ** ครอบคลุม Swan-Ganz, การวัด cardiac output (Fick / thermodilution), การคำนวณ resistance, shunt (Qp:Qs), valve area (Gorlin), pressure waveforms และ PV loops. สำหรับ mechanical circulatory support ดูรายละเอียดที่ [[MCS (Mechanical Circulatory Support)]]; สำหรับ coronary physiology (FFR/iFR) ดู [[Coronary Blood Flow & Ischemia]]
 
 > ⚠️ **หมายเหตุความปลอดภัยของสูตร (formula sanity):** ค่าคงที่ในสูตร hemodynamics เป็นตัวกำหนดผลลัพธ์โดยตรง ค่าคงที่ผิดทำให้ valve area ผิดแบบเงียบ ๆ สูตรในหน้านี้ทุกตัว **ตรวจสอบกับแหล่งอ้างอิงแล้ว** (ดู 🔍 Verification status ท้ายหน้า) และได้ **แก้ค่าคงที่ที่คลาดเคลื่อนจากต้นฉบับ** ไว้แล้ว (Gorlin aortic = 44.3 ไม่ใช่ 44.5; mitral = 37.7 ไม่ใช่ 38; stroke work = 0.0136 ไม่ใช่ 0.0144)
 > 

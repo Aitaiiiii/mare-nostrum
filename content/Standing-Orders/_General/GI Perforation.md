@@ -3,9 +3,11 @@ title: "GI Perforation"
 type: "Standing Order"
 specialty: "General"
 ward: ["Surgery"]
-tags: [workflow]
+related: ["[[Peptic Ulcer Disease & Perforation]]"]
+tags: [workflow, emergency]
 notion_id: 389224ab-ad81-8149-a885-f59097521711
 source: notion-migration
+updated: 2026-09-19
 ---
 
 # GI Perforation

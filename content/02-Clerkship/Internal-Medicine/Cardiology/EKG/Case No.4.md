@@ -18,7 +18,7 @@ source: notion-migration
 
 Baseline ekg of 
 
-[Case #3](Case%20#3%2027f224abad8180969b85d5eaa7dd3119.md)
+[[Case No.3|Case #3]]
 
 - Describe
     

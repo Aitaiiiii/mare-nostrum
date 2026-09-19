@@ -11,6 +11,7 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81ab-92b8-eb91f934f42c
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Temporary Pacing
@@ -21,7 +22,7 @@ source: notion-migration
 > 
 > 
 
-> **Companion pages:** [Bradycardia — Approach & AV Block](Bradycardia%20%E2%80%94%20Approach%20&%20AV%20Block%203a4224abad8181878188db03c0dd5078.md) (ข้อบ่งชี้ทางคลินิก) · [Device Indications — Pacemaker, ICD & CRT](Device%20Indications%20%E2%80%94%20Pacemaker,%20ICD%20&%20CRT%203a4224abad818144a28de9340f0c0287.md) · [Pacing Modes & ICD Therapies](Pacing%20Modes%20&%20ICD%20Therapies%20%E2%80%94%20Programming%20Basics%203a4224abad8181c1b02fcf7897d537b0.md) (troubleshooting เชิงลึก/permanent device)
+> **Companion pages:** [[Bradycardia & AV Block]] (ข้อบ่งชี้ทางคลินิก) · [[Device Indications (PPM, ICD, CRT)]] · [[Pacing Modes & ICD Therapies|Pacing Modes & ICD Therapies]] (troubleshooting เชิงลึก/permanent device)
 > 
 
 Temporary pacing คือ**สะพานเชื่อม (bridge)** ระหว่างภาวะ bradyarrhythmia ที่คุกคามชีวิตกับการรักษาที่ชัดเจน (permanent pacemaker หรือการแก้ reversible cause) เลือกใช้ **transvenous** เมื่อมีเวลาเตรียมและต้องการความเสถียรกว่า หรือ **transcutaneous** เมื่อต้องการเริ่มทันทีในสถานการณ์ฉุกเฉิน

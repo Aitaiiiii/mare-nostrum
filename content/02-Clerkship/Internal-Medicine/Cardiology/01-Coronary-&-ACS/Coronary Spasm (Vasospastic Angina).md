@@ -12,11 +12,12 @@ tags: []
 created: 2026-07-21
 notion_id: 3a4224ab-ad81-81d5-9053-e9184e65ef5a
 source: notion-migration
+updated: 2026-09-14
 ---
 
 # Coronary Spasm (Vasospastic Angina)
 
-> Coronary vasospasm (= Prinzmetal's/variant angina) — epicardial coronary artery หดตัวรุนแรงชั่วคราวจน lumen แคบ >90% ทำให้เกิด transient transmural ischemia แม้ไม่มี fixed obstructive lesion รุนแรง เป็นสาเหตุหนึ่งของ MINOCA และเป็น endotype หนึ่งของ ANOCA/INOCA — กลไกระดับเซลล์ (endothelial dysfunction, RhoA/Rho-kinase) และตำแหน่งใน endotype classification ดูที่ [[Coronary Blood Flow & Myocardial Ischemia (FFR · Microvascular Dysfunction · Ischemic Cascade)]]; เมื่อทำให้เกิด MI จริงดู [[STEMI (ST-Elevation Myocardial Infarction)]] / [[NSTE-ACS (NSTEMI & Unstable Angina)]]
+> Coronary vasospasm (= Prinzmetal's/variant angina) — epicardial coronary artery หดตัวรุนแรงชั่วคราวจน lumen แคบ >90% ทำให้เกิด transient transmural ischemia แม้ไม่มี fixed obstructive lesion รุนแรง เป็นสาเหตุหนึ่งของ MINOCA และเป็น endotype หนึ่งของ ANOCA/INOCA — กลไกระดับเซลล์ (endothelial dysfunction, RhoA/Rho-kinase) และตำแหน่งใน endotype classification ดูที่ [[Coronary Blood Flow & Ischemia]]; เมื่อทำให้เกิด MI จริงดู [[STEMI]] / [[NSTE-ACS (NSTEMI & Unstable Angina)]]
 > 
 
 ## 1. 🧬 Etiology & Pathophysiology

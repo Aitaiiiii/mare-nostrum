@@ -3,7 +3,7 @@ title: "Post-op Default (Surgery)"
 type: "Standing Order"
 specialty: "General"
 ward: ["Surgery"]
-related: ["Post-op Oliguria (Explore Laparotomy)"]
+related: ["[[Post-op Oliguria (Explore Laparotomy)]]"]
 tags: [workflow]
 notion_id: 389224ab-ad81-8176-8b21-fa50d18e10dc
 source: notion-migration
