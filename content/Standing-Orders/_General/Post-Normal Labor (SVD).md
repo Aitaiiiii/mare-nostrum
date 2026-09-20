@@ -1,77 +1,38 @@
 ---
-title: "Post-Normal Labor (SVD)"
+title: "Post Normal Labor (SVD) — Orders"
+aliases: ["Post-Normal Labor (SVD)", "Postpartum SVD Orders", "Post-vaginal-delivery Orders"]
 type: "Standing Order"
-specialty: "General"
+specialty: "Obstetrics"
+lang: en
 ward: ["OB-GYN"]
+related: ["[[Postpartum Hemorrhage (PPH)]]", "[[Admit DR (Active Labor)]]"]
 tags: [pregnancy, workflow]
-notion_id: 389224ab-ad81-81f1-9527-f9665daba66c
+notion_id: post-svd-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Post-Normal Labor (SVD)
+# Post Normal Labor (SVD) — Orders
 
-- **Estimated blood loss (EBL):** normal SVD <500 mL; PPH = >500 mL SVD / >1000 mL C/S; ถ้ามี PPH → active management
-- **Perineal repair:** episiotomy หรือ tear degree (1st: mucosa; 2nd: muscle; 3rd: anal sphincter; 4th: rectal mucosa); ตรวจสอบหลังปิด
-- **Uterine tone** — atony = most common cause PPH; bimanual massage + uterotonics
-- **Placenta complete?** — inspect for missing cotyledon; retained placenta = manual removal
-- **Neonatal assessment:** APGAR 1 min + 5 min; skin-to-skin + early breastfeeding initiation
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Uterine atony is the commonest cause of PPH — monitor tone + lochia closely in the first hours.** Confirm the placenta is complete; inspect + repair perineal tears (grade). Active third-stage uterotonic already given. Escalate bleeding → [[Postpartum Hemorrhage (PPH)]].
 
+## 🔴 One Day (immediate postpartum)
+- [ ] **Vital signs q15 min ×1 h → q30 min ×1 h → q1h ×2 h**; **uterine fundus height + tone q15–30 min** (atony); **lochia amount** (pad count)
+- [ ] **Oxytocin 10 IU IM** after delivery of the anterior shoulder (active third-stage — usually already given) + controlled cord traction + uterine massage
+- [ ] Confirm **placenta complete** (missing cotyledon → retained placenta → manual removal); **inspect + repair perineal tear/episiotomy** (grade 1–4; check anal sphincter)
+- [ ] CBC if EBL > 500 mL / significant bleeding; DTX if GDM; anti-D if Rh-negative + Rh-positive baby
+- [ ] **Perineal care** (NSS irrigation); early skin-to-skin + breastfeeding; APGAR + neonatal care
 
+## 🔵 Continuous
+- [ ] Postnatal ward — Dx: post normal (SVD) delivery
+- [ ] Continue fundal/lochia checks (watch for delayed PPH); voiding (bladder distension → atony); bowel care
+- [ ] **Analgesia:** paracetamol 500–1000 mg PO q6h PRN ± ibuprofen 400 mg q8h (if no contraindication) for perineal/uterine pain
+- [ ] Breastfeeding support; postpartum education (danger signs — heavy bleeding, fever, calf pain), contraception counselling
+- [ ] Ensure rubella/other vaccination if indicated; discharge planning + follow-up
 
+> [!info]- Why
+> The first postpartum hours carry the highest PPH risk (mostly atony), so frequent tone/lochia/vital-sign checks plus the third-stage uterotonic are the core; a complete placenta and repaired perineum prevent bleeding and morbidity. Verified vs WHO/obstetric postnatal standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Vital signs q15 min x 1h** → q30 min x 1h → q1h x 2h (post-delivery monitoring)
-> - [ ] **Uterine height + tone q15-30 min** — atony detection
-> - [ ] **Lochia amount** (pad count/saturation)
-> - [ ] **CBC** ถ้า significant blood loss หรือ EBL >500 mL
-> - [ ] **DTX** ถ้า GDM
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Syntocinon (oxytocin) 10 IU IM** หลัง delivery anterior shoulder (3rd stage management) — standard of care
-> - [ ] **Controlled cord traction** + uterine massage
-> - [ ] **Perineal wound care:** NSS irrigation; iodine 10% dilute if needed
-> - [ ] **Analgesia post-delivery:**
->     - Paracetamol 500-1000 mg PO q6h PRN
->     - Ibuprofen 400 mg q8h (if no CI) — effective for perineal pain + uterine cramps
-> - [ ] **Neonatal care:** Vitamin K 1 mg IM, eye drops (Tetracycline/Erythromycin), footprint + ID band
-> - [ ] **Breastfeeding initiation** within 1h of birth — skin-to-skin
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **BP q4-6h** จน stable และไม่มี pre-eclampsia
-> - [ ] **CBC day 1** — post-delivery Hb; ถ้า Hb <9 + symptoms = transfuse
-> - [ ] **VDRL, HIV result** ถ้ายังไม่ทราบ
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Iron supplement** — Ferrous sulfate 200 mg PO BID x 3 เดือน ถ้า Hb <10 post-delivery
-> - [ ] **Stool softener** — Lactulose 15 mL OD ถ้ามี 3rd-4th degree tear (prevent straining)
-> - [ ] **[PPH prophylaxis ถ้า high-risk — uterine atony,>3 children, big baby]:** Misoprostol 600 mcg SL หรือ Ergometrine 0.2 mg IM (contraindicated if HTN)
-> - [ ] **[Active PPH]:** Syntocinon 40 IU + NSS 500 mL IV over 4h; Misoprostol 800-1000 mcg rectal; Carboprost IM; Bimanual compression; B-Lynch suture/uterine artery ligation if unresponsive
-> - [ ] **Discharge:** Day 2-3 if lochia normal, BP stable, voiding well, perineum healing
->
-> <aside>
-> 🟩
->
-> **Post-partum orders (as-used รพ.)**
->
-> - [ ] **One day:** Acetar 1,000 mL + Syntocinon 20 U IV rate 120 mL/hr (add Synto 10 U ใน IV rate 120 ×1 ทันทีหลังคลอด) · Methergin 0.2 mg IV stat · Cytotec (200) 4 tabs rectal suppo · observe void — ถ้าไม่ถ่ายปัสสาวะใน 6 ชม. notify · ± ส่ง placenta patho
-> - [ ] **Continue:** regular diet · record V/S · Paracetamol (500) 1 tab PO prn q4h #20 · Triferdine 1×1 PO pc #60 · CaCO3 1×1 PO pc #60 · (± domperidone (10) 1×3 PO pc + MOM 30 mL PO hs)
-> - [ ] **Discharge:** ครบ 48 ชม. + น้ำนม 3 ดาว → F/U PP Clinic 6 wk + FP; HM ยาเดิม
-> </aside>
->
-
+→ Related: [[Postpartum Hemorrhage (PPH)]]

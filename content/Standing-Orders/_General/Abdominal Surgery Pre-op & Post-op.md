@@ -1,71 +1,42 @@
 ---
-title: "Abdominal Surgery (Pre-op/Post-op Default)"
+title: "Abdominal Surgery (Pre-op / Post-op Default) — Orders"
+aliases: ["Abdominal Surgery Pre-op & Post-op", "Laparotomy Default Orders", "General Surgery Peri-op Orders"]
 type: "Standing Order"
-specialty: "General"
+specialty: "General Surgery"
+lang: en
 ward: ["Surgery"]
+related: ["[[Post-op Default (Surgery)]]", "[[GI Perforation]]", "[[Pain control]]"]
 tags: [workflow]
 notion_id: 389224ab-ad81-81bd-9e16-ff8024f6e020
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-20
 ---
 
-# Abdominal Surgery (Pre-op/Post-op Default)
+# Abdominal Surgery (Pre-op / Post-op Default) — Orders
 
-- **Type of surgery:** elective vs emergency; open vs laparoscopic; degree of contamination (clean/clean-contaminated/contaminated/dirty)
-- **Surgical risk assessment:** ASA classification, cardiac/pulmonary/renal comorbidities, medications (anticoagulants, steroids, DM drugs)
-- **Pre-op optimization:** correct anemia, coagulopathy, electrolytes, glucose control, hold anticoagulants
-- **VTE risk:** Caprini score — determines LMWH prophylaxis timing + duration; เริ่ม LMWH 12h post-op ถ้า risk > benefit
-- **ERAS (Enhanced Recovery After Surgery) protocol** — early oral, mobilization, multimodal analgesia
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Prophylactic antibiotic within 60 min BEFORE skin incision** (redose for long cases/major blood loss). **Score VTE risk (Caprini) and start pharmacological prophylaxis once haemostasis is secure** — surgery + immobility is high VTE risk. **ERAS: multimodal opioid-sparing analgesia, early oral intake, early mobilization.** Confirm consent, site/side, and urgency (elective vs emergency).
 
+## 🔴 One Day (pre-op)
+- [ ] Classify: elective vs emergency; open vs laparoscopic; wound class (clean / clean-contaminated / contaminated / dirty); **ASA class**; review cardiac/pulmonary/renal comorbidity + medications (anticoagulants, steroids, DM drugs)
+- [ ] Labs: **CBC, BUN/Cr, electrolytes, glucose**; **PT/INR, aPTT, platelets**; LFT if hepatobiliary surgery; **blood group + screen (crossmatch ≥ 2 units if significant blood loss expected)**; **urine pregnancy test** in women of reproductive age
+- [ ] **CXR + ECG** if age > 45 or cardiopulmonary history
+- [ ] Pre-op optimization: correct anaemia/coagulopathy/electrolytes, glucose control, **hold anticoagulants** (warfarin ~5 days; DOAC 1–2 days — bridge if high thrombotic risk)
+- [ ] **NPO: solids ≥ 6–8 h, clear liquids ≥ 2 h before induction**
+- [ ] **Prophylactic antibiotic 60 min before incision:** clean/clean-contaminated → **cefazolin 2 g IV** (3 g if ≥ 120 kg; single dose); **colorectal/contaminated → cefazolin 2 g IV + metronidazole 500 mg IV** (or piperacillin-tazobactam) — redose cefazolin if op > 4 h or EBL > 1.5 L
+- [ ] **VTE prophylaxis:** mechanical (TED stockings + intermittent pneumatic compression) from pre-op; add pharmacological per Caprini
 
+## 🔵 Continuous (post-op)
+- [ ] Admit — Dx: post-op ___ (procedure); vital signs + I/O per acuity; **wound check daily** (erythema, discharge, dehiscence); **drain output** (volume/character) if present
+- [ ] Labs day 1: CBC, BUN/Cr, electrolytes; recheck Hb if EBL significant
+- [ ] IV fluid: maintenance, **de-escalate as oral intake resumes** (ERAS — early oral from day 1 as tolerated)
+- [ ] **Multimodal analgesia (ERAS, opioid-sparing):** paracetamol 1 g IV/PO q6h scheduled + NSAID if renal/GI OK (ketorolac 30 mg IV q6–8h or ibuprofen 400 mg PO q8h) + tramadol 50 mg PO/IV q6h PRN or PCA — see [[Pain control]]
+- [ ] **VTE prophylaxis: enoxaparin 40 mg SC OD** starting 6–12 h post-op once haemostasis stable (or per Caprini duration; extended 28 days for major cancer surgery); continue mechanical prophylaxis
+- [ ] **Stress-ulcer prophylaxis (omeprazole 20 mg IV/PO OD)** for major surgery/ICU-level risk only
+- [ ] **Early mobilization from day 1**; incentive spirometry; monitor for ileus (bowel sounds/flatus before solids), SSI, anastomotic leak
 
+> [!info]- Why
+> Peri-operative harm clusters around infection, VTE, and poorly-controlled pain/ileus, so the evidence-based defaults are correctly-timed antibiotic prophylaxis (before incision), risk-stratified VTE prophylaxis (mechanical + pharmacological), and an ERAS bundle (opioid-sparing analgesia + early feeding/mobilization) that shortens recovery and reduces complications. Verified vs WHO surgical-safety, SCIP/ERAS, and ACCP VTE standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, BUN, Cr, electrolytes, glucose** — baseline surgical
-> - [ ] **LFT** ถ้า hepatic/biliary surgery
-> - [ ] **PT/INR, aPTT, platelet** — coagulopathy screen
-> - [ ] **Blood group + crossmatch** (screen สำหรับ elective; crossmatch ถ้า expected blood loss)
-> - [ ] **CXR, ECG** — ถ้าอายุ >45 หรือ cardiac/pulmonary Hx
-> - [ ] **Urine pregnancy test** — หญิงวัยเจริญพันธุ์
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **NPO: solid food ≥8h, clear liquid ≥2h pre-op**
-> - [ ] **Hold anticoagulants** per protocol (warfarin 5 days; DOAC 1-2 days before)
-> - [ ] **Pre-op prophylactic ATB (60 min before incision):**
->     - Clean abdominal: **Cefazolin 2 g IV** (single dose)
->     - Colorectal/contaminated: **Cefazolin 2g + Metronidazole 500 mg IV** — หรือ Pip-Tazo
-> - [ ] **DVT prophylaxis pre-op (ERAS):** TED stocking + pneumatic compression
-> - [ ] **Premedication per anesthesia order** (if needed)
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, BUN/Cr, electrolytes day 1 post-op**
-> - [ ] **Drain output monitoring** — สี, ปริมาณ, ลักษณะสรุป
-> - [ ] **Wound check daily** — erythema, dehiscence, discharge
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV fluid:** ลด IV fluid เมื่อ tolerating oral; ERAS — early oral day 1
-> - [ ] **Multimodal analgesia (ERAS):**
->     - Paracetamol 1 g IV/PO q6h scheduled
->     - NSAIDs (Ketorolac 30 mg IV q8h หรือ Ibuprofen PO) ถ้า renal OK
->     - Tramadol 50-100 mg IV/PO q6h PRN (PCA ถ้า available)
->     - **Minimize opioid** — ลด ileus, respiratory depression
-> - [ ] **LMWH (Enoxaparin 40 mg SC OD)** — เริ่ม 12h post-op ถ้า hemostasis stable; ต่อตลอดเข้าใน hospital
-> - [ ] **Omeprazole 20 mg OD** — GI ulcer prophylaxis (major surgery)
-> - [ ] **Early mobilization day 1** — reduce VTE + ileus
->
-
+→ Related: [[Post-op Default (Surgery)]] · [[Pain control]]

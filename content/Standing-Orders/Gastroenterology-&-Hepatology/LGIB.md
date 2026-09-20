@@ -1,77 +1,38 @@
 ---
-title: "LGIB"
+title: "Lower GI Bleeding — Admission Orders"
+aliases: ["LGIB", "LGIB Orders", "Lower GI Bleed Orders"]
 type: "Standing Order"
 specialty: "Gastroenterology & Hepatology"
+lang: en
 ward: ["Medicine"]
+related: ["[[UGIB (Upper Gastrointestinal Bleeding)]]", "[[Acute Diverticulitis]]", "[[Acute Mesenteric Ischemia]]"]
 tags: [emergency, workflow]
-notion_id: 321224ab-ad81-8053-a400-d80114fa0585
+notion_id: lgib-orders-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# LGIB
+# Lower GI Bleeding — Admission Orders
 
-> [!question]- What to review
->
-> - **Hemodynamic status** — HR, BP, orthostatic changes; shock index >1 = significant hemorrhage → resuscitate ก่อน
-> - **Characterize bleeding** — color (bright red, maroon, dark), volume, ongoing vs stopped; hematochezia ≠ always LGIB (10–15% อาจมาจาก UGIB ที่เร็วมาก)
-> - **Rule out UGIB** — nasogastric aspirate ถ้าสงสัย rapid UGIB; Blatchford score
-> - **Oakford Score / BLEED Score** — ประเมิน severity
-> - **ประวัติ colorectal disease** — diverticulosis (most common LGIB ผู้ใหญ่), hemorrhoids, AVM, IBD, colorectal ca, polyp, ischemic colitis, radiation proctitis
-> - **ยาที่ precipitate** — NSAIDs, Aspirin, anticoagulants, Clopidogrel
-> - **ประวัติ abdominal surgery, aortic surgery** — aortoenteric fistula
-> - **อายุ + ความเสี่ยง colonoscopy** — กำหนด timing และ approach
->
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Resuscitate first** (restrictive transfusion Hb ~7). **A brisk "lower" bleed with haemodynamic instability may be an upper source — exclude UGIB** (NG aspirate/upper endoscopy) before colonoscopy. Most LGIB stops spontaneously; the unstable/ongoing bleed needs CT angiography + embolisation.
 
+## 🔴 One Day
+- [ ] **Resuscitate:** 2 large-bore IVs, crystalloid, **crossmatch**, **restrictive RBC transfusion (Hb ~7 g/dL** target); correct coagulopathy (avoid over-correction); risk-stratify (e.g. Oakland score)
+- [ ] Labs: CBC, coagulation/INR, group & crossmatch, U&E, LFT, lactate; **a low urea:creatinine ratio favours a lower source** (high favours upper)
+- [ ] **Exclude an upper source** in significant/brisk bleeding (rule out UGIB — see [[UGIB (Upper Gastrointestinal Bleeding)]]) before attributing to LGIB
+- [ ] **Haemodynamically UNSTABLE / ongoing brisk bleed → CT angiography → transcatheter embolisation** (or surgery); resuscitate to theatre/IR
+- [ ] **Stable → colonoscopy** after bowel prep (within ~24 h for high-risk; commonly next-day) — diagnostic + therapeutic (clip/adrenaline/thermal, band for haemorrhoids)
+- [ ] Hold anticoagulants/antiplatelets per bleeding vs thrombotic risk; NPO/prep as planned
 
+## 🔵 Continuous
+- [ ] Admit (monitored/ICU if unstable) — Dx: LGIB (diverticular / angiodysplasia / colitis / haemorrhoids / malignancy / post-polypectomy)
+- [ ] Serial Hb/vitals; re-evaluate for rebleeding; manage the identified cause
+- [ ] If colonoscopy non-diagnostic + ongoing bleeding → CT angiography / tagged-RBC scan / repeat endoscopy; surgery for uncontrolled bleeding
+- [ ] Resume anticoagulation when haemostasis secure; VTE prophylaxis once controlled; outpatient colonoscopy if not done (exclude malignancy)
 
+> [!info]- Why
+> Most LGIB is self-limited, so resuscitation + colonoscopy suffices for stable patients; the unstable/ongoing bleed is managed like any major haemorrhage with CT angiography and embolisation. A brisk upper bleed can masquerade as LGIB, so it must be excluded first. Restrictive transfusion improves outcomes. Verified vs ACG/BSG LGIB.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC** — Hb, Hct, platelets
-> - [ ] **Electrolytes, BUN, Cr** — BUN:Cr ratio; ถ้า <20:1 สนับ LGIB
-> - [ ] **LFT, coagulation (PT, aPTT, INR)** — coagulopathy
-> - [ ] **Blood type and cross-match** — เตรียม pRBC 2 units
-> - [ ] **Stool guaiac (occult blood)** ถ้า bleeding ไม่ชัด
-> - [ ] **Sigmoidoscopy/Colonoscopy** — หลัง bowel prep; goal ภายใน 24 ชม. ถ้า hemostasis stable; urgent ถ้า ongoing significant bleeding
-> - [ ] **CT angiography (CTA)** — ถ้าเลือดออกเร็วมาก (>0.3 mL/min) + colonoscopy ไม่ได้ทำทันที; ระบุ source สำหรับ angioembolization
-> - [ ] **Tagged RBC scan** — bleeding ช้า intermittent (>0.1 mL/min); low sensitivity แต่ไม่ invasive
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV access 2 เส้น + IV fluid resuscitation** — 0.9% NaCl ตาม hemodynamic status
-> - [ ] **pRBC transfusion** เมื่อ Hb <7 g/dL (หรือ <8 ถ้า high-risk) — เป้า 7–9 g/dL
-> - [ ] **Reverse coagulopathy:** Vitamin K IV ถ้า INR >1.5; FFP ถ้า active bleeding + INR >2; platelet concentrate ถ้า <50,000
-> - [ ] **Hold anticoagulants/antiplatelets** จน bleeding controlled; ปรึกษา cardiologist/neurologist ถ้าจำเป็น
-> - [ ] **Bowel prep** ถ้าเตรียม urgent colonoscopy — GoLYTELY 4–6 ลิตร หรือ PEG solution ใน 3–4 ชม.
-> - [ ] **NPO** จนหลัง procedure; Foley catheter monitor UO
-> - [ ] **PPI** ไม่ได้ประโยชน์ใน LGIB แต่ให้ถ้ายังไม่แยก UGIB ออก
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] ติดตาม **CBC ทุก 4–6 ชม.** ใน 24–48 ชม.แรก
-> - [ ] **Repeat CTA หรือ angioembolization** ถ้าเลือดยังออก
-> - [ ] **Surgery consult** ถ้า endoscopic/angiographic management ล้มเหลว หรือ requiring >6 units pRBC
-> - [ ] **Colonoscopy post-stabilization** ถ้า source ยังไม่ชัด — ยืนยัน diagnosis + biopsy ถ้าสงสัย malignancy
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Resume anticoagulation** เมื่อ bleeding stopped + hemostasis stable — timing ขึ้นกับ thromboembolic vs bleeding risk (ปกติ 7–14 วัน)
-> - [ ] **Colonoscopy f/u** 1–3 เดือน ถ้าสงสัย dysplasia/polyp/malignancy
-> - [ ] **Diverticular bleeding:** ไม่มี specific medical treatment; high-fiber diet; ถ้า recurrent → consider resection
-> - [ ] **IBD:** ปรึกษา GI → Mesalazine/Steroid/Biologic ตาม disease activity
-> - [ ] **Hemorrhoid:** conservative (sitz bath, fiber, stool softener) + rubber band ligation/sclerotherapy ถ้าไม่ตอบสนอง
-> - [ ] **Hold NSAIDs** ระยะยาว ถ้าเป็น risk factor; เปลี่ยน PPI ถ้าต้องใช้ antiplatelet
->
-
+→ Deeper reasoning: [[UGIB (Upper Gastrointestinal Bleeding)]]

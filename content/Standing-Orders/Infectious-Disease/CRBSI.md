@@ -1,74 +1,36 @@
 ---
-title: "CRBSI"
+title: "Catheter-Related Bloodstream Infection (CRBSI) — Orders"
+aliases: ["CRBSI", "CRBSI Orders", "CLABSI Orders", "Line Sepsis Orders"]
 type: "Standing Order"
 specialty: "Infectious Disease"
+lang: en
 ward: ["Medicine"]
-tags: [workflow]
-notion_id: 389224ab-ad81-810b-ada4-c17fd1bf4a92
+related: ["[[Sepsis (Sepsis-3)]]", "[[IE (Infective Endocarditis)]]"]
+tags: [workflow, emergency]
+notion_id: crbsi-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# CRBSI
+# Catheter-Related Bloodstream Infection (CRBSI) — Orders
 
-- **CRBSI definition** — bacteremia/fungemia จาก central line: ≥1 positive blood culture ร่วมกับ clinical signs of infection + ไม่มี source อื่น; หรือ DTP (differential time to positivity) ≥2 ชม. (central vs peripheral)
-- **สาย catheter** — CVL, PICC, arterial line, HD catheter, port-a-cath — ระบุชนิด, ตำแหน่ง, ระยะเวลาที่ใส่ (>5 วัน = risk สูง)
-- **Hemodynamic status** — septic shock criteria: MAP <65, vasopressor requirement → resuscitate ทันที
-- **Local signs** — erythema, induration, purulence ที่ exit site หรือ tunnel
-- **Host factors** — immunocompromised (BMT, HIV, steroid), DM, TPN, ผ่าตัดใหม่
-- **Organisms ที่น่าสงสัย** — CoNS (most common PICC), MRSA (skin), Gram-negative (femoral line, GI manipulation), Candida (TPN, broad ATB, abdominal surgery)
-- **CLABSI prevention** — bundle compliance ก่อนหน้า (hand hygiene, maximal barrier, chlorhexidine prep, optimal site, daily review)
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local antibiogram and the attending. **Draw paired cultures (catheter + peripheral) BEFORE antibiotics.** **Remove the line** for severe sepsis/shock, *S. aureus*/*Candida*/*Pseudomonas*, tunnel/pocket infection, or persistent bacteraemia. Suspect a line source in any bacteraemic patient with a central catheter and no other focus.
 
+## 🔴 One Day
+- [ ] **Paired blood cultures: one from EACH catheter lumen + one peripheral** (label; before antibiotics) — differential time to positivity ≥ 2 h suggests CRBSI; culture the catheter tip if removed
+- [ ] Assess severity/sepsis ([[Sepsis (Sepsis-3)]]); examine exit site/tunnel/pocket; CBC, electrolytes, renal/liver, lactate
+- [ ] **Empiric antibiotics: vancomycin** (MRSA/coag-neg staph cover) **+ an antipseudomonal β-lactam** (cefepime/piperacillin-tazobactam/carbapenem) — broaden for neutropenia/severe illness/known colonisation; **add empiric antifungal (echinocandin)** if candidaemia risk (TPN, prolonged antibiotics, femoral line, malignancy)
+- [ ] **Remove the catheter** if: severe sepsis/shock, *S. aureus*, *Candida*, *Pseudomonas*, other virulent/hard-to-clear organisms, tunnel/pocket infection, or persistent bacteraemia > 72 h on appropriate therapy (salvage with antibiotic-lock only for selected long-term lines with non-virulent organisms)
 
+## 🔵 Continuous
+- [ ] Admit — Dx: CRBSI (organism ___); source-control: line removed / retained (reason)
+- [ ] **De-escalate on culture/sensitivity**; duration from first negative culture — coag-neg staph ~5–7 d, GNB ~7–14 d, ***S. aureus* ≥ 14 d (longer/complicated)**, *Candida* ≥ 14 d after clearance
+- [ ] **Repeat blood cultures to document clearance**; ***S. aureus*/*Candida* → echocardiogram (endocarditis — see [[IE (Infective Endocarditis)]]) + look for metastatic foci**
+- [ ] Reassess ongoing need for the catheter; infection-prevention/insertion-bundle review
 
+> [!info]- Why
+> Paired cultures localise the infection to the line and antibiotics are started empirically for the likely (often resistant/staph) organisms; virulent organisms and unstable patients need the catheter out because biofilm makes clearance without removal unreliable. *S. aureus*/*Candida* mandate an echo and metastatic-focus search. Verified vs IDSA CRBSI guidance.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Blood culture x2 sets** — 1 set จาก central line + 1 set peripheral; เก็บก่อน ATB; บันทึกเวลาเก็บ (DTP analysis)
-> - [ ] **CBC, electrolytes, BUN, Cr, LFT**
-> - [ ] **Lactate** — ถ้า hemodynamically unstable
-> - [ ] **Catheter tip culture** — เมื่อถอดสาย (semi-quantitative Maki roll plate: >15 CFU = significant)
-> - [ ] **UA + U/C** — คัด UTI ร่วม
-> - [ ] **Echo (TTE ± TEE)** ถ้า S. aureus bacteremia — คัด endocarditis (เสี่ยงสูงมาก)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **ถอด/เปลี่ยน catheter โดยเร็วที่สุด** — definitive management; ถ้า S. aureus/Candida/Gram-neg → ถอดทันที; ถ้า CoNS + uncomplicated → อาจ salvage ด้วย ATB lock
-> - [ ] **Empirical ATB ภายใน 1 ชม. (septic shock) หรือภายใน 4 ชม.:**
->     - **Vancomycin 25–30 mg/kg IV loading** → AUC-guided dosing (target AUC 400–600) — MRSA + CoNS coverage; ปรับ dose ตาม renal function
->     - **+ Gram-negative coverage** ถ้า femoral line, immunocompromised, ICU: **Meropenem 1–2 g IV q8h** หรือ Pip-Tazo
->     - **+ Echinocandin (Micafungin 100 mg IV OD)** ถ้า Candida risk (TPN, prolonged ATB, abdominal surgery, hemodynamic instability)
-> - [ ] **IV fluid resuscitation** 30 mL/kg ถ้า septic shock
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Repeat blood culture 48–72 ชม.** หลัง ATB — ยืนยัน clearance (สำคัญมากใน S. aureus)
-> - [ ] **Echo TEE** ถ้า S. aureus bacteremia + TTE ไม่ชัด — endocarditis ต้อง ATB อย่างน้อย 4–6 สัปดาห์
-> - [ ] ติดตาม CBC, BUN/Cr, LFT ระหว่าง ATB
-> - [ ] **Vancomycin AUC monitoring** (trough หรือ AUC/MIC method)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **De-escalate ATB** ตาม culture sensitivity:
->     - CoNS (methicillin-susceptible) → Oxacillin; MRSA → Vancomycin ต่อ
->     - S. aureus (MSSA) → **Cloxacillin 2 g IV q4h** (daptomycin ถ้า MRSA)
->     - Candida → **Fluconazole PO** (ถ้า C. albicans susceptible + stable) หรือ Echinocandin
-> - [ ] **ระยะเวลา ATB:**
->     - CoNS uncomplicated = 5–7 วันหลัง line removal
->     - S. aureus = **14 วันขั้นต่ำ** หลัง first negative culture (complicated = 4–6 สัปดาห์)
->     - Gram-negative = 7–14 วัน
->     - Candida = **14 วันหลัง last positive culture** + funduscopy คัด endophthalmitis
-> - [ ] **ATB lock therapy** (ถ้า salvage line): Vancomycin 5 mg/mL lock ใน lumen 12–24 ชม./วัน
->
-
+→ Deeper reasoning: [[Sepsis (Sepsis-3)]]

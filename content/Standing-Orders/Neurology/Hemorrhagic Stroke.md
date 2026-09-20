@@ -1,81 +1,39 @@
 ---
-title: "Hemorrhagic Stroke"
+title: "Hemorrhagic Stroke (ICH) — ER Orders"
+aliases: ["Hemorrhagic Stroke", "Hemorrhagic Stroke Orders", "ICH Orders"]
 type: "Standing Order"
 specialty: "Neurology"
+lang: en
 ward: ["Medicine"]
-related: ["[[Intracerebral Hemorrhage (ICH)]]"]
+related: ["[[Intracerebral Hemorrhage (ICH)]]", "[[Subarachnoid Hemorrhage (SAH)]]", "[[Acute Ischemic Stroke]]"]
 tags: [emergency, workflow]
 notion_id: 389224ab-ad81-81ba-8d43-ef8cd1215245
 source: notion-migration
-updated: 2026-09-18
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Hemorrhagic Stroke
+# Hemorrhagic Stroke (ICH) — ER Orders
 
-- **Hemorrhagic stroke types:** ICH (Intracerebral hemorrhage) vs SAH (Subarachnoid hemorrhage) — ต้องแยกก่อน management ต่างกัน
-- **ICH location:** deep (basal ganglia, thalamus — hypertensive most common) vs lobar (amyloid angiopathy, AVM, tumor) vs posterior fossa (cerebellar, pontine = อันตรายมาก)
-- **ICH score** (0–6 scale): GCS, ICH volume, IVH, infratentorial, age ≥80 — score ≥4 = poor prognosis
-- **ICH volume** (ABC/2 method: AxBxC/2) — >30 mL = surgical consideration; >60 mL = very poor prognosis
-- **Anticoagulation status** — warfarin (INR), DOAC, heparin — reversal เร็วที่สุด
-- **BP management** — SBP target 130–150 mmHg acute phase (AHA/ASA 2022); ถ้า SBP >220: caution rapid lowering
-- **GCS + pupil** — GCS ≤8 = intubation; herniation signs (Cushing's triad: HTN + bradycardia + irregular respiration)
-- **SAH clues:** worst headache of life (thunderclap), CT showing blood in basal cisterns, xanthochromia CSF — นึกถึง aneurysm → CTA/angiogram urgent
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Reverse any anticoagulation IMMEDIATELY** (4F-PCC for VKA/Xa, idarucizumab for dabigatran). **Lower BP smoothly to ~140 (avoid < 130).** **Cerebellar bleed > 3 cm / brainstem compression / hydrocephalus → emergency neurosurgery.** Thunderclap-onset → also consider [[Subarachnoid Hemorrhage (SAH)]].
 
+## 🔴 One Day
+- [ ] **STAT non-contrast CT head** (confirm + volume/location/IVH/hydrocephalus); CTA if suspected underlying lesion/young/lobar ("spot sign")
+- [ ] Labs: **coagulation/INR, platelets, anti-Xa if DOAC**, CBC, electrolytes, glucose, troponin; ECG
+- [ ] **Reverse anticoagulation immediately:** VKA (INR ≥ 2) → **4F-PCC + IV vitamin K**; dabigatran → **idarucizumab**; factor Xa inhibitor → **andexanet alfa or 4F-PCC**; heparin → protamine; **antiplatelet-associated ICH → NO routine platelet transfusion** (except pre-surgery)
+- [ ] **BP control: smooth lowering to SBP ~140 (target ~130–150, avoid < 130)** with IV nicardipine/labetalol infusion; avoid variability
+- [ ] **Urgent neurosurgery referral:** cerebellar haemorrhage > 3 cm / brainstem compression / hydrocephalus → evacuation; hydrocephalus → EVD
+- [ ] Airway (GCS ≤ 8 → intubate); head up 30°; treat seizures (no routine prophylaxis); glucose/temperature control
 
+## 🔵 Continuous
+- [ ] Admit neuro-ICU/stroke unit — Dx: spontaneous ICH (location ___, ICH score ___)
+- [ ] Neuro obs + GCS; maintain BP target; repeat CT for deterioration (expansion/hydrocephalus/herniation)
+- [ ] **Monitor + correct hyponatraemia** (SIADH/cerebral salt wasting); normoglycaemia/normothermia
+- [ ] **VTE prophylaxis: intermittent pneumatic compression from admission; pharmacological only after bleeding stable (≥ 24–48 h)**
+- [ ] Decide if/when to restart anticoagulation later (weigh indication vs re-bleed — higher risk in lobar/amyloid); rehabilitation
 
+> [!info]- Why
+> Early deterioration is driven by haematoma expansion, so immediate anticoagulation reversal and smooth BP control (~140) limit it; a cerebellar bleed can herniate and needs surgical evacuation. Platelet transfusion for antiplatelet-associated ICH is harmful (PATCH). Verified vs 2022 AHA/ASA ICH.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CT brain plain (stat)** — confirm hemorrhage, location, volume, IVH, midline shift, hydrocephalus
-> - [ ] **CBC, PT/INR, aPTT, platelet** — coagulopathy assessment + reversal plan
-> - [ ] **BUN, Cr, electrolytes, glucose**
-> - [ ] **ECG** — อาจเห็น T-wave changes ใน SAH (จาก catecholamine surge)
-> - [ ] **CXR** — aspiration pneumonia risk, cardiomegaly
-> - [ ] **CTA brain** ถ้าสงสัย aneurysm (SAH) หรือ AVM (lobar ICH, young patient)
-> - [ ] **Troponin** — ถ้าเพิ่งเกิด MI-triggered hemorrhagic stroke (rare)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **[Anticoagulant reversal — ช่วย emergently]:**
->     - Warfarin: **Vitamin K 10 mg IV** (slow) + **4-factor PCC (Octaplex) 25–50 units/kg** — เร็วกว่า FFP
->     - DOAC (dabigatran): **Idarucizumab (Praxbind) 5 g IV**
->     - DOAC (Xa inhibitor — rivaroxaban, apixaban): **Andexanet alfa** หรือ PCC 50 units/kg ถ้าไม่มี
->     - Heparin: **Protamine sulfate 1 mg/100 units heparin IV**
-> - [ ] **BP control — target SBP 130–150 mmHg:**
->     - **Nicardipine IV 5–15 mg/hr** (titratable, preferred)
->     - **หรือ Labetalol IV 10–20 mg bolus**, ถ้า HR ไม่สูง
-> - [ ] **GCS ≤8 → intubate** (RSI, RSI ketamine ≈ 1.5 mg/kg preferred — ไม่เพิ่ม ICP)
-> - [ ] **Bed 30° head-up** — ลด ICP
-> - [ ] **Seizure prophylaxis:** Levetiracetam 1000 mg IV ถ้า cortical ICH / SAH (AHA 2022 — ไม่ routine recommend แต่ lobar อาจให้)
-> - [ ] **Neurosurgery consult:** ถ้า cerebellar hematoma >3 cm, hydrocephalus, lobar ICH + herniation signs, young + large hematoma
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Repeat CT brain 24 ชม.** (+ ถ้า neurological deterioration ทันที) — hematoma expansion (20–33% ใน 24 ชม.)
-> - [ ] **BP ใน target range** — ตรวจ q1h โดย ICU standard
-> - [ ] **INR daily** ถ้า reversal ongoing
-> - [ ] **Glucose monitoring** q4h — hyperglycemia worsen outcome; target <180 mg/dL
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **BP target <140 mmHg** ตั้งแต่วันที่ 2–7 — oral antihypertensive (Amlodipine, Losartan) เมื่อ stable
-> - [ ] **DVT prophylaxis:** pneumatic compression day 1; เริ่ม LMWH ถ้า stable + ยืนยัน hematoma stable (CT โดยทั่วไป day 3–4, AHA 2022)
-> - [ ] **[SAH: Nimodipine 60 mg q4h x 21 วัน]** — ลด cerebral vasospasm + neurological deficit; ช่วย outcome (NICE, AHA)
-> - [ ] **Fever control** — Paracetamol; target นอรมอเทฮีย; fever worsens outcome
-> - [ ] **Statin หยุด** ถ้าใช้ (AHA 2022) — อาจเพิ่ม hematoma; re-start ถ้ามี strong indication ภายใน 6 สัปดาห์
-> - [ ] **Swallowing assessment** ก่อนให้ oral — aspiration risk; NG tube ถ้า dysphagia
-> - [ ] **Physiotherapy + OT** — early mobilization (day 2–3 ถ้า stable)
->
-
+→ Deeper reasoning: [[Intracerebral Hemorrhage (ICH)]]

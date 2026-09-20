@@ -1,72 +1,39 @@
 ---
-title: "Acute Gouty Arthritis"
+title: "Acute Gout Flare — Orders"
+aliases: ["Acute Gouty Arthritis", "Gout Flare Orders", "Acute Gout Orders"]
 type: "Standing Order"
 specialty: "Rheumatology"
+lang: en
 ward: ["Medicine"]
 related: ["[[Common Arthritis (Gout & Crystal)]]"]
-tags: [workflow]
-notion_id: 389224ab-ad81-816f-a03d-ebc4a2e79a6a
+tags: [workflow, emergency]
+notion_id: gout-orders-mn
 source: notion-migration
-updated: 2026-09-14
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Acute Gouty Arthritis
+# Acute Gout Flare — Orders
 
-> 🃏 Order set for [[Common Arthritis (Gout & Crystal)]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Always exclude septic arthritis** (aspirate + Gram stain/culture) — a hot joint is septic until proven otherwise. **Treat the flare early.** **Do NOT start urate-lowering therapy during an acute flare that the patient isn't already on** (start after settling); **do NOT stop established urate-lowering therapy** during a flare.
 
-- **Joint involved:** first MTP (podagra = classic), ankle, knee, wrist — มักเป็น monoarticular; polyarticular = advanced gout or consider septic arthritis
-- **Acute gout triggers:** alcohol binge, high-purine food (organ meat, shellfish), dehydration, surgery, medications (diuretics, cyclosporine, aspirin low-dose), contrast media
-- **Septic arthritis ต้องคัดออกก่อน** — ถ้ามี fever >38°C + ไม่ตอบสนองຕ่อ treatment → joint aspiration
-- **Serum uric acid** — พยาธอาจปกติหรือ ลดใน acute attack; อย่าใช้เพื่อ diagnosis ระหว่าง acute (unreliable); เจาะ level 2–4 สัปดาห์หลัง attack
-- **Contraindications:** นึกถึง NSAIDs (peptic ulcer, CKD, CVD, elderly), Colchicine (CKD, drug interactions), Steroids (เบาหวานเคนขึ้น)
-- **Urate-lowering therapy (ULT)** — ห้ามเริ่ม ULT (allopurinol/febuxostat) ระหว่าง acute attack (worsens/prolongs); ถ้าใช้อยู่แล้ว อย่าหยุด
+## 🔴 One Day
+- [ ] **Aspirate the joint if feasible → polarised microscopy (negatively birefringent needle-shaped urate crystals) + Gram stain/culture/cell count** — exclude septic arthritis (and CPPD/pseudogout)
+- [ ] Choose ONE first-line anti-inflammatory (or combine for severe/polyarticular):
+  - **NSAID** (e.g. naproxen/indomethacin, full dose) — avoid in CKD/GI bleed/heart failure/anticoagulation
+  - **Colchicine** — **1.0–1.2 mg then 0.5–0.6 mg 1 h later, then 0.5 mg bid–tid** (low-dose regimen); reduce/avoid in renal impairment + interacting drugs (statins, clarithromycin)
+  - **Corticosteroid** (prednisolone ~30–40 mg/day, taper over ~5–10 days) — preferred in CKD; or **intra-articular steroid** for 1–2 joints (after excluding sepsis)
+- [ ] Rest/ice the joint; analgesia; **continue existing urate-lowering therapy unchanged**
+- [ ] Labs: renal function (drug choice), CBC, urate (baseline — a normal urate does not exclude gout during a flare); consider CRP
 
+## 🔵 Continuous
+- [ ] Continue anti-inflammatory until the flare fully resolves, then stop (steroid taper)
+- [ ] **After the flare settles → start/optimise urate-lowering therapy (allopurinol, titrated; target serum urate < 6 mg/dL, < 5 if tophi)** with **flare prophylaxis (low-dose colchicine/NSAID)** for 3–6 months when initiating
+- [ ] Address modifiable factors (diuretics, alcohol, diet, obesity, CKD); patient education
+- [ ] Rheumatology referral for refractory/tophaceous/complex disease
 
+> [!info]- Why
+> Early anti-inflammatory therapy (NSAID/colchicine/steroid, chosen by comorbidity) aborts the flare; the crucial trap is a septic joint masquerading as gout, so aspiration/culture comes first. Urate-lowering therapy is not started mid-flare de novo but is not stopped if established, and it is the definitive long-term treatment (to target urate). Verified vs ACR 2020 + Thai Rheumatism gout 2026.
 
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Serum uric acid** (หัวใจ acute diagnosis; ยืนยัน baseline)
-> - [ ] **CBC, BUN, Cr** — เพื่อ guide drug choice (NSAIDs vs Colchicine vs Steroid)
-> - [ ] **Joint aspiration (arthrocentesis)** ถ้าสงสัย septic arthritis: synovial fluid — cell count + crystal (monosodium urate crystal = needle-shaped, negatively birefringent) + Gram stain + C/S
-> - [ ] **X-ray ข้อที่มีอาการ** — soft tissue swelling (acute), tophi และ punched-out erosions (chronic)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **เลือก 1 สาย (monotherapy) ตาม contraindication + tolerability — เริ่มภายใน 24 ชม.**
-> - [ ] **[NSAIDs — first-line ถ้าไม่มี CI]:**
->     - Indomethacin 50 mg PO q8h x 3 วัน → 25 mg q8h x 4 วัน; หรือ Naproxen/Etoricoxib
->     - 
->         - Omeprazole 20–40 mg OD (GI protection)
-> - [ ] **[Colchicine — alternative; effective ถ้าเริ่มภายใน 12–36 ชม.]:**
->     - **0.5–1 mg PO tid** (low-dose regimen — ACR 2020) — สามารถทนเท่า high-dose โดย GI SE น้อยกว่า
->     - **ปรับลด dose ถ้า eGFR <60** — 0.5 mg od/bid; CI eGFR <10
-> - [ ] **[Systemic Corticosteroid — ถ้า CI ทั้ง NSAIDs + Colchicine]:**
->     - Prednisolone 30–40 mg PO OD x 3–5 วัน → taper 5 mg/day; หรือ Triamcinolone IA injection ถ้า 1–2 joint
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Serum uric acid 2–4 สัปดาห์หลัง attack** — baseline หลัง acute phase; target <6 mg/dL (<5 mg/dL ถ้า tophi)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **ต่อ anti-inflammatory x 5–7 วัน** จนกว่า pain resolve; อย่าหยุดเร็ว (rebound)
-> - [ ] **[ULT — เริ่มหลัง attack settle 2–4 สัปดาห์]:**
->     - **Allopurinol 100 mg OD** → titrate q2–4 สัปดาห์ จน uric acid <6 mg/dL; max 300–800 mg; ปรับ dose ตาม eGFR
->     - หรือ **Febuxostat 40–80 mg OD** (non-purine XO inhibitor — ดีกว่าถ้า allopurinol intolerant; ระวัง CVD risk จาก CARES trial)
->     - **+ Colchicine prophylaxis 0.5 mg OD** ในช่วง 3–6 เดือนแรกของ ULT — ป้องกัน flare
-> - [ ] **Diet counseling:** ลดอาหาร purine สูง, โซดาหวาน, เหล้า; ดื่มน้ำพอเพียง; ลดน้ำหนัก
->
-
+→ Deeper reasoning: [[Common Arthritis (Gout & Crystal)]]

@@ -1,70 +1,40 @@
 ---
-title: "Fracture / Bone / Tendon Injury"
+title: "Fracture / Bone & Tendon Injury — ER Orders"
+aliases: ["Fracture - Bone - Tendon Injury", "Fracture Orders", "Orthopaedic Injury Orders"]
 type: "Standing Order"
 specialty: "General"
-ward: ["Orthopedics"]
-tags: [workflow]
-notion_id: 389224ab-ad81-813a-8ac2-fef036ab6a9f
+lang: en
+ward: ["Surgery"]
+related: ["[[Pain control]]", "[[Acute Limb Ischemia]]"]
+tags: [emergency, workflow]
+notion_id: fracture-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Fracture / Bone / Tendon Injury
+# Fracture / Bone & Tendon Injury — ER Orders
 
-- **Fracture classification:** open vs closed; displaced vs non-displaced; stable vs unstable; intra-articular vs extra-articular
-- **Neurovascular status distal:** pulse, capillary refill, sensation, motor function — ตรวจก่อน-หลังการปับกระดูก
-- **Compartment syndrome:** เจ็บสัดส่วนเกิน fracture degree, pain with passive stretch, tense compartment → fasciotomy emergency
-- **Open fracture (Gustilo-Anderson):** ATB + debridement ภายใน 6-8h; เพิ่มความเสี่ยง osteomyelitis
-- **Femur/pelvis fracture:** blood loss สูง (femur 1-2L, pelvis 2-4L) → hemorrhagic shock risk
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Don't miss the orthopaedic emergencies: open fracture, compartment syndrome, neurovascular injury, dislocation, and unstable pelvic/spine fracture.** Assess + document **neurovascular status before and after any manipulation/splinting.** Treat as trauma (ATLS) for high-energy mechanisms.
 
+## 🔴 One Day
+- [ ] Trauma assessment (ATLS if high-energy); analgesia early ([[Pain control]]); expose + examine the limb
+- [ ] **Neurovascular exam (pulses, cap refill, sensation, motor) — document BEFORE and AFTER reduction/splinting**
+- [ ] **Assess for emergencies:** **open fracture** (wound over fracture), **compartment syndrome** (pain out of proportion, pain on passive stretch, tense compartment), **neurovascular compromise/dislocation**, unstable pelvis/spine
+- [ ] **X-ray** (2 views, joint above + below); CT for complex/intra-articular/pelvis/spine
+- [ ] **Reduce + immobilise/splint** displaced fractures/dislocations (with analgesia/sedation); re-check neurovascular status
+- [ ] **Open fracture: IV antibiotics ASAP (e.g. cefazolin ± gentamicin per grade; add metronidazole for contamination) + tetanus prophylaxis + cover wound + urgent orthopaedics** (debridement)
+- [ ] Tendon injury: examine function, cover/immobilise, refer for repair
+- [ ] Elevation, ice; VTE risk assessment for lower-limb/pelvic injury
 
+## 🔵 Continuous
+- [ ] Disposition: **emergency (open/compartment/NV compromise/unstable) → urgent orthopaedic surgery**; stable → definitive management (cast/ORIF) per fracture, admit or outpatient
+- [ ] Serial neurovascular + compartment checks (**compartment syndrome → emergency fasciotomy**)
+- [ ] Analgesia, elevation, DVT prophylaxis (lower-limb/immobilised); wound review (open fracture); rehab/physiotherapy
+- [ ] Address the cause (fragility fracture → osteoporosis work-up; assault/abuse screen where relevant)
 
+> [!info]- Why
+> Most fractures are managed with reduction/immobilisation and definitive orthopaedic care, but the time-critical misses — open fracture (antibiotics + urgent debridement), compartment syndrome (fasciotomy), and neurovascular injury/dislocation — must be actively sought, with neurovascular status documented around every manipulation. Verified vs orthopaedic trauma / open-fracture (BOAST) standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **X-ray fracture site (AP + lateral)** — 2 views; include joints above and below
-> - [ ] **CT scan** ถ้า complex fracture (intra-articular, pelvis, acetabulum, spine)
-> - [ ] **CBC, BUN/Cr, electrolytes** — surgical baseline
-> - [ ] **Blood group + crossmatch** — ถ้า femur/pelvis/expected blood loss
-> - [ ] **PT/INR, aPTT** — ถ้า anticoagulated or surgical planning
-> - [ ] **Glucose/HbA1c** ถ้า DM — wound healing risk
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Splint/immobilize** — สำคัญที่สุด; POP slab หรือ backslab ตาม fracture site
-> - [ ] **Analgesia:**
->     - Paracetamol 500-1000 mg PO/IV q6h scheduled
->     - NSAIDs (Ibuprofen 400 mg q8h หรือ Diclofenac 75 mg IM) — caution: ถ้า bone healing concern, short course
->     - Tramadol 50-100 mg IV/PO q6h PRN
-> - [ ] **[Open fracture — ATB ทันที]:**
->     - Grade I: Cefazolin 2 g IV q8h
->     - Grade II: Cefazolin 2 g IV q8h + Gentamicin 5 mg/kg IV OD
->     - Grade III: + Penicillin G ถ้า farm/soil contamination (gas gangrene)
-> - [ ] **Tetanus prophylaxis** ถ้า open fracture + ไม่ได้ booster 5 ปี
-> - [ ] **Orthopedic surgery consult** — surgical fixation vs conservative
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Repeat X-ray post-reduction/fixation** — ยืนยัน alignment
-> - [ ] **Neurovascular check q4-8h post-op** — compartment syndrome watch
-> - [ ] **Wound check day 2-3** (open fracture/post-op)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **VTE prophylaxis:** Enoxaparin 40 mg SC OD — เริ่ม 12-24h post-op ถ้า hemostasis OK; TED stocking + pneumatic compression
-> - [ ] **Calcium 1000 mg + Vitamin D 800 IU OD** — bone healing; สำคัญในผู้สูงอายุ
-> - [ ] **[Open fracture ATB]:** Cefazolin x 24-72h (Gustilo I/II); up to 72h (Grade III) — AAOS guideline
-> - [ ] **Physiotherapy referral** — early post-op mobilization
->
-
+→ Deeper reasoning: [[Pain control]]

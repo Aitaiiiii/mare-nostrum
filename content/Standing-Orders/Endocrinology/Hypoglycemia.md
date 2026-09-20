@@ -1,73 +1,38 @@
 ---
-title: "Hypoglycemia"
+title: "Hypoglycemia — ER Orders"
+aliases: ["Hypoglycemia", "Hypoglycemia Orders", "Hypoglycaemia Orders"]
 type: "Standing Order"
 specialty: "Endocrinology"
+lang: en
 ward: ["Medicine"]
-tags: [emergency, workflow]
-notion_id: 328224ab-ad81-8001-92a7-df3c1735bffe
+related: ["[[Type 2 Diabetes Mellitus]]", "[[DKA (Diabetic Ketoacidosis)]]"]
+tags: [workflow, emergency]
+notion_id: hypoglycemia-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Hypoglycemia
+# Hypoglycemia — ER Orders
 
-> [!question]- What to review
->
-> - **ระดับน้ำตาล + ระดับความรู้สึกตัว** — DTX <70 mg/dL = hypoglycemia; <54 = clinically significant; <40 = severe neuroglycopenic
-> - **Symptoms:** adrenergic (diaphoresis, palpitation, tremor, anxiety, pallor) vs neuroglycopenic (confusion, slurred speech, focal deficit, seizure, coma)
-> - **สาเหตุ** — ยา insulin/sulfonylurea (glibenclamide/glipizide), missed meal, excessive exercise, alcohol, renal impairment (ลด insulin clearance), sepsis/hepatic failure (decreased gluconeogenesis), adrenal insufficiency, insulinoma
-> - **ยา + dose ที่ใช้ล่าสุด** — sulfonylurea ยาวกว่า insulin (ระวัง rebound ≥24 ชม.)
-> - **ประวัติ DM + diabetes treatment** — insulin regimen, OHA type
-> - **ตรวจหา precipitating cause** — ลืมกิน, เพิ่มยาเอง, เปลี่ยน renal function
-> - **Recurrent hypoglycemia** — สงสัย insulinoma (fasting hypoglycemia + high insulin + low C-peptide ถ้า exogenous)
->
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Treat immediately (glucose < 70 mg/dL, or symptomatic).** **Give thiamine before glucose in the malnourished/alcoholic** (Wernicke). **Sulfonylurea/long-acting insulin hypoglycaemia recurs → admit + octreotide + prolonged dextrose** — a single correction is not enough.
 
+## 🔴 One Day
+- [ ] **Confirm capillary + lab glucose**; treat if < 70 mg/dL or symptomatic
+- [ ] **Conscious + able to swallow: 15–20 g fast oral carbohydrate**, recheck in 15 min, repeat until > 70, then complex carb/meal
+- [ ] **Unconscious / unable to swallow / IV access: 50 mL of 50% dextrose (D50) IV** (or 25 g), then **10% dextrose infusion**; recheck in 15 min
+- [ ] **No IV access: glucagon 1 mg IM/SC** (less effective if malnourished/alcoholic/hepatic — glycogen-depleted)
+- [ ] **Thiamine 100 mg IV before/with glucose** if malnourished/alcoholic
+- [ ] Identify the cause: **insulin/sulfonylurea (dose, renal impairment), missed meal, alcohol, sepsis, adrenal/liver failure, insulinoma**; send drug history
 
+## 🔵 Continuous
+- [ ] Discharge if isolated, cause clear, corrected, and eating — with education/medication adjustment; **ADMIT if:** sulfonylurea or long-acting insulin cause, recurrent, no clear cause, comorbidity, or unable to eat
+- [ ] **[Sulfonylurea overdose/hypoglycaemia] octreotide 50–100 µg SC q6–8h + continued dextrose infusion**, prolonged glucose monitoring (recurrence over 24–72 h)
+- [ ] Continuous/frequent glucose monitoring; titrate dextrose infusion to maintain glucose > 70–100
+- [ ] Review + adjust antidiabetic regimen; treat underlying cause; diabetes/hypoglycaemia-awareness education
 
+> [!info]- Why
+> Neuroglycopenia is rapidly harmful, so correction is immediate; glucagon needs glycogen stores (fails in the malnourished/alcoholic, where dextrose ± thiamine is needed). Sulfonylureas and long-acting insulin cause prolonged, recurrent hypoglycaemia, so these patients are admitted with octreotide (blocks insulin secretion) and sustained dextrose rather than discharged after one correction. Verified vs ADA/endocrine standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **DTX stat** — ยืนยัน hypoglycemia ก่อน treat; ซ้ำทุก 15–30 นาทีหลัง treatment
-> - [ ] **Serum glucose** (lab confirmation) — โดยเฉพาะถ้า severe/uncertain
-> - [ ] **Electrolytes, BUN, Cr** — renal impairment ลด insulin clearance = prolonged hypoglycemia
-> - [ ] **LFT** — hepatic failure ลด gluconeogenesis
-> - [ ] **Insulin, C-peptide, pro-insulin** ถ้าสงสัย insulinoma หรือ factitious hypoglycemia (เก็บ during hypoglycemia)
-> - [ ] **Cortisol, ACTH** ถ้าสงสัย adrenal insufficiency (ดู adrenal crisis)
-> - [ ] **Urine sulfonylurea screen** ถ้าสงสัย factitious/drug
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **[Conscious, ทานได้]:** **15g fast-acting carb PO** — 3–4 glucose tablets, น้ำผลไม้ 150 mL, น้ำหวาน 15 mL; ซ้ำทุก 15 นาทีถ้า DTX ยัง <70 ("15–15 rule")
-> - [ ] **[Unconscious/ทานไม่ได้]:** **50% dextrose (50%DW) 25–50 mL (50–100 mL ถ้า severe) IV push** — ประเมิน DTX และ level of consciousness ใน 5–10 นาที
-> - [ ] **[ไม่มี IV access]:** **Glucagon 1 mg IM/SC** (สะโพก/ต้นแขน) — ออกฤทธิ์ใน 10–15 นาที; ไม่ได้ผลถ้า liver glycogen 枯ลด (alcohol, prolonged fasting, hepatic failure)
-> - [ ] หลัง correction: **ให้ carbohydrate PO** (ข้าว, ขนมปัง) ป้องกัน rebound ถ้า cause ยังอยู่
-> - [ ] **[Sulfonylurea-induced]:** Admit ≥24 ชม. — ต้อง **10%DW continuous infusion** รักษา glucose 100–180 mg/dL เพราะ duration of action ยาว (glibenclamide 24–48 ชม.)
-> - [ ] **Monitor DTX** ทุก 1–2 ชม. ใน 24 ชม.แรก ถ้า sulfonylurea
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **DTX monitoring** — ทุก 2–4 ชม. จนกว่าจะ stable >100 mg/dL ≥24 ชม. (sulfonylurea) หรือ 4–6 ชม. (insulin)
-> - [ ] **HbA1c** — ประเมิน long-term glycemic control + risk of future hypoglycemia (ถ้า HbA1c ต่ำมาก = over-treated)
-> - [ ] **Renal function serial** — ถ้า AKI resolving → insulin clearance เปลี่ยน → ต้องปรับยา
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **[Sulfonylurea]:** 10%DW drip ต่อ ประเมิน DTX ทุก 1 ชม. x 8 ชม. แรก จากนั้นทุก 2 ชม. — หยุด drip เมื่อ stable + ทานอาหารได้ ≥24 ชม.
-> - [ ] **[Insulin-induced]:** ปรับ dose ก่อน discharge — identify timing และ type ของ insulin ที่ทำให้ hypo
-> - [ ] **Patient education:** อาการ hypo ที่ต้องรู้จัก, การใช้ glucose tablets, glucagon auto-injector
-> - [ ] **Adjust DM regimen:** ลด insulin/sulfonylurea ถ้า recurrent hypo หรือ HbA1c ต่ำกว่าเป้า (esp. ผู้สูงอายุ — เป้า HbA1c <8% ตาม ADA 2024 older adults)
-> - [ ] **Octreotide 50–100 mcg SC q8h** — ถ้า sulfonylurea-induced refractory hypo (ลด insulin secretion; ACE inhibitor ช่วย sensitize)
-> - [ ] **F/U endocrinology** ถ้าสงสัย insulinoma — 72-hour fast test, imaging (CT/MRI pancreas)
->
-
+→ Deeper reasoning: [[Type 2 Diabetes Mellitus]]

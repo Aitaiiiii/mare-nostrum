@@ -1,73 +1,38 @@
 ---
-title: "Acute Cholecystitis"
+title: "Acute Cholecystitis — Admission Orders"
+aliases: ["Acute Cholecystitis Orders"]
 type: "Standing Order"
 specialty: "General"
+lang: en
 ward: ["Surgery"]
-related: ["[[Acute Cholecystitis]]"]
-tags: [workflow]
-notion_id: 389224ab-ad81-81d4-b008-c27da2df6565
+related: ["[[Acute Cholecystitis]]", "[[Acute Cholangitis]]", "[[Acute Pancreatitis]]"]
+tags: [emergency, workflow]
+notion_id: acute-cholecystitis-orders-mn
 source: notion-migration
-updated: 2026-09-14
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Acute Cholecystitis
+# Acute Cholecystitis — Admission Orders
 
-> 🃏 Order set for [[Acute Cholecystitis]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Early laparoscopic cholecystectomy (within ~72 h / same admission)** is preferred for suitable patients (TG18). Distinguish from **cholangitis** (jaundice + biliary obstruction → ERCP) and **pancreatitis**. High-risk/unfit → percutaneous cholecystostomy.
 
-- **Tokyo Guidelines 2018 severity grading:** Grade I (mild: no organ dysfunction), Grade II (moderate: local complications — pericholecystic abscess, emphysematous, gangrenous), Grade III (severe: organ dysfunction)
-- **Diagnosis criteria (TG18):** Local (RUQ pain/tenderness, Murphy's sign, RUQ mass) + Systemic (fever, elevated CRP/WBC) + Imaging (US: gallbladder wall thickening >4mm, pericholecystic fluid, stones)
-- **Choledocholithiasis DDx:** elevated ALP/GGT, dilated CBD >6mm on US → ERCP ถ้า confirmed
-- **Gangrenous/emphysematous cholecystitis:** DM risk, gas in gallbladder wall (CT/US), urgent surgery
-- **Cholangitis signs (Charcot's triad):** fever + jaundice + RUQ pain → ERCP emergency
+## 🔴 One Day
+- [ ] Diagnose (Tokyo Guidelines TG18): **local signs (RUQ pain/Murphy's), systemic (fever/↑WBC/CRP), imaging (US: thick wall > 3 mm, pericholecystic fluid, stone, sonographic Murphy's)**; grade severity
+- [ ] Labs: CBC, CRP, **LFT** (marked cholestasis → think cholangitis/CBD stone), amylase/lipase (pancreatitis), electrolytes, BUN/Cr, coagulation, blood cultures if febrile/severe
+- [ ] Imaging: **US** first; **MRCP/CT** if CBD stone/complication suspected (gangrene, perforation, emphysematous)
+- [ ] **NPO, IV fluids, analgesia** (NSAID/opioid), antiemetic
+- [ ] **IV antibiotics: ceftriaxone + metronidazole (or piperacillin-tazobactam)** per severity/local antibiogram
+- [ ] **Surgery referral → early laparoscopic cholecystectomy** (ideally within 72 h/index admission) for suitable patients
 
+## 🔵 Continuous
+- [ ] Admit surgery — Dx: acute cholecystitis (TG18 grade ___)
+- [ ] **High surgical risk/unfit or delayed presentation with sepsis → percutaneous cholecystostomy** + antibiotics, interval cholecystectomy later
+- [ ] Continue antibiotics; de-escalate/short course post-cholecystectomy (extend for complicated/perforation/empyema)
+- [ ] **If cholestasis/CBD stone → ERCP** for the duct (see [[Acute Cholangitis]]); monitor for complications (gangrene, perforation, gallstone ileus)
 
+> [!info]- Why
+> Acute cholecystitis is inflammation of an obstructed gallbladder; early laparoscopic cholecystectomy shortens illness and prevents recurrence in fit patients, while unfit/septic patients are temporised with a cholecystostomy. Marked jaundice/ductal dilatation signals concurrent cholangitis/CBD stone needing ERCP. Verified vs Tokyo Guidelines (TG18).
 
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC** — leukocytosis; WBC >18,000 = severe/gangrenous risk
-> - [ ] **LFT (AST, ALT, ALP, GGT, bilirubin)** — cholestasis pattern
-> - [ ] **BUN, Cr, electrolytes** — sepsis/AKI
-> - [ ] **Amylase/Lipase** — gallstone pancreatitis DDx
-> - [ ] **US abdomen** — gallstones, GB wall thickening, Murphy's sign US, CBD dilation
-> - [ ] **CRP** — severity marker
-> - [ ] **Blood culture x2** — ถ้า fever/chills/hemodynamic instability
-> - [ ] **Blood group + crossmatch** ก่อน OR
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **NPO + IV NSS hydration** 1-2 L
-> - [ ] **IV ATB:**
->     - Grade I/II: **Ceftriaxone 2 g IV OD + Metronidazole 500 mg IV q8h** หรือ Ampicillin-sulbactam
->     - Grade III: **Pip-Tazo 4.5 g IV q6h** หรือ Meropenem ถ้า severe sepsis
-> - [ ] **Analgesia:** Paracetamol 1 g IV q6h; Tramadol 50-100 mg IV q6h PRN; **Buscopan 20 mg IV PRN** (antispasmodic)
-> - [ ] **Surgical consult** — laparoscopic cholecystectomy (early preferred, TG18)
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, LFT, CRP day 2-3** — response to ATB
-> - [ ] **MRCP/CT** ถ้า suspected CBD stone หรือ US inconclusive
-> - [ ] **Pathology GB specimen** post-op
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV ATB → PO switch** ถ้า improving + tolerating oral:
->     - Amoxicillin-clavulanate 625 mg q8h; total ATB 5-7 วัน
-> - [ ] **[Grade I — early cholecystectomy within 72h preferred]** (TG18, lower complication rate)
-> - [ ] **[Grade II — early ถ้า surgeon skilled; delayed acceptable]**
-> - [ ] **[Grade III — stabilize first: ATB + drainage (percutaneous cholecystostomy); elective surgery later]**
-> - [ ] **ถ้า cholangitis:** ERCP biliary drainage ก่อน → cholecystectomy ภายหลัง
->
-
+→ Deeper reasoning: [[Acute Cholecystitis]]

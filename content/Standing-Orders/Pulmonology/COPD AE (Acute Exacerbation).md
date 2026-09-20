@@ -1,81 +1,40 @@
 ---
-title: "COPD AE (Acute Exacerbation)"
+title: "COPD Exacerbation — Admission Orders"
+aliases: ["COPD AE (Acute Exacerbation)", "COPD AE Orders", "AECOPD Orders"]
 type: "Standing Order"
 specialty: "Pulmonology"
+lang: en
 ward: ["Medicine"]
-related: ["[[COPD Exacerbation]]"]
-tags: [workflow]
-notion_id: 389224ab-ad81-8107-9a97-e213a9af45b3
+related: ["[[COPD Exacerbation]]", "[[Asthma Exacerbation]]"]
+tags: [emergency, workflow]
+notion_id: copd-ae-orders-mn
 source: notion-migration
-updated: 2026-09-14
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# COPD AE (Acute Exacerbation)
+# COPD Exacerbation — Admission Orders
 
-> 🃏 Order set for [[COPD Exacerbation]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Controlled O₂ to SpO₂ 88–92%** (over-oxygenation → CO₂ narcosis). **NIV for acute hypercapnic respiratory failure** (pH < 7.35 + PaCO₂ high) — reduces intubation/mortality. Bronchodilators + systemic steroid; antibiotics for the right indication.
 
-- **COPD AE definition:** acute worsening of respiratory symptoms (dyspnea, cough, sputum increase/purulence) beyond day-to-day variation → ต้องการ medication change
-- **Severity (GOLD 2024):** Mild (SABA only), Moderate (SABA + systemic steroid/ATB), Severe (ER/hospital admission)
-- **Triggers (AECOPD):** ติดเชื้อ viral URTI (50%, rhinovirus most common), bacterial (H. influenzae, S. pneumoniae, M. catarrhalis), air pollution, heart failure, PE (10–25% of severe AECOPD)
-- **Sputum color:** purulent (yellow-green) = bacterial น่าจะ → ATB indicated; Anthonisen type I/II criteria
-- **ABG สำคัญ:** ถ้า pH <7.35 + PaCO₂ >45 = acute hypercapnic respiratory failure (Type II) → NIV (BiPAP) indication
-- **Differential:** cardiac asthma (HF), PE, pneumothorax, pneumonia — CXR + ECG ช่วย
-- **NIV indications (GOLD 2024):** pH <7.35, PaCO₂ >45, RR >25, moderate-severe dyspnea with accessory muscle; ห้ามถ้าไม่ tolerate mask/copious secretion/hemodynamically unstable
+## 🔴 One Day
+- [ ] **Controlled oxygen — target SpO₂ 88–92%** (Venturi mask); **ABG** (look for respiratory acidosis/hypercapnia)
+- [ ] **Short-acting bronchodilators: salbutamol + ipratropium nebulised** (q4–6h and PRN, more frequent if severe)
+- [ ] **Systemic corticosteroid — prednisolone 40 mg PO OD × 5 days** (IV hydrocortisone if unable to swallow)
+- [ ] **Antibiotics** if **≥ 2 of increased dyspnoea/sputum volume/sputum purulence** (esp. purulence), or if ventilated: amoxicillin-clavulanate / doxycycline / macrolide (per local pattern; cover Pseudomonas if bronchiectasis/risk)
+- [ ] **NIV (BiPAP) for acute hypercapnic respiratory failure (pH < 7.35 + PaCO₂ ↑)**; intubate if NIV fails/contraindicated/↓consciousness
+- [ ] Labs: CBC, electrolytes, glucose; CXR (exclude pneumonia/pneumothorax/failure); ECG; consider VBG for trend
+- [ ] Assess for triggers/mimics: pneumonia, PE, pneumothorax, heart failure, arrhythmia
 
+## 🔵 Continuous
+- [ ] Admit (HDU/ICU if NIV/severe) — Dx: COPD exacerbation (± respiratory failure)
+- [ ] Continue nebulised bronchodilators (step down to inhalers), complete **5-day steroid course** (no taper needed)
+- [ ] Monitor ABG/SpO₂ on controlled O₂; wean NIV as pH/PaCO₂ improve
+- [ ] VTE prophylaxis; treat comorbidity; **before discharge:** inhaler technique, **smoking cessation**, optimise maintenance inhalers (LABA/LAMA ± ICS), vaccination, pulmonary rehab referral
+- [ ] Consider long-term/home O₂ or NIV assessment if chronic hypercapnia/hypoxaemia
 
+> [!info]- Why
+> Controlled oxygen prevents CO₂ narcosis in the CO₂-retainer; NIV reverses acute hypercapnic acidosis and reduces intubation and death; bronchodilators + a short steroid course speed recovery, and antibiotics help the exacerbations with increased purulence/severity. Verified vs GOLD 2026 + Thai COPD (Thoracic Society 2565).
 
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **ABG หรือ VBG** — pH, PaCO₂ — guide NIV vs intubation
-> - [ ] **SpO₂** continuous monitoring — target 88–92% (ห้าม high-flow O₂ ตอบ — hypercapnic drive)
-> - [ ] **CXR** — pneumonia, pneumothorax, cardiomegaly (HF), hyperinflation
-> - [ ] **ECG** — cor pulmonale, arrhythmia, right heart strain (S1Q3T3 PE)
-> - [ ] **CBC** — leukocytosis (bacterial), erythrocytosis (chronic hypoxia)
-> - [ ] **BUN, Cr, electrolytes** — steroid/diuretic effects
-> - [ ] **Sputum Gram stain + C/S** ถ้ร purulent + severe/frequent exacerbation; สงสัย P. aeruginosa
-> - [ ] **D-dimer / CTPA** ถ้าสงสัย PE
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **O₂ ติตรอน SpO₂ 88–92%** — ห้าม >95% ใน COPD (hypercapnic risk)
-> - [ ] **SABA + SAMA nebulizer:**
->     - **Salbutamol 2.5–5 mg + Ipratropium 0.5 mg nebulizer q20–30 min x 3** → q4–6h
-> - [ ] **Systemic corticosteroid:**
->     - **Prednisolone PO 40 mg OD x 5 วัน** (GOLD 2024 — 5-day = efficacy เท่า 14-day, SE น้อยกว่า)
->     - หรือ **Methylprednisolone 40 mg IV q12h** ถ้าไม่สามารถใช้ oral
-> - [ ] **ATB (Anthonisen type I — ทั้ง  3 อาการ, หรือ type II — 2/3 อาการ):**
->     - Mild-moderate: **Amoxicillin-clavulanate 625 mg q8h** หรือ **Azithromycin 500 mg OD** x 5–7 วัน
->     - Severe/ICU/Pseudomonas risk: **Pip-Tazo 4.5 g IV q6h** หรือ Ciprofloxacin IV
-> - [ ] **NIV (BiPAP):** IPAP 10–15 cmH₂O / EPAP 4–5 cmH₂O — ถ้า pH <7.35 + PaCO₂ >45
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **ABG/VBG 1–2 ชม.หลัง NIV** — ถ้า pH ไม่ดีขึ้น = consider intubation
-> - [ ] **SpO₂** continuous — titrate O₂ ให้ 88–92%
-> - [ ] **Sputum C/S result** — de-escalate ATB ถ้ามี
-> - [ ] **LABA/LAMA เป็น COPD maintenance** — reassess controller regimen
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **SABA nebulizer ลด frequency** q4–6h → q6–8h → MDI เมื่อ improving; SABA + SAMA continue
-> - [ ] **Prednisolone PO 40 mg รวม 5 วัน** (ไม่จำเป็นต้อง taper ถ้า short course)
-> - [ ] **ATB x 5–7 วัน** (Pseudomonas = 7–10 วัน + เจาะ culture)
-> - [ ] **Controller regimen (discharge plan):** LAMA (Tiotropium) หรือ LABA/LAMA หรือ ICS/LABA/LAMA — ตาม GOLD group + phenotype
-> - [ ] **Pulmonary rehabilitation referral**
-> - [ ] **Smoking cessation** — เน้นทุกมื้อ (most effective intervention)
-> - [ ] **Vaccination:** Influenza annual + Pneumococcal q5y — prevent future AECOPD
->
-
+→ Deeper reasoning: [[COPD Exacerbation]]

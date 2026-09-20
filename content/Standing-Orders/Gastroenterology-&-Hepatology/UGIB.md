@@ -1,84 +1,39 @@
 ---
-title: "UGIB"
+title: "Upper GI Bleeding — Admission Orders"
+aliases: ["UGIB", "UGIB Orders", "Upper GI Bleed Orders", "Variceal Bleed Orders"]
 type: "Standing Order"
 specialty: "Gastroenterology & Hepatology"
+lang: en
 ward: ["Medicine"]
-related: ["[[UGIB (Upper Gastrointestinal Bleeding)]]"]
+related: ["[[UGIB (Upper Gastrointestinal Bleeding)]]", "[[Peptic Ulcer Disease & Perforation]]", "[[Cirrhosis]]", "[[Portal Hypertension]]"]
 tags: [emergency, workflow]
-notion_id: 321224ab-ad81-805b-8496-df854dea4e76
+notion_id: 321224ab-ad81-ugib
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# UGIB
+# Upper GI Bleeding — Admission Orders
 
-> 🃏 Order set for [[UGIB (Upper Gastrointestinal Bleeding)]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Resuscitate first** (2 large-bore IVs, restrictive transfusion Hb target ~7 g/dL). **Endoscopy within 24 h** (12 h for high-risk/variceal). **Suspected variceal bleed (cirrhosis) → add vasoactive drug + prophylactic antibiotics + urgent banding.** Correct coagulopathy but don't over-transfuse.
 
-> 📖 **Reasoning เชิงลึก (pathophysiology, risk scores, variceal vs non-variceal, trials):** ดู [UGIB monograph](https://app.notion.com/p/UGIB-Upper-Gastrointestinal-Bleeding-39d224abad818165a1c6feb11707bcda?pvs=21)
-> 
+## 🔴 One Day
+- [ ] **Resuscitate:** 2 large-bore IVs, crystalloid, **crossmatch**; **restrictive RBC transfusion (target Hb ~7 g/dL**, higher if active bleeding/ischaemia); activate massive transfusion if exsanguinating
+- [ ] Labs: **CBC, coagulation/INR, group & crossmatch, U&E** (high urea = upper source), LFT, lactate; **Glasgow-Blatchford score** (risk-stratify; 0–1 may be outpatient)
+- [ ] **IV proton pump inhibitor** (e.g. pantoprazole/omeprazole bolus + infusion, or high-dose) — for suspected peptic ulcer
+- [ ] **[Suspected variceal / known cirrhosis]:** **vasoactive drug (terlipressin or octreotide) + prophylactic antibiotic (ceftriaxone/norfloxacin)** — both reduce mortality — before/at endoscopy
+- [ ] Consider **erythromycin 250 mg IV ~30–120 min pre-endoscopy** (prokinetic — improves visualisation)
+- [ ] Correct coagulopathy (vitamin K/PCC if warfarin; platelets/FFP per severity — avoid over-correction); hold anticoagulants/antiplatelets per bleeding vs thrombotic risk
+- [ ] NPO; **upper endoscopy within 24 h** (within ~12 h for haemodynamically significant/variceal) — haemostasis (clip/adrenaline/thermal for ulcer; **band ligation for varices**)
 
-> [!question]- What to review
->
-> - **ความรุนแรงของเลือดออก** — hematemesis (แดง/กาแฟ) vs melena vs hematochezia; ปริมาณโดยประมาณ
-> - **Hemodynamic assessment** — HR, BP; shock index = HR/SBP >1 = significant hemorrhage; orthostatic hypotension
-> - **Glasgow-Blatchford Score (GBS)** — 0 = low risk (OPD); ≥1 = admit; ≥7 = early endoscopy; คำนวณจาก BUN, Hb, SBP, HR, melena, syncope, hepatic disease, cardiac failure
-> - **AIMS65 Score** — albumin <3, INR >1.5, altered MS, SBP ≤90, age ≥65: ≥2 = high in-hospital mortality
-> - **Source ของเลือดออก** — peptic ulcer (80%), esophageal varices (portal HTN: spider nevi, caput medusae), Mallory-Weiss (vomiting before blood), gastric cancer
-> - **ยาที่ precipitate** — NSAIDs, Aspirin, Clopidogrel, anticoagulants (warfarin/NOAC), steroids, SSRIs
-> - **ประวัติ liver disease, alcohol** — variceal vs non-variceal → แนวทาง ATB + vasoactive drugs ต่างกัน
-> - **ยา allergy + ประวัติ PPI / H. pylori treatment**
->
+## 🔵 Continuous
+- [ ] Admit (monitored/ICU if unstable/variceal) — Dx: UGIB (peptic ulcer / variceal / other)
+- [ ] Post-endoscopy: **continue IV PPI infusion 72 h for high-risk ulcer** then oral; **test + eradicate _H. pylori_**, stop NSAIDs
+- [ ] **Variceal:** continue vasoactive drug 2–5 days + antibiotics; **non-selective β-blocker + repeat banding** for secondary prophylaxis; consider TIPS for refractory ([[Portal Hypertension]])
+- [ ] Serial Hb/vitals; re-scope for rebleeding; manage the cause; VTE prophylaxis once bleeding controlled
 
+> [!info]- Why
+> Outcome depends on resuscitation + timely endoscopic haemostasis; a restrictive transfusion threshold improves survival (over-transfusion worsens portal pressure/rebleeding). Variceal bleeding needs vasoactive drugs + prophylactic antibiotics (both reduce mortality) plus banding. IV PPI stabilises ulcer clots. Verified vs ACG/BSG UGIB + Baveno variceal guidance.
 
-
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC** — Hb, Hct (อาจปกติใน acute bleed ก่อน hemodilution), platelets
-> - [ ] **Electrolytes, BUN, Cr** — BUN:Cr ratio >20:1 สนับ UGIB (blood digestion)
-> - [ ] **LFT, bilirubin, albumin** — liver disease assessment
-> - [ ] **PT, aPTT, INR** — coagulopathy; ควบก่อน procedure
-> - [ ] **Blood type and cross-match** (T&C) → เตรียม pRBC 2–4 units
-> - [ ] **H. pylori Ag (stool/urea breath)** หรือ rapid urease test ขณะ EGD
-> - [ ] **Gastroscopy (EGD)** — ภายใน 24 ชม. (high-risk ≤12 ชม.); ทั้ง diagnosis + therapy (injection, clips, banding)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV access 2 เส้น large bore (18G) + IV fluid resuscitation** — 0.9% NaCl 500–1000 mL bolus ถ้า hypotensive; รักษา MAP ≥65
-> - [ ] **pRBC transfusion** — threshold Hb <7 g/dL (หรือ <8 ถ้า ACS/elderly); เป้า Hb 7–9 g/dL (NEJM TRICC/TRIGGER trial)
-> - [ ] **PPI: Omeprazole 80 mg IV bolus → 8 mg/hr continuous infusion** ก่อน EGD (ลด clot dissolution, ลด re-bleeding risk — ACG 2021)
-> - [ ] **[Variceal bleeding] Octreotide 50 mcg IV bolus → 50 mcg/hr CI** ร่วมกับ endoscopy — ลด portal pressure
-> - [ ] **[Variceal] ATB prophylaxis: Ceftriaxone 1 g IV q24h x 7 วัน** — ลด spontaneous bacterial peritonitis + re-bleeding (AASLD guideline)
-> - [ ] **NPO** จนหลัง EGD; หัวสูง 30–45°
-> - [ ] **Reverse coagulopathy:** Vitamin K 10 mg IV slow ถ้า INR >1.5; FFP ถ้า active bleeding + INR >2; platelet ถ้า <50,000
-> - [ ] **Foley catheter** — monitor UO
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] ติดตาม **CBC ทุก 4–6 ชม.** ใน 24–48 ชม.แรก — หาสัญญาณ re-bleeding
-> - [ ] **Stool Hb** ถ้า melena persist
-> - [ ] **Repeat EGD** ถ้า สงสัย re-bleeding หรือ hemostasis ไม่แน่ใจ (ใน 24 ชม.)
-> - [ ] **CT angiography** หรือ **Angioembolization** ถ้า EGD ไม่สามารถ control bleeding ได้
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **PPI IV → PO:** เปลี่ยน PPI PO เมื่อ tolerating (Omeprazole 20–40 mg bid x 2–8 สัปดาห์ ตาม ulcer grade)
-> - [ ] **H. pylori eradication** ถ้าพบ: **Triple therapy** — Clarithromycin 500 mg + Amoxicillin 1 g + PPI bid x 14 วัน (หรือ Bismuth quadruple ถ้า Clarithromycin resistance)
-> - [ ] **Hold NSAIDs/Aspirin** จนกว่าจะ stable — ปรึกษา cardiologist ถ้า antiplatelet จำเป็น
-> - [ ] **[Variceal] Propranolol (non-selective)** หรือ Carvedilol — secondary prophylaxis ลด portal pressure; TIPS ถ้า refractory
-> - [ ] **[Variceal] Octreotide** ต่อ 5 วัน → หยุดหลัง EGD banding successful
-> - [ ] **Diet:** เริ่ม clear liquid 4–6 ชม.หลัง EGD ถ้า hemostasis adequate; soft diet 24 ชม.
-> - [ ] **Discharge:** PPI ต่อ, H. pylori treatment completion, f/u 4–6 สัปดาห์
->
-
+→ Deeper reasoning: [[UGIB (Upper Gastrointestinal Bleeding)]]

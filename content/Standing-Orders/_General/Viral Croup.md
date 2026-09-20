@@ -1,69 +1,37 @@
 ---
-title: "Viral Croup"
+title: "Croup (Laryngotracheitis) — ER Orders"
+aliases: ["Viral Croup", "Croup Orders", "Laryngotracheitis Orders"]
 type: "Standing Order"
 specialty: "General"
+lang: en
 ward: ["Pediatrics"]
-tags: [workflow]
-notion_id: 389224ab-ad81-8112-b49a-ed0e01156fe3
+related: ["[[Asthma Exacerbation]]"]
+tags: [emergency, workflow, pediatric]
+notion_id: viral-croup-mn
 source: notion-migration
-updated: 2026-09-14
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Viral Croup
+# Croup (Laryngotracheitis) — ER Orders
 
-- **Croup (Laryngotracheobronchitis)** — viral (Parainfluenza virus type 1 most common), age 6 months–3 years; barking/seal-like cough, stridor, hoarse voice, low-grade fever
-- **Westley Croup Score (0–17):**
-    - 0–2 = Mild; 3–5 = Moderate; 6–11 = Severe; ≥12 = Impending respiratory failure
-    - Items: stridor (0/1/2), retractions (0/1/2/3), air entry (0/1/2), cyanosis (0/4), consciousness (0/5)
-- **Differential:** epiglottitis (toxic, drooling, tripod, no barking cough, thumbprint sign), bacterial tracheitis (high fever, toxic, not respond to dexamethasone), foreign body, peritonsillar abscess, angioedema
-- **Red flags (epiglottitis):** drooling, tripod position, muffled hot-potato voice, ไม่ให้แลุชมโดยเด็ดขาดแต่ controlled environment
-- **Croup เกิด mainly ปั่น** — worse at night, cry = worse (agitation increases obstruction)
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local paediatric protocol and the attending. **Keep the child calm (distress worsens obstruction — avoid upsetting exams/procedures).** **Dexamethasone for ALL severities** (even mild). **Nebulised adrenaline for moderate-severe stridor.** Consider mimics: **epiglottitis** (toxic, drooling, no cough — do NOT examine the throat), foreign body, bacterial tracheitis, anaphylaxis.
 
+## 🔴 One Day
+- [ ] Assess severity (Westley score): **barking cough, stridor (at rest vs with agitation), work of breathing, air entry, SpO₂, mental state**
+- [ ] **Keep the child comfortable on the parent's lap; minimise distress**; O₂ only if hypoxic (blow-by to avoid agitation)
+- [ ] **Dexamethasone 0.15–0.6 mg/kg PO/IM/IV single dose — for ALL severities** (oral prednisolone or nebulised budesonide if dexamethasone unavailable)
+- [ ] **[Moderate–severe / stridor at rest] Nebulised adrenaline (L-epinephrine) — observe ≥ 3–4 h afterwards** (rebound); repeat as needed
+- [ ] **Do NOT routinely: bloods, X-ray, throat exam** (X-ray "steeple sign" only if diagnosis unclear); antibiotics not indicated (viral)
+- [ ] **Severe/impending airway obstruction → senior/anaesthetics/ENT, prepare for airway management** (do not distress the child)
 
+## 🔵 Continuous
+- [ ] Disposition: **mild → discharge after dexamethasone** with advice; **moderate–severe / received adrenaline → observe ≥ 3–4 h** (discharge if stable, no stridor at rest); admit if recurrent adrenaline, persistent stridor at rest, hypoxia, poor intake, or social concerns
+- [ ] PICU/airway team for severe/refractory obstruction
+- [ ] Parental education (self-limiting, cool air/calm, when to return); reassess for mimics if atypical/not improving
 
+> [!info]- Why
+> Croup is a viral upper-airway obstruction; a single dose of dexamethasone benefits all severities and nebulised adrenaline rapidly relieves moderate-severe stridor (with observation for rebound). Keeping the child calm is therapeutic because agitation worsens dynamic obstruction, and the key is not to mistake epiglottitis/foreign body/bacterial tracheitis for croup. Verified vs paediatric croup guidance.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Clinical diagnosis** — ไม่ต้อง X-ray routine; CXR ถ้าสงสัย foreign body หรือ atypical
-> - [ ] **Neck X-ray lateral** ถ้าสงสัย epiglottitis (thumbprint sign) — only if stable + controlled; อย่าให้นอน
-> - [ ] **SpO₂ monitoring** — ถ้า moderate/severe
-> - [ ] **CXR:** steeple sign (subglottic narrowing = croup) ถ้าสงสัย
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Dexamethasone PO/IM/IV:**
->     - **0.15 mg/kg (mild)** — dose เดียว (OPD sufficient ถ้า mild)
->     - **0.6 mg/kg (moderate-severe, max 10 mg) ครั้งเดียว**; สามารถ PO ได้ถ้า tolerate; ไม่จำเป็น repeat เพราะ effect ยาว >24 ชม. (Cochrane 2018)
-> - [ ] **[Moderate-Severe — Nebulized Racemic Epinephrine / L-Epinephrine:]**
->     - L-Epinephrine 1:1000 solution: **5 mL (5 mg) nebulize** โดยไม่ต้อง dilute
->     - Onset 10–30 min; duration 2 ชม.; **ต้อง observe 2–4 ชม.หลัง** (rebound risk)
-> - [ ] **O₂** ถ้า SpO₂ <94%; HFNC ถ้า respiratory distress
-> - [ ] **คา calm เด็ก + ให้อยู่กับผู้ปกครอง** — agitation เพิ่ม obstruction; หลีกเลี่ยงอุปกรณ์ที่ทำให้เด็กเครียด
-> - [ ] **Heliox (70:30 He:O₂)** ถ้า severe + intubation not yet decided
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Clinical reassessment q1–2h** — stridor at rest, retractions, Westley score
-> - [ ] **SpO₂ continuous** ถ้า admit + moderate/severe
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Repeat epinephrine PRN q20–30 min** ถ้ายังมี stridor at rest/significant distress
-> - [ ] **Discharge criteria (mild-moderate with good response):**
->     - ไม่มี stridor at rest, SpO₂ ≥94% room air, tolerating oral, ไม่ distress (หลัง observe 2–4 ชม. post-epinephrine)
-> - [ ] **Admit indications:** moderate–severe (Westley ≦6), stridor at rest, SpO₂ <94%, age <6 months, poor social situation
-> - [ ] **Parental education:** viral, self-limiting 3–5 days, ให้ cool mist/humidifier (evidence weak but accepted), return precautions
->
-
+→ Deeper reasoning: [[Asthma Exacerbation]]

@@ -1,6 +1,6 @@
 ---
 title: "MGUS, Smoldering MM & MGRS"
-aliases: ["MGUS", "Smoldering Multiple Myeloma", "SMM", "MGRS", "Monoclonal Gammopathy of Undetermined Significance", "Monoclonal Gammopathy of Renal Significance"]
+aliases: ["MGUS", "Smoldering Multiple Myeloma", "SMM", "Monoclonal Gammopathy of Undetermined Significance"]
 stage: Clerkship
 rotation: "Internal Medicine"
 specialty: "Hematology-Oncology"

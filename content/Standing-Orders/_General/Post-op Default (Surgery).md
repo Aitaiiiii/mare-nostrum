@@ -1,71 +1,40 @@
 ---
-title: "Post-op Default (Surgery)"
+title: "Post-op Default — General Surgery Orders"
+aliases: ["Post-op Default (Surgery)", "Post-op Orders", "Default Post-op Orders"]
 type: "Standing Order"
 specialty: "General"
+lang: en
 ward: ["Surgery"]
-related: ["[[Post-op Oliguria (Explore Laparotomy)]]"]
+related: ["[[Pain control]]", "[[VTE (DVT & Pulmonary Embolism)]]"]
 tags: [workflow]
-notion_id: 389224ab-ad81-8176-8b21-fa50d18e10dc
+notion_id: postop-default-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Post-op Default (Surgery)
+# Post-op Default — General Surgery Orders
 
-> 🃏 Order set for [[Post-op Oliguria (Explore Laparotomy)]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to the operation, surgeon, and patient. A generic post-operative template — always tailor diet/drains/antibiotics/VTE to the specific procedure. Watch for **post-op complications** (bleeding, sepsis, anastomotic leak, ileus, VTE, urinary retention, delirium).
 
-- **Vital signs trend post-op** — fever: immediate (atelectasis/drug reaction) vs day 1-3 (wound/ATB) vs day 4-5 (DVT/PE/deep abscess) vs day 7+ (wound infection/anastomotic leak)
-- **Post-op fever causes (5W's):** Wind (atelectasis/pneumonia), Water (UTI), Wound (infection), Walk (DVT), Wonder drugs (drug fever) + anastomotic leak (GI)
-- **Urine output** — เป้า >0.5 mL/kg/hr; oliguric post-op = ให้ fluid challenge first ก่อนหา AKI cause
-- **Bowel function** — first flatus (day 2-3 open; day 1-2 lap), first stool; ileus vs obstruction
-- **Pain control adequacy** — VAS score; under-controlled pain → ไม่ยอม deep breath + cough → atelectasis
+## 🔴 One Day (immediate post-op)
+- [ ] **Admit** post-op ward (or HDU/ICU per surgery); diagnosis + procedure; condition
+- [ ] **Vital signs** per protocol (e.g. q15 min ×4 → q30 min ×2 → q1–4h), SpO₂; **monitor drains/wound/dressing + output**
+- [ ] **Diet:** NPO → advance per procedure (clear liquids → regular / early feeding in enhanced-recovery); NG if indicated
+- [ ] **IV fluids** (maintenance + replace losses) until oral intake adequate
+- [ ] **Analgesia — multimodal** (paracetamol ± NSAID + opioid PRN; regional/PCA per surgery — see [[Pain control]]); antiemetic PRN
+- [ ] **VTE prophylaxis** (mechanical + pharmacological per bleeding risk); early mobilisation
+- [ ] Antibiotics only per procedure/indication (most clean cases: single pre-op dose only — do not continue routinely); glycaemic control for diabetics
+- [ ] **Strict I/O + urinary catheter** as indicated (watch retention); labs (CBC/electrolytes) as needed
 
+## 🔵 Continuous
+- [ ] Vital signs + wound/drain review; advance diet + mobilise (enhanced recovery); step down analgesia
+- [ ] **Monitor for complications:** bleeding (Hb/vitals), sepsis/anastomotic leak (fever, tachycardia, ↑WCC/CRP, pain), ileus, VTE, delirium, urinary retention
+- [ ] Remove catheter/drains/lines as soon as not needed; incentive spirometry/chest physio; DVT prophylaxis continued
+- [ ] Discharge planning: wound care, medications, follow-up, red-flag advice
 
+> [!info]- Why
+> A safe default post-op order covers monitoring, analgesia, fluids, VTE prophylaxis, early feeding/mobilisation (enhanced recovery), and vigilance for the common post-op complications — always adapted to the specific operation. Routine prolonged antibiotics are avoided (resistance) beyond a single prophylactic dose for clean surgery. Verified vs enhanced-recovery / peri-op standards.
 
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Vital signs q4-6h** (BP, HR, SpO₂, temp, RR)
-> - [ ] **Urine output q1h** via foley
-> - [ ] **CBC, BUN/Cr, electrolytes** — day 0 post-op baseline
-> - [ ] **Drain output** — document volume + character
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV maintenance fluid** (LR 1-1.5 mL/kg/hr) — หลัง hemostasis; ลดเมื่อ oral OK
-> - [ ] **O₂ via nasal cannula 2-4 L/min** — ถ้ายัง sedated/SpO₂ marginal
-> - [ ] **Multimodal analgesia:**
->     - Paracetamol 1 g IV q6h scheduled
->     - Tramadol 50-100 mg IV q6h PRN
->     - Ketorolac 30 mg IV q8h ถ้า renal OK (24-48h only)
-> - [ ] **Ondansetron 4-8 mg IV q8h PRN** (PONV)
-> - [ ] **Omeprazole 40 mg IV/PO OD** — stress ulcer prophylaxis
-> - [ ] **Wound care:** dry, clean dressing day 1
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, electrolytes day 1-2** — trend Hb, K⁺ (fluid shifts)
-> - [ ] **ถ้าไข้ day 3+:** CBC + CRP + blood culture + wound swab (source workup)
-> - [ ] **CXR ถ้าไข้ + respiratory distress** — pneumonia, pleural effusion, atelectasis
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV→PO analgesia switch** เมื่อ tolerating oral: Paracetamol PO ± NSAIDs
-> - [ ] **LMWH (Enoxaparin 40 mg SC OD)** — VTE prophylaxis ตลอดเข้านอน; extended 28 วัน ถ้า cancer/pelvic surgery
-> - [ ] **Early oral feeding (ERAS)** — clear liquid 4h post-op ถ้า tolerating; full diet เมื่อ bowel sounds + no ileus
-> - [ ] **Remove NGT/foley** เมื่อ no longer needed (ERAS)
-> - [ ] **Early mobilization day 1** — 30 min OOB; prevent VTE + pneumonia + ileus
-> - [ ] **Stitch removal:** 7-10 วัน (abdominal wall), 14 วัน (leg), เร็วกว่าถ้า staples
->
-
+→ Deeper reasoning: [[Pain control]]

@@ -1,68 +1,41 @@
 ---
-title: "ANC Note (Antenatal Care)"
+title: "Antenatal Care (ANC) — Visit Orders"
+aliases: ["ANC Note (Antenatal Care)", "Antenatal Care Orders", "ANC Orders"]
 type: "Standing Order"
-specialty: "General"
+specialty: "Obstetrics"
+lang: en
 ward: ["OB-GYN"]
+related: ["[[Pre-eclampsia & Eclampsia]]", "[[GDMA - DM in Pregnancy]]"]
 tags: [pregnancy, workflow]
 notion_id: 389224ab-ad81-815f-ae34-da890dc5a82a
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# ANC Note (Antenatal Care)
+# Antenatal Care (ANC) — Visit Orders
 
-- **GA (gestational age):** คำนวณจาก LMP (Naegele's rule) หรือ U/S ครั้งแรก (< 14 wk = most accurate)
-- **ANC schedule (ACOG/WHO):** 4 ครั้งขั้นต่ำสุด = ครั้งแรก <14 wk, 18-20 wk (anatomy scan), 26-28 wk (GDM screen), 36 wk (GBS)
-- **High-risk features:** previous cesarean, twin, GDM, PIH/pre-eclampsia, placenta previa, IUGR, elderly primigravida (>35)
-- **Blood pressure:** วัดทุกครั้ง; ผิดปกติ = SBP >140 หรือ DBP >90 ใน 2 ครั้ง h/a 4 ชม.
-- **Fetal movement:** ลูกดิ้น ≥ 10 ครั้ง/2h (Cardiff kick count) — ถ้าไม่ถึง → NST
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local/Thai ANC protocol and the attending. **Date the pregnancy accurately (early US < 14 wk).** Check BP + urine every visit (pre-eclampsia). **Start aspirin < 16 wk for high pre-eclampsia risk.** Screen for GDM (24–28 wk) and GBS (36 wk). Thalassaemia screen for Thai couples.
 
+## 🔴 One Day — schedule + investigations
+- [ ] Confirm **gestational age** (LMP/Naegele + early US CRL < 14 wk = most accurate); risk-stratify (prior C/S, twins, GDM, HDP, previa, IUGR, age > 35)
+- [ ] **First visit (< 14 wk):** CBC, **blood group + Rh + antibody screen**, Rubella IgG, VDRL/RPR, anti-HIV, HBsAg, UA + culture, **early GDM screen if risk (FBS/OGTT)**, **thalassaemia screen (CBC + Hb typing — Thai couples)**, dating US
+- [ ] **18–20 wk:** anatomy scan (structural anomaly, placental location)
+- [ ] **24–28 wk:** GDM screen (**50 g GCT → if ≥ 140, 100 g OGTT**)
+- [ ] **35–37 wk:** **GBS vaginal/rectal swab**
+- [ ] **Supplements:** **folic acid 5 mg OD (pre-conception–12 wk)**, iron + folate from ~16 wk, **calcium 1000–1500 mg/day from 20 wk** (pre-eclampsia risk reduction)
+- [ ] **Aspirin 75–150 mg OD from < 16 wk to 36 wk if high pre-eclampsia risk**
+- [ ] Vaccines per schedule: **Tdap, influenza** (± others per local programme)
 
+## 🔵 Continuous (each visit)
+- [ ] **BP + urine dipstick every visit** (proteinuria/glycosuria); if BP ≥ 140/90 → pre-eclampsia work-up (PCR, CBC, LFT, urate) — see [[Pre-eclampsia & Eclampsia]]
+- [ ] **Fundal height** (≈ GA cm ± 3; lag → IUGR, large → macrosomia/multiples); **fetal heart rate** (Doppler after ~12 wk); fetal-movement counting
+- [ ] **NST** if ≥ 34 wk + risk (GDM/HDP/post-dates/reduced movements); serial growth US for high-risk
+- [ ] Check Hb (treat anaemia); **GDM → diet then insulin** if uncontrolled (see [[GDMA - DM in Pregnancy]]); **GBS positive → intrapartum penicillin**
+- [ ] Birth-plan + breastfeeding discussion (36+ wk); danger-sign education
 
+> [!info]- Why
+> Structured ANC dates the pregnancy, screens for the treatable/preventable complications (anaemia, GDM, pre-eclampsia [aspirin + calcium], infections, GBS, thalassaemia), and monitors fetal growth/wellbeing — each visit's BP + urine catch pre-eclampsia early. Verified vs WHO/ACOG ANC + Thai practice.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **[First Visit (<14 wk):]**
->     - CBC, blood group + Rh factor + indirect Coombs
->     - Rubella IgG, VDRL/RPR, Anti-HIV, HBsAg, HBeAg
->     - UA + urine culture
->     - FBS/OGTT (early GDM screen ถ้า risk: BMI>30, family Hx DM, previous GDM)
->     - Thalassemia screen (CBC + Hb typing ถ้าคนไทย)
->     - **U/S dating** — CRL, confirm singletons, viability
-> - [ ] **[18-20 wk:]** Anatomy scan U/S — NT, structural anomaly, placenta location
-> - [ ] **[26-28 wk:]** 50g GCT → ถ้า >140 mg/dL → 100g OGTT (GDM diagnosis)
-> - [ ] **[36 wk:]** GBS (Group B Strep) vaginal/rectal swab
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Folic acid 5 mg OD** — ควรเริ่มก่อนตั้งครรภ์ 3 เดือน; ต่อจน 12 wk
-> - [ ] **Iron + Folic acid (Ferrous fumarate 200 mg + FA 0.4 mg OD)** — เริ่ม 16 wk ถ้าไม่มีวีนีไซหิน; FeS04 200 mg + FA 0.4 mg แปลกกันได้
-> - [ ] **Calcium 1000-1500 mg OD** (divided) — เริ่ม 20 wk; ลด pre-eclampsia risk (WHO)
-> - [ ] **Aspirin 81-150 mg OD** ถ้า high risk pre-eclampsia: เริ่ม <16 wk → ต่อ 36 wk (USPSTF)
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **BP monitoring ทุกครั้ง visit** — ถ้า BP สูง: 24h urine protein, CBC, LFT, BUN/Cr
-> - [ ] **Fundal height** — เทียบ GA (cm = wk ±3); lag = IUGR; large = multiple/macrosomia
-> - [ ] **Fetal heart rate** q visit (Doppler stethoscope หลัง 12 wk)
-> - [ ] **NST** ถ้า ≥34 wk + risk (GDM, PIH, post-dates, poor FM)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Iron supplement** — ตรวจ Hb; ถ้า Hb <10 = iron deficiency anemia → เพิ่มเป็น 2 เม็ด BID
-> - [ ] **[GDM]:** dietary modification first; ถ้าควบคุมไม่ได้ → Insulin (metformin debatable in pregnancy)
-> - [ ] **[GBS positive]:** Penicillin G 5 MU IV เมื่อ onset labor → 2.5 MU IV q4h จนคลอด
-> - [ ] **Breastfeeding + แผนการคลอดสนทนา** ก่อน delivery (36+ wk)
->
-
+→ Related: [[Pre-eclampsia & Eclampsia]] · [[GDMA - DM in Pregnancy]]

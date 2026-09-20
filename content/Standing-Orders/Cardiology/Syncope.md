@@ -1,90 +1,39 @@
 ---
-title: "Syncope"
+title: "Syncope — ER Orders"
+aliases: ["Syncope Orders", "Syncope"]
 type: "Standing Order"
 specialty: "Cardiology"
+lang: en
 ward: ["Medicine"]
-also_relevant: ["Symptomatology", "Cardiology"]
-tags: [workflow]
-notion_id: 321224ab-ad81-8048-a484-c895603ef233
+related: ["[[Approach - Syncope]]", "[[Bradycardia & AV Block]]", "[[Tachyarrhythmia Overview]]"]
+tags: [workflow, emergency]
+notion_id: 321224ab-ad81-8095-958f-cc6dfe21313d
 source: notion-migration
-related: ["[[Approach - Syncope]]"]
-updated: 2026-09-14
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Syncope
+# Syncope — ER Orders
 
-> 🃏 Order set for [[Approach - Syncope]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. The task is to separate **benign reflex/orthostatic syncope from life-threatening cardiac syncope**. **Red flags → admit/monitor:** syncope on exertion or supine, palpitations before, family history of sudden death, structural/ischaemic heart disease, abnormal ECG. Always exclude non-syncope mimics (seizure, hypoglycaemia, PE, bleeding, ectopic).
 
-> [!question]- What to review
->
-> - **Syncope definition** — transient LOC + postural tone loss + spontaneous recovery; แยกจาก seizure, drop attack, vertebrobasilar TIA, hypoglycemia, psychogenic
-> - **CANADIAN Syncope Risk Score** หรือ **ROSE rule** — กำหนด risk of serious adverse event ใน 30 วัน; high-risk → admit + monitoring
-> - **High-risk features (ต้อง admit + workup เร่งด่วน):**
->     - Exertional syncope
->     - Syncope ขณะนอน (lying down)
->     - Palpitation นำก่อน syncope
->     - ครอบครัวมีประวัติ sudden cardiac death
->     - Known structural heart disease (HF, hypertrophic CMP)
->     - Abnormal ECG (QTc >500, delta wave, Brugada, AV block, new LBBB)
->     - Older + comorbidity มาก
-> - **3 main categories:**
->     - **Reflex/neurally-mediated (most common, 58%):** vasovagal (prodrome: nausea, sweating, paleness), situational (cough, micturition, defecation), carotid sinus hypersensitivity
->     - **Orthostatic hypotension:** SBP drop ≥20 mmHg / DBP drop ≥10 mmHg ใน 3 นาทีหลัง standing; causes: dehydration, autonomic failure, drugs
->     - **Cardiac (16%):** arrhythmia (VT, SSS, AV block, SVT) หรือ structural (AS, HOCM, PE)
-> - **ยา** — antihypertensive, diuretic, nitrate, α-blocker, QT-prolonging → orthostatic/arrhythmia
->
+## 🔴 One Day
+- [ ] **12-lead ECG** (every patient) — look for arrhythmia, ischaemia, blocks, pre-excitation (WPW), long/short QT, Brugada, epsilon/ARVC, LVH
+- [ ] **Orthostatic (lying/standing) BP + HR**; capillary glucose; targeted exam (murmur, focal neuro, PR for GI bleed)
+- [ ] Labs as indicated: CBC (anaemia/bleed), electrolytes, **β-hCG (women — ectopic)**, troponin only if cardiac suspicion; consider D-dimer/PE work-up if features
+- [ ] **Continuous cardiac monitoring** if any red flag or abnormal ECG
+- [ ] Risk-stratify (e.g. Canadian Syncope Risk Score) → **admit/telemetry high-risk**; low-risk reflex/orthostatic → discharge with advice
+- [ ] Treat reversible cause (arrhythmia, volume/bleed, drug, hypoglycaemia)
 
+## 🔵 Continuous
+- [ ] Admit/telemetry (high-risk/cardiac) or discharge (low-risk) — Dx: syncope (reflex / orthostatic / cardiac / undetermined)
+- [ ] Cardiac monitoring 24–48 h if admitted; echocardiogram if structural disease suspected; ischaemia work-up if indicated
+- [ ] Further rhythm monitoring (Holter/event/loop recorder) for recurrent unexplained syncope; EP study/tilt table per cardiology
+- [ ] Medication review (culprit antihypertensives/QT-prolonging drugs); orthostatic measures / driving + safety counselling
+- [ ] Device (pacemaker/ICD) per cause (high-grade AV block, sinus node disease, inherited arrhythmia, low EF)
 
+> [!info]- Why
+> Most syncope is benign (reflex/orthostatic), but cardiac syncope (arrhythmia/structural) carries real sudden-death risk, so the ECG + red-flag screen + risk score decide who needs monitoring/admission versus safe discharge. Exertional/supine syncope, pre-syncopal palpitations, family history of sudden death, and an abnormal ECG are the danger signals. Verified vs ESC 2018 syncope + risk-stratification tools.
 
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **12-lead ECG stat** — QTc interval, delta wave (WPW), Brugada pattern, AV block degree, ST changes, LBBB ใหม่
-> - [ ] **DTX** — hypoglycemia mimic
-> - [ ] **Orthostatic BP** — วัด lying → standing ที่ 1, 3, 5 นาที (>20/10 drop = orthostatic hypotension)
-> - [ ] **CBC** — anemia (exacerbate cardiac syncope)
-> - [ ] **Electrolytes, BUN, Cr, glucose** — metabolic cause; dehydration
-> - [ ] **Troponin** — ถ้า chest pain/palpitation นำ หรือ post-exertional (rule out ACS)
-> - [ ] **BNP/NT-proBNP** — ถ้าสงสัย structural heart disease
-> - [ ] **CXR** — cardiomegaly, effusion
-> - [ ] **CT brain** — ไม่ทำ routine (ไม่มี evidence ยกเว้นมี focal neurological sign หรือ head trauma จาก fall)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV fluid 0.9% NaCl** ถ้า dehydrated (orthostatic, clinical signs) — 500 mL–1 L bolus
-> - [ ] **Correct electrolytes** — K⁺, Mg²⁺ ถ้า arrhythmia risk
-> - [ ] **Monitoring:** continuous ECG ถ้า high-risk cardiac syncope
-> - [ ] **Hold precipitating medications:** antihypertensive, diuretic, nitrate, alpha-blocker — ปรับ dose หรือ hold ชั่วคราว
-> - [ ] **[Vasovagal]:** reassurance + avoid triggers; physical counterpressure maneuvers (leg crossing, arm tensing)
-> - [ ] **[Orthostatic]:** head-of-bed elevation 10–30°, compression stockings, adequate hydration
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Holter 24–48 ชม.** หรือ **Event recorder (30 วัน)** — ถ้า suspected arrhythmic syncope + ECG ปกติ
-> - [ ] **Implantable loop recorder (ILR)** — ถ้า recurrent unexplained syncope + ไม่พบ cause
-> - [ ] **Echocardiography** — ถ้า murmur, suspected structural disease (AS, HOCM, HF)
-> - [ ] **Tilt-table test** — ถ้าสงสัย vasovagal ไม่ชัด หรือ POTS
-> - [ ] **Electrophysiology study (EPS)** — ถ้า ischemic heart disease + suspected VT
-> - [ ] **Autonomic testing** — ถ้าสงสัย autonomic failure (Parkinson's, DM neuropathy)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **[Vasovagal — recurrent]:** Fludrocortisone 0.05–0.2 mg OD (volume expansion); Midodrine 5–10 mg tid (α-agonist ลด vasodilatation); Beta-blocker (Metoprolol) — controversial แต่บางราย benefit
-> - [ ] **[Orthostatic]:** Midodrine 2.5–10 mg tid (หลีกใช้ก่อนนอน); Fludrocortisone; Droxidopa ถ้า neurogenic orthostatic
-> - [ ] **[Cardiac arrhythmia]:** ตาม type — Pacemaker ถ้า sick sinus/AV block; ICD ถ้า VT/VF; ablation ถ้า SVT/AF
-> - [ ] **[Carotid sinus hypersensitivity]:** Dual-chamber pacemaker ถ้า cardioinhibitory type recurrent
-> - [ ] **Driving restriction** counseling — ตาม local law ถ้า suspected cardiac syncope
->
-
+→ Deeper reasoning: [[Approach - Syncope]]

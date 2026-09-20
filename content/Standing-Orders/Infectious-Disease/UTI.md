@@ -1,84 +1,41 @@
 ---
-title: "UTI"
+title: "UTI / Pyelonephritis — Admission Orders"
+aliases: ["UTI", "UTI Orders", "Pyelonephritis Orders"]
 type: "Standing Order"
 specialty: "Infectious Disease"
+lang: en
 ward: ["Medicine"]
 also_relevant: ["Infectious Disease", "Nephrology"]
 related: ["[[Urinary Tract Infection & Pyelonephritis]]"]
 tags: [workflow, emergency]
 notion_id: 320224ab-ad81-8062-bae5-d36814563f1e
 source: notion-migration
-updated: 2026-09-18
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# UTI
+# UTI / Pyelonephritis — Admission Orders
 
-> [!question]- What to review
->
-> - **ประเภท UTI** — Uncomplicated (lower UTI ใน otherwise healthy, non-pregnant female) vs Complicated (male, pregnant, catheter, DM, immunocompromised, structural abnormality, pyelonephritis, hospital-acquired)
-> - **Symptoms** — dysuria, frequency, urgency (lower UTI/cystitis); flank pain, CVA tenderness, fever, rigors (upper UTI/pyelonephritis); altered consciousness ผู้สูงอายุ (atypical)
-> - **Urosepsis signs** — fever >38°C, tachycardia, hypotension → sepsis workup + IV ATB ทันที
-> - **Risk factors** — ประวัติ recurrent UTI, catheterization, urologic procedure, hospital exposure, prior MDR organisms, renal transplant
-> - **ยา allergy** — TMP-SMX (พบบ่อย), fluoroquinolone resistance (สูงขึ้นมากในประเทศไทย)
-> - **Pregnancy** — ห้าม: TMP-SMX trimester 1/3, fluoroquinolone, nitrofurantoin trimester 3
-> - **Renal function** — dose adjustment: nitrofurantoin ห้ามถ้า CrCl <30; fosfomycin ปรับ dose
->
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local antibiogram and the attending. **Obstructed + infected kidney = emergency → urgent decompression** (stent/nephrostomy), not antibiotics alone. In Thailand **fluoroquinolone/co-trimoxazole resistance is high** — ceftriaxone empiric, carbapenem if ESBL/shock. **Treat asymptomatic bacteriuria only in pregnancy / pre-urologic procedure.**
 
+## 🔴 One Day
+- [ ] **Urinalysis + urine culture** (before antibiotics); **blood cultures** if pyelonephritis/sepsis; CBC, electrolytes, **BUN/Cr**, glucose, lactate; **β-hCG** (women)
+- [ ] **Renal ultrasound / CT** if septic, complicated, or not improving → **find obstruction/stone/abscess/emphysematous change**
+- [ ] **Empiric antibiotics:**
+  - Uncomplicated cystitis: **nitrofurantoin 100 mg PO bid × 5 d** or fosfomycin 3 g single dose
+  - Pyelonephritis / complicated (inpatient): **Ceftriaxone 1–2 g IV OD**; **piperacillin-tazobactam or carbapenem (ertapenem/meropenem) if ESBL risk**; add aminoglycoside/antipseudomonal for catheter/instrumented; **septic shock → carbapenem empirically** (high Thai ESBL) then de-escalate
+- [ ] **[Obstructed + infected] urgent urology → decompression (ureteric stent / percutaneous nephrostomy) + IV antibiotics**
+- [ ] IV fluids; analgesia/antipyretic; remove/replace catheter if CAUTI
 
+## 🔵 Continuous
+- [ ] Admit if systemic features / obstruction / pregnancy / comorbidity — Dx: UTI / pyelonephritis (± obstruction)
+- [ ] **De-escalate on culture**; **IV → PO** once afebrile + improving (~48 h)
+- [ ] **Duration (IDSA 2025, shorter): 5–7 d fluoroquinolone / ~7 d non-fluoroquinolone** for cUTI/pyelonephritis improving; 10–14 d only for abscess/slow response/bacteraemia
+- [ ] Pregnancy: β-lactams/nitrofurantoin/fosfomycin (avoid FQ/co-trimoxazole 1st trimester/term); treat asymptomatic bacteriuria
+- [ ] Recurrent/complicated → urology referral + address the underlying abnormality
 
+> [!info]- Why
+> Correct empiric spectrum for the local resistance pattern and prompt decompression of an obstructed infected system are what prevent urosepsis death; cultures preserve targeting and allow de-escalation. Short courses match current evidence. Asymptomatic bacteriuria is treated only where it matters (pregnancy, pre-procedure). Verified vs IDSA 2025 cUTI + Thai resistance data.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Urinalysis (U/A) + Urine culture and sensitivity (U/C)** ก่อนให้ ATB เสมอ — midstream clean catch; catheter specimen ถ้ามี Foley
-> - [ ] **CBC** — leukocytosis ใน pyelonephritis/urosepsis; leukopenia ถ้า severe
-> - [ ] **BUN, Cr, electrolytes** — renal function, guide ATB dose
-> - [ ] **Blood culture x2** ถ้าสงสัย urosepsis/bacteremia (fever + rigors + hemodynamic change)
-> - [ ] **Urine pregnancy test** ในหญิงวัยเจริญพันธุ์
-> - [ ] **Renal ultrasound** ถ้าสงสัย obstruction (hydronephrosis), abscess, emphysematous pyelonephritis (DM)
-> - [ ] **CT urogram** ถ้าสงสัย renal stone เป็น cause หรือ renal abscess/emphysematous
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **[Uncomplicated cystitis (healthy female)]:**
->     - **Nitrofurantoin (macrocrystal) 100 mg bid x 5 วัน** — ไม่ดูดซึมระบบ, ดีสำหรับ lower UTI (ห้ามถ้า CrCl <30)
->     - **Fosfomycin 3 g PO single dose** — สะดวก compliance ดี
->     - TMP-SMX ถ้า local resistance <20%
-> - [ ] **[Pyelonephritis — non-severe, oral tolerable]:**
->     - **Ceftriaxone 1 g IV q24h** หรือ Cefixime 400 mg OD PO → step-down ตาม U/C x 7–14 วัน
->     - Ciprofloxacin 500 mg bid PO x 7 วัน (ถ้า local sensitivity okay + ไม่ pregnant)
-> - [ ] **[Complicated/Urosepsis — IV ATB ทันที]:**
->     - **Ceftriaxone 2 g IV q24h** (empirical; community-acquired) หรือ
->     - **Pip-Tazo 4.5 g IV q6h** ถ้า hospital-acquired/catheter-associated/MDR risk
->     - **Meropenem 1 g IV q8h** ถ้า ESBL risk (recent hospitalization, prior MDR)
-> - [ ] **IV fluid resuscitation** ถ้า urosepsis: 30 mL/kg ตาม SSC; Foley catheter monitor UO
-> - [ ] **Antipyretic:** Paracetamol 500–1000 mg q6h prn
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Review U/C sensitivity** ใน 48–72 ชม. → **de-escalate ATB** ตาม sensitivity (narrow spectrum)
-> - [ ] ติดตาม **fever, WBC, symptom resolution** — ถ้าไม่ดีขึ้นใน 48–72 ชม. → สงสัย obstruction, abscess, MDR organism
-> - [ ] **Repeat U/C** ถ้า pregnant (test-of-cure จำเป็น)
-> - [ ] **Test-of-cure culture 5–7 วัน** หลัง ATB ใน complicated/recurrent UTI
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV→PO switch** เมื่อ afebrile ≥24 ชม. + tolerating oral → ตาม culture sensitivity
-> - [ ] **ระยะเวลา ATB:** Cystitis = 5–7 วัน; Pyelonephritis = 7 วัน (fluoroquinolone) / 10–14 วัน (beta-lactam); Urosepsis = 14 วัน
-> - [ ] **[Pregnant]:** Cephalexin 500 mg qid หรือ Amoxicillin-clavulanate 500/125 mg bid x 7 วัน; test-of-cure จำเป็น
-> - [ ] **[Recurrent UTI ≥3 ครั้ง/ปี]:** long-term prophylaxis: Nitrofurantoin 50–100 mg hs หรือ TMP-SMX 40/200 mg hs; post-coital prophylaxis ถ้า related
-> - [ ] **[Catheter-associated UTI]:** ถอด/เปลี่ยน catheter ก่อน ATB ถ้าเป็นไปได้; ATB 7 วัน
-> - [ ] **Lifestyle:** hydration เพียงพอ, void หลัง intercourse, personal hygiene
->
-
+→ Deeper reasoning: [[Urinary Tract Infection & Pyelonephritis]]

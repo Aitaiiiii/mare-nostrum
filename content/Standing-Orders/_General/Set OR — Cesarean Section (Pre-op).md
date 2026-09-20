@@ -1,58 +1,39 @@
 ---
-title: "Set OR — Cesarean Section (Pre-op)"
+title: "Cesarean Section (Pre-op) — Set OR Orders"
+aliases: ["Set OR — Cesarean Section (Pre-op)", "Cesarean Pre-op Orders", "C-S Set OR"]
 type: "Standing Order"
-specialty: "General"
+specialty: "Obstetrics"
+lang: en
 ward: ["OB-GYN"]
+related: ["[[Post-op Lower-Transverse C-S]]", "[[Postpartum Hemorrhage (PPH)]]"]
 tags: [pregnancy, workflow]
-notion_id: 3d5224ab-ad81-8181-bfde-f0b662b96370
+notion_id: set-or-cs-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Set OR — Cesarean Section (Pre-op)
+# Cesarean Section (Pre-op) — Set OR Orders
 
-- **ข้อบ่งชี้ C/S + ความเร่งด่วน** (emergency/elective); ทำ TR ร่วมหรือไม่
-- **GA, fetal presentation, EFM** ก่อนเข้า OR
-- **NPO time + aspiration prophylaxis**
-- **เตรียมเลือด** ตามความเสี่ยง PPH (placenta previa, prolonged labor)
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Prophylactic antibiotic (cefazolin) BEFORE skin incision.** **Aspiration prophylaxis (non-particulate antacid) — obstetric airway is high-risk.** Crossmatch blood for PPH risk (previa/prolonged labour). Confirm indication + urgency (emergency vs elective) and consent; EFM until in theatre.
 
+## 🔴 One Day (pre-op)
+- [ ] Confirm C-S indication + urgency; GA, presentation; **EFM until transfer**; consent (± tubal resection if planned)
+- [ ] CBC, UA; **blood group + crossmatch (PRC ≥ 2 units to OR)** — more for placenta previa/PPH risk
+- [ ] **NPO; skin prep/shave; insert Foley catheter**
+- [ ] IV fluid: e.g. **Ringer's/Acetar 1000 mL** running; large-bore IV access
+- [ ] **Prophylactic antibiotic: cefazolin 2 g IV before skin incision** (weight-adjust; add azithromycin per protocol for non-elective)
+- [ ] **Aspiration prophylaxis: sodium citrate 0.3 M 30 mL PO** (± H2-blocker/metoclopramide) before theatre — reduces Mendelson's syndrome if GA needed
+- [ ] **Uterotonics to OR: oxytocin** (for after delivery) ± **carbetocin 100 µg** and **misoprostol** available for PPH prophylaxis/treatment
+- [ ] Enema only if indicated (some emergency protocols); anaesthesia review (usually spinal)
 
+## 🔵 Continuous
+- [ ] Transfer to theatre; ensure neonatal resuscitation team present
+- [ ] Intra-op uterotonic after delivery (oxytocin infusion/carbetocin) — PPH prevention; document EBL
+- [ ] Post-op → [[Post-op Lower-Transverse C-S]] orders
 
+> [!info]- Why
+> Pre-C-S safety hinges on timed antibiotic prophylaxis (before incision reduces wound infection), aspiration prophylaxis (pregnant airway/aspiration risk if converting to GA), blood availability for haemorrhage, and having uterotonics ready to prevent PPH. Verified vs ACOG/WHO caesarean peri-op standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, UA**
-> - [ ] **On EFM monitoring**
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **NPO; shave and prep skin; retain Foley's catheter**
-> - [ ] **Acetar 1,000 mL IV rate 120 mL/hr**
-> - [ ] **G/M PRC 2 units** นำไป OR
-> - [ ] **Cefazolin 2 g IV** นำไป OR — surgical prophylaxis
-> - [ ] **0.3 M Sodium citrate 30 mL PO** ก่อนไป OR
->     - *↳ non-particulate antacid ลดกรดในกระเพาะ ป้องกัน aspiration pneumonitis (Mendelson) กรณีต้องเปลี่ยนเป็น GA*
-> - [ ] **Cytotec (misoprostol 200) 4 tabs** นำไป OR
-> - [ ] **Duratocin (carbetocin) 1 amp** นำไป OR — uterotonic กัน PPH
-> - [ ] **Unison enema 1 ขวด** (กรณี emergency)
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **On EFM ต่อเนื่องจนเข้า OR**
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **หลังผ่าตัด → ใช้** [[Post-op Lower-Transverse C-S|Post-op Lower-Transverse C/S]]
->
-
+→ Related: [[Post-op Lower-Transverse C-S]]

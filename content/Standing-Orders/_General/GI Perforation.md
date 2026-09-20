@@ -1,73 +1,38 @@
 ---
-title: "GI Perforation"
+title: "GI Perforation — ER/Pre-op Orders"
+aliases: ["GI Perforation", "GI Perforation Orders", "Perforated Viscus Orders"]
 type: "Standing Order"
 specialty: "General"
+lang: en
 ward: ["Surgery"]
-related: ["[[Peptic Ulcer Disease & Perforation]]"]
-tags: [workflow, emergency]
+related: ["[[Peptic Ulcer Disease & Perforation]]", "[[Acute Abdomen]]", "[[Sepsis (Sepsis-3)]]"]
+tags: [emergency, workflow]
 notion_id: 389224ab-ad81-8149-a885-f59097521711
 source: notion-migration
+created: 2026-07-09
 updated: 2026-09-19
 ---
 
-# GI Perforation
+# GI Perforation — ER/Pre-op Orders
 
-- **Site of perforation:** gastric/duodenal (peptic ulcer — H. pylori, NSAIDs, steroids), colonic (diverticulitis, tumor, ischemia, Ogilvie's), small bowel (typhoid, Crohn's)
-- **Boerhaave syndrome:** esophageal perforation after forceful vomiting — mediastinitis, subcutaneous emphysema
-- **Severity/contamination:** localized (walled-off) vs generalized peritonitis → ผล mortality ต่างกันมาก
-- **Hemodynamic status:** septic shock = emergency OR; ให้ resuscitate concurrently ไม่ใช่ delay surgery
-- **Hinchey classification (colonic):** I=paracolic abscess, II=pelvic abscess, III=purulent peritonitis, IV=fecal peritonitis
-- **CXR free air (pneumoperitoneum):** subdiaphragmatic lucency — sensitivity ~70% in erect CXR; CT more sensitive
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Perforated viscus with peritonitis = surgical emergency → resuscitate + broad IV antibiotics + urgent surgery.** Sepsis drives mortality — treat in parallel. Free air on erect CXR/CT confirms; don't delay theatre for imaging in the unstable peritonitic patient.
 
+## 🔴 One Day
+- [ ] **Resuscitate:** 2 large-bore IVs, IV crystalloid, correct physiology; **NPO + NG tube**; urinary catheter + strict I/O; analgesia + antiemetic
+- [ ] Labs: CBC, U&E, **lactate**, LFT, amylase/lipase, coagulation, **group & crossmatch**, venous gas; **blood cultures**
+- [ ] Imaging: **erect CXR (free air under diaphragm)**; **CT abdomen/pelvis** (site/cause) — do not delay surgery if unstable + peritonitic
+- [ ] **Broad-spectrum IV antibiotics (Gram-negative + anaerobe): piperacillin-tazobactam or ceftriaxone + metronidazole** (broaden for healthcare-associated/severe)
+- [ ] **IV PPI** (if peptic source); correct coagulopathy/reverse anticoagulation as needed
+- [ ] **Urgent surgical referral → theatre** (repair/omental patch for peptic ulcer; resection ± stoma per site/cause); risk-stratify (Boey/ASA) — see [[Peptic Ulcer Disease & Perforation]]
 
+## 🔵 Continuous
+- [ ] Admit surgery/ICU — Dx: GI perforation (site ___, cause ___)
+- [ ] Post-op: continue antibiotics (de-escalate on culture, source-controlled → short course), ongoing resuscitation, analgesia, VTE prophylaxis, nutrition
+- [ ] Treat the cause: **peptic → H. pylori eradication + stop NSAIDs**; malignancy/diverticular/appendiceal per pathology
+- [ ] Monitor for ongoing sepsis/collection (→ imaging/drainage)
 
+> [!info]- Why
+> A perforated viscus spills luminal contents → chemical then bacterial peritonitis and sepsis, so the bundle is resuscitate + broad antibiotics + source control (surgery), with sepsis management running in parallel because it drives mortality. Verified vs WSES perforated-viscus / peptic-ulcer guidance.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CXR erect** (stat) — free air under diaphragm
-> - [ ] **CT abdomen-pelvis with contrast** — site + extent of perforation, free fluid/gas, abscess
-> - [ ] **CBC, CRP** — leukocytosis (may be low initially in severe shock)
-> - [ ] **BUN, Cr, electrolytes** — renal function, electrolyte derangement
-> - [ ] **Lactate stat** — tissue hypoperfusion
-> - [ ] **PT/INR, aPTT, platelet** — coagulopathy (DIC risk in septic peritonitis)
-> - [ ] **Blood group + crossmatch** — เตรียม OR
-> - [ ] **ABG** ถ้า hemodynamically unstable
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **NPO stat + NGT decompression**
-> - [ ] **IV NSS/LR resuscitation** 30 mL/kg ถ้า septic shock; goal MAP >65, UO >0.5 mL/kg/hr
-> - [ ] **Broad-spectrum IV ATB (ก่อน/พร้อม OR):**
->     - **Pip-Tazo 4.5 g IV q6h** หรือ **Meropenem 1 g IV q8h** (ถ้า community-acquired severe/MDR risk)
->     - 
->         - **Fluconazole** ถ้า Candida risk (GI surgery prior, prolonged ATB)
-> - [ ] **Morphine/Fentanyl IV** — analgesia (ไม่ delay surgery)
-> - [ ] **Foley catheter** — monitor UO
-> - [ ] **Emergency surgical referral** — exploratory laparotomy (กรณี generalized peritonitis = surgical emergency)
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, BUN/Cr, electrolytes, lactate** daily post-op
-> - [ ] **Drain output monitoring** — สี, ปริมาณ (anastomotic leak = bile-colored)
-> - [ ] **CXR/CT** ถ้า clinical deterioration (abscess, anastomotic leak)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **IV ATB ต่อ** 3-5 วัน post-op (source control adequate); total 5-7 วัน
-> - [ ] **[Anastomotic leak/persistent sepsis]:** CT-guided drainage หรือ re-operation
-> - [ ] **TPN/EN:** early enteral feeding day 1-2 ถ้า bowel function returning; TPN ถ้า GI ใช้ไม่ได้
-> - [ ] **DVT prophylaxis:** LMWH เริ่มหลัง hemostasis ยืนยัน + pneumatic compression
->
-
+→ Deeper reasoning: [[Peptic Ulcer Disease & Perforation]] · [[Acute Abdomen]]

@@ -1,80 +1,40 @@
 ---
-title: "Hematuria"
+title: "Hematuria — Workup Orders"
+aliases: ["Hematuria", "Hematuria Orders", "Haematuria Orders"]
 type: "Standing Order"
 specialty: "Nephrology"
+lang: en
 ward: ["Medicine"]
+related: ["[[Urinary Tract Infection & Pyelonephritis]]", "[[Urolithiasis (Renal Colic)]]", "[[Chronic Kidney Disease (CKD)]]"]
 tags: [workflow]
-notion_id: 321224ab-ad81-8007-8247-f7fec38eb993
+notion_id: hematuria-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Hematuria
+# Hematuria — Workup Orders
 
-> [!question]- What to review
->
-> - **Gross vs microscopic** — gross (visible): ≥1 mL blood/liter urine; microscopic (dipstick/micro): ≥3 RBC/HPF ใน 2/3 specimens
-> - **Glomerular vs non-glomerular:**
->     - Glomerular: dysmorphic RBCs, RBC casts, proteinuria ร่วม, hypertension → nephritis workup
->     - Non-glomerular: isomorphic RBCs, clots, flank pain, passage of clot → structural (stone, tumor, infection)
-> - **Risk factors for malignancy (ต้องทำ cystoscopy ใน adult):** age ≥35, smoking, occupational exposure (benzene, amine), prior pelvic radiation, cyclophosphamide, chronic irritation (schistosomiasis)
-> - **Associated symptoms:** flank pain + colicky (stone), dysuria + fever (infection), pain-free gross hematuria (bladder/renal ca), rash/joint pain (vasculitis/SLE), facial edema + hypertension (GN)
-> - **ยา** — anticoagulant (warfarin, NOAC) อาจ unmask underlying lesion; cyclophosphamide (hemorrhagic cystitis); rifampicin (red discoloration — not blood)
-> - **ประวัติ sore throat 1–3 สัปดาห์ก่อน** (post-streptococcal GN) หรือ URTI (IgA nephropathy — concurrent)
-> - **ตรวจร่างกาย:** BP (HTN = GN), abdominal mass (renal/bladder ca), costovertebral angle tenderness (pyelonephritis/stone)
->
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Confirm true haematuria** (dipstick positive but no RBCs on microscopy = myoglobin/haemoglobin, or beeturia/drugs). **Glomerular (dysmorphic RBCs, RBC casts, proteinuria) → nephrology; non-glomerular (isomorphic RBCs, clots) → urology (exclude malignancy).** Gross painless haematuria in an adult = malignancy until excluded.
 
+## 🔴 One Day
+- [ ] **Urinalysis + phase-contrast microscopy** — **dysmorphic RBCs / RBC casts / proteinuria = glomerular**; **isomorphic RBCs / clots = urological (lower/upper tract)**
+- [ ] Confirm blood (dipstick + microscopy — exclude myo/haemoglobinuria, menstruation, drugs/food)
+- [ ] Bloods: CBC, **coagulation** (esp. if on anticoagulant), **renal function**, ± ASO/complement/ANCA/anti-GBM if glomerular
+- [ ] Urine culture (exclude UTI — treat + recheck); β-hCG if relevant
+- [ ] **Imaging: CT urogram** (adult non-glomerular/risk of malignancy) or **US** (young/low-risk/pregnancy)
+- [ ] **[Gross haematuria with clots / retention] 3-way catheter + bladder irrigation**; resuscitate/transfuse if significant bleeding
 
+## 🔵 Continuous
+- [ ] Manage by cause:
+  - **Glomerular → nephrology** (glomerulonephritis work-up/biopsy)
+  - **Non-glomerular → urology**; **adult (esp. > 35 / smoker / gross painless) → cystoscopy + upper-tract imaging (exclude urothelial/renal cancer)**
+  - Stone → [[Urolithiasis (Renal Colic)]]; UTI → treat + confirm resolution; BPH/trauma/anticoagulation → manage accordingly
+- [ ] Review/adjust anticoagulation (but anticoagulant-associated haematuria still needs a source work-up)
+- [ ] Follow up until resolved / cause established
 
+> [!info]- Why
+> The first split — glomerular vs non-glomerular — routes the patient to nephrology (GN) or urology (malignancy/stone/structural), and gross painless haematuria in an adult mandates malignancy exclusion (cystoscopy + upper-tract imaging). Confirming true haematuria avoids chasing myoglobin/pigment. Verified vs AUA/urology + nephrology standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Urinalysis + urine microscopy** — RBC morphology (dysmorphic=glomerular; isomorphic=non-glomerular), casts (RBC casts = GN), WBC (infection)
-> - [ ] **Urine culture** ถ้าสงสัย UTI
-> - [ ] **Urine protein:creatinine ratio (UPCr)** — proteinuria ร่วม = glomerular disease
-> - [ ] **CBC, BUN, Cr, electrolytes** — renal function
-> - [ ] **PT/INR, aPTT** — coagulopathy workup ถ้า on anticoagulant
-> - [ ] **PSA** ถ้า male >40 ปี
-> - [ ] **CT urogram (KUB + contrast) หรือ Renal ultrasound** — stone, mass, structural; CT ดีกว่าสำหรับ small stones และ malignancy
-> - [ ] **Urine cytology x3** ถ้าสงสัย urothelial malignancy (sensitivity ~40–60%)
-> - [ ] **ANA, anti-dsDNA, C3/C4, ANCA (PR3/MPO), anti-GBM** ถ้า GN suspected
-> - [ ] **ASO titer, throat culture** ถ้าสงสัย post-streptococcal GN
-> - [ ] **Cystoscopy** — ถ้า risk factors สำหรับ malignancy หรือ gross painless hematuria ใน adult
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **[UTI-related hematuria]:** ATB ตาม U/C sensitivity (ดู UTI order)
-> - [ ] **[Stone-related hematuria]:** analgesia + hydration; ESWL/ureteroscopy ถ้า stone ไม่ผ่านเอง
-> - [ ] **[Hemorrhagic cystitis จาก cyclophosphamide]:** หยุด cyclophosphamide, aggressive hydration, Mesna 2 mg/kg IV q4h x 6 doses, continuous bladder irrigation
-> - [ ] **[GN/nephritis]:** ตาม specific etiology → steroid ± immunosuppressant (ดู AKI order ถ้ามี RPGN)
-> - [ ] **Analgesia** ถ้า painful (stone): Ketorolac 30 mg IV, Tramadol 50 mg IV
-> - [ ] **ห้าม stop anticoagulant** ทันทีถ้าจำเป็น — anticoagulant มักเป็น unmask factor ไม่ใช่ cause
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Repeat urinalysis** 4–6 สัปดาห์หลัง UTI/stone treatment — ยืนยัน resolution
-> - [ ] **Cystoscopy** ถ้ายังไม่ได้ทำ + risk factors สำหรับ malignancy
-> - [ ] **Renal biopsy** ถ้า GN suspected + proteinuria + AKI — ยืนยัน histological type
-> - [ ] **Nephrology referral** ถ้า glomerular hematuria + proteinuria/HTN/AKI
-> - [ ] **Urology referral** ถ้า non-glomerular + adult + ≥35 ปี (malignancy workup)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **[IgA nephropathy]:** BP control (ACE-I/ARB เป็น first-line ลด proteinuria); ถ้า proteinuria ยังสูง → fish oil หรือ steroid/immunosuppressant ตาม Oxford classification
-> - [ ] **[FSGS/MN/MPGN]:** ตาม nephrology guidance — steroid, calcineurin inhibitor, rituximab
-> - [ ] **[Post-streptococcal GN]:** Penicillin eradication; steroid ไม่ need ส่วนใหญ่ self-limited
-> - [ ] **[Malignancy-related]:** ส่ง urology สำหรับ definitive management (TUR-BT, nephrectomy ตาม stage)
-> - [ ] **Lifestyle:** stop smoking (ลด bladder cancer risk), hydration, avoid nephrotoxins
->
-
+→ Deeper reasoning: [[Urinary Tract Infection & Pyelonephritis]] · [[Urolithiasis (Renal Colic)]]

@@ -1,86 +1,49 @@
 ---
-title: "STEMI NSTEMI"
+title: "ACS (STEMI / NSTE-ACS) — Admission Orders"
+aliases: ["STEMI NSTEMI", "ACS Orders", "STEMI Orders", "NSTEMI Orders"]
 type: "Standing Order"
 specialty: "Cardiology"
+lang: en
 ward: ["Medicine"]
-related: ["[[STEMI]]", "[[NSTE-ACS (NSTEMI & Unstable Angina)]]"]
+related: ["[[STEMI]]", "[[NSTE-ACS (NSTEMI & Unstable Angina)]]", "[[Post-MI Management]]"]
 tags: [emergency, workflow]
 notion_id: 321224ab-ad81-8058-9451-f6847309c653
 source: notion-migration
-updated: 2026-09-14
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# STEMI NSTEMI
+# ACS (STEMI / NSTE-ACS) — Admission Orders
 
-> 🃏 Order set for [[STEMI]] · [[NSTE-ACS (NSTEMI & Unstable Angina)]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **12-lead ECG within 10 min of arrival.** **STEMI → reperfusion NOW**: primary PCI (door-to-balloon ≤ 90 min) or **fibrinolysis if PCI not available within 120 min**. Give DAPT + anticoagulation early. Nitrates contraindicated in RV infarct / recent PDE5 inhibitor.
 
-> [!question]- What to review
->
-> - **ECG ภายใน 10 นาที** — ดู ST elevation ≥1 mm ใน ≥2 adjacent leads, LBBB ใหม่, ST depression/T-wave inversion (NSTEMI/UA)
-> - **STEMI vs NSTEMI/UA** — STEMI: ST elevation + wall territory; NSTEMI: troponin บวก ไม่มี ST elevation; UA: troponin ลบ มี symptoms/ECG changes
-> - **Symptom onset time** — STEMI: ถ้า ≤12 ชม. → primary PCI; fibrinolysis ถ้า PCI ไม่ได้ใน 120 นาที; >12 ชม. พิจารณา case-by-case
-> - **TIMI Risk Score (NSTEMI)** — ≥3 = high risk → early invasive strategy (PCI ≤24 ชม.)
-> - **Killip class** — I: no CHF; II: rales/S3; III: pulmonary edema; IV: cardiogenic shock — กำหนด hemodynamic management
-> - **Contraindications to fibrinolysis** (ถ้า STEMI + PCI ไม่ได้): recent surgery, stroke <3 เดือน, active bleeding, BP >180/110, trauma
-> - **Vital signs + hemodynamic status** — hypotension + tachycardia = cardiogenic shock; bradycardia + hypotension = inferior STEMI RV involvement
-> - **Renal function** — เพื่อ contrast dosing และ anticoagulant dosing
->
+## 🔴 One Day
+- [ ] **12-lead ECG within 10 min** (repeat q15–30 min if non-diagnostic); **right-sided leads (V3R–V4R)** if inferior STEMI (RV involvement); posterior leads (V7–V9) if suspected
+- [ ] **hs-troponin 0 h + 1 h (or 0/2–3 h) algorithm**; CBC, electrolytes, BUN/Cr (contrast/drug dosing), glucose, coagulation, lipid profile, HbA1c
+- [ ] Continuous ECG monitoring + defibrillator at bedside; BP q15–30 min; O₂ only if **SpO₂ < 90%**
+- [ ] **Aspirin 300 mg PO chewed STAT** (then 81 mg OD)
+- [ ] **P2Y12 inhibitor — ticagrelor 180 mg PO OR prasugrel 60 mg PO** (2025 ACC/AHA: either preferred over clopidogrel; prasugrel avoid if prior stroke/TIA, age ≥ 75, < 60 kg); **clopidogrel 600 mg** if ticagrelor/prasugrel unavailable/contraindicated or fibrinolysis given
+- [ ] **Anticoagulation: enoxaparin or UFH 60 U/kg IV bolus (max ~4000–5000 U) then infusion** (do not combine agents) — per reperfusion strategy
+- [ ] **[STEMI] Reperfusion immediately** — activate cath lab, **primary PCI, door-to-balloon ≤ 90 min**; if PCI not achievable within 120 min → **fibrinolysis** (check contraindications; see [[Fibrinolytic Therapy]]) then transfer for PCI
+- [ ] **[NSTE-ACS] risk-stratify (GRACE/TIMI)** → very-high/high risk → **early invasive (angiography ≤ 24 h)**; high-intensity antithrombotic meanwhile
+- [ ] **High-intensity statin now — atorvastatin 80 mg PO** (or rosuvastatin 20–40 mg)
+- [ ] ISDN 5 mg SL for ongoing pain if SBP > 90 (**avoid in RV infarct / PDE5 inhibitor ≤ 24–48 h**); morphine 2–4 mg IV PRN refractory pain (may blunt P2Y12 absorption)
+- [ ] Echocardiogram (LVEF, wall motion, mechanical complications); CXR
 
+## 🔵 Continuous
+- [ ] Admit CCU/monitored bed — Dx: STEMI / NSTEMI / unstable angina (territory ___, Killip ___)
+- [ ] Continuous rhythm monitoring 24–48 h (VF/VT, AF, AV block); serial ECG (reperfusion/reocclusion); serial troponin (NSTEMI)
+- [ ] **DAPT: aspirin 81 mg OD + ticagrelor 90 mg bid (or prasugrel 10 mg OD / clopidogrel 75 mg OD) for ≥ 12 months** (de-escalation/shortened DAPT or P2Y12 monotherapy ≥ 1 month if high bleeding risk)
+- [ ] **High-intensity statin** → LDL target < 55 mg/dL; **add ezetimibe** (and PCSK9i/other) if LDL ≥ 70 on max statin
+- [ ] **Beta-blocker** (metoprolol succinate 25–50 mg OD / carvedilol) once stable, no shock/bradycardia
+- [ ] **ACE-I/ARB** (ramipril 2.5–10 mg OD) within 24 h if LVEF ≤ 40%, DM, HTN, CKD
+- [ ] **MRA** (eplerenone/spironolactone) if LVEF ≤ 40% + HF or DM
+- [ ] SGLT2 inhibitor if LVEF ≤ 40%/DM per HF pathway; PPI if high GI-bleed risk on DAPT
+- [ ] Complete revascularisation of significant non-culprit lesions (STEMI multivessel) per cardiology; cardiac rehab referral + risk-factor/lifestyle counselling
+- [ ] → Deeper reasoning: [[STEMI]] · [[NSTE-ACS (NSTEMI & Unstable Angina)]] · [[Post-MI Management]]
 
+> [!info]- Why
+> Time-to-reperfusion drives STEMI survival (PCI ≤ 90 min, else fibrinolysis ≤ 120 min). The 2025 ACC/AHA ACS guideline makes **ticagrelor or prasugrel the preferred P2Y12 inhibitor** (clopidogrel if unavailable/with fibrinolysis), DAPT ≥ 12 months default, and high-intensity statin ± ezetimibe to LDL < 55. Beta-blocker/ACE-I/MRA/SGLT2i reduce remodelling and mortality post-MI. Verified vs 2025 ACC/AHA ACS + Thai ACS 2020.
 
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **12-lead ECG stat** — ซ้ำทุก 15–30 นาทีถ้า initial ไม่ชัด; right-sided leads (V3R-V4R) ถ้าสงสัย RV MI (inferior STEMI)
-> - [ ] **Troponin I/T (hs-cTn) stat + 3 ชม.** — 0h/1h หรือ 0h/3h protocol (ESC 2023: hs-cTn 0h/1h/2h algorithm)
-> - [ ] **CK-MB** ถ้า troponin ไม่มี หรือ ใช้ monitor reinfarction
-> - [ ] **CBC, electrolytes, BUN, Cr, glucose**
-> - [ ] **LFT, coagulation** — baseline ก่อน ATB/anticoagulant
-> - [ ] **Lipid profile, HbA1c** — cardiovascular risk factors
-> - [ ] **Echocardiography** — ประเมิน LVEF, wall motion abnormality, mechanical complication (MR, VSD, tamponade)
-> - [ ] **CXR** — pulmonary edema, cardiomegaly
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **MONA + Dual antiplatelet ก่อน PCI:**
-> - [ ] **Aspirin 300 mg PO chew stat** → 75–100 mg PO OD ต่อเนื่อง (loading dose สำคัญ)
-> - [ ] **Ticagrelor 180 mg PO stat** → 90 mg PO bid (preferred; AHA/ESC 2022) หรือ Clopidogrel 600 mg stat → 75 mg OD ถ้า Ticagrelor ไม่ได้
-> - [ ] **Anticoagulation:** Enoxaparin 0.5 mg/kg IV bolus (UFH 60–70 unit/kg bolus max 5,000 U ก็ได้) — ห้ามใช้ร่วมกัน
-> - [ ] **Isosorbide dinitrate (ISDN) 5 mg SL** ถ้ายังมี chest pain + SBP >90 mmHg — ห้ามถ้า RV MI, ใช้ PDE5i ใน 24–48 ชม.
-> - [ ] **Morphine 2–5 mg IV prn** ถ้า pain ไม่ตอบสนอง — ระวัง hypotension + platelet aggregation ลดดูดซึม P2Y12 inhibitor
-> - [ ] **O₂** 2–4 LPM ถ้า SpO₂ <90%
-> - [ ] **Monitor:** continuous ECG, BP ทุก 15–30 นาที; เตรียม defibrillator
-> - [ ] **[STEMI]** ส่ง cath lab โดยเร็ว → door-to-balloon ≤90 นาที (ESC/AHA 2022)
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Serial ECG** — ดู reperfusion (ST resolution ≥50%), reocclusion, arrhythmia
-> - [ ] **Serial troponin** ถ้า NSTEMI — peak ≥ 24–48 ชม.
-> - [ ] **Echo post-PCI** — ประเมิน LVEF เป็นทางการ
-> - [ ] **Monitor rhythm** ต่อเนื่อง 24–48 ชม. (VF, VT, AF, AV block)
-> - [ ] **Renal function** หลัง contrast
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Dual antiplatelet therapy (DAPT):** Aspirin 81–100 mg OD + Ticagrelor 90 mg bid (หรือ Clopidogrel 75 mg OD) ต่อเนื่อง **12 เดือน** หลัง ACS (AHA/ESC 2022)
-> - [ ] **High-intensity statin:** Atorvastatin 40–80 mg OD — เริ่มทันที, เป้า LDL <55 mg/dL (ESC 2019 very high risk)
-> - [ ] **Beta-blocker:** Metoprolol succinate 25–50 mg OD หรือ Carvedilol 3.125 mg bid — เริ่มเมื่อ stable, ลด remodeling
-> - [ ] **ACE-I/ARB:** Ramipril 2.5–10 mg OD — ถ้า LVEF ≤40%, DM, HTN, CKD (เริ่มภายใน 24 ชม.ถ้า stable)
-> - [ ] **MRA (Eplerenone/Spironolactone)** — ถ้า LVEF ≤40% + HF หรือ DM
-> - [ ] **Anticoagulation** ต่อถ้า AF, LV thrombus, หรือตาม cardiologist
-> - [ ] **Proton pump inhibitor** — ถ้า high GI bleeding risk + DAPT
-> - [ ] **Cardiac rehab referral + lifestyle counseling**
->
-
+→ Deeper reasoning: [[STEMI]] · [[NSTE-ACS (NSTEMI & Unstable Angina)]]

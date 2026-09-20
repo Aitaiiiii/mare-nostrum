@@ -1,60 +1,38 @@
 ---
-title: "Post-op Laparoscopic Cystectomy"
+title: "Post-op Laparoscopic Cystectomy — Orders"
+aliases: ["Post-op Laparoscopic Cystectomy", "Laparoscopic Ovarian Cystectomy Post-op", "Post-laparoscopy Cystectomy Orders"]
 type: "Standing Order"
-specialty: "General"
+specialty: "Obstetrics"
+lang: en
 ward: ["OB-GYN"]
+related: ["[[Post-op Myomectomy - Cystectomy]]", "[[Pre-op GYN Surgery]]", "[[Ovarian Torsion]]"]
 tags: [workflow]
 notion_id: 3d5224ab-ad81-816b-94c5-cc7ff01dd295
 source: notion-migration
-updated: 2026-09-14
+created: 2026-07-09
+updated: 2026-09-20
 ---
 
-# Post-op Laparoscopic Cystectomy
+# Post-op Laparoscopic Cystectomy — Orders
 
-- **ชนิด/ขนาด cyst + ผล intra-op** — dermoid, endometrioma, simple cyst; มี spillage หรือไม่
-- **Ovarian tissue ที่เหลือ** — ประเมิน ovarian reserve ถ้าคนไข้อายุน้อย
-- **ส่งชิ้นเนื้อ patho ทุกราย**
-- **Post-laparoscopy** — ปวดไหล่จาก CO2, ileus; encourage ambulate เร็ว
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Referred shoulder-tip pain from residual CO₂ is expected — but new/worsening abdominal pain, distension, tachycardia, or a falling Hct suggests intra-abdominal bleeding or bowel/vascular injury — reassess urgently.** Encourage early ambulation (ileus + VTE). **Send cyst specimen for histopathology in every case.** Preserve ovarian reserve in young patients; note any intra-op spillage.
 
+## 🔴 One Day
+- [ ] Note cyst type/size + intra-op findings (dermoid / endometrioma / simple cyst; spillage?); assess residual ovarian tissue/reserve if young
+- [ ] Routine post-op care; **observe bleeding per vagina + abdominal signs**; **send specimen for histopathology**
+- [ ] **IV: Acetar 1000 mL IV at 120 mL/h**; retain Foley catheter
+- [ ] Diet: sips at ward → **soft diet by evening** as tolerated (laparoscopy — fast return of bowel function)
+- [ ] **Morphine 3 mg IV q6h PRN** for pain; **metoclopramide 10 mg IV q8h PRN** for nausea (post-op / CO₂)
 
+## 🔵 Continuous
+- [ ] Record vital signs + I/O; continue diet as tolerated
+- [ ] Once awake + tolerating oral → **off IV + remove Foley; promote ambulation**
+- [ ] **Amoxicillin-clavulanate 1 g PO bid ×  ___ days** (#14) per protocol
+- [ ] **Paracetamol 500 mg PO q6h PRN** (#20) ± NSAID if no contraindication
+- [ ] Discharge advice: return for fever, worsening abdominal pain, or heavy bleeding; follow-up OPD Gynae + histology result
 
+> [!info]- Why
+> Laparoscopic cystectomy allows rapid recovery (early feeding, ambulation, Foley removal), so orders lean minimal-IV/opioid-sparing; the vigilance points are recognizing the difference between benign CO₂ shoulder pain and true intra-abdominal complications (bleeding, visceral injury), and never omitting histology to exclude malignancy. Verified vs AAGL/gynaecology laparoscopy standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Observe bleeding per vagina**
-> - [ ] **Observe abdominal signs**
-> - [ ] **ส่งชิ้นเนื้อ patho**
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Routine post-op care**
-> - [ ] **Acetar 1,000 mL IV rate 120 mL/hr**
-> - [ ] **Retain Foley's catheter**
-> - [ ] **จิบน้ำ at ward → soft diet มื้อเย็น**
-> - [ ] **MO 3 mg IV prn q6h**
-> - [ ] **Plasil 10 mg IV prn q8h**
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Record vital signs, I/O**
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Diet as one-day order**
-> - [ ] **ตื่นดี กินได้ → off IV + off Foley, promote ambulation**
-> - [ ] **Augmentin (1g) 1×2 PO pc #14**
-> - [ ] **Paracetamol (500) 1 tab PO prn q6h #20**
->
-
+→ Related: [[Post-op Myomectomy - Cystectomy]] · [[Pre-op GYN Surgery]]

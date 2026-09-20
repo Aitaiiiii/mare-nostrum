@@ -1,84 +1,40 @@
 ---
-title: "SLE"
+title: "SLE Flare — Admission Orders"
+aliases: ["SLE", "SLE Orders", "Lupus Flare Orders"]
 type: "Standing Order"
 specialty: "Rheumatology"
+lang: en
 ward: ["Medicine"]
 related: ["[[Systemic Lupus Erythematosus (SLE)]]"]
-tags: [workflow]
-notion_id: 321224ab-ad81-80b3-b195-dc9ee7030bba
+tags: [workflow, emergency]
+notion_id: sle-orders-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# SLE
+# SLE Flare — Admission Orders
 
-> 🃏 Order set for [[Systemic Lupus Erythematosus (SLE)]]
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Infection mimics and precipitates a lupus flare — always screen for infection before escalating immunosuppression** (an unwell lupus patient on steroids may be septic, not flaring). **Continue hydroxychloroquine.** Identify severe/organ-threatening involvement (nephritis, CNS, haematological, alveolar haemorrhage) → urgent immunosuppression + specialist.
 
-> [!question]- What to review
->
-> - **SLEDAI-2K Score** — activity index; ≥6 = active disease; domain: CNS (seizure, psychosis), vascular (vasculitis), musculoskeletal, renal (proteinuria, hematuria, casts), skin, serosal, immunology, hematologic
-> - **Organ involvement ครั้งนี้** — รุนแรงที่สุดมักกำหนด treatment: lupus nephritis class (biopsy-based) vs neuropsychiatric vs hematologic crisis
-> - **Flare vs new presentation** — ยาที่ใช้อยู่ (HCQ dose, steroid, immunosuppressant), compliance
-> - **Infection mimicry** — SLE flare อาจ mimic infection (fever, leukopenia); ต้องแยก sepsis ก่อน treat aggressively ด้วย immunosuppression
-> - **ยาที่อาจทำให้ drug-induced lupus (DILE)** — hydralazine, procainamide, isoniazid, minocycline → antihistone Ab positive
-> - **ACR/EULAR 2019 Classification Criteria** — score ≥10 + ANA positive = SLE (sensitivity 96%, specificity 93%)
-> - **Comorbidities** — antiphospholipid syndrome (aPL: APLA, anti-β2GPI, lupus anticoagulant), atherosclerosis risk, osteoporosis (chronic steroid)
->
+## 🔴 One Day
+- [ ] Assess disease activity + **organ involvement**: renal (urinalysis, protein:creatinine, active sediment → lupus nephritis), CNS (neuropsychiatric), haematological (cytopenias/haemolysis — DAT, retic, LDH, haptoglobin), serositis, alveolar haemorrhage, cardiac
+- [ ] Labs: CBC, renal/liver function, **urinalysis + urine protein:creatinine**, **complement (C3/C4 — low in active), anti-dsDNA (rising in flare)**, ESR/CRP (CRP disproportionately high suggests infection), coagulation
+- [ ] **Screen for infection** (cultures, CXR, urine ± viral) — distinguish flare from infection before escalating
+- [ ] **Continue hydroxychloroquine**; treat by severity:
+  - Mild-moderate → NSAID/low-dose steroid ± hydroxychloroquine optimisation
+  - **Severe/organ-threatening → high-dose corticosteroid (e.g. IV methylprednisolone pulse)** + **induction immunosuppression (mycophenolate or cyclophosphamide; ± rituximab/belimumab)** per organ (lupus nephritis, CNS, severe cytopenia) — rheumatology/nephrology led
+- [ ] Supportive: BP control (renal), analgesia, VTE risk (antiphospholipid — check aPL/anticoagulate if thrombosis)
 
+## 🔵 Continuous
+- [ ] Admit — Dx: SLE flare (organ involvement ___); rule in/out infection
+- [ ] Monitor organ response (renal function/proteinuria, counts, complement/dsDNA trend); adjust immunosuppression
+- [ ] **Infection prophylaxis/vaccination** as appropriate on immunosuppression (e.g. PJP prophylaxis with high-dose steroid/cyclophosphamide); bone/GI protection with steroids
+- [ ] Renal biopsy for lupus nephritis classification (guides therapy); rheumatology follow-up + steroid taper + maintenance immunosuppression
+- [ ] Address triggers (sun exposure, non-adherence, drugs, infection); patient education
 
+> [!info]- Why
+> The pivotal decision in an unwell lupus patient is flare vs infection (they look alike and immunosuppression is opposite treatment for each) — hence the infection screen and the CRP/complement pattern. Hydroxychloroquine is continued for all; organ-threatening disease needs prompt high-dose steroid + induction immunosuppression with prophylaxis against opportunistic infection. Verified vs EULAR/ACR SLE + lupus nephritis guidance.
 
-
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **ANA titer + pattern** (ถ้ายังไม่ได้ baseline)
-> - [ ] **Anti-dsDNA** — specific for SLE + correlates with disease activity
-> - [ ] **Anti-Sm** — highly specific (30%) แต่ไม่ correlate with activity
-> - [ ] **Complement C3, C4** — ลดใน active SLE (immune complex consumption); CH50
-> - [ ] **CBC with differential** — leukopenia (<4000), lymphopenia (<1000), hemolytic anemia, thrombocytopenia
-> - [ ] **Direct Coombs test** ถ้าสงสัย AIHA
-> - [ ] **Urinalysis + urine protein:creatinine ratio** — proteinuria (>500 mg/day หรือ PCR >0.5 = nephritis); RBC casts (active nephritis)
-> - [ ] **BUN, Cr, electrolytes** — renal function
-> - [ ] **LFT, albumin** — hepatic involvement, nutritional status
-> - [ ] **CXR** — serositis (pleural effusion), infection
-> - [ ] **aPL antibodies (aCL IgG/IgM, anti-β2GPI, Lupus anticoagulant)** — APS workup
-> - [ ] **Renal biopsy** ถ้า proteinuria >500 mg/day หรือ hematuria + casts (classify lupus nephritis ISN/RPS 2003)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Hydroxychloroquine (HCQ) 5 mg/kg/day PO** (max 400 mg/day) — ทุก SLE ผู้ป่วย ถ้าไม่มี contraindication; ลด flare, ลด mortality (ACR 2019)
-> - [ ] **[Mild-moderate flare] Prednisolone 0.5–1 mg/kg/day PO** — skin, arthritis, serositis
-> - [ ] **[Severe/organ-threatening] Methylprednisolone pulse 500–1000 mg IV ทุกวัน x 3 วัน** → Prednisolone 1 mg/kg/day PO — nephritis class III/IV, neuropsychiatric, hematologic crisis
-> - [ ] **[Lupus nephritis class III/IV] Induction:** Methylprednisolone pulse + **MMF 2–3 g/day PO** (หรือ Cyclophosphamide IV monthly Eurolupus protocol) — ACR/EULAR 2019
-> - [ ] **[NPSLE]:** pulse steroid + Cyclophosphamide ถ้า myelopathy/psychosis/severe NP
-> - [ ] **Infection prophylaxis:** TMP-SMX DS 1 tab 3x/week ถ้า Cyclophosphamide/high dose steroid (PCP prophylaxis)
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Anti-dsDNA + C3/C4** ทุก 1–3 เดือน ระหว่าง active disease — monitor flare
-> - [ ] **CBC, BUN, Cr, UPCr** ทุก 1–3 เดือน ถ้า lupus nephritis
-> - [ ] **Fasting glucose, lipid profile** — steroid-induced DM/dyslipidemia
-> - [ ] **DEXA bone density** ≥3 เดือนหลัง steroid — osteoporosis surveillance
-> - [ ] **Ophthalmology screen** ทุกปีถ้าใช้ HCQ >5 ปี (retinopathy risk)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Steroid taper** เมื่อ disease control — ลด 10–20% ทุก 2–4 สัปดาห์; เป้า ≤7.5 mg/day ระยะยาว
-> - [ ] **Maintenance immunosuppression [LN]:** **MMF 1–2 g/day** (preferred) หรือ Azathioprine 2 mg/kg/day x ≥3 ปี (ACR/EULAR 2019)
-> - [ ] **Belimumab (anti-BAFF)** — ถ้า active disease แม้ standard therapy (biologic option; ให้ร่วมกับ standard of care)
-> - [ ] **Voclosporin + MMF** — ตัวเลือกใหม่สำหรับ active LN (AURORA trial 2021)
-> - [ ] **[APS] Anticoagulation:** Warfarin (INR 2–3) ถ้ามี thrombosis; Aspirin 81 mg ถ้า aPL positive ไม่มี thrombosis
-> - [ ] **Bone protection:** Calcium 1000–1500 mg/day + Vitamin D 800 IU/day; Bisphosphonate ถ้า osteoporosis
-> - [ ] **Cardiovascular risk management:** statin, BP control, smoking cessation
->
-
+→ Deeper reasoning: [[Systemic Lupus Erythematosus (SLE)]]

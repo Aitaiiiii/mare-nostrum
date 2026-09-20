@@ -1,71 +1,39 @@
 ---
-title: "Pre-op / Post-op Orthopaedics"
+title: "Orthopaedic Surgery Pre-op / Post-op — Orders"
+aliases: ["Pre-op - Post-op Orthopaedics", "Orthopaedic Peri-op Orders"]
 type: "Standing Order"
 specialty: "General"
+lang: en
 ward: ["Orthopedics"]
+related: ["[[Fracture - Bone - Tendon Injury]]", "[[VTE (DVT & Pulmonary Embolism)]]", "[[Pain control]]"]
 tags: [workflow]
-notion_id: 389224ab-ad81-81a4-aecd-c01af291bf2f
+notion_id: preop-postop-ortho-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Pre-op / Post-op Orthopaedics
+# Orthopaedic Surgery Pre-op / Post-op — Orders
 
-- **Type of procedure:** joint replacement (hip/knee TKR/THA), spine surgery, ORIF, arthroscopy
-- **Anticoagulation bridging:** hold warfarin 5 days pre-op; DOAC 1-2 days; restart 12-24h post-op (LMWH bridge if high VTE risk + warfarin held)
-- **VTE risk (ortho):** THA/TKR = highest risk → LMWH + TED stocking mandatory หลัง op
-- **Blood conservation:** preoperative Hb target >10 g/dL สำหรับ major ortho; TXA ลด blood loss (ถ้า surgeon ให้ใช้)
-- **Periprosthetic joint infection (PJI) prevention:** ATB prophylaxis + sterile technique; DM control HbA1c <7% pre-elective
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to the operation, surgeon, and patient. **VTE risk is high in orthopaedics — prescribe thromboprophylaxis.** Document + monitor **neurovascular status** and watch for **compartment syndrome** post-op. **Hip fracture in the elderly → surgery within ~36–48 h** + medical optimisation, not prolonged delay.
 
+## 🔴 Pre-op (One Day)
+- [ ] Confirm consent, site marking, fasting; **group & save/crossmatch** (arthroplasty/major); baseline labs (CBC, coagulation, U&E, glucose), ECG per age/comorbidity
+- [ ] **Analgesia + immobilisation/traction** as indicated; neurovascular exam documented
+- [ ] **Antibiotic prophylaxis at induction** (e.g. cefazolin — within 60 min of incision); tetanus prophylaxis for open injury
+- [ ] Optimise medically (anaemia, glycaemia, anticoagulation plan); **hip fracture (elderly) → orthogeriatric optimisation + surgery within ~36–48 h**
+- [ ] VTE risk assessment; imaging available in theatre
 
+## 🔵 Post-op (Continuous)
+- [ ] Admit ortho ward — procedure ___; **vital signs + neurovascular checks of the operated limb** (pulses, sensation, motor, cap refill); **watch for compartment syndrome (pain out of proportion → urgent surgical review/fasciotomy)**
+- [ ] **Multimodal analgesia** (paracetamol ± NSAID + opioid PRN ± regional block — see [[Pain control]])
+- [ ] **VTE prophylaxis** (mechanical + pharmacological — e.g. LMWH/DOAC per protocol and bleeding risk; extended for hip/knee arthroplasty)
+- [ ] Wound/drain care; check post-op X-ray/position; monitor Hb (blood loss)
+- [ ] **Early mobilisation + physiotherapy**; DVT/pressure-area care; glycaemic control
+- [ ] Discharge planning: rehab, weight-bearing status, wound care, follow-up, thromboprophylaxis duration
 
+> [!info]- Why
+> Orthopaedic peri-operative care centres on infection prophylaxis (timed antibiotic), high VTE risk (thromboprophylaxis + early mobilisation), neurovascular/compartment monitoring, and — for fragility hip fractures — prompt surgery with medical optimisation to reduce mortality. Verified vs orthopaedic peri-op / hip-fracture (NICE/AAOS) standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, BUN/Cr, electrolytes, glucose** — pre-op baseline
-> - [ ] **PT/INR, aPTT, platelet** — coagulation check
-> - [ ] **Blood group + crossmatch** (T&S for arthroscopy; T&C 2 units for THA/TKR/ORIF femur)
-> - [ ] **HbA1c** ถ้า DM — infection + wound healing risk
-> - [ ] **CXR, ECG** ถ้าอายุ >45
-> - [ ] **MRSA screening swab** ถ้า high-risk — nasal + groin swab
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **NPO: solid food 8h, clear liquid 2h pre-op**
-> - [ ] **Pre-op prophylactic ATB (60 min before incision):**
->     - **Cefazolin 2 g IV** — routine (covers MSSA + Strep)
->     - MRSA carrier: **+ Vancomycin 1.5 g IV** 2h before
->     - Repeat Cefazolin if surgery >3h หรือ blood loss >1.5L
-> - [ ] **TXA (Tranexamic Acid)** ถ้า surgeon order: 15 mg/kg IV pre-incision + 3h post (THA/TKR protocol)
-> - [ ] **TED stocking + pneumatic compression** pre-op
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC day 1 post-op** — Hb drop (acceptable 2-4 g/dL); transfuse ถ้า Hb <8 + symptomatic หรือ <7
-> - [ ] **Wound check daily** — erythema, serous/haematoserous discharge
-> - [ ] **X-ray post-op day 1** — implant position confirmation
-> - [ ] **ถ้า fever day 3+:** CBC + CRP + ESR (PJI work-up)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **VTE prophylaxis — MANDATORY หลัง THA/TKR:**
->     - **Enoxaparin 40 mg SC OD** — เริ่ม 12h post-op x 14 วัน (TKR) หรือ 28-35 วัน (THA)
->     - หรือ Rivaroxaban 10 mg PO OD ถ้าใช้ DOAC
-> - [ ] **Multimodal analgesia (ERAS ortho):**
->     - Paracetamol 1g q6h + Celecoxib 200 mg BID (selective COX-2 — safe for bone healing)
->     - Tramadol/Opioid PRN
-> - [ ] **Calcium 1000 mg + Vit D 800 IU OD** — bone health
-> - [ ] **Early physiotherapy day 1** — ROM exercises + partial weight-bearing (per surgeon)
->
-
+→ Deeper reasoning: [[Fracture - Bone - Tendon Injury]]

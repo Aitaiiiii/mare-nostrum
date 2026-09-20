@@ -1,86 +1,41 @@
 ---
-title: "Pre-op GYN Surgery"
+title: "Pre-op GYN Surgery — Orders"
+aliases: ["Pre-op GYN Surgery", "Gynaecology Pre-op Orders", "Pre-op Hysterectomy Orders"]
 type: "Standing Order"
-specialty: "General"
+specialty: "Obstetrics"
+lang: en
 ward: ["OB-GYN"]
+related: ["[[Abdominal Surgery Pre-op & Post-op]]", "[[Post-op Myomectomy - Cystectomy]]", "[[Post-op Laparoscopic Cystectomy]]"]
 tags: [workflow]
 notion_id: 389224ab-ad81-8124-bdec-d2200fcbd004
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-20
 ---
 
-# Pre-op GYN Surgery
+# Pre-op GYN Surgery — Orders
 
-- **Procedure type:** total hysterectomy (TAH/TLH), myomectomy, ovarian cystectomy, D&C, laparoscopy
-- **Indication:** fibroid (menorrhagia, bulk symptoms), endometriosis, ovarian cyst (dermoid, endometrioma), malignancy
-- **Malignancy prep:** oncology consult; CT staging; CA-125, CEA if ovarian; bowel prep ถ้า bowel involvement
-- **Expected blood loss:** hysterectomy 200-500 mL; myomectomy (fibroid size-dependent); crossmatch ถ้า Hb <10 + major surgery
-- **VTE risk:** GYN surgery (especially pelvic) has moderate-high VTE risk — LMWH mandatory
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Prophylactic antibiotic within 60 min BEFORE incision** (hysterectomy — vaginal cuff/bowel flora). **Pelvic gynae surgery is moderate-to-high VTE risk — mechanical prophylaxis + risk-based LMWH are mandatory** (extend to 28 days for cancer surgery). **Hold estrogen (OCP/HRT) ~4 weeks pre-op** to reduce VTE. If malignancy suspected — oncology input, staging imaging, tumour markers, and blood availability before theatre.
 
+## 🔴 One Day (pre-op)
+- [ ] Confirm procedure (TAH/TLH, myomectomy, ovarian cystectomy, D&C, laparoscopy) + indication (fibroid, endometriosis, cyst, malignancy); consent + site
+- [ ] Labs: **CBC, BUN/Cr, electrolytes; PT/INR, aPTT, platelets; blood group + screen** (crossmatch ≥ 2 units for major surgery/anaemia); LFT if hepatic disease/malignancy; **CXR + ECG if age > 45**
+- [ ] If malignancy suspected: **CA-125 (± CA19-9, CEA); pelvic ultrasound; CT abdomen-pelvis** (nodes, ascites, metastases); oncology consult
+- [ ] **NPO: solids ≥ 6–8 h, clear liquids ≥ 2 h before induction**
+- [ ] **Prophylactic antibiotic 60 min before incision: cefazolin 2 g IV** (add **metronidazole 500 mg IV** if bowel involvement/contaminated; many units use ceftriaxone 2 g + metronidazole 500 mg IV for major cases)
+- [ ] **Bowel prep only if bowel involvement anticipated** (mechanical ± oral antibiotic per protocol)
+- [ ] **VTE prophylaxis:** TED stockings + intermittent pneumatic compression from pre-op; **hold OCP/HRT ~4 weeks pre-op**
+- [ ] Correct electrolytes on the evening before + morning of surgery if abnormal (K < 3.5 → KCl-supplemented fluid; Na < 135 → normal saline base); notify if abnormal
 
+## 🔵 Continuous (post-op)
+- [ ] Labs day 1: **CBC** (Hb drop — transfuse if Hb < 8 + symptomatic); **wound + drain check daily**; follow up **histopathology** (malignancy → oncology referral)
+- [ ] **Multimodal analgesia:** paracetamol 1 g IV/PO q6h + NSAID (diclofenac/ketorolac) + tramadol PRN — see [[Pain control]]
+- [ ] **VTE prophylaxis: enoxaparin 40 mg SC OD** starting 6–12 h post-op; **extend to 28 days for cancer surgery** (per ASCO); continue mechanical prophylaxis
+- [ ] **ERAS: early oral** (clear liquids ~4 h, soft diet day 1); **remove Foley 12–24 h post-op**
+- [ ] Post-hysterectomy in pre-menopausal women — discuss HRT (surgical menopause) with the OB-GYN team
 
+> [!info]- Why
+> Elective gynae surgery outcomes hinge on infection prevention (timed prophylaxis against vaginal/bowel flora), VTE prevention (pelvic surgery + malignancy raise risk, so mechanical + pharmacological prophylaxis and estrogen cessation matter), adequate blood availability, and — when cancer is possible — proper staging before theatre. ERAS then drives recovery. Verified vs ACOG/ASCO/ERAS gynaecology peri-op standards.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC, BUN/Cr, electrolytes** — surgical baseline
-> - [ ] **PT/INR, aPTT, platelet**
-> - [ ] **Blood group + crossmatch** (T&S minor; T&C 2 units major/anemia)
-> - [ ] **LFT** ถ้า hepatic disease or malignancy
-> - [ ] **CXR, ECG** ถ้าอายุ >45
-> - [ ] **CA-125, CA19-9, CEA** ถ้าสงสัย ovarian malignancy (pre-op)
-> - [ ] **U/S pelvis** — ยืนยัน pathology, uterine size, ovarian morphology
-> - [ ] **CT abdomen-pelvis** ถ้าสงสัย malignancy — lymph node, ascites, metastasis
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **NPO: solid food 8h, clear liquid 2h pre-op**
-> - [ ] **Pre-op prophylactic ATB (60 min before):**
->     - **Ceftriaxone 2 g IV + Metronidazole 500 mg IV** — นำไป OR (as-used, major case)
->     - 
->         - **Metronidazole 500 mg IV** ถ้า contaminated หรือ bowel involved
-> - [ ] **Bowel prep** ถ้า bowel involvement: Polyethylene glycol (PEG) 2-4L PO evening before
-> - [ ] **TED stocking + pneumatic compression** pre-op
-> - [ ] **Hold OCP/HRT ≈4 weeks pre-op** — VTE risk
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CBC day 1 post-op** — Hb drop; transfuse ถ้า Hb <8 + symptomatic
-> - [ ] **Wound + drain check daily**
-> - [ ] **Pathology result** — follow up; malignancy → oncology referral
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Multimodal analgesia:**
->     - Paracetamol 1 g IV/PO q6h + Diclofenac/Ketorolac
->     - Tramadol PRN
-> - [ ] **Enoxaparin 40 mg SC OD** — VTE prophylaxis เริ่ม 6-12h post-op; 28 วัน ถ้า malignancy หรือ high-risk (ASCO guideline)
-> - [ ] **Early oral (ERAS)** — clear liquid 4h; soft diet day 1; remove NGT early
-> - [ ] **Foley removal** 12-24h post-op (ERAS)
-> - [ ] **HRT discussion** post-hysterectomy ถ้า pre-menopausal (premature menopause) — ทีมแพทย์ OB-GYN แนะนำ
->
-> <aside>
-> 🧾
->
-> **Prep Bowel Protocol — major case (TAH+BSO / staging) · as-used**
->
-> - [ ] **NPO after midnight คืนก่อนผ่า; clear liquid diet 1 วันก่อนผ่า**
-> - [ ] **Unison enema 1 bulb rectal ก่อนนอน + เช้าวันผ่าตัด**
-> - [ ] **ORS 5 ซองผสมน้ำ ดื่มเรื่อยๆ หลังเริ่มถ่าย; ถ้าเพลียมาก → 5%DN/2 1,000 mL IV rate 100 mL/hr จนถึงเช้าวันผ่า (ถ้าปกติเริ่มหลังเที่ยงคืน)**
-> - [ ] **Vaginal douche ก่อนนอน + เช้าวันผ่าตัด**
-> - [ ] **Ceftriaxone 2 g + Metronidazole 500 mg IV นำไป OR; retain Foley's catheter**
-> - [ ] **เตรียมเลือด G/M PRC 4 U, FFP 4 U, SDP 1 U**
-> - [ ] **Electrolyte 20.00 น. วันก่อนผ่า + 05.00 น. เช้าวันผ่า (ขอผลด่วน):** K < 3.5 → 5%DN/2 1,000 mL + KCl 40 mEq rate 100 mL/hr · Na < 135 → เปลี่ยนเป็น 0.9% NSS 1,000 mL rate เดิม (ถ้า K ต่ำร่วม add KCl 40 mEq/L) · lab ผิดปกติ notify แพทย์เวร
-> </aside>
->
-
+→ Related: [[Abdominal Surgery Pre-op & Post-op]] · [[Post-op Myomectomy - Cystectomy]]

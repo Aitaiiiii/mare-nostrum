@@ -1,72 +1,38 @@
 ---
-title: "Infected CAPD"
+title: "PD Peritonitis (Infected CAPD) — Orders"
+aliases: ["Infected CAPD", "PD Peritonitis Orders", "CAPD Peritonitis Orders"]
 type: "Standing Order"
 specialty: "Nephrology"
+lang: en
 ward: ["Medicine"]
-tags: [workflow]
-notion_id: 389224ab-ad81-8195-b0e5-e0e6a7fcde91
+related: ["[[Chronic Kidney Disease (CKD)]]", "[[Sepsis (Sepsis-3)]]"]
+tags: [workflow, emergency]
+notion_id: infected-capd-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Infected CAPD
+# PD Peritonitis (Infected CAPD) — Orders
 
-- **Peritonitis vs Exit-site/Tunnel infection** — peritonitis: cloudy effluent + abdominal pain + effluent WBC >100 cells/μL (>50% PMN); exit-site: erythema/discharge ที่ exit; tunnel: เจ็บ/บวมตาม catheter tract
-- **ISPD criteria for peritonitis (ครบ 2/3):** (1) abdominal pain/cloudy effluent, (2) effluent WBC >100/μL with >50% PMN, (3) positive effluent culture
-- **Organisms** — Gram-positive (60–70%): CoNS (touch contamination), S. aureus (exit-site/tunnel), Strep; Gram-negative (15–30%): E. coli, Pseudomonas (line touch/contamination/GI); Fungal (2–10%): Candida (previous ATB, bowel perforation) → ต้อง remove catheter
-- **Severity** — severe: fever >38.5°C, hemodynamically unstable, refractory peritonitis, fungal/Pseudomonas
-- **Previous episodes/organisms** — recurrent peritonitis (same organism) = catheter removal indicated
-- **Remaining renal function** — กระทบ ATB dosing (IP dosing)
-- **ยา allergy** — กำหนด ATB choice สำหรับ IP therapy
+> [!danger] ⚠️ SAFETY
+> Reference only; follow local/ISPD protocol and the attending. **Diagnosis: cloudy PD effluent + abdominal pain + effluent WBC > 100/µL with > 50% neutrophils.** **Intraperitoneal (IP) antibiotics are first-line** (better than IV for PD peritonitis). Send effluent culture BEFORE antibiotics. Refractory/fungal/refractory-relapsing → catheter removal.
 
+## 🔴 One Day
+- [ ] **Send PD effluent for cell count + differential, Gram stain, and culture** (inoculate blood-culture bottles) BEFORE antibiotics; blood cultures if systemically unwell
+- [ ] **Diagnosis: effluent WBC > 100/µL with ≥ 50% polymorphs** (+ cloudy bag ± abdominal pain)
+- [ ] **Empiric intraperitoneal antibiotics (cover Gram-positive + Gram-negative): vancomycin (or a 1st-gen cephalosporin) + ceftazidime (or an aminoglycoside)** — dose per ISPD (continuous vs intermittent in a PD dwell); adjust to local antibiogram
+- [ ] Examine exit site/tunnel (concurrent infection); assess for sepsis/surgical abdomen (secondary peritonitis)
+- [ ] Analgesia; may add heparin to bags for fibrin; adjust dialysis prescription as needed
 
+## 🔵 Continuous
+- [ ] Admit/manage — Dx: PD-associated peritonitis (organism ___)
+- [ ] **De-escalate on culture/sensitivity**; typical duration **2 weeks** (3 weeks for *S. aureus*/*Pseudomonas*/severe)
+- [ ] Repeat effluent cell count at ~48–72 h to confirm response (falling WBC)
+- [ ] **Catheter removal for:** refractory peritonitis (no improvement at 5 days), relapsing peritonitis, **fungal peritonitis**, refractory exit-site/tunnel infection, or faecal/secondary peritonitis (→ surgery)
+- [ ] **Antifungal prophylaxis** during the antibiotic course (reduces fungal peritonitis); nephrology/PD-nurse involvement; PD-technique re-education
 
+> [!info]- Why
+> PD peritonitis is diagnosed on the effluent cell count and treated with intraperitoneal antibiotics (delivered directly to the infected peritoneum), empirically covering both Gram-positive and Gram-negative until culture guides de-escalation. Catheter removal is needed for organisms/courses that won't clear with the catheter in situ (biofilm), especially fungal. Verified vs ISPD peritonitis guidelines.
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **CAPD effluent cell count + differential** — WBC >100/μL + >50% PMN = peritonitis; เก็บ bag แรกที่ขุ่น
-> - [ ] **CAPD effluent Gram stain + culture and sensitivity (C/S)** — เก็บ 50 mL effluent centrifuge → เพิ่ม sensitivity
-> - [ ] **Blood culture x2** ถ้า fever หรือ hemodynamically unstable
-> - [ ] **CBC, electrolytes, BUN, Cr** — renal function + inflammation
-> - [ ] **Serum glucose** ถ้า DM (peritonitis เพิ่ม glucose absorption)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Empirical intraperitoneal (IP) ATB — ใส่ใน CAPD bag:**
->     - **Cefazolin 1 g IP ใน 1st exchange** → 250 mg IP ต่อทุก bag (Gram-positive coverage)
->     - **+ Ceftazidime 1.5 g IP ใน 1st exchange** → 125 mg IP ต่อทุก bag (Gram-negative coverage)
->     - (ISPD 2022 guideline: Cefazolin + Ceftazidime เป็น first-line empirical IP therapy)
-> - [ ] **หรือ Gentamicin 8 mg/L IP** ถ้า Pseudomonas risk + ไม่มี Ceftazidime
-> - [ ] **ไม่ต้อง NPO ยกเว้น** severe peritonitis หรือ surgical abdomen สงสัย
-> - [ ] **Heparin 500 units/L** ใน CAPD bag ถ้า fibrin clot/cloudy มาก — ป้องกัน catheter obstruction
-> - [ ] **ยาแก้ปวด** Paracetamol 500–1000 mg q6h prn; Morphine ถ้า severe
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **Repeat effluent cell count 48–72 ชม.** — เป้า WBC ลดลง >50% = responding; ถ้าไม่ลด → ปรับ ATB, consider secondary peritonitis (bowel perforation), catheter removal
-> - [ ] **ติดตาม effluent C/S result** — de-escalate ตาม organism
-> - [ ] **Repeat effluent culture** ก่อนหยุด ATB (ISPD 2022)
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **De-escalate IP ATB ตาม culture:**
->     - CoNS → Cefazolin IP ต่อ
->     - MRSA → **Vancomycin 1 g IP สัปดาห์ละครั้ง** (ปรับตาม serum vancomycin trough)
->     - Pseudomonas → Ceftazidime IP + ± Ciprofloxacin PO (double coverage ≥21 วัน)
->     - Fungal (Candida) → **Fluconazole PO + CAPD catheter removal ทันที** (ISPD 2022)
-> - [ ] **ระยะเวลา IP ATB:** Gram-positive = 14 วัน; Gram-negative = 21 วัน; S. aureus = 21 วัน; Pseudomonas/fungal = ≥21 วัน
-> - [ ] **Catheter removal indications:** fungal, Pseudomonas (refractory), recurrent same-organism peritonitis, refractory peritonitis (ไม่ดีขึ้นใน 5 วัน), exit-site + tunnel infection ร่วม, fecal peritonitis
-> - [ ] **Temporary HD** ถ้า catheter removed จนกว่าจะพร้อม re-insertion (6 สัปดาห์)
->
-
+→ Deeper reasoning: [[Chronic Kidney Disease (CKD)]]

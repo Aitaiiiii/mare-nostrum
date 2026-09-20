@@ -1,64 +1,37 @@
 ---
-title: "Peri-op Glycemic Control (Insulin Infusion) Protocol"
+title: "Peri-operative Glycemic Control (Insulin Infusion) — Orders"
+aliases: ["Peri-op Insulin Infusion", "Perioperative Insulin Orders", "Peri-op Glycemic Control"]
 type: "Standing Order"
 specialty: "General"
-ward: ["OB-GYN"]
+lang: en
+ward: ["Medicine"]
+related: ["[[Insulin IPD]]", "[[Type 2 Diabetes Mellitus]]", "[[DKA (Diabetic Ketoacidosis)]]"]
 tags: [workflow]
-notion_id: 3d5224ab-ad81-812a-9449-c86aea9a0402
+notion_id: periop-insulin-mn
 source: notion-migration
+created: 2026-07-09
+updated: 2026-09-19
 ---
 
-# Peri-op Glycemic Control (Insulin Infusion) Protocol
+# Peri-operative Glycemic Control (Insulin Infusion) — Orders
 
-- **ประเภทเบาหวาน + ยาเดิม** (OHA / insulin) และ HbA1c ล่าสุด
-- **จัดผ่าตัดเป็นรายแรกของเช้า** เพื่อลดเวลา NPO
-- **เป้า DTX ระหว่างผ่าตัด 100–200 mg%**
+> [!danger] ⚠️ SAFETY
+> Reference only; adjust to local protocol and the attending. **Target 140–180 mg/dL** (avoid tight control/hypoglycaemia). **Never stop basal insulin in type 1 diabetes** (→ DKA) — continue basal even when NPO. Use a **variable-rate IV insulin infusion (VRIII) with concurrent dextrose** for prolonged NPO/major surgery/poor control. Hourly glucose on infusion.
 
+## 🔴 One Day (peri-operative)
+- [ ] Confirm diabetes type, home regimen, renal function, glucose control (HbA1c), surgery duration + expected NPO
+- [ ] **Minor surgery, well-controlled, short NPO:** adjust usual regimen (reduce/hold prandial when NPO, **continue reduced basal**, hold most orals — metformin/SGLT2i — on the day), monitor
+- [ ] **Major surgery / prolonged NPO / poorly controlled / type 1:** **variable-rate IV insulin infusion (VRIII) — regular insulin 50 U in 50 mL NSS (1 U/mL)** titrated by an hourly-glucose sliding scale, **WITH a concurrent substrate infusion (5–10% dextrose ± KCl)** to prevent hypoglycaemia/ketosis
+- [ ] **Hourly capillary glucose** on infusion; check electrolytes/K⁺; **hold SGLT2 inhibitor ≥ 3 days pre-op** (euglycaemic DKA risk)
+- [ ] Ketone check if type 1 / unexplained hyperglycaemia (exclude DKA — see [[DKA (Diabetic Ketoacidosis)]])
 
+## 🔵 Continuous
+- [ ] Maintain **glucose 140–180 mg/dL**; titrate VRIII per protocol; never run insulin without substrate (dextrose) when NPO
+- [ ] **Transition off the infusion** once eating/stable: **overlap subcutaneous basal insulin by 1–2 h before stopping the IV infusion** (avoid rebound hyperglycaemia/DKA)
+- [ ] Resume home regimen/orals when appropriate (metformin after confirming renal function/no contrast-AKI); monitor for hypoglycaemia
+- [ ] Diabetes/endocrine input for complex/type 1 patients
 
+> [!info]- Why
+> Peri-operative stress raises glucose; a moderate target (140–180) balances wound healing/infection risk against hypoglycaemia. A VRIII with substrate maintains control during NPO, and the basal insulin must never be omitted in type 1 (DKA). Stopping the infusion without overlapping basal causes rebound hyperglycaemia/DKA. Verified vs inpatient/peri-op glycaemic standards (ADA, JBDS).
 
-## 🕐 One-Day Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **DTX hourly** (หรือ q2h เมื่อ stable)
-> - [ ] **Electrolyte** 20.00 น. วันก่อนผ่า และ 05.00 น. เช้าวันผ่า
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **งดยาเม็ดลดน้ำตาลและ insulin เดิม เช้าวันผ่าตัด**
-> - [ ] **5%D/N/2 (หรือ 5%D/W) 1,000 mL IV rate 100 mL/hr** เริ่ม 06.00 น.
-> - [ ] **Regular insulin (Actrapid) 10 U + 0.9% NaCl 100 mL IV drip** เริ่ม 5 mL/hr ปรับตาม DTX
->
-
-
-## 🔁 Continuous Orders
-
-> [!example]+ 🔬 Investigation
->
-> - [ ] **DTX ต่อ q2–4h เมื่อคุมได้; if DTX < 80 หรือ > 400 notify แพทย์**
->
-> ---
->
-
-> [!example]+ 💊 Medication
->
-> - [ ] **Post-op คง order เดิม; เมื่อเริ่มกินได้ notify แพทย์** เพื่อปรับกลับเป็น subcutaneous insulin
->
-> <aside>
-> 💉
->
-> **Titration ตาม DTX (RI drip, ver.2)**
->
-> - [ ] **< 80:** insulin off + 50% glucose 20 mL IV push
-> - [ ] **80–100:** 5 mL/hr *(IV bolus 2 U เมื่อเพิ่ม rate)*
-> - [ ] **101–140:** 10 mL/hr
-> - [ ] **141–180:** 15 mL/hr
-> - [ ] **181–220:** 20 mL/hr *(IV bolus 5 U เมื่อเพิ่ม rate)*
-> - [ ] **> 220:** 25 mL/hr *(IV bolus 5 U เมื่อเพิ่ม rate)*
-> </aside>
->
-
+→ Deeper reasoning: [[Insulin IPD]]
