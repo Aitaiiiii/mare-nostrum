@@ -1,3 +1,57 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ── Cold Peaks (Alpine / Blue Hour) — match the Obsidian vault theme ──
+// IBM Plex Sans + IBM Plex Sans Thai are loaded by Quartz's googleFonts head
+// link (see quartz/util/theme.ts); here we just weave Thai into the stacks.
+
+:root {
+  // weave IBM Plex Sans Thai into the stacks Quartz builds from the config fonts
+  --bodyFont: "IBM Plex Sans", "IBM Plex Sans Thai", ui-sans-serif, system-ui, sans-serif;
+  --headerFont: "IBM Plex Sans", "IBM Plex Sans Thai", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  font-size: 1.0rem;
+  line-height: 1.7;
+}
+
+// H2 pine-teal (mirrors the vault snippet: H1 = --dark, H2 = --tertiary)
+.center h2,
+article h2 {
+  color: var(--tertiary);
+}
+
+// H2 hairline rule, like the reading-view snippet
+article h2 {
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+// glacier inline-code chip
+code {
+  background: var(--highlight);
+  color: var(--secondary);
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+}
+pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+// alpine blockquote accent bar
+blockquote {
+  border-left: 3px solid var(--secondary);
+}
+
+// wikilink hover warmth (glacier)
+a.internal:hover {
+  color: var(--tertiary);
+}
+
+// soft table grid
+table {
+  th, td { border-color: var(--lightgray); }
+  th { background: var(--highlight); }
+}

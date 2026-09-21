@@ -17,30 +17,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: IBM Plex Sans
+      body: IBM Plex Sans
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#edf1f4"
+        lightgray: "#d3dce3"
+        gray: "#7d8b99"
+        darkgray: "#2b3440"
+        dark: "#3d5a73"
+        secondary: "#3f7d99"
+        tertiary: "#4e7c74"
+        highlight: rgba(63, 125, 153, 0.12)
+        textHighlight: "#a9d3e588"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#171c25"
+        lightgray: "#2a323f"
+        gray: "#6b7a8a"
+        darkgray: "#c4d0dc"
+        dark: "#94b6cc"
+        secondary: "#82b2c8"
+        tertiary: "#7fb3a6"
+        highlight: rgba(130, 178, 200, 0.15)
+        textHighlight: "#7fb3a655"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -100,9 +100,9 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: tokyo-night
       mode: both

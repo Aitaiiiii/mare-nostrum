@@ -91,7 +91,9 @@ export function googleFontHref(theme: Theme) {
   const bodyFont = formatFontSpecification("body", body)
   const codeFont = formatFontSpecification("code", code)
 
-  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
+  // Mare Nostrum: also load IBM Plex Sans Thai so bilingual (EN/TH) clinical text shares one matched family.
+  const thaiFont = "IBM+Plex+Sans+Thai:wght@400;500;600;700"
+  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&family=${thaiFont}&display=swap`
 }
 
 export function googleFontSubsetHref(theme: Theme, text: string) {
